@@ -1,0 +1,13 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{humaneletters}[2015/08/27 Semantic markup for humanities scholarship]
+
+\RequirePackage{csquotes}
+\RequirePackage{xparse}
+
+\NewDocumentCommand\setTagFormat{m m}{%
+  \NewDocumentCommand #1{m}{#2{##1}}%
+}
+\setTagFormat{\term}{\emph}
+\setTagFormat{\q}{\enquote}
+
+\endinput
