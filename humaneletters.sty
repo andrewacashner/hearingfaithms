@@ -2,12 +2,12 @@
 \ProvidesPackage{humaneletters}[2015/08/27 Semantic markup for humanities scholarship]
 
 \RequirePackage{csquotes}
-\RequirePackage{xparse}
 
-\NewDocumentCommand\setTagFormat{m m}{%
-  \NewDocumentCommand #1{m}{#2{##1}}%
-}
-\setTagFormat{\term}{\emph}
-\setTagFormat{\q}{\enquote}
+\let\term\emph
+\let\mentioned\emph
+\let\foreign\emph
+\let\worktitle\emph
+\let\parttitle\enquote
+\let\socalled\enquote
 
 \endinput

@@ -1,0 +1,28 @@
+% Memoir class configuration for villancico book
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\frenchspacing
+
+\usepackage{multicol}
+
+\newcommand{\musicexamplename}{Music example}
+\newcommand{\listmusicexamplename}{List of Music Examples}
+\newlistof{listofmusicexamples}{lom}{\listmusicexamplename}
+\newfloat{musicexample}{lom}{\musicexamplename}
+\newlistentry{musicexample}{lom}{0}
+\newcommand{\mref}[1]{\musicexamplename~\ref{#1}}
+
+\newenvironment{poemtranslation}
+  {\begin{multicols}{2}}
+  {\end{multicols}}
+
+\newenvironment{original}
+  {\obeylines}
+  {\columnbreak}
+\newenvironment{translation}
+  {\obeylines}
+  {}
+
+\endinput
