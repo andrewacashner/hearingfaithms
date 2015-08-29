@@ -1,6 +1,10 @@
 *.*~
 *.aux
 *.log
+*.loe
+*.lot
+*.lom
+*.lop
 *.toc
 *.blg
 *.run.xml

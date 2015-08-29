@@ -27,18 +27,42 @@
 \newlistof{listofmusicexamples}{lom}{\listmusicexamplename}
 \newfloat{musicexample}{lom}{\musicexamplename}
 \newlistentry{musicexample}{lom}{0}
+\newcommand{\musicexamplerefname}{Music example}
+\newcommand{\musicref}[1]{\musicexamplerefname~\ref{#1}}
+
+%% Poem Example floats
+\newcommand{\poemexamplename}{Poetry example}
+\newcommand{\listpoemexamplename}{List of Poetry Examples}
+\newlistof{listofpoemexamples}{lop}{\listpoemexamplename}
+\newfloat{poemexample}{lop}{\poemexamplename}
+\newlistentry{poemexample}{lop}{0}
+\newcommand{\poemexamplerefname}{Poetry example}
+\newcommand{\poemref}[1]{\poemexamplerefname~\ref{#1}}
 
 %%% ENVIRONMENTS %%%
-%% Poem text & translation in parallel columns
-\newenvironment{poemtranslation}
+%% Text & translation in parallel columns
+\newenvironment{texttranslation}
   {\begin{multicols}{2}} % from multicol
   {\end{multicols}}
 \newenvironment{original}
-  {\obeylines}
+  {\obeylines} 
   {\columnbreak}
 \newenvironment{translation}
   {\obeylines}
-  {\columnbreak}
+  {}
+
+%% Input floats from external files
+\newcommand{\poemexamplepath}{poem_examples}
+\newcommand{\inputpoemexample}[1]{%
+  \input{\poemexamplepath/#1}%
+}
+
+%%% GRAPHICS
+%% Musical score graphics
+\newcommand{\musicexamplepath}{music_examples}
+\newcommand{\includescore}[1]{%
+  \includegraphics[\width=\linewidth]{\musicexamplepath/#1}%
+}
 
 %%% SEMANTIC MARKUP %%%
 %% TEI-style aliases
