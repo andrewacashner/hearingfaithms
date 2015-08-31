@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="ch:preface" type="Chapter">
+  <head>
+    Preface
+  </head>
+  <p>
+    This preface aims to help readers who may approach this book from a variety of disciplines and backgrounds, by clarifying basic terms and concepts as they are used here.
+    <term>Villancico</term> in this study refers broadly to a type of Spanish vernacular poetry and music prevalent across the Spanish Empire in the seventeenth century.
+    <!-- footnote -->
+    The genre originated as a courtly entertainment in the fifteenth and sixteenth century, similar to <term>formes fixes</term> like the <term>frottola</term> and later more similar to the <term>madrigal</term>.
+    It likely drew on roots in oral traditions of poetic recitation and popular song.
+    In the last decades of the sixteenth century, villancicos, some of whic had always had religious content, came to be performed in and around church liturgies, especially in connection with sacred dramas.
+    By the early seventeenth century the villancico had become a predominantly liturgical and paraliturgical genre.
+  </p>
+</div>
+

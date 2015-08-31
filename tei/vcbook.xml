@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
+      </title>
+      <author>
+	Andrew A. Cashner
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <date>
+	2015
+      </date>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+	Andrew Cashner's book on villancicos.
+	This is the author's original manuscript, authored in TEI-Lite XML.
+      </bibl>
+    </sourceDesc>
+    <revisionDesc>
+      <change when="2015-08-27">
+	Began in LaTeX based on dissertation
+      </change>
+      <change when="2015-08-30">
+	Began TEI version.
+      </change>
+    </revisionDesc>
+  </fileDesc>
+</teiHeader>
+
+<text>
+  <front>
+    <divGen type="toc"/>
+    <xi:include href="chapters/preface.xml"/>
+  </front>
+  <body>
+    <xi:include href="chapters/intro.xml"/> 
+  </body>
+  <back>
+    <!-- appendices, backmatter -->
+  </back>
+</text>
+</TEI>
+
+
+
+
