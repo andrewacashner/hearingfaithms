@@ -1,9 +1,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+
 <teiHeader>
   <fileDesc>
     <titleStmt>
       <title>
-	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600 to 1700
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
       </title>
       <author>
 	Andrew A. Cashner
@@ -36,7 +37,11 @@
     <!-- prefatory matter -->
   </front>
   <body>
-    <div xml:id="ch:intro" n="1" type="Chapter">
+
+    <!-- Test of inclusion method, unsuccessful -->
+    <include xmlns="http://www.w3.org/2001/XInclude" href="test.xml"/>
+
+    <div xml:id="ch:intro" type="Chapter">
       <head>
 	Villancicos as Musical Theology
       </head>
