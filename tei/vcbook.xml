@@ -35,7 +35,14 @@
 
 <text>
   <front>
+    <titlePage>
+      <titlePart type="main">Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700</titlePart>
+      <byline>Andrew A. Cashner</byline>
+      <date>2015</date>
+    </titlePage>
+
     <divGen type="toc"/>
+
     <xi:include href="chapters/preface.xml"/>
   </front>
   <body>
