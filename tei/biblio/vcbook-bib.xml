@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl xmlns="http://www.tei-c.org/ns/1.0">
+    <biblStruct type="book" xml:id="Laird1997">
+    <monogr>
+      <title level="m">Towards a History of the Spanish Villancico</title>
+      <author>
+	<forename>Paul R.</forename>
+	<surname>Laird</surname>
+      </author>
+      <imprint>
+	<pubPlace>Warren, MI</pubPlace>
+	<publisher>Harmonie Park Press</publisher><date>1997</date>
+      </imprint>
+    </monogr>
+  </biblStruct>
+</listBibl>

@@ -4,31 +4,18 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>
-	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
-      </title>
-      <author>
-	Andrew A. Cashner
-      </author>
+      <title>Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700</title>
+      <author>Andrew A. Cashner</author>
     </titleStmt>
     <publicationStmt>
-      <date>
-	2015
-      </date>
+      <date>2015</date>
     </publicationStmt>
     <sourceDesc>
-      <bibl>
-	Andrew Cashner's book on villancicos.
-	This is the author's original manuscript, authored in TEI-Lite XML.
-      </bibl>
+      <bibl>This is the author's original manuscript, authored in TEI-Lite XML.</bibl>
     </sourceDesc>
     <revisionDesc>
-      <change when="2015-08-27">
-	Began in LaTeX based on dissertation
-      </change>
-      <change when="2015-08-30">
-	Began TEI version.
-      </change>
+      <change when="2015-08-27">Began in LaTeX based on dissertation</change>
+      <change when="2015-08-30">Began TEI version.</change>
     </revisionDesc>
   </fileDesc>
 </teiHeader>
@@ -45,11 +32,17 @@
 
     <xi:include href="chapters/preface.xml"/>
   </front>
+
   <body>
-    <xi:include href="chapters/intro.xml"/> 
+    <xi:include href="chapters/intro.xml"/>
+
+    <div xml:id="biblio">
+      <head>Bibliography</head>
+      <xi:include href="biblio/vcbook-bib.xml"/>
+    </div>
   </body>
+
   <back>
-    <!-- appendices, backmatter -->
   </back>
 </text>
 </TEI>
