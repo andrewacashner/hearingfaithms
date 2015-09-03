@@ -1,14 +1,23 @@
 <?xml version="1.0"?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ch:preface" type="Chapter">
+<div xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="chapter:preface" type="Chapter">
   <head>
     Preface
   </head>
 
   <p>
     This preface aims to help readers who may approach this book from a variety of disciplines and backgrounds, by clarifying basic terms and concepts as they are used here.
-    <term>Villancico</term> in this study refers broadly to a type of Spanish vernacular poetry and music prevalent across the Spanish Empire in the seventeenth century.<note place="bottom">
-    <p>See <ptr target="#Laird1997"/>.</p>
-  </note>
+    <term>Villancico</term> in this study refers broadly to a type of Spanish vernacular poetry and music prevalent across the Spanish Empire in the seventeenth century.
+    <note>
+      <p>
+	The fundamental sources on the history of villancicos as a musical genre are
+	<ptr target="#Laird1997"/>;
+	<ptr target="#Rubio1979"/>;
+	<ptr target="#Torrente1997"/>;
+	<ptr target="#Illari2001"/>;
+	and the essays in <ptr target="#Knighton2007a"/>.
+	On the villancico as a poetic genre, see <ptr target="#Tenorio1999"/>.
+      </p>
+    </note>
     The genre originated as a courtly entertainment in the fifteenth and sixteenth century, similar to <term>formes fixes</term> like the <term>frottola</term> and later more similar to the <term>madrigal</term>.
     It likely drew on roots in oral traditions of poetic recitation and popular song.
     In the last decades of the sixteenth century, villancicos, some of whic had always had religious content, came to be performed in and around church liturgies, especially in connection with sacred dramas.
@@ -17,6 +26,16 @@
 
   <p>
     In function, villancicos were performed most frequently in sets of eight or more pieces, interspersed after the Lessons in the liturgy of Matins, and either following or substituting for the singing of the Latin Responsories, depending on local custom.
+    At the Cathedral of Puebla de los Ángeles, for instance, the musical chapel performed villancicos in place of the Responsory chants while a cleric spoke the words of the Responsory aloud (see <ptr target="#appendix:PueblaDecree"/>).
+    Sets of villancicos were performed at Matins for the highest feast days of the Hispanic church year in every major church, from Madrid to Manila—Christmas, Epiphany, Corpus Christi, and the Conception of Mary.
+    Villancicos could also be performed at Mass (functioning similarly to motets) or as devotional pieces in Forty Hours’ Devotion and so-called <term>siesta</term> services of Eucharistic devotion.
+  </p>
+
+  <p>
+    The villancico repertoire includes many subgenres within it, such as particular song and dance types and conventional topics.
+    <term>Ensaladas</term> <gloss>salads</gloss> are medleys of song types probably based on popular sources.
+    <soCalled>Ethnic</soCalled> villancicos make fun of non-Castilian people groups, especially through deformations of language.
+    The most notorious of these are the <term>negrillas</term> or <soCalled>black villancicos</soCalled>, which represent people of African descent in denigrating, caricatured ways (see <ptr target="#chapter:Puebla"/>).
   </p>
 </div>
 

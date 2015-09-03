@@ -36,9 +36,9 @@
   <body>
     <xi:include href="chapters/intro.xml"/>
 
-    <div xml:id="biblio">
+    <div xml:id="biblio" type="Chapter">
       <head>Bibliography</head>
-      <xi:include href="biblio/vcbook-bib.xml"/>
+      <xi:include href="biblio.xml"/>
     </div>
   </body>
 
