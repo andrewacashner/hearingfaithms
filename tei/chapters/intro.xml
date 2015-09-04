@@ -43,7 +43,7 @@
   <p>
     The boundary-crossing nature of villancicos is expressed vividly in one of the more commonly performed villancicos from colonial Mexico, a piece set by Juan Gutiérrez de Padilla for Puebla Cathedral in 1653, in which the singers describe their own music-making as serving up <q>village feed</q> to a refined courtly table:
     <q rend="block" type="poemtranslation">
-      <seg xml:lang="es" xml:id="orig:A_la_jacara_jacarilla" corresp="#trans:A_la_jacara_jacarilla">
+      <seg xml:lang="es" xml:id="orig:jacarilla" corresp="#trans:jacarilla">
 	<lg>
 	  <l>A la jácara, jacarilla,</l>
 	  <l>de buen garbo y lindo porte</l>
@@ -51,7 +51,7 @@
 	  <l>siendo pasto de la villa.</l>
 	</lg>
       </seg>
-      <seg xml:lang="en" xml:id="trans:A_la_jacara_jacarilla" corresp="#orig:A_la_jacara_jacarilla">
+      <seg xml:lang="en" xml:id="trans:jacarilla" corresp="#orig:jacarilla">
 	<lg>
 	  <l>For the <term>jácara</term>, a little <term>jácara</term>,</l>
 	  <l>in good taste and with fair mien</l>
@@ -61,7 +61,7 @@
       </seg>
     </q>
     <note>
-      See chapter <ptr target="#chapter:Puebla"/> for further discussion of this piece.
+      See chapter 7 for further discussion of this piece.
     </note>
   </p>
   
@@ -115,6 +115,10 @@
     Instead, we may conceive of this historical form of devotional performance as a communal act in which religious ideas and values were performed (put into practice) through musical structures.
     To understand the theological content, we must understand the musical practices; and to make sense of the music, we must seek to hear it as a form of theological expression.
   </p>
+  
+  <div type="Section">
+    Overview
+  </div>
   <p>
     This book will explore the musical theology in villancicos in three parts.
     Part I (chapters 1 and 2) argues that villancicos on the subject of music may be interpreted as sources for historical theologies of music.
@@ -132,12 +136,72 @@
     The chapter situates villancicos within a Neoplatonic understanding of hearing and music and outlines three primary theological functions of villancicos, each of which requires a different kind of listening practice.
   </p>
   <p>
-    Part II presents detailed case studies of individual pieces, or pieces in specific traditions and places, on themes of heavenly music.
+    Part II (chapters 3--6) presents detailed case studies of individual pieces, or pieces in specific traditions and places, on themes of heavenly music.
     These pieces constitute <q>singing about singing</q>.
+    Chapters 3 and 4 each interpret a single villancico tradition that represents earthly music as a Neoplatonic reflection of heavenly music.
+    Chapter 3 focuses on a piece from Puebla in colonial Mexico, and chapter 4 traces a web of settings connected to a villancico from Montserrat in Catalonia.
+    Both pieces develop the theological trope of Christ as the <term>verbum Infans</term>—the <q>unspeaking/infant Word</q> whose incarnate body is itself the highest form of music, harmonizing divine and human.
   </p>
-    
-  <!-- TODO outline of book and overall argument? -->
-  
-    
+  <p>
+    Chapters 5 and 6 present groups of pieces from specific locations (Segovia and Zaragoza region) that demonstrate a shift in theological understandings of music, where earthly music is seen as more an expression of human affects than as a reflection of heavenly order.
+    <!-- TODO more on Irizar and on Zaragoza -->
+    All four chapters in part II also demonstrate that these metamusical villancicos functioned as a special subgenre in which composers could demonstrate their own mastery within the context of a lineage of composition and a tradition of treatments of this theme of heavenly music.
+  </p>
+  <p>
+    Part III (chapters 7 and 8) focuses on how the musical theology of villancicos was developed in coordination with the Spanish projects of colonizing and civilizing in the New World.
+    Chapter 7 looks at the relationship of Juan Gutiérrez de Padilla's Christmas villancico cycles (extant from 1651--1659) and the building of Puebla Cathedral (consecrated 1649).
+    It argues that Padilla's villancico cycles construct a utopian microcosm of hierarchical colonial society.
+    The chapter focuses on Padilla's representations of people at the bottom of the social hierarchy, such as Indians and black slaves, in a piece from 1652.
+    Especially through the interplay of language and musical rhythm, this composer and his ensemble constructed a world in which every member of colonial society was put into its proper hierarchical place, in a combination of Neoplatonic music theory and ethics.
+    <!-- TODO Will there be two chapters on Puebla, or will the scope of the one be increased? -->
+    The final chapter draws general conclusions and points to directions for future work.
+  </p>
+  <!-- TODO Description of score appendix or accompanying anthology depending on publisher situation -->
+  <p>
+    Accompanying this text is an anthology of the scores most thoroughly discussed in the book, together with their poetic texts and annotated translations.
+    These music and poetry editions are an integral part of this project of interpretation and communication; the book will not be coherent without constant reference to these sources.
+    Most of these have never been edited before, and a few now receive their first critical, corrected editions.
+    The English translations are among the first translations of seventeenth-century villancico poems into any language.
+  </p>
+
+
+
+  <!-- **************** -->
+  <table cols="4" rows="10">
+    <head>
+      Topics of metamusical villancicos in global survey
+    </head>
+    <row role="label">
+      <cell>Quantity</cell>
+      <cell>Percent</cell>
+      <cell>Topic</cell>
+      <cell>Notes</cell>
+    </row>
+    <row role="data">
+      <cell>268</cell>
+      <cell>30.9</cell>
+      <cell>Hearing, sound</cell>
+      <cell>
+	Includes explicit references to the sense of hearing, as well as echoes, applause and exhortations to <q>listen</q>, <q>hear</q>, or <q>be quiet</q>.
+      </cell>
+    </row>
+    <row role="data">
+      <cell>150</cell>
+      <cell>17.3</cell>
+      <cell>Music, singing</cell>
+      <cell>
+	General references to music, singing, voices, harmony rhythm counterpoint, solmization
+      </cell>
+    </row>
+    <row role="data">
+      <cell>134</cell>
+      <cell>15.5</cell>
+      <cell>Birdsong</cell>
+      <cell>
+	Birds as musicians, their songs, specific birds like the <foreign xml:lang="es">ruiseñor</foreign> (nightingale)
+      </cell>
+    </row>
+  </table>
+  <!-- TODO possibly another table with examples of titles and signatures for each type -->
   
 </div>
