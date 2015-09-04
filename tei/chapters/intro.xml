@@ -37,45 +37,33 @@
   <p>
     In their poetic themes and in their musical content, villancicos combined elements of elite and common culture. 
     In subject matter as well as in the places and occasions of their performance, villancicos stood on the threshold between the world in and outside of church (which is not quite the same as a modern divide between sacred and secular). 
-    The chorus of Puebla Cathedral in colonial Mexico, singing a villancico by chapelmaster Juan Gutiérrez de Padilla on Christmas Eve 1653, expressed the boundary-crossing nature of villancicos through a food metaphor (poem <ptr target="#poem:A_la_jacara_jacarilla"/>).
-    Sets of villancicos featured dramatic, often comic texts reminiscent of Spanish minor theater <gloss><term>teatro menor</term></gloss> alongside cultivated and even arcanely sophisticated theological reflections.
-    The music for villancicos covered a wide stylistic range from old-style polyphonic techniques to highly rhythmic music drawing on dance traditions, as in <title>A la jácara, jacarilla</title> (music example <ptr target="#music:Padilla-A_la_jacara_jacarilla"/>).
+    Sets of villancicos featured dramatic, often comic texts reminiscent of Spanish minor theater (<term>teatro menor</term>) alongside cultivated and even arcanely sophisticated theological reflections.
+    The music for villancicos covered a wide stylistic range from old-style polyphonic techniques to highly rhythmic music drawing on dance traditions.
   </p>
-
-  <!-- TODO Poem translations and music examples with crossrefs -->
-  
-  <div type="poemtranslation" xml:id="poem:A_la_jacara_jacarilla">
-    <head>
-      <title>A la jácara, jacarilla</title>, poem as set by Juan Gutiérrez de Padilla
-    </head>
-
-    <seg xml:lang="es" xml:id="orig:A_la_jacara_jacarilla" corresp="#trans:A_la_jacara_jacarilla">
-      <lg>
-	<l>A la jácara, jacarilla,</l>
-	<l>de buen garbo y lindo porte</l>
-	<l>traigo por plato de corte</l>
-	<l>siendo pasto de la villa.</l>
-      </lg>
-    </seg>
-
-    <seg xml:lang="en" xml:id="trans:A_la_jacara_jacarilla" corresp="#orig:A_la_jacara_jacarilla">
-      <lg>
-	<l>For the <term>jácara</term>, a little <term>jácara</term>,</l>
-	<l>in good taste and with fair mien</l>
-	<l>I bring as a dish of the court</l>
-	<l>what is really feed from the village.</l>
-      </lg>
-    </seg>
-  </div>
-  
-  <figure type="musicexample" xml:id="music:Padilla-A_la_jacara_jacarilla">
-    <head>
-      <title>A la jácara, jacarilla</title>, setting by Padilla (Puebla, 1653), opening
-    </head>
-    <graphic url="musicexamples/Padilla-A_la_jacara_jacarilla"/>
-  </figure>
-
-  <!-- End TODO -->
+  <p>
+    The boundary-crossing nature of villancicos is expressed vividly in one of the more commonly performed villancicos from colonial Mexico, a piece set by Juan Gutiérrez de Padilla for Puebla Cathedral in 1653, in which the singers describe their own music-making as serving up <q>village feed</q> to a refined courtly table:
+    <q rend="block" type="poemtranslation">
+      <seg xml:lang="es" xml:id="orig:A_la_jacara_jacarilla" corresp="#trans:A_la_jacara_jacarilla">
+	<lg>
+	  <l>A la jácara, jacarilla,</l>
+	  <l>de buen garbo y lindo porte</l>
+	  <l>traigo por plato de corte</l>
+	  <l>siendo pasto de la villa.</l>
+	</lg>
+      </seg>
+      <seg xml:lang="en" xml:id="trans:A_la_jacara_jacarilla" corresp="#orig:A_la_jacara_jacarilla">
+	<lg>
+	  <l>For the <term>jácara</term>, a little <term>jácara</term>,</l>
+	  <l>in good taste and with fair mien</l>
+	  <l>I bring as a dish of the court</l>
+	  <l>what is really feed from the village.</l>
+	</lg>
+      </seg>
+    </q>
+    <note>
+      See chapter <ptr target="#chapter:Puebla"/> for further discussion of this piece.
+    </note>
+  </p>
   
   <p>
     Villancicos are valuable, then, for assessing the interaction of these distinctive elements that meet within the genre.
@@ -90,25 +78,20 @@
   </p>
   <p>
     Of all the musical forms of Catholic Spain, then, sacred villancicos address the theological nature and function of music most frequently and directly.
-    Among the hundreds of surviving musical manuscripts and the vastly large quantity of printed poetry leaflets, a great many pieces begin with direct invocations of the sense of hearing, exhorting hearers to
-    <foreign xml:lang="es">oíd</foreign> <gloss>hear</gloss>,
-    <foreign xml:lang="es">escuchad</foreign> <gloss>listen</gloss>, and
-    <foreign xml:lang="es">atended</foreign> <gloss>pay attention</gloss>.
+    Among the hundreds of surviving musical manuscripts and the even larger quantity of printed poetry leaflets, a great many pieces begin with direct invocations of the sense of hearing, exhorting hearers to <q>hear</q>, <q>listen</q>, and <q>pay attention</q> (<foreign xml:lang="es">oíd</foreign>,
+    <foreign xml:lang="es">escuchad</foreign>,
+    <foreign xml:lang="es">atended</foreign>).
     Villancico poets and composers favored themes of singing and dancing, as in Christmas sets, for example, they represented the angelic choirs of Christmas, singing and dancing shepherds, Magi, and even animals in the Nativity stable.
     There are also representations of instrumental performance and characteristic dances of different ethnic groups (such as African slaves and <soCalled>gypsies</soCalled>).
     Early example of villancicos about singing include <title>Gil pues a cantar</title> from Pedro Ruimonte's <title>Parnoso español</title> (Antwerp, 1614) and <title>Sobre bro canto llano</title> by Gaspar Fernández (Puebla, 1610).
     <note>
-      <p>
-	<ptr target="#Ruimonte_Rimonte_1980"/>;
-	<ptr target="#Fernandes2001"/>.
-      </p>
+      <ptr target="#Ruimonte_Rimonte_1980"/>;
+      <ptr target="#Fernandes2001"/>.
     </note>
     A few <soCalled>black</soCalled> villancicos or <term>negrillas</term>, which represent dark-skinned people dancing and playing instruments in what is supposed to be their characteristic style, have become well known, such as <title>A siolo Flasiquiyo</title> by Juan Gutiérrez de Padilla (Puebla, 1653) and <title>Los coflades de la estleya</title> by Juan de Araujo (Sucre, ca. 1700).
     <note>
-      <p>
-	See chapter <ptr target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
-	One of several recordings of the Araujo piece is <ptr target="#Skidmore2003"/>.
-      </p>
+      See chapter <ptr target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
+      One of several recordings of the Araujo piece is <ptr target="#Skidmore2003"/>.
     </note>
     These pieces constitute <soCalled>music about music</soCalled>.
     If a play within a play in Spanish Golden Age drama may be termed metatheatrical, then these pieces are <soCalled>metamusical</soCalled>.
@@ -116,7 +99,7 @@
   <p>
     Understanding the theology of music articulated in villancicos can illuminate why and how villancicos were used to propagate faith.
     Doing so will deepen our knowledge of how music general fit into the religious worldview of early modern Catholics.
-    For Catholic believers in the Spanish Empire of the seventeenth century, what kind of power did music have to effect the relationship between faith and the sense of hearing?
+    For Catholic believers in the Spanish Empire of the seventeenth century, what kind of power did music have to affect the relationship between faith and the sense of hearing?
     If music had supernatural power, how was that power linked to the worldly powers of church and state?
     By engaging interpretively with these villancicos we may gain a better understanding of how early modern Catholics used music for spiritual ends, and how the spiritual intersected with the wordly functions of this music within Spanish society.
   </p>
@@ -124,17 +107,37 @@
     This book is the first large-scale attempt to understand the theological aspect of seventeenth-century villancicos across the Hispanic world.
     It is also one of only a few studies to analyze villancicos musically in detail.
     Most importantly, the primary goal of the project is to combine these two modes of analysis, to understand how theological beliefs were expressed and shaped through the details of musical composition and performance.
+  </p>
+  <p>
     The goal is to understand the <term>musical theology</term> of villancicos.
-    This term does not mean just a verbal formulation of theological ideas about music by historical figures, and it certainly does not connote a normative theological interpretation from my own personal perspective.
-    <note>
-      While it may be best to disclose here that I do identify as a Christian, I am not a Roman Catholic and am certainly not a seventeenth-century Spanish Catholic.
-      In this study I make no truth claims for or against the historical beliefs I describe.
+    This term does not mean just a verbal formulation of theological ideas about music by historical figures, and it certainly does not connote a normative theological interpretation from a modern scholar's own personal perspective.
       <!-- TODO more on insider/outsider problem somewhere, with citations -->
-    </note>
-    Instead, we may conceive of this historical form of devotional performance as a communal act in which religious ideas and values were performed <gloss>put into practice</gloss> through musical structures.
+    Instead, we may conceive of this historical form of devotional performance as a communal act in which religious ideas and values were performed (put into practice) through musical structures.
     To understand the theological content, we must understand the musical practices; and to make sense of the music, we must seek to hear it as a form of theological expression.
   </p>
-      
+  <p>
+    This book will explore the musical theology in villancicos in three parts.
+    Part I (chapters 1 and 2) argues that villancicos on the subject of music may be interpreted as sources for historical theologies of music.
+    It considers how certain conceptual problems regarding music's role in the relationship between faith and hearing manifested in this genre, and proposes a historically grounded model for understanding these pieces theologically.
+  </p>
+  <p>
+    The first chapter in part I introduces the category of metamusical villancico in its several subtypes, using examples by composers who will be discussed further in the rest of the book.
+    The chapter traces the roots of the interpretive approach in this book within musicology and several other disciplines, and clarifies the project's relationship to existing scholarship on villancos and early modern sacred music.
+  </p>
+  <p>
+    The second chapter argues that the relationship between hearing and faith was theological problem in seventeenth-century Spain.
+    Catholics had to balance the desire to make faith accommodate the sense of hearing with the need to train the sense of hearing.
+    Hearing had to be shaped by faith in order to perceive the content of faith.
+    To understand music's role in connecting hearing and faith, the chapter examines how villancicos that represent the senses, sensory confusion, and sensory impairment manifest theological concepts of perception.
+    The chapter situates villancicos within a Neoplatonic understanding of hearing and music and outlines three primary theological functions of villancicos, each of which requires a different kind of listening practice.
+  </p>
+  <p>
+    Part II presents detailed case studies of individual pieces, or pieces in specific traditions and places, on themes of heavenly music.
+    These pieces constitute <q>singing about singing</q>.
+  </p>
+    
+  <!-- TODO outline of book and overall argument? -->
+  
     
   
 </div>
