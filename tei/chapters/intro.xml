@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<div xmlns="http://www.tei-c.org/ns/1.0" xml:id="chapter:intro" type="Chapter">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
+<div xml:id="chapter:intro" type="chapter"
+     xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  
   <head>
     Villancicos as Musical Theology
   </head>
@@ -60,7 +63,7 @@
 	</lg>
       </seg>
     </q>
-    <note>
+    <note place="end">
       See chapter 7 for further discussion of this piece.
     </note>
   </p>
@@ -84,12 +87,12 @@
     Villancico poets and composers favored themes of singing and dancing, as in Christmas sets, for example, they represented the angelic choirs of Christmas, singing and dancing shepherds, Magi, and even animals in the Nativity stable.
     There are also representations of instrumental performance and characteristic dances of different ethnic groups (such as African slaves and <soCalled>gypsies</soCalled>).
     Early example of villancicos about singing include <title>Gil pues a cantar</title> from Pedro Ruimonte's <title>Parnoso español</title> (Antwerp, 1614) and <title>Sobre bro canto llano</title> by Gaspar Fernández (Puebla, 1610).
-    <note>
+    <note place="end">
       <ptr target="#Ruimonte_Rimonte_1980"/>;
       <ptr target="#Fernandes2001"/>.
     </note>
     A few <soCalled>black</soCalled> villancicos or <term>negrillas</term>, which represent dark-skinned people dancing and playing instruments in what is supposed to be their characteristic style, have become well known, such as <title>A siolo Flasiquiyo</title> by Juan Gutiérrez de Padilla (Puebla, 1653) and <title>Los coflades de la estleya</title> by Juan de Araujo (Sucre, ca. 1700).
-    <note>
+    <note place="end">
       See chapter <ptr target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
       One of several recordings of the Araujo piece is <ptr target="#Skidmore2003"/>.
     </note>
@@ -116,92 +119,140 @@
     To understand the theological content, we must understand the musical practices; and to make sense of the music, we must seek to hear it as a form of theological expression.
   </p>
   
-  <div type="Section">
-    Overview
-  </div>
-  <p>
-    This book will explore the musical theology in villancicos in three parts.
-    Part I (chapters 1 and 2) argues that villancicos on the subject of music may be interpreted as sources for historical theologies of music.
-    It considers how certain conceptual problems regarding music's role in the relationship between faith and hearing manifested in this genre, and proposes a historically grounded model for understanding these pieces theologically.
-  </p>
-  <p>
-    The first chapter in part I introduces the category of metamusical villancico in its several subtypes, using examples by composers who will be discussed further in the rest of the book.
-    The chapter traces the roots of the interpretive approach in this book within musicology and several other disciplines, and clarifies the project's relationship to existing scholarship on villancos and early modern sacred music.
-  </p>
-  <p>
-    The second chapter argues that the relationship between hearing and faith was theological problem in seventeenth-century Spain.
-    Catholics had to balance the desire to make faith accommodate the sense of hearing with the need to train the sense of hearing.
-    Hearing had to be shaped by faith in order to perceive the content of faith.
-    To understand music's role in connecting hearing and faith, the chapter examines how villancicos that represent the senses, sensory confusion, and sensory impairment manifest theological concepts of perception.
-    The chapter situates villancicos within a Neoplatonic understanding of hearing and music and outlines three primary theological functions of villancicos, each of which requires a different kind of listening practice.
-  </p>
-  <p>
-    Part II (chapters 3--6) presents detailed case studies of individual pieces, or pieces in specific traditions and places, on themes of heavenly music.
-    These pieces constitute <q>singing about singing</q>.
-    Chapters 3 and 4 each interpret a single villancico tradition that represents earthly music as a Neoplatonic reflection of heavenly music.
-    Chapter 3 focuses on a piece from Puebla in colonial Mexico, and chapter 4 traces a web of settings connected to a villancico from Montserrat in Catalonia.
-    Both pieces develop the theological trope of Christ as the <term>verbum Infans</term>—the <q>unspeaking/infant Word</q> whose incarnate body is itself the highest form of music, harmonizing divine and human.
-  </p>
-  <p>
-    Chapters 5 and 6 present groups of pieces from specific locations (Segovia and Zaragoza region) that demonstrate a shift in theological understandings of music, where earthly music is seen as more an expression of human affects than as a reflection of heavenly order.
-    <!-- TODO more on Irizar and on Zaragoza -->
-    All four chapters in part II also demonstrate that these metamusical villancicos functioned as a special subgenre in which composers could demonstrate their own mastery within the context of a lineage of composition and a tradition of treatments of this theme of heavenly music.
-  </p>
-  <p>
-    Part III (chapters 7 and 8) focuses on how the musical theology of villancicos was developed in coordination with the Spanish projects of colonizing and civilizing in the New World.
-    Chapter 7 looks at the relationship of Juan Gutiérrez de Padilla's Christmas villancico cycles (extant from 1651--1659) and the building of Puebla Cathedral (consecrated 1649).
-    It argues that Padilla's villancico cycles construct a utopian microcosm of hierarchical colonial society.
-    The chapter focuses on Padilla's representations of people at the bottom of the social hierarchy, such as Indians and black slaves, in a piece from 1652.
-    Especially through the interplay of language and musical rhythm, this composer and his ensemble constructed a world in which every member of colonial society was put into its proper hierarchical place, in a combination of Neoplatonic music theory and ethics.
-    <!-- TODO Will there be two chapters on Puebla, or will the scope of the one be increased? -->
-    The final chapter draws general conclusions and points to directions for future work.
-  </p>
-  <!-- TODO Description of score appendix or accompanying anthology depending on publisher situation -->
-  <p>
-    Accompanying this text is an anthology of the scores most thoroughly discussed in the book, together with their poetic texts and annotated translations.
-    These music and poetry editions are an integral part of this project of interpretation and communication; the book will not be coherent without constant reference to these sources.
-    Most of these have never been edited before, and a few now receive their first critical, corrected editions.
-    The English translations are among the first translations of seventeenth-century villancico poems into any language.
-  </p>
-
-
-
-  <!-- **************** -->
-  <table cols="4" rows="10">
+  <div type="section">
     <head>
-      Topics of metamusical villancicos in global survey
+      Overview
     </head>
-    <row role="label">
-      <cell>Quantity</cell>
-      <cell>Percent</cell>
-      <cell>Topic</cell>
-      <cell>Notes</cell>
-    </row>
-    <row role="data">
-      <cell>268</cell>
-      <cell>30.9</cell>
-      <cell>Hearing, sound</cell>
-      <cell>
-	Includes explicit references to the sense of hearing, as well as echoes, applause and exhortations to <q>listen</q>, <q>hear</q>, or <q>be quiet</q>.
-      </cell>
-    </row>
-    <row role="data">
-      <cell>150</cell>
-      <cell>17.3</cell>
-      <cell>Music, singing</cell>
-      <cell>
-	General references to music, singing, voices, harmony rhythm counterpoint, solmization
-      </cell>
-    </row>
-    <row role="data">
-      <cell>134</cell>
-      <cell>15.5</cell>
-      <cell>Birdsong</cell>
-      <cell>
-	Birds as musicians, their songs, specific birds like the <foreign xml:lang="es">ruiseñor</foreign> (nightingale)
-      </cell>
-    </row>
-  </table>
-  <!-- TODO possibly another table with examples of titles and signatures for each type -->
-  
+    
+    <!-- TODO revise after actual chapters are finalized -->
+    <p>
+      This book will explore the musical theology in villancicos in three parts.
+      Part I (chapters 1 and 2) argues that villancicos on the subject of music may be interpreted as sources for historical theologies of music.
+      It considers how certain conceptual problems regarding music's role in the relationship between faith and hearing manifested in this genre, and proposes a historically grounded model for understanding these pieces theologically.
+    </p>
+    <p>
+      The first chapter in part I introduces the category of metamusical villancico in its several subtypes, using examples by composers who will be discussed further in the rest of the book.
+      The chapter traces the roots of the interpretive approach in this book within musicology and several other disciplines, and clarifies the project's relationship to existing scholarship on villancos and early modern sacred music.
+    </p>
+    <p>
+      The second chapter argues that the relationship between hearing and faith was theological problem in seventeenth-century Spain.
+      Catholics had to balance the desire to make faith accommodate the sense of hearing with the need to train the sense of hearing.
+      Hearing had to be shaped by faith in order to perceive the content of faith.
+      To understand music's role in connecting hearing and faith, the chapter examines how villancicos that represent the senses, sensory confusion, and sensory impairment manifest theological concepts of perception.
+      The chapter situates villancicos within a Neoplatonic understanding of hearing and music and outlines three primary theological functions of villancicos, each of which requires a different kind of listening practice.
+    </p>
+    <p>
+      Part II (chapters 3--6) presents detailed case studies of individual pieces, or pieces in specific traditions and places, on themes of heavenly music.
+      These pieces constitute <q>singing about singing</q>.
+      Chapters 3 and 4 each interpret a single villancico tradition that represents earthly music as a Neoplatonic reflection of heavenly music.
+      Chapter 3 focuses on a piece from Puebla in colonial Mexico, and chapter 4 traces a web of settings connected to a villancico from Montserrat in Catalonia.
+      Both pieces develop the theological trope of Christ as the <term>verbum Infans</term>&mdash;the <q>unspeaking/infant Word</q> whose incarnate body is itself the highest form of music, harmonizing divine and human.
+    </p>
+    <p>
+      Chapters 5 and 6 present groups of pieces from specific locations (Segovia and Zaragoza region) that demonstrate a shift in theological understandings of music, where earthly music is seen as more an expression of human affects than as a reflection of heavenly order.
+      <!-- TODO more on Irizar and on Zaragoza -->
+      All four chapters in part II also demonstrate that these metamusical villancicos functioned as a special subgenre in which composers could demonstrate their own mastery within the context of a lineage of composition and a tradition of treatments of this theme of heavenly music.
+    </p>
+    <p>
+      Part III (chapters 7 and 8) focuses on how the musical theology of villancicos was developed in coordination with the Spanish projects of colonizing and civilizing in the New World.
+      Chapter 7 looks at the relationship of Juan Gutiérrez de Padilla's Christmas villancico cycles (extant from 1651--1659) and the building of Puebla Cathedral (consecrated 1649).
+      It argues that Padilla's villancico cycles construct a utopian microcosm of hierarchical colonial society.
+      The chapter focuses on Padilla's representations of people at the bottom of the social hierarchy, such as Indians and black slaves, in a piece from 1652.
+      Especially through the interplay of language and musical rhythm, this composer and his ensemble constructed a world in which every member of colonial society was put into its proper hierarchical place, in a combination of Neoplatonic music theory and ethics.
+      <!-- TODO Will there be two chapters on Puebla, or will the scope of the one be increased? -->
+      The final chapter draws general conclusions and points to directions for future work.
+    </p>
+    <!-- TODO Description of score appendix or accompanying anthology depending on publisher situation -->
+    <p>
+      Accompanying this text is an anthology of the scores most thoroughly discussed in the book, together with their poetic texts and annotated translations.
+      These music and poetry editions are an integral part of this project of interpretation and communication; the book will not be coherent without constant reference to these sources.
+      Most of these have never been edited before, and a few now receive their first critical, corrected editions.
+      The English translations are among the first translations of seventeenth-century villancico poems into any language.
+    </p>
+    
+    <!-- TODO nonsequitur -->
+    <p>
+      To begin, then, we must consider what metamusical villancicos are and what they reveal about seventeenth-century theological concepts of music.
+    </p>
+
+  </div>
+
+  <div type="section">
+    <head>
+      Music about Music in the Villancico Genre
+    </head>
+    
+    <p>
+      The villancicos studied in this book refer in some way to music.
+      Some focus on making music; others on hearing it.
+      As such, these pieces constitute music that refers to itself.
+    </p>
+    <p>
+      If we say that a villancico is <q>music about music</q>, the two instances of <mentioned>music</mentioned> in this label have multiple meanings.
+      The first <mentioned>music</mentioned> refers to a specific villancico as a musical entity, which includes the performance instructions encoded in notation, the music as it sounds when performed (generalizing from various possible interpretations and guessing about elements of performance not recorded in notation), and also the piece as it existed in history, such as its first known performance in a particular place.
+      By the second term <mentioned>music</mentioned> we may mean several things depending on the piece in question: it could mean other sounding music (the <term>musica instrumentalis</term> of Boethius) that the villancico imitates or to which the piece alludes, quotes, or pays homage, as in musical topics and tropes.
+      It could also mean music as an abstract concept, which can hve increasing levels of abstractions along a Neoplatonic chain ascending to the <soCalled>Music</soCalled> of the Triune Godhead itself.
+      The essential point is that metamusical villancicos create a link between two kinds or levels of music: the music performed and heard points beyond itself to other kinds of music, human or celestial.
+    </p>
+    <p>
+      A global survey of villancico poems and music reveals nine main categories of metamusical villancicos.
+      This non-exhaustive survey was drawn from archival musical and poetic sources and form listings in catalogs and published studies (see the bibliography under <q>Primary Sources</q>), covering a global range of sources.
+      The survey found more than nine hundred extant, cataloged villancicos that reference metamusical themes, a number that only hints at the original size of this repertoire.
+      Table <ptr target="#table:survey-metamusical-topics"/> lists the most common topics in order of frequency.
+      We will consider select examples of pieces in each category, beginning with two exemplary villancicos in which several of these topics are found together.
+    </p>
+    
+    <!-- TABLE: METAMUSICAL TOPICS IN VILLANCICO SURVEY -->
+    <xi:include href="../tables/survey-metamusical-topics.xml"/>
+    <!-- TODO Rewrite table, or right-hand column, as body text? -->
+    <!-- TODO possibly another table with examples of titles and signatures for each type -->
+
+    <div type="subsection">
+      <head>
+	Pieces with Multiple Topics: Padilla and Cererols
+      </head>
+
+      <p>
+	It is common to find references to several of these topics in a single piece, and looking at two typical examples of this sort will begin to make clear what is meant by metamusical villancicos.
+	The first example is a villancico from the 1652 Christmas cycle (MEX-Pc: Leg. 1/2) written for the Cathedral of Puebla de los Ángeles by Juan Gutiérrez de Padilla (ca. 1590&ndash;1664).
+	<note place="end">
+	  Many scholars use the full surname Gutiérrez de Padilla, but it will be convenient throughout the dissertation to refer to this composer the way the Puebla manuscripts do, as simply <q>Padilla</q>.
+	  <!-- TODO ref to later chapters discussing Padilla -->
+	</note>
+	In just the first seven lines of this anonymous text, the villancico refers to sound, voices, singing, choirs, dancing, birds, and solmization (poem <ptr target="#poem:En_la_gloria_de_un_portalillo"/>).
+      </p>
+
+      <q rend="block" type="poemtranslation" xml:id="poem:En_la_gloria_de_un_portalillo">
+	<head>
+	  <title>En la gloria de un portalillo</title>, estribillo as set by Juan Gutiérrez de Padilla, Puebla Cathedral, Christmas 1652 (MEX-Pc: Leg. 1/2)
+	</head>
+	<seg xml:lang="es" xml:id="orig:portalillo" corresp="#trans:portalillo">
+	  <lg>
+	    <l>En la gloria de un portalillo,</l>
+	    <l>los zagales se vuelven niños</l>
+	    <l>y en tonos sonoros</l>
+	    <l>repiten a coros</l>
+	    <l>en bailes lucidos.</l>
+	    <l>Canten las aves</l>
+	    <l>al Sol nacido.</l>
+	    <l>¡Vaya de fiestas!</l>
+	    <l>pues Dios es niño.</l>
+	  </lg>
+	</seg>
+	<seg xml:lang="en" xml:id="trans:portalillo" corresp="#orig:portalillo">
+	  <lg>
+	    <l>In the glory (<term>Gloria</term>) of a little stable,</l>
+	    <l>the shepherd boys become children</l>
+	    <l>and in resounding tones</l>
+	    <l>they repeat in chorus [or <q>in choirs</q>]</l>
+	    <l>in brilliant dances.</l>
+	    <l>Let the birds sing</l>
+	    <l>to the newbord Sun [the note <term>sol</term>]</l>
+	    <l>for God is a baby boy.</l>
+	  </lg>
+	</seg>
+      </q>
+    </div>
+    
+  </div>
 </div>

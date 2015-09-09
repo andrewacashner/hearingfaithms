@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table cols="4" rows="10" xml:id="table:survey-metamusical-topics"
+       xmlns="http://www.tei-c.org/ns/1.0">
+  <head>
+    Topics of metamusical villancicos in global survey
+  </head>
+  <row role="label">
+    <cell>Quantity</cell>
+    <cell>Percent</cell>
+    <cell>Topic</cell>
+    <cell>Notes</cell>
+  </row>
+  <row role="data">
+    <cell>268</cell>
+    <cell>30.9</cell>
+    <cell>Hearing, sound</cell>
+    <cell>
+      Includes explicit references to the sense of hearing, as well as echoes, applause and exhortations to <q>listen</q>, <q>hear</q>, or <q>be quiet</q>.
+    </cell>
+  </row>
+  <row role="data">
+    <cell>150</cell>
+    <cell>17.3</cell>
+    <cell>Music, singing</cell>
+    <cell>
+      General references to music, singing, voices, harmony rhythm counterpoint, solmization
+    </cell>
+  </row>
+  <row role="data">
+    <cell>134</cell>
+    <cell>15.5</cell>
+    <cell>Birdsong</cell>
+    <cell>
+      Birds as musicians, their songs, specific birds like the <foreign xml:lang="es">ruiseñor</foreign> (nightingale)
+    </cell>
+  </row>
+  <row role="data">
+    <cell>113</cell>
+    <cell>13.0</cell>
+    <cell>Dance</cell>
+    <cell>
+      Invitations to dance, specific dances such as the <term>jácara</term>; many of these are <soCalled>ethnic</soCalled> villancicos parodying blacks, Indians, <soCalled>gypsies</soCalled>, Catalans, etc., singing and dancing
+    </cell>
+  </row>
+  <row role="data">
+    <cell>76</cell>
+    <cell>8.8</cell>
+    <cell>Instruments</cell>
+    <cell>
+      <term>Clarín</term> (clarion or bugle: 38 examples in survey), bells, drums, castanets, tambourines, flute, violin, even theorbo
+    </cell>
+  </row>
+  <row role="data">
+    <cell>75</cell>
+    <cell>8.7</cell>
+    <cell>Angels</cell>
+    <cell>
+      Specifically musical references to angels (among a vast number of pieces about angeles in general): angel choirs, specific types of angels like cherubim, seraphim
+    </cell>
+  </row>
+  <row role="data">
+    <cell>20</cell>
+    <cell>2.3</cell>
+    <cell>Heavens or spheres</cell>
+    <cell>
+      Usually not referring to English <mentioned>Heaven</mentioned> (in Spanish, this was <term>cielo Empyreo</term>), but to <term>cielos</term> as in the music of the heavenly spheres—the stars and planets of Ptolemaic and Boethian cosmology
+    </cell>
+  </row>
+  <row role="data">
+    <cell>16</cell>
+    <cell>1.8</cell>
+    <cell>Sensation and faith</cell>
+    <cell>
+      Pieces that connect faith with the senses, especially hearing and sight
+    </cell>
+  </row>
+  <row role="data">
+    <cell>15</cell>
+    <cell>1.7</cell>
+    <cell>Affects</cell>
+    <cell>
+      Exhortations to weep, cry, rejoice; or apostrophes to the affects themselves
+    </cell>
+  </row>
+</table>

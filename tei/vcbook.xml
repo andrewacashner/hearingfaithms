@@ -23,7 +23,9 @@
 <text>
   <front>
     <titlePage>
-      <titlePart type="main">Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700</titlePart>
+      <titlePart type="main">
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600&ndash;1700
+      </titlePart>
       <byline>Andrew A. Cashner</byline>
       <date>2015</date>
     </titlePage>
@@ -36,7 +38,7 @@
   <body>
     <xi:include href="chapters/intro.xml"/>
 
-    <div xml:id="biblio" type="Chapter">
+    <div xml:id="biblio" type="chapter">
       <head>Bibliography</head>
       <xi:include href="biblio.xml"/>
     </div>
