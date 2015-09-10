@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!DOCTYPE TEI [
+<!ENTITY chapter.preface SYSTEM "chapters/preface.xml">
+<!ENTITY chapter.intro SYSTEM "chapters/intro.xml">
+<!ENTITY biblio SYSTEM "biblio.xml">
+]>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
   <fileDesc>
     <titleStmt>
@@ -24,7 +30,7 @@
   <front>
     <titlePage>
       <titlePart type="main">
-	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600&ndash;1700
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
       </titlePart>
       <byline>Andrew A. Cashner</byline>
       <date>2015</date>
@@ -32,15 +38,15 @@
 
     <divGen type="toc"/>
 
-    <xi:include href="chapters/preface.xml"/>
+    &chapter.preface;
   </front>
 
   <body>
-    <xi:include href="chapters/intro.xml"/>
+    &chapter.intro;
 
     <div xml:id="biblio" type="chapter">
       <head>Bibliography</head>
-      <xi:include href="biblio.xml"/>
+      &biblio;
     </div>
   </body>
 

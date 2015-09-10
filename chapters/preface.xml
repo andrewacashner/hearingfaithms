@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
-<div xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="chapter:preface" type="chapter">
+<div xml:id="chapter:preface" type="chapter">
   <head>
     Preface
   </head>
@@ -8,7 +6,7 @@
   <p>
     This preface aims to help readers who may approach this book from a variety of disciplines and backgrounds, by clarifying basic terms and concepts as they are used here.
     <term>Villancico</term> in this study refers broadly to a type of Spanish vernacular poetry and music prevalent across the Spanish Empire in the seventeenth century.
-    <note place="end">
+    <note>
       The fundamental sources on the history of villancicos as a musical genre are
       <ptr target="#Laird1997"/>;
       <ptr target="#Rubio1979"/>;
@@ -26,7 +24,7 @@
   <p>
     In function, villancicos were performed most frequently in sets of eight or more pieces, interspersed after the Lessons in the liturgy of Matins, and either following or substituting for the singing of the Latin Responsories, depending on local custom.
     At the Cathedral of Puebla de los Ángeles, for instance, the musical chapel performed villancicos in place of the Responsory chants while a cleric spoke the words of the Responsory aloud (see <ptr target="#appendix:PueblaDecree"/>).
-    Sets of villancicos were performed at Matins for the highest feast days of the Hispanic church year in every major church, from Madrid to Manila&mdash;Christmas, Epiphany, Corpus Christi, and the Conception of Mary.
+    Sets of villancicos were performed at Matins for the highest feast days of the Hispanic church year in every major church, from Madrid to Manila—Christmas, Epiphany, Corpus Christi, and the Conception of Mary.
     Villancicos could also be performed at Mass (functioning similarly to motets) or as devotional pieces in Forty Hours’ Devotion and so-called <term>siesta</term> services of Eucharistic devotion.
   </p>
 
