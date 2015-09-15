@@ -14,26 +14,25 @@
       <author>Andrew A. Cashner</author>
     </titleStmt>
     <publicationStmt>
+      <publisher>Author's original manuscript.</publisher>
       <date>2015</date>
     </publicationStmt>
     <sourceDesc>
       <bibl>This is the author's original manuscript, authored in TEI-Lite XML.</bibl>
     </sourceDesc>
-    <revisionDesc>
+  </fileDesc>
+  <revisionDesc>
       <change when="2015-08-27">Began in LaTeX based on dissertation</change>
       <change when="2015-08-30">Began TEI version.</change>
     </revisionDesc>
-  </fileDesc>
 </teiHeader>
 
 <text>
   <front>
     <titlePage>
-      <titlePart type="main">
-	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
-      </titlePart>
+      <titlePart type="main">Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700</titlePart>
       <byline>Andrew A. Cashner</byline>
-      <date>2015</date>
+      <docDate>2015</docDate>
     </titlePage>
 
     <divGen type="toc"/>
