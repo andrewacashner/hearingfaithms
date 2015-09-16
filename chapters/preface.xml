@@ -1,10 +1,12 @@
 <div xml:id="chapter:preface" type="chapter">
-  <head>Preface</head>
+  <head>
+    Preface
+  </head>
 
   <p>
     This preface aims to help readers who may approach this book from a variety of disciplines and backgrounds, by clarifying basic terms and concepts as they are used here.
-    <term>Villancico</term> in this study refers broadly to a type of Spanish vernacular poetry and music prevalent across the Spanish Empire in the seventeenth century.<!--
-    --><note>
+    <term>Villancico</term> in this study refers broadly to a type of Spanish vernacular poetry and music prevalent across the Spanish Empire in the seventeenth century.   
+    <note>
     The fundamental sources on the history of villancicos as a musical genre are
       <ptr type="bib" target="#Laird1997"/>;
       <ptr type="bib" target="#Rubio1979"/>;

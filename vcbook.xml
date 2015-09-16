@@ -10,15 +10,25 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700</title>
-      <author>Andrew A. Cashner</author>
+      <title>
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
+      </title>
+      <author>
+	Andrew A. Cashner
+      </author>
     </titleStmt>
     <publicationStmt>
-      <publisher>Author's original manuscript.</publisher>
-      <date>2015</date>
+      <publisher>
+	Author's original manuscript.
+      </publisher>
+      <date>
+	2015
+      </date>
     </publicationStmt>
     <sourceDesc>
-      <bibl>This is the author's original manuscript, authored in TEI-Lite XML.</bibl>
+      <bibl>
+	This is the author's original manuscript, authored in TEI-Lite XML.
+      </bibl>
     </sourceDesc>
   </fileDesc>
   <revisionDesc>
@@ -30,9 +40,15 @@
 <text>
   <front>
     <titlePage>
-      <titlePart type="main">Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700</titlePart>
-      <byline>Andrew A. Cashner</byline>
-      <docDate>2015</docDate>
+      <titlePart type="main">
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
+      </titlePart>
+      <byline>
+	Andrew A. Cashner
+      </byline>
+      <docDate>
+	2015
+      </docDate>
     </titlePage>
 
     <divGen type="toc"/>
@@ -44,7 +60,9 @@
     &chapter.intro;
 
     <div xml:id="biblio" type="chapter">
-      <head>Bibliography</head>
+      <head>
+	Bibliography
+      </head>
       &biblio;
     </div>
   </body>

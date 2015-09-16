@@ -77,13 +77,13 @@
     Among the hundreds of surviving musical manuscripts and the even larger quantity of printed poetry leaflets, a great many pieces begin with direct invocations of the sense of hearing, exhorting hearers to <q>hear</q>, <q>listen</q>, and <q>pay attention</q> (<foreign xml:lang="es">oíd</foreign>, <foreign xml:lang="es">escuchad</foreign>, <foreign xml:lang="es">atended</foreign>).
     Villancico poets and composers favored themes of singing and dancing, as in Christmas sets, for example, they represented the angelic choirs of Christmas, singing and dancing shepherds, Magi, and even animals in the Nativity stable.
     There are also representations of instrumental performance and characteristic dances of different ethnic groups (such as African slaves and <soCalled>gypsies</soCalled>).
-    Early example of villancicos about singing include <title>Gil pues a cantar</title> from Pedro Ruimonte’s <title>Parnoso español</title> (Antwerp, 1614) and <title>Sobre bro canto llano</title> by Gaspar Fernández (Puebla, 1610).<!--
-    --><note>
+    Early example of villancicos about singing include <title>Gil pues a cantar</title> from Pedro Ruimonte’s <title>Parnoso español</title> (Antwerp, 1614) and <title>Sobre bro canto llano</title> by Gaspar Fernández (Puebla, 1610).
+    <note>
       <ptr target="#Ruimonte_Rimonte_1980"/>;
       <ptr target="#Fernandes2001"/>.
     </note>
-    A few <soCalled>black</soCalled> villancicos or <term>negrillas</term>, which represent dark-skinned people dancing and playing instruments in what is supposed to be their characteristic style, have become well known, such as <title>A siolo Flasiquiyo</title> by Juan Gutiérrez de Padilla (Puebla, 1653) and <title>Los coflades de la estleya</title> by Juan de Araujo (Sucre, ca. 1700).<!--
-    --><note>
+    A few <soCalled>black</soCalled> villancicos or <term>negrillas</term>, which represent dark-skinned people dancing and playing instruments in what is supposed to be their characteristic style, have become well known, such as <title>A siolo Flasiquiyo</title> by Juan Gutiérrez de Padilla (Puebla, 1653) and <title>Los coflades de la estleya</title> by Juan de Araujo (Sucre, ca. 1700).
+    <note>
       See chapter <ptr target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
       One of several recordings of the Araujo piece is <ptr target="#Skidmore2003"/>.
     </note>
@@ -110,7 +110,7 @@
     To understand the theological content, we must understand the musical practices; and to make sense of the music, we must seek to hear it as a form of theological expression.
   </p>
 
-  <div type="section">
+  <div type="section" xml:id="ch1:overview">
     <head>Overview</head>
     
     <!-- TODO revise after actual chapters are finalized -->
@@ -166,7 +166,7 @@
 
   </div>
 
-  <div type="section">
+  <div type="section" xml:id="ch1:music-about-music">
     <head>Music about Music in the Villancico Genre</head>
     
     <p>
@@ -279,13 +279,13 @@
     </table>
   </div>
   
-  <div type="section">
+  <div type="section" xml:id="ch1:multiple-topics">
     <head>Pieces with Multiple Topics: Padilla and Cererols</head>
 
     <p>
       It is common to find references to several of these topics in a single piece, and looking at two typical examples of this sort will begin to make clear what is meant by metamusical villancicos.
-      The first example is a villancico from the 1652 Christmas cycle (MEX-Pc: Leg. 1/2) written for the Cathedral of Puebla de los Ángeles by Juan Gutiérrez de Padilla (ca. 1590–1664).<!--
-      --><note>
+      The first example is a villancico from the 1652 Christmas cycle (MEX-Pc: Leg. 1/2) written for the Cathedral of Puebla de los Ángeles by Juan Gutiérrez de Padilla (ca. 1590–1664).
+      <note>
 	Many scholars use the full surname Gutiérrez de Padilla, but it will be convenient throughout the dissertation to refer to this composer the way the Puebla manuscripts do, as simply <q>Padilla</q>.
 	<!-- TODO ref to later chapters discussing Padilla -->
       </note>
@@ -328,8 +328,8 @@
       <!-- TODO cite recording -->
       The piece begins with a soloist whose words present a striking poetic conceit, and whose music likewise lays out a central musical theme for the <term>estribillo</term> (refrain).
       The solo line is followed by a passage of polychoral dialogue between two four-voice choirs, concluding (typically for polychoral technique) with an emphatic cadence for the full chorus.
-      Padilla’s setting is in a lively triple meter (<term>tiempo menor de proporción menor</term>, notated CZ in Spanish sources) that makes frequent use of <term>sesquialtera</term> or hemiola.<!--
-      --><note>
+      Padilla’s setting is in a lively triple meter (<term>tiempo menor de proporción menor</term>, notated CZ in Spanish sources) that makes frequent use of <term>sesquialtera</term> or hemiola.
+      <note>
 	The preface provides additional background about the terminology and common structures of seventeenth-century villancicos.
 	Please note the discussion there on common voicing and instrumentation patterns, and on rhythmic theory.
       </note>
