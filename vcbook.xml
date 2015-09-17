@@ -59,7 +59,7 @@
   <body>
     &chapter.intro;
 
-    <div xml:id="biblio" type="chapter">
+    <div xml:id="biblio" type="bibliography">
       <head>
 	Bibliography
       </head>

@@ -3,21 +3,34 @@
 	       xpath-default-namespace="http://www.tei-c.org/ns/1.0">
   <xsl:output method="text" indent="yes"/>
 
+  <!--
   <xsl:template match="text()">
     <xsl:value-of select="normalize-space()" />
   </xsl:template>
+  -->
 
+  <xsl:strip-space elements="*" />
+  <xsl:preserve-space elements="p" />
+  
   <xsl:template match="/">
     <xsl:text>% Converted from TEI-XML by Andrew's custom XSL teitolatex.xsl
-\documentclass{memoir}
-\usepackage{lmodern}
+\documentclass[oneside,12pt]{book}
+\usepackage{tgtermes}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[american]{babel}
 \usepackage{microtype}
 \usepackage{csquotes}
 \usepackage[notes]{biblatex-chicago}
-\addbibresource{master.bib}
+\addbibresource{vcbook.export.bib}
+\usepackage[margin=1in]{geometry}
+\usepackage[none]{hyphenat}
+\usepackage{setspace}
+\doublespacing
+\usepackage{sectsty}
+\allsectionsfont{\large\bfseries}
+\frenchspacing
+\raggedbottom
 </xsl:text>
     <xsl:apply-templates />
  </xsl:template>
@@ -38,10 +51,14 @@
   </xsl:template>
   
   <xsl:template match="titlePage">
-    <xsl:text>&#xA;\begin{titlingpage}&#xA;</xsl:text>
+    <xsl:text>&#xA;\clearpage&#xA;</xsl:text>
     <xsl:apply-templates />
-    <xsl:text>&#xA;\maketitle&#xA;\end{titlingpage}&#xA;\tableofcontents*&#xA;</xsl:text>
+    <xsl:text>
+\maketitle
+\tableofcontents
+</xsl:text>
   </xsl:template>
+
   <xsl:template match="titlePart">
     <xsl:text>&#xA;\title{</xsl:text>
     <xsl:apply-templates />
@@ -63,59 +80,31 @@
     <xsl:apply-templates />
   </xsl:template>
 
-  <xsl:template match="div[@type='chapter']">
-    <xsl:text>&#xA;\chapter{</xsl:text>
+  <xsl:template match="div">
+    <xsl:text>&#xA;\</xsl:text>
+    <xsl:value-of select="@type" />
+    <xsl:text>{</xsl:text>
     <xsl:value-of select="normalize-space(head)" />
-    <xsl:text>}&#xA;\label{</xsl:text>
+    <xsl:text>}&#xA;</xsl:text>
+    <xsl:text>\label{</xsl:text>
     <xsl:value-of select="@xml:id" />
     <xsl:text>}&#xA;</xsl:text>
     <xsl:apply-templates />
   </xsl:template>
 
-  <xsl:template match="div[@type='section']">
-    <xsl:text>&#xA;\section{</xsl:text>
-    <xsl:value-of select="head" />}
-    <xsl:text>&#xA;\label{</xsl:text>
-    <xsl:value-of select="@xml:id" />
-    <xsl:text>}&#xA;</xsl:text>
-    <xsl:apply-templates />
+  <xsl:template match="div[@type='bibliography']">
+    <xsl:text>&#xA;\printbibliography&#xA;</xsl:text>
   </xsl:template>
-
-  <xsl:template match="div[@type='subsection']">
-    <xsl:text>&#xA;\subsection{</xsl:text>
-    <xsl:value-of select="normalize-space(head)" />
-    <xsl:text>}&#xA;</xsl:text>
-    <xsl:apply-templates />
-  </xsl:template>
-
-  <xsl:template match="div[@type='subsubsection']">
-    <xsl:text>&#xA;\subsubsection{</xsl:text>
-    <xsl:value-of select="normalize-space(head)" />
-    <xsl:text>}&#xA;</xsl:text>
-    <xsl:apply-templates />
-  </xsl:template>
-
+  
   <xsl:template match="head">
   </xsl:template>
   
   
   <xsl:template match="p">
-    <xsl:text>&#xA;</xsl:text>
     <xsl:apply-templates />
-    <xsl:text>&#xA;</xsl:text>
   </xsl:template>
 
-  <xsl:template match="emph">
-    <xsl:text>\emph{</xsl:text>
-    <xsl:apply-templates />
-    <xsl:text>}</xsl:text>
-  </xsl:template>
-  <xsl:template match="term">
-    <xsl:text>\emph{</xsl:text>
-    <xsl:apply-templates />
-    <xsl:text>}</xsl:text>
-  </xsl:template>
-  <xsl:template match="foreign">
+  <xsl:template match="emph|term|foreign|title">
     <xsl:text>\emph{</xsl:text>
     <xsl:apply-templates />
     <xsl:text>}</xsl:text>
@@ -125,32 +114,58 @@
     <xsl:apply-templates />
     <xsl:text>}</xsl:text>
   </xsl:template>
+
   <xsl:template match="q">
-    <xsl:text>\enquote{</xsl:text>
+    <xsl:choose>
+      <xsl:when test="@type='block'">
+	<xsl:text>\begin{quote}&#xA;</xsl:text>
+	<xsl:apply-templates />
+	<xsl:text>&#xA;\end{quote}</xsl:text>
+      </xsl:when>
+      <xsl:when test="@type='textTranslation'">
+	<xsl:text>&#xA;\begin{quote}&#xA;\emph{</xsl:text>
+	<xsl:value-of select="normalize-space(seg[@type='orig'])" />
+	<xsl:text>}&#xA;&#xA;</xsl:text>
+	<xsl:value-of select="normalize-space(seg[@type='trans'])" />
+	<xsl:text>&#xA;\end{quote}&#xA;</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:text>\enquote{</xsl:text>
+	<xsl:apply-templates />
+	<xsl:text>}</xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+
+  <xsl:template match="note">
+    <xsl:text>%&#xA;\footnote{</xsl:text>
     <xsl:apply-templates />
     <xsl:text>}</xsl:text>
   </xsl:template>
-  <xsl:template match="note">
-    <xsl:text>\footnote{</xsl:text>
-    <xsl:apply-templates />
+
+  <xsl:template match="ptr">
+    <xsl:choose>
+      <xsl:when test="@type='doc'">
+	<xsl:text>\ref</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:text>\autocite</xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text>{</xsl:text>
+    <xsl:value-of select="translate(@target,'#','')" />
+    <xsl:text>}</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="epigraph[cit]">
+    <xsl:text>&#xA;\epigraph{</xsl:text>
+    <xsl:value-of select="q" />
+    <xsl:text>}{</xsl:text>
+    <xsl:value-of select="bibl" />
     <xsl:text>}&#xA;</xsl:text>
   </xsl:template>
 
-  <xsl:template match="ptr[@type='bib']">
-    <xsl:text>\autocite{</xsl:text>
-    <xsl:value-of select="translate(@target,'#','')" />
-    <xsl:text>}</xsl:text>
-  </xsl:template>
-
-  <xsl:template match="ptr[@type='doc']">
-    <xsl:text>\ref{</xsl:text>
-    <xsl:value-of select="translate(@target,'#','')" />
-    <xsl:text>}</xsl:text>
-  </xsl:template>
-
-  <!-- TODO ambiguous rule-->
-  <xsl:template match="div[@type='chapter' and @xml:id='biblio']">
-    <xsl:text>&#xA;\printbibliography&#xA;</xsl:text>
-  </xsl:template>
+  
 
 </xsl:transform>

@@ -2,22 +2,24 @@
 
   <head>Villancicos as Musical Theology</head>
 
-  <epigraph>
-    <cit>
-      <p>
-	<foreign xml:lang="la">
+ <!-- <epigraph>
+      <cit>
+      -->
+      <q type="textTranslation">
+     	<seg type="orig" xml:lang="la">
 	  ergo fides ex auditu/ auditus autem per verbum Christi
-	</foreign>
-      </p>
-      <p>
-	Thus faith [comes] from hearing; and hearing, by the word of Christ.
-      </p>
+	</seg>
+	<seg type="trans">
+      	  Thus faith comes from hearing; and hearing, by the word of Christ.
+	</seg>
+      </q>
+      <!--
       <bibl>
 	St. Paul, Romans 10:17
       </bibl>
     </cit>
   </epigraph>
-
+-->
   <p>
     St. Paul taught that faith came by means of hearing, and one of the distinctive effects of the sixteenth-century reformations of Western Christianity was that Christians discovered new ways to make their faith audible.
     Voices raised in acrid contention or pious devotion boomed from pulpits, clamored in public squares, and were echoed in homes and schools.
@@ -41,7 +43,7 @@
   <p>
     The boundary-crossing nature of villancicos is expressed vividly in one of the more commonly performed villancicos from colonial Mexico, a piece set by Juan Gutiérrez de Padilla for Puebla Cathedral in 1653 (discussed further in chapter 7).
     Here the singers describe their own music-making as serving up <q>village feed</q> to a refined courtly table:
-    <q rend="block" type="poemtranslation">
+    <q type="poemtranslation">
       <seg xml:lang="es" xml:id="orig:jacarilla" corresp="#trans:jacarilla">
 	<lg>
 	  <l>A la jácara, jacarilla,</l>
@@ -77,16 +79,20 @@
     Among the hundreds of surviving musical manuscripts and the even larger quantity of printed poetry leaflets, a great many pieces begin with direct invocations of the sense of hearing, exhorting hearers to <q>hear</q>, <q>listen</q>, and <q>pay attention</q> (<foreign xml:lang="es">oíd</foreign>, <foreign xml:lang="es">escuchad</foreign>, <foreign xml:lang="es">atended</foreign>).
     Villancico poets and composers favored themes of singing and dancing, as in Christmas sets, for example, they represented the angelic choirs of Christmas, singing and dancing shepherds, Magi, and even animals in the Nativity stable.
     There are also representations of instrumental performance and characteristic dances of different ethnic groups (such as African slaves and <soCalled>gypsies</soCalled>).
-    Early example of villancicos about singing include <title>Gil pues a cantar</title> from Pedro Ruimonte’s <title>Parnoso español</title> (Antwerp, 1614) and <title>Sobre bro canto llano</title> by Gaspar Fernández (Puebla, 1610).
-    <note>
-      <ptr target="#Ruimonte_Rimonte_1980"/>;
-      <ptr target="#Fernandes2001"/>.
+    Early example of villancicos about singing include <title>Gil pues a cantar</title> from Pedro Ruimonte’s <title>Parnoso español</title> (Antwerp, 1614) and <title>Sobre bro canto llano</title> by Gaspar Fernández (Puebla, 1610).<!--
+    
+    --><note>
+    <ptr target="#Ruimonte_Rimonte_1980"/>;
+    <ptr target="#Fernandes2001"/>.
     </note>
-    A few <soCalled>black</soCalled> villancicos or <term>negrillas</term>, which represent dark-skinned people dancing and playing instruments in what is supposed to be their characteristic style, have become well known, such as <title>A siolo Flasiquiyo</title> by Juan Gutiérrez de Padilla (Puebla, 1653) and <title>Los coflades de la estleya</title> by Juan de Araujo (Sucre, ca. 1700).
-    <note>
-      See chapter <ptr target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
+
+    A few <soCalled>black</soCalled> villancicos or <term>negrillas</term>, which represent dark-skinned people dancing and playing instruments in what is supposed to be their characteristic style, have become well known, such as <title>A siolo Flasiquiyo</title> by Juan Gutiérrez de Padilla (Puebla, 1653) and <title>Los coflades de la estleya</title> by Juan de Araujo (Sucre, ca. 1700).<!--
+
+    --><note>
+    See chapter <ptr target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
       One of several recordings of the Araujo piece is <ptr target="#Skidmore2003"/>.
     </note>
+
     These pieces constitute <soCalled>music about music</soCalled>.
     If a play within a play in Spanish Golden Age drama may be termed metatheatrical, then these pieces are <soCalled>metamusical</soCalled>.
   </p>
@@ -284,11 +290,12 @@
 
     <p>
       It is common to find references to several of these topics in a single piece, and looking at two typical examples of this sort will begin to make clear what is meant by metamusical villancicos.
-      The first example is a villancico from the 1652 Christmas cycle (MEX-Pc: Leg. 1/2) written for the Cathedral of Puebla de los Ángeles by Juan Gutiérrez de Padilla (ca. 1590–1664).
-      <note>
+      The first example is a villancico from the 1652 Christmas cycle (MEX-Pc: Leg. 1/2) written for the Cathedral of Puebla de los Ángeles by Juan Gutiérrez de Padilla (ca. 1590–1664).<!--
+      --><note>
 	Many scholars use the full surname Gutiérrez de Padilla, but it will be convenient throughout the dissertation to refer to this composer the way the Puebla manuscripts do, as simply <q>Padilla</q>.
 	<!-- TODO ref to later chapters discussing Padilla -->
       </note>
+      
       In just the first seven lines of this anonymous text, the villancico refers to sound, voices, singing, choirs, dancing, birds, and solmization (poem <ptr target="#poem:En_la_gloria_de_un_portalillo"/>).
     </p>
 
@@ -328,11 +335,13 @@
       <!-- TODO cite recording -->
       The piece begins with a soloist whose words present a striking poetic conceit, and whose music likewise lays out a central musical theme for the <term>estribillo</term> (refrain).
       The solo line is followed by a passage of polychoral dialogue between two four-voice choirs, concluding (typically for polychoral technique) with an emphatic cadence for the full chorus.
-      Padilla’s setting is in a lively triple meter (<term>tiempo menor de proporción menor</term>, notated CZ in Spanish sources) that makes frequent use of <term>sesquialtera</term> or hemiola.
-      <note>
+      Padilla’s setting is in a lively triple meter (<term>tiempo menor de proporción menor</term>, notated CZ in Spanish sources) that makes frequent use of <term>sesquialtera</term> or hemiola.<!--
+
+      --><note>
 	The preface provides additional background about the terminology and common structures of seventeenth-century villancicos.
 	Please note the discussion there on common voicing and instrumentation patterns, and on rhythmic theory.
       </note>
+      
       The shifts of duple and triple stresses combine with stresses on the second beat of the <term>compás</term> (<term>tactus</term>, measure) to create an energetic atmosphere with a rejoicing affect.
       The polychoral dialogue, with the voices of each choir declaiming homorhythmically in the same highly rhythmic, syncopated manner as the soloist, and with the <term>tiples</term> (boy sopranos) of both choirs singing at the top of their range, would have brilliantly seized the attention of listeners.
     </p>
@@ -352,8 +361,9 @@
     </p>
     <p>
       When the soloist refers to the newborn Sun, he sings the note identified in Guidonian terminology as <term>D (la, sol, re)</term>—<term>sol</term> in the hard (G) hexachord.
-      On the wame word, the bass accompanist plays a different <term>sol</term>, <term>G (sol, re, ut)</term>. (Note that <q xml:lang="es">sol re</q> in Spanish means <q>sun king</q>.)
-      <note>
+      On the wame word, the bass accompanist plays a different <term>sol</term>, <term>G (sol, re, ut)</term>. (Note that <q xml:lang="es">sol re</q> in Spanish means <q>sun king</q>.)<!--
+
+      --><note>
 	The major Spanish music-theoretical treatises of the seventeenth century give full expositions of the techniques of Guidonian solmization, and the frequent use of Guido's syllables in villancicos suggests that these treatises do reflect how music was actually taught in practice.
 	See <ptr target="#Cerone1613"/> and <ptr target="#Lorente1672"/>.
       </note>
@@ -362,14 +372,15 @@
       Padilla's villancico may be understood as <q>singing about singing</q> on several levels.
       The poetic text, which being performed through music, itself refers to musical performance.
       The performance by the Puebla Cathedral chapel dramatizes the historical celebration of the first Christmas while also celebrating the festival in Padilla’s present day.
-      The music is self-referential on a symbolic level (as in the plays on <term>sol</term>), but also functions on a more simple affective level to model and incite affections of exuberant joy and wonder, which contemporary theological writers emphasized were the appropriate affects for the feast of Christmas.
-      <note>
+      The music is self-referential on a symbolic level (as in the plays on <term>sol</term>), but also functions on a more simple affective level to model and incite affections of exuberant joy and wonder, which contemporary theological writers emphasized were the appropriate affects for the feast of Christmas.<!--
+
+      --><note>
 	See the detailed discussion of such sources in chapter 3.
       </note>
     </p>
     <p>
-      A similar example of a villancico that includes multiple metamusical topics is <title>Fuera, que va de invención</title> (E-Bbc: M/760) by Joan Cererols (1618–1680), monk and chapelmaster at the Benedictine Abbey of Montserrat near Barcelona.
-      <note>
+      A similar example of a villancico that includes multiple metamusical topics is <title>Fuera, que va de invención</title> (E-Bbc: M/760) by Joan Cererols (1618–1680), monk and chapelmaster at the Benedictine Abbey of Montserrat near Barcelona.<!--
+      --><note>
 	<ref><ptr target="#Cererols1932"/>, 81–94.</ref>
 	Another villancico by Cererols is the subject of chapter 4.
 	<!-- TODO check chapter number; cite recording -->
