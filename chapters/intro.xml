@@ -2,9 +2,8 @@
 
   <head>Villancicos as Musical Theology</head>
 
- <!-- <epigraph>
+  <epigraph>
       <cit>
-      -->
       <q type="textTranslation">
      	<seg type="orig" xml:lang="la">
 	  ergo fides ex auditu/ auditus autem per verbum Christi
@@ -13,13 +12,12 @@
       	  Thus faith comes from hearing; and hearing, by the word of Christ.
 	</seg>
       </q>
-      <!--
       <bibl>
 	St. Paul, Romans 10:17
       </bibl>
     </cit>
   </epigraph>
--->
+
   <p>
     St. Paul taught that faith came by means of hearing, and one of the distinctive effects of the sixteenth-century reformations of Western Christianity was that Christians discovered new ways to make their faith audible.
     Voices raised in acrid contention or pious devotion boomed from pulpits, clamored in public squares, and were echoed in homes and schools.
@@ -44,7 +42,7 @@
     The boundary-crossing nature of villancicos is expressed vividly in one of the more commonly performed villancicos from colonial Mexico, a piece set by Juan Gutiérrez de Padilla for Puebla Cathedral in 1653 (discussed further in chapter 7).
     Here the singers describe their own music-making as serving up <q>village feed</q> to a refined courtly table:
     <q type="poemtranslation">
-      <seg xml:lang="es" xml:id="orig:jacarilla" corresp="#trans:jacarilla">
+      <seg type="orig" xml:lang="es">
 	<lg>
 	  <l>A la jácara, jacarilla,</l>
 	  <l>de buen garbo y lindo porte</l>
@@ -52,7 +50,7 @@
 	  <l>siendo pasto de la villa.</l>
 	</lg>
       </seg>
-      <seg xml:lang="en" xml:id="trans:jacarilla" corresp="#orig:jacarilla">
+      <seg type="trans">
 	<lg>
 	  <l>For the <term>jácara</term>, a little <term>jácara</term>,</l>
 	  <l>in good taste and with fair mien</l>
@@ -89,7 +87,7 @@
     A few <soCalled>black</soCalled> villancicos or <term>negrillas</term>, which represent dark-skinned people dancing and playing instruments in what is supposed to be their characteristic style, have become well known, such as <title>A siolo Flasiquiyo</title> by Juan Gutiérrez de Padilla (Puebla, 1653) and <title>Los coflades de la estleya</title> by Juan de Araujo (Sucre, ca. 1700).<!--
 
     --><note>
-    See chapter <ptr target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
+    See chapter <ptr type="doc" target="#chapter:Puebla"/> for a discussion of <title>A siolo Flasiquiyo</title> and other <soCalled>ethnic</soCalled> villancicos.
       One of several recordings of the Araujo piece is <ptr target="#Skidmore2003"/>.
     </note>
 
@@ -296,14 +294,14 @@
 	<!-- TODO ref to later chapters discussing Padilla -->
       </note>
       
-      In just the first seven lines of this anonymous text, the villancico refers to sound, voices, singing, choirs, dancing, birds, and solmization (poem <ptr target="#poem:En_la_gloria_de_un_portalillo"/>).
+      In just the first seven lines of this anonymous text, the villancico refers to sound, voices, singing, choirs, dancing, birds, and solmization (poem <ptr type="doc" target="#poem:En_la_gloria_de_un_portalillo"/>).
     </p>
 
     <q type="poemtranslation" xml:id="poem:En_la_gloria_de_un_portalillo">
       <head>
 	<title>En la gloria de un portalillo</title>, estribillo as set by Juan Gutiérrez de Padilla, Puebla Cathedral, Christmas 1652 (MEX-Pc: Leg. 1/2)
       </head>
-      <seg xml:lang="es" xml:id="orig:portalillo" corresp="#trans:portalillo">
+      <seg type="orig" xml:lang="es">
 	<lg>
 	  <l>En la gloria de un portalillo,</l>
 	  <l>los zagales se vuelven niños</l>
@@ -316,7 +314,7 @@
 	  <l>pues Dios es niño.</l>
 	</lg>
       </seg>
-      <seg xml:lang="en" xml:id="trans:portalillo" corresp="#orig:portalillo">
+      <seg type="trans">
 	<lg>
 	  <l>In the glory (<term>Gloria</term>) of a little stable,</l>
 	  <l>the shepherd boys become children</l>
@@ -331,7 +329,7 @@
     </q>
 
     <p>
-      Padilla’s setting demonstrates several typical features of the genre (music example <ptr target="#music:Padilla-En_la_gloria_de_un_portalillo"/>).
+      Padilla’s setting demonstrates several typical features of the genre (music example <ptr type="doc" target="#music:Padilla-En_la_gloria_de_un_portalillo"/>).
       <!-- TODO cite recording -->
       The piece begins with a soloist whose words present a striking poetic conceit, and whose music likewise lays out a central musical theme for the <term>estribillo</term> (refrain).
       The solo line is followed by a passage of polychoral dialogue between two four-voice choirs, concluding (typically for polychoral technique) with an emphatic cadence for the full chorus.
@@ -348,7 +346,7 @@
 
     <figure type="musicexample" xml:id="music:Padilla-En_la_gloria_de_un_portalillo">
       <head>
-	Padilla, <title>En la gloria de un portalillo</title> (MEX-Pc: Leg. 1/2, Christmas 1652), estribillo (mm. 6--17)
+	Padilla, <title>En la gloria de un portalillo</title> (MEX-Pc: Leg. 1/2, Christmas 1652), estribillo (mm. 6–17)
       </head>
       <graphic url="musicexamples/Padilla-En_la_gloria_de_un_portalillo.png"/>
     </figure>
