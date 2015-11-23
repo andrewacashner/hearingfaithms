@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+xhref="http://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng"
+type="application/xml"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model
+href="http://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng"
+type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <!DOCTYPE TEI [
 <!ENTITY chapter.preface SYSTEM "chapters/preface.xml">
@@ -11,7 +19,7 @@
   <fileDesc>
     <titleStmt>
       <title>
-	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos
       </title>
       <author>
 	Andrew A. Cashner
@@ -20,6 +28,7 @@
     <publicationStmt>
       <publisher>
 	Author's original manuscript.
+	Contact: cashner@usc.edu.
       </publisher>
       <date>
 	2015
@@ -27,13 +36,14 @@
     </publicationStmt>
     <sourceDesc>
       <bibl>
-	This is the author's original manuscript, authored in TEI-Lite XML.
+	This is the author's original manuscript, authored in TEI-Simple XML.
       </bibl>
     </sourceDesc>
   </fileDesc>
   <revisionDesc>
       <change when="2015-08-27">Began in LaTeX based on dissertation</change>
       <change when="2015-08-30">Began TEI version.</change>
+      <change when="2015-11-23">Switched from TEI-Lite to TEI-Simple</change>
     </revisionDesc>
 </teiHeader>
 
@@ -41,10 +51,12 @@
   <front>
     <titlePage>
       <titlePart type="main">
-	Faith, Hearing, and the Power of Music in Hispanic Villancicos, 1600–1700
+	Faith, Hearing, and the Power of Music in Hispanic Villancicos
       </titlePart>
       <byline>
-	Andrew A. Cashner
+	<docAuthor>
+	  Andrew A. Cashner
+	</docAuthor>
       </byline>
       <docDate>
 	2015

@@ -1,0 +1,242 @@
+<floatingText type="table">
+       <head>
+	 Topics of metamusical villancicos in global survey
+       </head>
+       
+     <!-- TABLE: METAMUSICAL TOPICS IN VILLANCICO SURVEY -->
+     <!-- TODO Rewrite table, or right-hand column, as body text? -->
+     <!-- TODO possibly another table with examples of titles and signatures for each
+	  type -->
+     <table cols="4" rows="10" xml:id="table:survey-metamusical-topics">
+       <row role="label">
+	 <cell>Quantity</cell>
+	 <cell>Percent</cell>
+	 <cell>Topic</cell>
+	 <cell>Notes</cell>
+       </row>
+       <row role="data">
+	 <cell>268</cell>
+	 <cell>30.9</cell>
+	 <cell>Hearing, sound</cell>
+	 <cell>
+	   Includes explicit references to the sense of hearing, as well as
+       echoes, applause and exhortations to <q>listen</q>, <q>hear</q>, or
+       <q>be quiet</q>.
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>150</cell>
+	 <cell>17.3</cell>
+	 <cell>Music, singing</cell>
+	 <cell>
+	   General references to music, singing, voices, harmony,
+	   rhythm, counterpoint, solmization
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>134</cell>
+	 <cell>15.5</cell>
+	 <cell>Birdsong</cell>
+	 <cell>
+	   Birds as musicians, their songs, specific birds like the
+	   <term>ruiseñor</term> (nightingale)
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>113</cell>
+	 <cell>13.0</cell>
+	 <cell>Dance</cell>
+	 <cell>
+	   Invitations to dance, specific dances such as the
+       <term>jácara</term>; many of these are <soCalled>ethnic</soCalled>
+       villancicos parodying blacks, Indians, <soCalled>gypsies</soCalled>,
+       Catalans, etc., singing and dancing
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>76</cell>
+	 <cell>8.8</cell>
+	 <cell>Instruments</cell>
+	 <cell>
+	   <term>Clarín</term> (clarion or bugle: 38 examples in survey), bells,
+	   drums, castanets, tambourines, flute, violin, even theorbo
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>75</cell>
+	 <cell>8.7</cell>
+	 <cell>Angels</cell>
+	 <cell>
+	   Specifically musical references to angels
+       (among a vast number of pieces about angeles in general): angel
+       choirs, specific types of angels like cherubim, seraphim
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>20</cell>
+	 <cell>2.3</cell>
+	 <cell>Heavens or spheres</cell>
+	 <cell>
+	   Usually not referring to English
+	   <mentioned>Heaven</mentioned> (in Spanish, this was
+	   <term>cielo Empyreo</term>), but to <term>cielos</term> as
+	   in the music of the heavenly spheres—the stars and planets
+	   of Ptolemaic and Boethian cosmology
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>16</cell>
+	 <cell>1.8</cell>
+	 <cell>Sensation and faith</cell>
+	 <cell>
+	   Pieces that connect faith with the senses, especially
+	   hearing and sight
+	 </cell>
+       </row>
+       <row role="data">
+	 <cell>15</cell>
+	 <cell>1.7</cell>
+	 <cell>Affects</cell>
+	 <cell>
+	   Exhortations to weep, cry, rejoice; or
+	   apostrophes to the affects themselves
+	 </cell>
+       </row>
+     </table>
+     </floatingText>
+
+
+<div type="section" xml:id="ch1:multiple-topics">
+  <head>Pieces with Multiple Topics: Padilla and Cererols</head>
+
+<p> It is common to find references to several of these topics in
+a single piece, and looking at two typical examples of this sort will
+begin to make clear what is meant by metamusical villancicos.  The
+first example is a villancico from the 1652 Christmas cycle (MEX-Pc:
+Leg. 1/2) written for the Cathedral of Puebla de los Ángeles by Juan
+Gutiérrez de Padilla (ca. 1590–1664).<!-- --><note> Many scholars use
+the full surname Gutiérrez de Padilla, but it will be convenient
+throughout the dissertation to refer to this composer the way the
+Puebla manuscripts do, as simply <q>Padilla</q>.  <!-- TODO ref to
+later chapters discussing Padilla --> </note>
+
+In just the first seven lines of this anonymous text, the
+villancico refers to sound, voices, singing, choirs, dancing, birds,
+and solmization (poem <ptr type="doc"
+target="#poem:En_la_gloria_de_un_portalillo"/>).  </p>
+
+<q type="poemtranslation"
+xml:id="poem:En_la_gloria_de_un_portalillo"> <head> <title>En la
+gloria de un portalillo</title>, estribillo as set by Juan Gutiérrez
+de Padilla, Puebla Cathedral, Christmas 1652 (MEX-Pc: Leg. 1/2)
+</head> <seg type="orig" xml:lang="es"> <lg> <l>En la gloria de un
+portalillo,</l> <l>los zagales se vuelven niños</l> <l>y en tonos
+sonoros</l> <l>repiten a coros</l> <l>en bailes lucidos.</l> <l>Canten
+las aves</l> <l>al Sol nacido.</l> <l>¡Vaya de fiestas!</l> <l>pues
+Dios es niño.</l> </lg> </seg> <seg type="trans"> <lg> <l>In the glory
+(<term>Gloria</term>) of a little stable,</l> <l>the shepherd boys
+become children</l> <l>and in resounding tones</l> <l>they repeat in
+chorus [or <q>in choirs</q>]</l> <l>in brilliant dances.</l> <l>Let
+the birds sing</l> <l>to the newbord Sun [the note
+<term>sol</term>]</l> <l>for God is a baby boy.</l> </lg> </seg> </q>
+
+<p> Padilla’s setting demonstrates several typical features of the
+genre (music example <ptr type="doc"
+target="#music:Padilla-En_la_gloria_de_un_portalillo"/>).  <!-- TODO
+cite recording --> The piece begins with a soloist whose words present
+a striking poetic conceit, and whose music likewise lays out a central
+musical theme for the <term>estribillo</term> (refrain).  The solo
+line is followed by a passage of polychoral dialogue between two
+four-voice choirs, concluding (typically for polychoral technique)
+with an emphatic cadence for the full chorus.  Padilla’s setting is in
+a lively triple meter (<term>tiempo menor de proporción menor</term>,
+notated CZ in Spanish sources) that makes frequent use of
+<term>sesquialtera</term> or hemiola.<!--
+
+--><note> The preface provides additional background about the
+terminology and common structures of seventeenth-century villancicos.
+Please note the discussion there on common voicing and instrumentation
+patterns, and on rhythmic theory.  </note>
+
+The shifts of duple and triple stresses combine with stresses on
+the second beat of the <term>compás</term> (<term>tactus</term>,
+measure) to create an energetic atmosphere with a rejoicing affect.
+The polychoral dialogue, with the voices of each choir declaiming
+homorhythmically in the same highly rhythmic, syncopated manner as the
+soloist, and with the <term>tiples</term> (boy sopranos) of both
+choirs singing at the top of their range, would have brilliantly
+seized the attention of listeners.  </p>
+
+<figure type="musicexample"
+xml:id="music:Padilla-En_la_gloria_de_un_portalillo"> <head> Padilla,
+<title>En la gloria de un portalillo</title> (MEX-Pc: Leg. 1/2,
+Christmas 1652), estribillo (mm. 6–17) </head> <graphic
+url="musicexamples/Padilla-En_la_gloria_de_un_portalillo.png"/>
+</figure>
+
+<p> After this introductory <term>exordium</term>, the Tiple I
+soloist continues to describe the scene at the manger.  As the
+shepherds <q>are turned to boys</q>, Padilla has the musicians
+<q>turn</q> modally by adding C sharps, accented in a sesquialtera (3
+: 2) group.  The passage that follows this moment is in evenly
+accented ternary patterns, in two-compás groups.  These groups
+emphasize the rhymes in <q xml:lang="es">tonos sonoros, repiten a
+coros</q> and the clear triple meter evokes the dances of <q
+xml:lang="es">en bailes lucidos</q>.  </p> <p> When the soloist refers
+to the newborn Sun, he sings the note identified in Guidonian
+terminology as <term>D (la, sol, re)</term>—<term>sol</term> in the
+hard (G) hexachord.  On the wame word, the bass accompanist plays a
+different <term>sol</term>, <term>G (sol, re, ut)</term>. (Note that
+<q xml:lang="es">sol re</q> in Spanish means <q>sun king</q>.)<!--
+
+--><note> The major Spanish music-theoretical treatises of the
+seventeenth century give full expositions of the techniques of
+Guidonian solmization, and the frequent use of Guido's syllables in
+villancicos suggests that these treatises do reflect how music was
+actually taught in practice.  See <ptr target="#Cerone1613"/> and <ptr
+target="#Lorente1672"/>.  </note> </p> <p> Padilla's villancico may be
+understood as <q>singing about singing</q> on several levels.  The
+poetic text, which being performed through music, itself refers to
+musical performance.  The performance by the Puebla Cathedral chapel
+dramatizes the historical celebration of the first Christmas while
+also celebrating the festival in Padilla’s present day.  The music is
+self-referential on a symbolic level (as in the plays on
+<term>sol</term>), but also functions on a more simple affective level
+to model and incite affections of exuberant joy and wonder, which
+contemporary theological writers emphasized were the appropriate
+affects for the feast of Christmas.<!--
+
+--><note> See the detailed discussion of such sources in chapter
+3.  </note> </p> <p> A similar example of a villancico that includes
+multiple metamusical topics is <title>Fuera, que va de
+invención</title> (E-Bbc: M/760) by Joan Cererols (1618–1680), monk
+and chapelmaster at the Benedictine Abbey of Montserrat near
+Barcelona.<!-- --><note> <ref><ptr target="#Cererols1932"/>,
+81–94.</ref> Another villancico by Cererols is the subject of chapter
+4.  <!-- TODO check chapter number; cite recording --> </note> Like
+the numerous catalog-style Christmas songs in English, from
+<title>Deck the Halls with Boughs of Holly</title> to <title>Chestnuts
+Roasting on an Open Fire</title>, this villancico summons up all the
+elements of a Christmas festival—masques, <q
+xml:lang="es">zarabandas</q> (sarabandes) and other dancing, lavish
+decorations and clothing, pipes, drums, and so on.  As in many
+villancicos, the chorus acts dramatically in the role of the festival
+crowd, shouting affirmations (<q xml:lang="es">¡vaya!</q>) for each
+element of the celebration as the soloists name them.  Whereas
+Padilla’s <title>En la gloria de un portalillo</title> focused
+primarily on the music of the historical Christmas day, the villancico
+of Cererols is unambiguously about celebrating <soCalled>Christmas
+present</soCalled>.  The piece seeks a theological meaning behind the
+Christmas customs: the masques of Christmas, the poem says, are
+appropriate because in the Incarnation of Christ, <q
+xml:lang="es">Dios se disfraza</q> (God masks himself).  The
+villancicos allows performers and listeners to celebrate the festival
+in two senses: to sing the praises of the Christmas feast, while also
+singing the praises of Christ that are appropriate to that feast.
+Cererols’s original audience of pilgrims to the mountaintop shrine of
+Montserrat would not have sung along with this piece, but the piece
+still invites their wholehearted participation in the rituals of
+Christmas, both through enjoying the choral singing (and joining
+<soCalled>in spirit</soCalled>, perhaps), and in the many other
+common-culture customs that the piece celebrates.  </p> </div>
+
