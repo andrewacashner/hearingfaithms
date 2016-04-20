@@ -8,8 +8,9 @@
 *.ent
 *.jpeg
 *.jpg
-*.log
 *.loe
+*.lof
+*.log
 *.log
 *.lot
 *.lom
@@ -25,6 +26,7 @@
 *.swp
 *.texi
 *.tiff
+*.toc
 *.xcf
 *.zip
 
