@@ -1,8 +1,9 @@
 \documentclass[draft]{vcbook}
-\includeonly{chapters/2-faith-hearing}
+%\includeonly{chapters/2-faith-hearing}
 
 \begin{document}
 
+\frontmatter
 \begin{titlingpage}
 \title{Faith, Hearing, and the Power of Music in Villancicos of Seventeenth-Century Spain and New Spain}
 \author{Andrew A. Cashner}
@@ -10,11 +11,12 @@
 \end{titlingpage}
 
 \tableofcontents*
-\listoffigures
-\listoftables
-\listofexpoems
-\listofexmusics
+\clearpage\listoffigures
+\clearpage\listoftables
+\clearpage\listofexpoems
+\clearpage\listofexmusics
 
+\mainmatter
 %****************************************
 \part{Listening for Faith in Villancicos}
 
@@ -54,4 +56,8 @@
 %**********************
 \printbibliography
 
+\appendix
+\appendixpage
+\label{appendix}
+\include{chapters/appendix}
 \end{document}
