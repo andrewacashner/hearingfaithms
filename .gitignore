@@ -7,6 +7,8 @@ aux/
 *.bcf
 *.count
 *.ent
+*.fdb_latexmk
+*.fls
 *.jpeg
 *.jpg
 *.loe
