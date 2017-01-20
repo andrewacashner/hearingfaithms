@@ -1,1 +1,0 @@
-/home/andrew/texmf/tex/latex/local/vcbook-proposal.cls
