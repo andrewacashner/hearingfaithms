@@ -81,12 +81,12 @@ between music, poetry, and theology in villancicos.
 It will be the second major monograph, after Paul Laird's \worktitle{Toward a 
 History of the Spanish Villancico}, to analyze the music of villancicos.%
   \begin{Footnote}
-      \Autocite{Laird:VC}. 
-      The otherwise excellent collection of essays, 
-      \autocite{Knighton-Torrente:VCs}, devotes little attention to the actual music.
-      Other than \autocite{Rubio:Forma} (limited by a focus on too small a 
-      repertoire), the only other works addressing musical structure in villancicos 
-      have been theses: \autocites{CaberoPueyo:PhD}{Illari:Polychoral}.
+  \autocite{Laird:VC}. 
+  The otherwise excellent collection of essays, 
+\autocite{Knighton-Torrente:VCs}, devotes little attention to the actual music.
+  Other than \autocite{Rubio:Forma} (limited by a focus on too small a 
+repertoire), the only other works addressing musical structure in villancicos 
+have been theses: \autocites{CaberoPueyo:PhD}{Illari:Polychoral}.
   \end{Footnote}
 It will be the first to be based on a global selection of sources and to 
 interpret them in light of contemporary theological literature and devotional 
@@ -101,7 +101,7 @@ postcolonial thought and other critical theory.
 This admirable work has greatly advanced our understanding of Hispanic music, 
 but at the same time it has not been sufficiently grounded in study of the 
 actual surviving sources of musical practice---the notated music.%
-  \Autocites{Torrente:PhD}{Baker:Harmony}{Irving:Colonial}
+  \autocites{Torrente:PhD}{Baker:Harmony}{Irving:Colonial}
   {BakerKnighton:MusicUrbanSociety}
 It is certainly true that the archival sources of music do not present a full 
 picture of music in Hispanic society, since they include primarily music used 
@@ -114,7 +114,7 @@ Villancicos are an important genre of Spanish literature as well as a musical
 genre, but literary studies have concentrated on the published works 
 of only a few poets---chiefly Sor Juana Inés de la Cruz---and have not 
 considered the musical aspects of the genre.%
-  \Autocite{Tenorio:SorJuana}
+  \autocite{Tenorio:SorJuana}
 Musical settings of villancicos are an important source of previously unstudied 
 villancico texts that are available only scattered through the various 
 performing parts of musical manuscripts.
@@ -128,8 +128,8 @@ grounded interpretive framework for early modern religious music.
 The study connects to a growing literature on sound, sensation, and musical 
 experience in the early modern world.%
   \begin{Footnote}
-      Notable examples include \Autocites{Rath:EarlyAmerica}{Feldman:Passions}
-      {Austern:Nature}{Gouk:MusicScienceMagic}
+  Notable examples include \autocites{Rath:EarlyAmerica}{Feldman:Passions}
+  {Austern:Nature}{Gouk:MusicScienceMagic}
   \end{Footnote}
 It differs from some of these studies, though, in its greater emphasis on the 
 interpretive act of listening to musical performative texts.
@@ -137,7 +137,7 @@ In this respect it is more similar to studies of Spanish music by Elisabeth
 LeGuin, on Italian opera by Martha Feldman, and in particular to the work of 
 David Yearsley on Lutheran music, all of which closely link musical analysis
 with cultural context.%
-  \Autocites{LeGuin:Tonadilla}{LeGuin:BoccheriniBody}
+  \autocites{LeGuin:Tonadilla}{LeGuin:BoccheriniBody}
   {Feldman:Opera}{Yearsley:BachCounterpoint}
 
 The book argues that if we want to understand what early modern Spanish 
@@ -219,16 +219,27 @@ broad themes---faith, sensation, music's power---in cultural studies, as well
 as in relation to the small but growing literature on early modern Hispanic 
 villancicos and other music.
 
-The rest of the chapter situates the musical theology of villancicos in the
-context of early modern theological and theoretical literature about music to
-develop a historically grounded concept of musical listening.
-understand what kind of power Catholics believed such music to have.
+The rest of this chapter seeks to recover early modern understandings of music's
+power.
+What did people in this culture hope would happen to them when they listened to 
+devotional music like villancicos?
+By what processes, precisely, could music work to link faith and hearing?
+
 The villancicos on the subject of music that will be studied in part II 
 consistently articulate a conception of music within the tradition of Christian 
 Neoplatonism, as developed by Augustine and Boethius and reinvigorated by early 
-modern theologians like Fray Luis de Granada and music theorists like Athanasius
-Kircher.%
-    \Autocites{LuisdeGranada:Simbolo}{Kircher:Musurgia}
+modern theologians.
+We will understand pieces more fully if we begin with an understanding of 
+music's theological functions within that tradition.
+A representative exponent of Neoplatonic theology in Hispanic culture is the 
+Dominican theologian Fray Luis de Granada, whose was one of the most widely 
+read authors in all genres of Spanish literature through the eighteenth 
+century.%
+  \autocite{LuisdeGranada:Simbolo}
+Reading Fray Luis along with the speculative music theory of Athanasius Kircher 
+(whose \worktitle{Musurgia universalis} was read in both Mexico and Manila), 
+the chapter develops a historically grounded conception of music listening.
+
 These writers understand earthly music to be an imperfect reflection of higher 
 forms of music---beyond the harmony of the spheres to the angelic chorus and 
 the mysterious harmonies of the triune Godhead. 
@@ -237,9 +248,11 @@ upward to these higher harmonies.
 The created world, they teach, presents people with a \soCalled{book of 
 nature}, and it is humans' task to learn to read this book and thereby come to 
 know and adore its author.
-
 In an age in which most books were read aloud, music becomes a way to hear the 
 book of nature read aloud.
+The same proportions and ratios that were inscribed in creation as marks of the 
+Creator's mastery were turned from potential into sounding reality through 
+music. 
 For people who understood \quoted{Man} as a microcosm of all creation, the 
 human voice made audible the very structure of the universe.
 And for people who believed that the divine Word had taken on flesh in Jesus 
@@ -260,10 +273,25 @@ This understanding makes it possible to propose a preliminary taxonomy of how
 villancicos functioned theologically to connect faith and hearing. 
 I identify three modes of listening to villancicos that emphasize different 
 theological functions: mnemonic, contemplative, and affective.
-These three functions emphasize, respectively, music's potential to serve as a tool for
-remembering words and concepts, music's ability to disclose the hidden harmonies
-of creation, and music's power to move human bodies in sympathetic vibration and
-unite them with the divine.
+In the mnemonic mode of listening, music functions as a tool for remembering 
+language-based concepts, in which the words are primary and musical structures 
+serve to help the words stick in memory.
+A contemplative mode of listening focuses more on the sonic structures of  
+music, relatively independent of words, as bearers of a meaning of their own, 
+which in Neoplatonic fashion communicate a message beyond words about the 
+creation and its Creator.
+This type of listening requires more knowledge of musical-rhetorical devices 
+and contrapuntal techniques. 
+Affective listening focuses on music's power to move the body and soul, working 
+actively to unite a community of listeners together in sympathetic vibration.
+
+The chapter concludes that villancicos linked faith and hearing by making 
+audible not just propositions of belief (doctrine), but by embodying the 
+communal celebration of shared values (doxology).
+The social and economic functions of villancicos, which until now have been 
+considered primary, should be understood as closely linked with this 
+theological function.
+
 
 \subsubsection{Chapter 2: Making Faith Appeal to Hearing}
 
@@ -281,7 +309,7 @@ church.
 
 The Tridentine Catechism begins with Romans~10:17, \quoted{Faith comes by 
 hearing, and hearing by the word of Christ}.%
-    \Autocite{Catholic:Catechismus1614}
+  \autocite{Catholic:Catechismus1614}
 The Roman Church, it says, is the embodiment of Christ, the Word of God, in the 
 world.
 Its teachers must accommodate their teaching to \quoted{the sense of hearing 
@@ -294,56 +322,56 @@ most clear on the missions and in colonial settings.
 Accounts like that of the five Japanese youths who toured Europe in the 1580s 
 demonstrated that both personal subjectivity and cultural conditioning affected 
 people's ability to hear the Church's teaching rightly.%
-  \Autocite{Massarella:JapaneseTravellers}
+  \autocite{Massarella:JapaneseTravellers}
 People needed to learn to listen properly in order to acquire faith and not be 
 deceived or confused.
 
 Athanasius Kircher wrote in 1650 that music fitted to sacred words could move 
 listeners to \quoted{experience the truth of what was said}.%
-  \Autocite{Kircher:Musurgia}
+  \autocite{Kircher:Musurgia}
 But Kircher takes for granted that listeners know how to hear music rightly, 
 even as he elsewhere acknowledges that individuals and nations perceive music 
 differently.
-Both individual subjectivity and cultural conditioning, then, posed challenges
-to the task of making faith appeal to the ear.
 While in some ways music promised to break through obstacles of perception, 
 music also required individual and communal \quoted{ear training} to 
 successfully connect people with the Church.
 
-Spanish literature gives evidence of widespread anxiety about hearing and faith.
-A striking example is the 1634 Corpus Christi play, \worktitle{El nuevo palacio
-del Retiro}, by court poet Pedro Calderón de la Barca.%
-    \Autocite{Calderon:Retiro}
+The villancicos studied in this chapter form part of the effort to make faith 
+appeal to hearing, by addressing directly the relationship between the two.
+Two pieces based on the same poem, composed in the later seventeenth century by 
+successive chapelmasters at Segovia Cathedral Miguel de Irízar and Jerónimo de 
+Carrión, present allegorical contests in which each sense receives a 
+\soCalled{hearing} before Faith, who gives first prize to the sense Hearing.
+
+The chapter connects these pieces to a 1634 Corpus Christi play, \worktitle{El 
+nuevo palacio del Retiro}, by court poet Pedro Calderón de la Barca.%
+  \autocite{Calderon:Retiro}
 As part of the festivities inaugurating Philip IV's new palace retreat, the 
-Buen Retiro, Calderón staged both a contest of the senses before the allegorical
-character Faith.
+Buen Retiro, Calderón staged both a contest of the senses before faith that 
+raises some doubts about hearing's reliability.
 Faith crowns Hearing not because of his strengths but because of the sense's 
 \quoted{incertitude}, because he humbly admits that he is \quoted{the sense 
 most easily deceived}.
-If hearing is so easily deceived, how could the church effectively use auditory
-art forms like sung poetry and drama to propagate faith?  
+If hearing is so easily deceived (we may wonder from our cultural remove), how 
+could the church effectively use auditory art forms like sung poetry and drama 
+to propagate faith?
 This doubt becomes even stronger when Calderón stages an extended anti-Semitic 
-dialogue in which Judaism confesses his inability to believe what Faith tells
-him, lamenting, \quoted{I have listened to Faith without faith}.
+dialogue dramatizing the inability of \soCalled{Judaism} to understand what 
+Faith is telling him.
+As Judaism keeps lamenting, \quoted{I have listened to Faith without faith}.
 Recalling the Tridentine Catechism's emphasis on both accommodation and 
 training, how was one supposed to acquire the capacity to hear \quoted{the 
 Faith} of the church, \emph{with} faith?
 
-The villancicos studied in this chapter form part of the effort to make faith
-appeal to hearing, by addressing directly the relationship between the two.
-Two pieces based on the same poem stage a contest of the senses like that of
-Calderón; they were composed in the later seventeenth century by successive
-chapelmasters at Segovia Cathedral Miguel de Irízar and Jerónimo de Carrión.
-Each sense receives a \soCalled{hearing} before Faith, who gives first prize to
-Hearing.
-Two \quoted{villancicos of the deaf} by Matías Ruíz of Madrid and Juan 
+The \quoted{villancicos of the deaf} by Matías Ruíz of Madrid and Juan 
 Gutiérrez de Padilla of Puebla demonstrate a prevalent fascination with the 
 problematic role of hearing in acquiring faith.
 Both pieces present comic catechism lessons between hard-of-hearing men and 
 their religious teachers.
 The \quoted{deaf} men mishear the teaching in absurd and even impious ways.
 These pieces certainly mock disabled people while also poking fun at 
-ineffective and incompetent teachers, and warning against spiritual deafness.
+ineffective and incompetent teachers, and at the spiritual deafness of all 
+sinners.
 
 These pieces on hearing and faith reflect a certain amount of doubt and anxiety 
 about how much hearing could be trusted, who had the proper capacity for 
@@ -371,8 +399,8 @@ establish themselves within a tradition of metamusical representation.
 
 This chapter interprets a pair of villancico families that represent Christ as
 both singer and song.
-The first is \worktitle{Voces, las de la capilla}, set by Juan Gutiérrez de
-Padilla (Puebla, 1657).
+The first, and the subject of this chapter, is \worktitle{Voces, las de la 
+capilla}, set by Juan Gutiérrez de Padilla (Puebla, 1657).
 The second is \worktitle{Suspended, cielos, vuestro dulce canto}, set by Joan 
 Cererols (Montserrat, ca. 1660).
 They invite hearers to listen contemplatively for the voice of Christ echoing 
@@ -381,7 +409,9 @@ means through which God reorders the created world to be in harmony with the
 incarnate Christ.
 
 In Padilla's \worktitle{Voces}, the chorus exhorts itself, \quoted{Voices of 
-the chapel choir,/ keep count with what is sung,/ for the King is a musician}.
+the chapel choir,/ keep count with what is sung,/ for the King is a musician/ 
+and notes even the most venial dissonances/ in the manner of Christ, the infant 
+prince [\foreign{infante}]/, as in the manner of David, the monarch}.
 The piece celebrates the baby Jesus as the heir of the musician-king David, as 
 chapelmaster, singer, and even as the song that is sung.
 In a series of ingenious and cryptic conceits after the manner of the 
@@ -392,24 +422,29 @@ Christ's life, death, and resurrection as God incarnate represent a
 \quoted{composition} in which the divine chapelmaster could \quoted{prove the 
 consonances of Man and God}.
 Padilla projects and dramatizes the poem through musical techniques both 
-literal (numerological puns, pitches that pun on the solmization syllables used
-in the poem) and figurative (evoking the song of angels, men, and beasts in
-Christ's stable in the style of a double-choir madrigal).
+literal (numerological puns, matching the solmization syllables in the poem by 
+using the same notes in the voices) and figurative (evoking the song of angels, 
+men, and beasts in Christ's stable in the style of a double-choir madrigal).
 
-Padilla's piece distills the most central elements of contemporary Christmas
-doctrine and doxology.
+In its own gnomic way, Padilla's piece distills the most central elements of 
+contemporary Christmas doctrine and doxology.
 The chapter unlocks its rich meanings by reading it in the context of liturgy, 
 preaching, and Biblical interpretation.
 The sources for interpretation are based on what materials would have been 
 available to Padilla himself, from the evidence of Puebla's seminary and 
-convent libraries; with particular emphasis on the exegetical writings of
-Cornelius à Lapide and a contemporary model sermon of Fray Luis de Granada.
+convent libraries.
+Among these sources, the exegete Cornelius à Lapide sums up a vast range of 
+patristic and medieval sources as they were understood in Padilla's day. 
+A contemporary model sermon by Fray Luis de Granada presents many of the same 
+tropes of Christmas, often in strikingly similar language.
+
 A central part of the trope of voice at Christmas is the patristic concept of 
-the Christ-child as \term{Verbum infans}, found in Christmas sermons by St.
-Augustine and St. Bernard of Clairvaux.
-The trope reveres Christ as the Word made flesh (Jn. 1) who as an infant (Latin 
+the Christ-child as \term{Verbum infans}. 
+Christmas sermons by Augustine and Bernard of Clairvaux develop this trope of 
+Christ as the Word made flesh (Jn. 1:1) who as an infant (Latin 
 \foreign{in-fans}) is unable to speak any words, but who is, in his body, the 
 Word itself.
+He cannot speak, but he does cry.
 This villancico extends the trope by interpreting Christ's inarticulate cries 
 as musical performance.
 
@@ -421,13 +456,16 @@ capilla}) set ten years earlier by the chapelmaster of Seville Cathedral, Luis
 Bernardo Jalón, and evidence for an earlier lost setting beginning 
 \worktitle{Voces, las de la capilla} by Francisco de Santiago, Jalón's 
 predecessor at Seville and possibly a personal acquaintance of Padilla's.
+By setting the older text from Santiago rather than a simplified version by 
+Jalón, Padilla may have been seeking to align himself with Santiago's 
+compositional pedigree, which extended back the Hapsburg Flemish Chapel.
 
 
 % Heavenly Dissonance (Cererols)
 
-The second example, \worktitle{Suspended, cielos} by Joan Cererols, represents a
-family of villancico poems set to music in various versions at least eight times
-between 1651 and the end of the seventeenth century.
+\worktitle{Suspended, cielos} by Joan Cererols represents a family of 
+villancico poems set to music in various versions at least eight times between 
+1651 and the end of the seventeenth century.
 \quoted{Suspend, O heavens, your sweet chant}, Cererols's chorus begins, 
 addressing the typical villancico exhortation to listen, to the heavenly 
 spheres rather that the congregation. 
@@ -462,21 +500,31 @@ a higher music, audible only with the ears of faith.
 
 The chapter contextualizes the piece's representation of sidereal music with 
 the musical-cosmological writings of Athanasius Kircher.
+Kircher illuminates the question of the tunefulness of the music of the spheres.
+Kircher explains that some planets exert consonant influences on the earth, but 
+others are dissonant, and must be held in tension---prepared, resolved in 
+musical terms---by the other planets. 
+
 In an age of new astronomical discoveries, it may be that this emphasis on the 
 untunefulness of the heavens, bears witness to a growing anxiety about the old 
 cosmology.
 But this shift in emphasis marks a different trajectory than that theorized in 
 an earlier generation by John Hollander, in his study of English poetry on 
 music from the same period.%
-  \Autocite{Hollander:Untuning}
-Rather than providing evidence for a \quoted{disenchantment} and secularization
-process, villancicos on heavenly music continue to manifest genuine belief in
-the old cosmology; though they do show an increasing preference for human affective
-experience over abstract astronomical speculation.
+  \autocite{Hollander:Untuning}
+Certainly some villancicos do fit with Hollander's argument that references to 
+heavenly music become increasingly cliché, generic, and conventionalized.
+But the traditional Roman Catholic culture of imperial Spain does not fit 
+Hollander's broader claim that this is evidence of a \quoted{disenchantment} 
+and secularization process.
+Poets and composers continue to manifest genuine belief in the old cosmology; 
+if anything the increasing abstraction of their references to heavenly music 
+might be seen as a way of preserving the old cosmology in a way that made it 
+immune from scientific attack.
 
-As with \worktitle{Voces}, the chapter traces the genealogy of the
-\worktitle{Suspended, cielos} family through multiple poetic versions, which
-also provide evidence for lost musical settings.
+The chapter traces the genealogy of the \worktitle{Suspended, cielos} family 
+through multiple poetic versions, which also provide evidence for lost musical 
+settings.
 The imprints demonstrate that from a 1651 Royal Chapel performance in Madrid, 
 the text traveled quickly through a network of affiliated composers across 
 Iberia and into the New World, including a fragmentary musical setting from a 
@@ -486,18 +534,6 @@ the influential villancico poet Manuel de León Marchante's elaborated version
 of the poem. 
 
 \subsubsection{Chapter 4: The Earthly Side of Heavenly Music (Segovia)}
-
-The first piece of the cycle composed for Christmas 1678 at Segovia Cathedral by
-its chapelmaster Miguel de Irízar is a metamusical piece about celestial music
-coming down to earth: \worktitle{Qué música celestial}.
-This chapter continues to trace the tropes of heavenly music we have seen
-in the previous chapter as they continue to develop in the later
-seventeenth-century. 
-By focusing on the composition of this Christmas cycle, the chapter
-provides the first detailed study of how a complete set of villancicos was
-assembled, from assembling the poetic texts to drafting the musical setting and
-having it copied and performed.
- % more XXX
 
 Segovia Cathedral's remarkable archive is one of the only places to preserve a 
 large number of seventeenth-century Spanish composer's draft scores, rather 
@@ -537,7 +573,7 @@ voces al cielo} was set first by Pablo Bruna, the blind organist of Daroca in
 the region of Zaragoza, and then in a variant text by Miguel Ambiela, who had 
 studied in Daroca just after Bruna's death and who would later go on to 
 prestigious positions in Lérida, Zaragoza, and Toledo.%
-  \Autocite{Calahorra:Suban}
+  \autocite{Calahorra:Suban}
 The similarities between the pieces make it clear that Ambiela's work is a 
 conscious homage to Bruna's, even as the differences also demonstrate how 
 Ambiela differentiated himself from the older generation's aesthetic. 
@@ -583,7 +619,7 @@ extension, Christ's own body.
 Allegorical traditions connect plucked chordophones---originally the cithara 
 and lyre---to the body of Christ and by extension to the bodies of virgins and 
 martyrs, as Craig Monson has shown.%
-  \Autocite{Monson:DivasConvent}
+  \autocite{Monson:DivasConvent}
 The villancico extends this patristic tradition by applying it to a 
 contemporary Spanish instrument.
 Similarly, the painter Manuel Correa included the vihuela along with harp, 
@@ -612,7 +648,7 @@ translations, bibliography, and index.
 
 The book follows the general plan and content of my 2015 dissertation, but this 
 will be a new work.%
-  \Autocite{Cashner:PhD}
+  \autocite{Cashner:PhD}
 I have reorganized the chapters and shifted their emphasis.
 The last chapter will include the most new research since the dissertation.
 The other chapters need to be rewritten in a more concise, argument-driven 
