@@ -31,5 +31,6 @@ aux/
 *.tiff
 *.toc
 *.xcf
+*.xdv
 *.zip
 
