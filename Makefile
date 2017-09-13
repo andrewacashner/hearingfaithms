@@ -1,6 +1,8 @@
+MAIN=vcbook
+
 all: 
-	latexmk -outdir=aux -bibtex -pdf main 
-	cp aux/main.pdf ./
+	latexmk -outdir=aux -bibtex -pdf $(MAIN)
+	cp aux/$(MAIN).pdf ./
 
 clean:
-	rm main.pdf aux/*.* aux/*/*.* 
+	rm $(MAIN).pdf aux/*.* aux/*/*.* 
