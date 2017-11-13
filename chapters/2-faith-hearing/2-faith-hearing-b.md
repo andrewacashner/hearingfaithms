@@ -1,51 +1,3 @@
-### Experiencing Spiritual Truth through Music
-
-This tension between accommodating the ear and training it may be seen in the explanations of music's power by Athanasius Kircher. This Jesuit polymath's compendium of musical knowledge, *Musurgia universalis*, was published in Rome in 1650 and thence disseminated throughout the Hispanic world, with copies sent to centers of colonial culture including Puebla and Manila. %\begin{Footnote} On the worldwide distribution of the book as far as Manila, see \autocite[48--50]{Irving:Colonial}.  The book may be found in historical collections in Madrid, Barcelona, Mexico City, and Puebla (two copies).  On Kircher, see \autocites{Findlen:Kircher}{Godwin:KircherTheater}. \end{Footnote}
-
-Kircher discusses the power of music several times throughout his ten-part treatise, including a detailed analysis of "whether, why, and what kind of power music might have to move people's souls, and whether the stories are true that were written about the miraculous effects of ancient music." % \Autocite [bk. ~VII, 549: "Vtrum, cur, & quomodo Musica uim habeat ad animos hominum commouendos, & vtrum vera sint, quæ de mirificis Musicæ Veteris effectibus scribuntur." ] {Kircher:Musurgia}Kircher's contribution to this favorite controversy of the Renaissance is to defend the superiority of modern music on the basis of, among other factors, its increased ability to move listeners through varieties of musical structure and style. 
-
-For Kircher, music added such power to words, that it could move a listener not only to understand the subject of the words, but to physically experience their truth. According to legend the famed *aulos* player Timotheus aroused Alexander the Great to the furor of war through music, and Kircher says he did this by adapting his song both to the feeling of war and to the disposition of the king. 
-
-\begin{Footnote} Kircher is probably responding to Vincenzo Galilei, *Dialogo della musica* (Florence, 1581), 90, in discussing the Classical source, Dio Chrysostom, *Orationes* 1 (\textgreek{Περὶ Βασιλείας}); a later treatment of this subject is John Dryden, *Alexander's Feast, or the Power of Music* (London, 1697).  \end{Footnote}
-
-The same music, he says, would have had a different effect on someone else; and to illustrate this contrast, Kircher goes on to paint a remarkable picture of how sacred music can move those who are disposed to it:
-
-> If, on the other hand, [the musician] addressed the sort of man who was devoted to God and dedicated to meditation on heavenly things, and wished to move him in otherworldly affects and rapture of the mind, he would take up some notable theme expressed in words---a theme that would recall to the listener's memory the sweetness and mildness of heavenly things--- and he would fittingly adapt it in the Dorian mode through cadences and intervals, then [the listener] would experience that what was said was actually true, those heavenly things that were made by harmonic sweetness, and he would suddenly be carried away beyond himself to that place where those joyful things are true. % \Autocite [bk. ~7, 550: "Sicuti contra, si quis Deo deuotum hominum rerumque cœlestium, meditationi deditum in exoticos affectus raptusque mentis commouere vellet is supra insigne aliquod verborum thema, quod rerum cælestium dulcedinem, & suauitatem auditori in memoriam reuocaret, modulo dorio per clausulas interuallaque aptè adaptet, & experietur quod dixi verum esse, statim extra se factos dulcedine harmonica eò, vbi vera sunt gaudi rapi: vidi ego nonsemel in viris ordinis nostri sanctitate illustribus huiusmodi experimenta." ] {Kircher:Musurgia}
-
-
-
-Kircher says that the experience of Jesuit missionaries around the world provides ample evidence of this miraculous power of music combined with preaching. But Kircher's depiction of music's power goes well beyond the Jesuit formula of "teaching, pleasing, and persuading." %\begin{Footnote} On the Jesuit approach to religious arts, see \autocite[35--51]{Bailey:Art}. \end{Footnote}
-
-Music not only makes the teaching of doctrinal truth appealing and persuasive; it actually transforms listeners through affective experience. In this conception, music links the objective truth with subjective experience through the unique ways that music affects the human body. Through principles of sympathetic vibration, the humoral-affective properties of music could be transferred from composer and performer to listeners. 
-
-This passage in Kircher's Book VII comes in the midst of a comparison between the fabled powers of music in the ancient world versus the possibilities for moving the affections in contemporary music. Kircher argues that music moves a listener's soul through sympathetic resonance that creates harmony between the numerical proportions of the music and the humoral composition of the listener. The various modes and styles of modern music, which Kircher catalogues in detail, apparently have inherent affective properties: the Dorian mode, for example, is suited to grave and pious religious sentiment. For Kircher, modern music was superior to ancient music not because it operated according to different principles, but because modern musicians had found ways to extend and amplify the same principles that made ancient music effective. 
-
-The fundamental principle that gave music its affective power was sympathy. %\begin{Footnote} On the links between this interest in the occult powers of music and early scientific research, see \autocites{Gouk:Sciences}{Gouk:Harmonics}. \end{Footnote}
-
-Music created physical harmony---sympathetic vibration---between the affective subject of the music (that is, what the music was meant to express), and the listening subject, so that the music moved in the same way as the affections it expressed, and this in turn moved the listener to the same affections. Music with different intervallic relationships, with the semitone placed differently in different modes, produced different effects. Kircher explains:
-
->  Since harmony is nothing other than the concord, agreement, and mutually corresponding proportion between dissimilar voices, this proportion, then, of numbers, sets the air in motion; the motion, indeed, is to be varied by the ratios of various intervals, ascending and descending; so that the spirits [i. e. , *spiritus animales*], or the implanted internal air [. . .] , should be moved according to the proportions of the motion of the external air, so that the spirits' motion are effected in various ways; and through this affections can be engendered in the person. % \Autocite [552: "Cum harmonia nihil aliud sit, quam dissimilium vocum concordia, consensus, & undequaque correspondens proportio; proportio autem numerorum in motu aeris elucescat; motus verò pro varia interuallorum, ascensus, descensusque ratione varius sit, spiritus quoque, siue aer internus implantatus, vti paulò ante ostensum fuit, iuxta proportionem motus aeris extrinseci moueatur, fit vt spiritus moti ope vari\c{e}, indè in homini affectiones nascantur. "] {Kircher:Musurgia}
-
-
-
-The structure of the music's movements must correspond to the movements of the body's humors. Kircher theorizes four conditions that are necessary for music to achieve an effect; without any one, music will fail to move the listener in the intended way:
-
->  The first is harmony itself.  Second, number, and proportion.  Third, the power and efficacy of the words to be pronounced in music itself; or, the oration.  Fourth is the disposition of the hearers, or the subject's capacity to remember things. % \Autocite [550: "Tertius purè naturalis est, per harmonicum, scilicet sonum, qui nisi quatuor conditiones annexas habeat, quarum vna deficiente, desideratus effectus minimé obtinebitur: Prima est ipsa harmonia.  Secunda, numerus, & proportio.  Tertia, verborum in ipsa musica prouniciandorum vis, & efficacia, siue ipsa oratio.  Quarta audientis dispositio, siue subiectum memoratarum rerum capax." ] {Kircher:Musurgia}
-
-
-
-If there must be this kind of congruence between music and listener, then it makes sense that Kircher acknowledges that music affects different people in different ways. First, Kircher concedes that geographic and cultural factors influence music style and its effect, such that Italians and Germans are moved by different styles and therefore compose differently. These national styles, he says, are the result of a national "genius" (that is, the special gift of that people), as well as environmental factors, such that Germans draw a grave style from living in a cold climate, contrasted with the more moderate style of Italians. People of the Orient who visit Rome, Kircher says, do not enjoy the highly delicate music of that city, and prefer their own strident, clangorous music. These differences of style and perception are caused by patriotism---the inordinate love of things from one's own country, as Kircher describes it; and by what each person is accustomed to hearing, which is shaped by the traditions of each country. % \Autocite[543--544]{Kircher:Musurgia} % XXX translation in Strunk
-
-Moreover, "just as different nations enjoy a different style of music, likewise within each nation, people of different temperaments appreciate different styles that conform the most to their natural inclinations." % \Autocite [544: "Quod quemadmodum diversæ nationes diuerso stylo musico gaudent, ita & in vnaquaque natione diuersi temperamenti homines, diuersis stylis, vnusquisque suæ naturali inclinationi maximè conformibus afficiuntur." ] {Kircher:Musurgia} What delights a person with a sanguine temperament might enrage or madden a melancholic listener; what has a strong effect on one person may have no effect at all on another. % \Autocite[550]{Kircher:Musurgia} "Music does not just move any subject, but the one with which the natural humor of the music is congruent [. . .]  for unless the spirits of the receiving subject correspond exactly, the music accomplishes nothing." % \Autocite[550: "Musica igitur vt moueat, non qualecunque subiectum vult, sed illud cuius humor naturalis musicae congruit [. . .]  quæ nisi recipientis subiecti spiritui extactè respondeant, nihil efficient. "] {Kircher:Musurgia} Furthermore, Kircher suggests that not only humoral temperament but alsotraining and intelligence are a factor in individual listening, since heincludes the capacity of memory in his list of four conditions for effectivemusic. 
-
-Despite Kircher's confidence in modern musicians' ability to make music music move people, the conditions he names may not have been as easy to fulfill as he suggests. There must be congruence, first of all, between the structure of the music and subject of that music: the music must move in the same way as the affective movements it seeks to incite. Harmonic ratios, metrical proportions, verbal rhetoric---all of these must align, but they were still not enough without the fourth condition, the disposition of the hearer. The listener must have a humoral temperament that is moved in the desired way by the music.  
-
-This means that the tension between acccommodating hearing and training it is multiplied vastly by the addition of music. While it might seem that music would allow for greater accommodation, the number of potential obstacles is increased because the content of the music, the performance, and the listeners must all be in harmony. When Kircher compares music to preaching, he says that an effective preacher is familiar with his audience and therefore "knows which strings to pluck"---a phrase that recalls Antonio de Azevedo's image of the religious teacher with harp in hand. % \Autocite [551: "Nouerat enim prædicator fuorum auditorum inclinationem; nouerat chordam, quam tangere debebat." ] {Kircher:Musurgia}But Kircher never fully resolves the tension between the universal power of music and the variables of individual subjectivity and cultural conditioning. 
-
-Music could, as Kircher describes, move someone to experience the truth of religious teaching through affective experience, but only if the listener was "the sort of man who was devoted to God"---that is, someone who already had faith, whose temperament was already disposed to religious devotion of this kind.  If, as Kircher acknowledges, people of different nations are moved by different kinds of music, and if individual people respond differently depending on their temperament as well as their intellectual capacity, how could the creators of sacred music be assured of its power?
-
-Kircher's theory represents one attempt to reconcile the challenges of accommodating the ear and training it.  But outside the erudite realm of theoretical speculation, this was a problem that faced every Catholic church leader and musician who was serious about using music to make faith appeal to hearing. How could the Church use music to accommodate hearing, when individuals and communities did not hear the same way? The capacity to listen faithfully, and therefore music's power to make faith appeal to hearing, would be limited by both personal subjectivity and cultural conditioning, and these limitations created anxiety and fear about the role of hearing in faith. 
-
 ## Danger and Doubt
 
 ### Subjective Experience in Faith
@@ -135,7 +87,11 @@ Through vernacular poetry and likely also through musical style, the creators an
 
 Two villancicos from Segovia in the later seventeenth century demonstrate how a sophisticated discourse on sensation and faith was presented through devotional music. The contest of the senses in Calderón's play is echoed in villancicos by successive chapelmasters at Segovia Cathedral. Miguel de Irízar was born in 1634 and served at Segovia from 1671 until his death in 1684. Jerónimo de Carrión, born in 1660, followed after Irízar in 1684 and died in 1721. % \Autocite{LopezCalo:Segovia}Both chapelmasters set variants of the same villancico poem, *Si los sentidos queja forman del Pan divino*, which was attributed to Zaragoza poet Vicente Sánchez in the posthumous publication of his works in 1688. % \Autocite{Sanchez:LiraPoetica}
 
-The Segovia Cathedral archive preserves manuscript performing parts for both settings along with Irízar's draft score for his version. Irízar corresponded with a peninsular network of musicians, often about exchanging villancico poetry; he probably received this poem from a colleague inZaragoza.  He drafted his scores on the backsides and in the margins of these letters inmakeshift notebooks. %\begin{Footnote} The performing parts for Irízar's setting are in \signature{E-SE}{5/32}; those for Carrión's are in \signature{E-SE}{28/25}.  Irízar's letters and compositional process will be discussed further in a later chapter.  % XXX See also \Autocites{LopezCalo:IrizarLetters1}{Olarte:Irizar}{Rodriguez:Networks}. \end{Footnote}
+The Segovia Cathedral archive preserves manuscript performing parts for both settings along with Irízar's draft score for his version. Irízar corresponded with a peninsular network of musicians, often about exchanging villancico poetry; he probably received this poem from a colleague inZaragoza.  He drafted his scores on the backsides and in the margins of these letters inmakeshift notebooks. 
+
+[<]: The performing parts for Irízar's setting are in \signature{E-SE}{5/32}; those for Carrión's are in \signature{E-SE}{28/25}.  Irízar's letters and compositional process will be discussed further in a later chapter.  % XXX See also \Autocites{LopezCalo:IrizarLetters1}{Olarte:Irizar}{Rodriguez:Networks}. 
+
+
 
 
 
@@ -157,7 +113,11 @@ Hearing stood out from the other senses because for it alone, the object of perc
 
 The poetic contests of the senses thus rearrange the traditional scholastic hierarchy by putting Hearing at the end for a dramatic climax. Sight comes first, but Hearing, the underdog competitor, triumphs at the last. 
 
-\begin{Footnote} Irízar alone puts Hearing in its traditional position, though this goes against the spirit of the poetic text; perhaps he was influenced by a scholastic training to "correct" the philosophical order.  \end{Footnote}
+
+
+[<]: Irízar alone puts Hearing in its traditional position, though this goes against the spirit of the poetic text; perhaps he was influenced by a scholastic training to "correct" the philosophical order.  
+
+
 
 In the Sánchez villancico, each of the coplas highlights the failure of one of the senses to rightly perceive the sacrament. For example, the eyes "do not look at what they see," and the Eucharist reduces Sight to "blindness" (copla 1). The "colors" and "rays of light" through which Sight normally operates are "hidden" "beneath transparent veils" and "transformed" so that "God Incarnate is not seen" (copla 2). Similarly, Touch may make contact with the host, but not with the "mystery" hidden within (copla 3). Taste and Smell (coplas 5 and 6) are similarly hindered by their ability only to perceive material accidents and not spiritual substance. 
 
@@ -167,7 +127,11 @@ Sánchez presents hearing in the last copla, through the conceit of music. The s
 
 %%% XXX Redo all measure numbers according to new edition
 
-The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this contest of the senses in sound. Their contrasting styles invite different types of involvement from listeners. In the earlier setting, for Corpus Christi 1674 at Segovia Cathedral, Miguel de Irízar creates a musical competition in grand festival style by pitting his two four-voice choirs against each other in polychoral dialogue (\exmusicref{exmusic:Irizar-Si_los_sentidos}). %\begin{Footnote} \Autocite{Cashner:SingingAboutSingingI}.  \signature{E-SE}{5/32} is the manuscript performing parts in a copyist's hand, while \signature{E-SE}{18/19} is the draft score in Irízar's hand, and includes the heading, "Fiesta del SSantissimo de este año del 1674." \end{Footnote}
+The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this contest of the senses in sound. Their contrasting styles invite different types of involvement from listeners. In the earlier setting, for Corpus Christi 1674 at Segovia Cathedral, Miguel de Irízar creates a musical competition in grand festival style by pitting his two four-voice choirs against each other in polychoral dialogue (\exmusicref{exmusic:Irizar-Si_los_sentidos}). 
+
+[<]: \Autocite{Cashner:SingingAboutSingingI}.  \signature{E-SE}{5/32} is the manuscript performing parts in a copyist's hand, while \signature{E-SE}{18/19} is the draft score in Irízar's hand, and includes the heading, "Fiesta del SSantissimo de este año del 1674." 
+
+
 
 Polychoral dialogue, of course, is typical of large-scale villancicos, but Irízar has the choirs interrupt each other in ways that create not just a dialogue, but a debate. Like a film editor creating a fight scene, Irízar builds intensity by cutting the text into shorter phrases to be tossed back and forth between the two choirs: *no se den por sentidos* becomes *no se den* and then *no, no*. 
 
@@ -175,7 +139,11 @@ Polychoral dialogue, of course, is typical of large-scale villancicos, but Iríz
 
 Irízar creates a steadily increasing sense of excitement through shifts of rhythmic motion and style. The setting of the opening phrase suggests a tone of hushed awe: the voices sing low in their registers, with a slow harmonic rhythm, and pause for prominent breaths (\measurenums{1--9}). The harmonies here change less frequently than in the following sections, creating a relatively static feeling for this introduction. In \measurenum{10} Irízar has the ensemble switch to ternary meter and increases the rate of harmonic motion. The sense of antagonism is heightened when one choir interrupts the other with exclamations of *no* on normally weak beats (\measurenums{13--14}). When Irízar returns to duple meter in \measurenum{18}, the voices move in smaller note values (*corcheas*) and exchange shorter phrases, so that the tempo feels faster (and the actual tempo could certainly be increased here in performance). Each choir's entrances become more emphatic, repeating tones in simple triads, and Irízar adds more offbeat accents and syncopations, particularly for *no se den por sentidos los sentidos* in \measurenums{24--32}. The estribillo builds to a climactic *peroratio* with the voices breaking into imitative texture in descending melodic lines. 
 
-The distinguishing stylistic characteristics of the setting suggest that Irízar is evoking a musical battle topic, a style one may find in *batallas* for organ as well as other villancicos on military themes. %\begin{Footnote} \Autocites[s. v. *battle music*]{Grove}{Sutton:IberianBatalla}, who discusses examples including those in Martín y Coll's *Huerto ameno de flores de música* (Madrid, 1709).  Another villancico in this style is Antonio de Salazar's *Al campo, a la batalla* (\signature{MEX-Mc}{A28}). \end{Footnote}
+The distinguishing stylistic characteristics of the setting suggest that Irízar is evoking a musical battle topic, a style one may find in *batallas* for organ as well as other villancicos on military themes. 
+
+[<]: \Autocites[s. v. *battle music*]{Grove}{Sutton:IberianBatalla}, who discusses examples including those in Martín y Coll's *Huerto ameno de flores de música* (Madrid, 1709).  Another villancico in this style is Antonio de Salazar's *Al campo, a la batalla* (\signature{MEX-Mc}{A28}). 
+
+
 
 Battle pieces typically feature a slow, peaceful introduction followed by sections in contrasting meters and styles and a texture of dialogue between opposing groups (as in between high and low registers on the keyboard).  Typical of the style is the reiteration of \musfig{5}{3} ("root position") chord voicings, with the bass moving by fourths and fifths, and the 3-3-2 syncopations on *no se den por sentidos los sentidos* (\measurenums{25--26, 31--32, 43--46}). 
 
@@ -183,7 +151,11 @@ Irízar sets the coplas, by contrast, in a sober and deliberate style. The melod
 
 Irízar's villancico seems to speak to a large crowd through grand, unsubtle gestures and sharp contrasts of bright colors. By contrast, Jerónimo de Carrión's later setting of the same poem (\exmusicref{exmusic:Carrion-Si_los_sentidos}) invites a more personal reflection. 
 
-\begin{Footnote} \signature{E-SE}{20/5}; \autocite{Cashner:SingingAboutSingingI}.  \end{Footnote}
+
+
+[<]: \signature{E-SE}{20/5}; \autocite{Cashner:SingingAboutSingingI}.  
+
+
 
 Carrión was capable of the festival style, as in his *Qué destemplada armonía*, which almost takes on the dimensions of a *cantada*. % \footnote{\signature{E-SE}{20/5}. }But this setting fits more in the subgenre of *tono divino* or chamber villancico, a continuo song used in more intimate settings like Eucharistic devotion. % \Autocite[See, for example,][]{Robledo:MadridTonos}The style is similar to the "high Baroque" music of contemporary Italy, with a tonal harmonic language, a running bass part in the accompaniment, and a single affective manner throughout. 
 
@@ -199,15 +171,27 @@ The similarities between these two settings of *Si los sentidos* demonstrate the
 
 While the *Si los sentidos* villancicos may not project as much uncertainty about sensation and faith as does Calderón's *El nuevo palacio del Retiro*, they still emphasize the need for all the senses to submit to faith, which means that listeners should not trust their senses alone. Some villancico poets and composers go further than stating that senses can be deceitful; they use paradox to deliberately confuse the senses for pious purposes. We have already seen in the previous chapter that many villancicos feature auditory "special effects" like echoes, voices imitating instruments, and voices imitating birdsong. Such pieces might be compared to the contemporary rise of *trompe l'oeil* effects in visual art, like the illusion of the heavens opening in the *Transparente* of Toledo Cathedral (by Narciso Tomé, 1732) or the false domes painted by Andrea Pozzo and his students on Jesuit church ceilings from Rome to China. % \Autocites[s. v. *Tomé, Narciso*]{GroveArt}[110]{Bailey:Art}
 
-Villancicos with "synesthetic" topics mismatch the sense in the spirit of paradox and enigma. %\begin{Footnote} \Autocite{DoetschKraus:Sinestesia} explores connections between poetic "synthesis of the senses" in Spanish verse and the actual neurological phenomenon of synesthesia. \end{Footnote}
+Villancicos with "synesthetic" topics mismatch the sense in the spirit of paradox and enigma. 
+
+[<]: \Autocite{DoetschKraus:Sinestesia} explores connections between poetic "synthesis of the senses" in Spanish verse and the actual neurological phenomenon of synesthesia. 
+
+
 
 For example, sight and hearing are the principal objects in the anonymous fragment *Porque cuando las voces puedan pintarla* (If voices could only paint her). %\footnote{\signature{E-Mn}{M3881/44}. }
 
-Cristóbal Galán, master of the Royal Chapel (1680--1684, after serving as chapelmaster at Segovia Cathedral) juxtaposes hearing and vision in a villancico for the Conception of Mary. % \footnote{\signature{D-Mbs}{Mus.  ms.  2893}, edition in \autocite[567--568]{CaberoPueyo:PhD}. }Galán's text exhorts listeners to "hear the bird" and "see the voice." The visual language in this villancico evokes the common iconography of the Holy Spirit as a dove surrounded by golden rays, such as may be seen in the Monastery of the Encarnación in Madrid, where the Royal Chapel frequently performed. %\begin{Footnote} The image was painted on the ceiling of the monastery's Capilla del Cordero and when a new church building was added later, this image was incorporated as the central element atop the high altar.  \Autocite[69--70, 81]{Sanz:GuiaDescalzasEncarnacion}. \end{Footnote}
+Cristóbal Galán, master of the Royal Chapel (1680--1684, after serving as chapelmaster at Segovia Cathedral) juxtaposes hearing and vision in a villancico for the Conception of Mary. 
+
+[<]: The image was painted on the ceiling of the monastery's Capilla del Cordero and when a new church building was added later, this image was incorporated as the central element atop the high altar.  \Autocite[69--70, 81]{Sanz:GuiaDescalzasEncarnacion}. 
 
 
 
-The poem (\expoemref{expoem:Oigan_todos_del_ave-Galan}) makes "confusion" of sight and hearing, which is projected partly through irregular poetic meter. %\begin{Footnote} The division into lines is speculative, but the syllable counts and line groupings in this arrangement could be scanned as 10. 6 10. 8 7 6. 6. 6 10. 10. \end{Footnote}
+
+
+The poem (\expoemref{expoem:Oigan_todos_del_ave-Galan}) makes "confusion" of sight and hearing, which is projected partly through irregular poetic meter. 
+
+[<]: The division into lines is speculative, but the syllable counts and line groupings in this arrangement could be scanned as 10. 6 10. 8 7 6. 6. 6 10. 10. 
+
+
 
 In his musical setting for eleven voices in three choirs, Galán creates *equivocación* through rhythm, notation, and texture. Galán juxtaposes the three voices of Chorus I against the other two choirs by having Chorus I sing primarily in a normal triple-meter motion (with dotted figures intensifying the ternary feeling), while the other two choirs interject *¡Oigan!* and *¡Miran!* in sesquialtera rhythm. 
 
@@ -221,7 +205,11 @@ In texture Galán plays with *qué equivocación* literally by setting these wor
 
 Pieces like this describe and seek to incite a condition of sensory overload, an ecstasy in which all the senses blend together in the effort to grasp something that is beyond them. 
 
-\begin{Footnote} This notion is part of the Catholic heritage that shaped Olivier Messiaen's concept of "dazzlement."  \end{Footnote}
+
+
+[<]: This notion is part of the Catholic heritage that shaped Olivier Messiaen's concept of "dazzlement."  
+
+
 
 Such pieces provide further evidence that Catholic religious arts could not be reduced to the function of simply teaching doctrine; these pieces train the senses by appealing to them directly. They seem intended to provoke listeners to a higher form of sensation, to a holy dismay and wonder that would lead to true, faithful perception. 
 
@@ -233,15 +221,27 @@ The problem of lacking the capacity for faithful hearing is evident invillancico
 
 In a piece labeled *sordo* in the partbooks, Juan Gutiérrez de Padilla creates a comic dialogue between a religious teacher and a "deaf" man named Toribio (\expoemref{expoem:Oyeme_Toribio-Padilla}). The villancico, which begins *Óyeme, Toribio* and is labeled as a "Dúo con bajón," was performed in Matins for Christmas at Puebla Cathedral in 1651. 
 
-\begin{Footnote} \signature{MEX-Pc}{Leg.  1/2}; \autocites{Stanford:Catalog}{Puebla:Microfilm} \end{Footnote}
+
+
+[<]: \signature{MEX-Pc}{Leg.  1/2}; \autocites{Stanford:Catalog}{Puebla:Microfilm} 
+
+
 
 It is part of Padilla's earliest surviving Christmas cycle for the new cathedral, which had been consecrated in 1649. 
 
-\begin{Footnote} Another villancico by Padilla is discussed in the next chapter.  See also \autocites{Cashner:Cards}{Mauleon:PadillaPalafox}.  \end{Footnote}
 
-Though two key partbooks are missing, including the Tenor I part who played the deaf man, the dialogue can be reconstructed because the lyrics of the deaf man's part were written in the surviving bass part. %\begin{Footnote} The friar was played by the Altus I.  The friar was probably accompanied by the Bassus I on *bajón*, but this partbook is missing.  The deaf man was played by the Tenor I, but this partbook is missing.  The deaf man was accompanied by the Bassus II on *bajón*.  Though the Tenor I solo music is missing, the lyrics for the vocal part are written in above the accompaniment in the Bassus II part.  Thus we have the music for the friar without its accompaniment, and the accompaniment for the deaf man and most of the lyrics, but not the deaf man's music. 
 
- The lyrics are preserved in one of the few imprints of villancico poetry from Puebla to match up with surviving music, from Christmas 1651, currently inaccessible in a private collection in Puebla.  Gustavo Mauleón Rodríguez, who alone has access to the collection, kindly shared with me a few pages of this imprint but not the ones including this poem.  %XXX\end{Footnote}
+[<]: Another villancico by Padilla is discussed in the next chapter.  See also \autocites{Cashner:Cards}{Mauleon:PadillaPalafox}.  
+
+
+
+Though two key partbooks are missing, including the Tenor I part who played the deaf man, the dialogue can be reconstructed because the lyrics of the deaf man's part were written in the surviving bass part. 
+
+[<]: The friar was played by the Altus I.  The friar was probably accompanied by the Bassus I on *bajón*, but this partbook is missing.  The deaf man was played by the Tenor I, but this partbook is missing.  The deaf man was accompanied by the Bassus II on *bajón*.  Though the Tenor I solo music is missing, the lyrics for the vocal part are written in above the accompaniment in the Bassus II part.  Thus we have the music for the friar without its accompaniment, and the accompaniment for the deaf man and most of the lyrics, but not the deaf man's music. 
+
+ The lyrics are preserved in one of the few imprints of villancico poetry from Puebla to match up with surviving music, from Christmas 1651, currently inaccessible in a private collection in Puebla.  Gustavo Mauleón Rodríguez, who alone has access to the collection, kindly shared with me a few pages of this imprint but not the ones including this poem.  %XXX
+
+
 
 
 
@@ -261,11 +261,19 @@ When the rest of Chorus I joins in for the responsión(\exmusicref{exmusic:Padil
 
 %*******************\begin{exmusic} \inputexmusic{Padilla-Sordo-responsion} \caption{Padilla, *Óyeme, Toribio (El sordo)*, *responsión a 5*, extant voices} \label{exmusic:Padilla-Sordo-responsion}\end{exmusic}%*******************
 
-Through a mixture of sophisticated musical technique, high-minded theology, and low caricature that is characteristic of this composer, Padilla belittles actual deaf people as deficient, undignified, and deserving of laughter. Ironically, Padilla's ensemble made their caricature at the same time that some Spanish churchmen, like Juan Pablo Bonet, were engaged in actually ministering to deaf people. %\begin{Footnote} Juan Pablo Bonet, *Reduction de las letras y Arte para enseñar a ablar a los mudos* (Madrid, 1620), cited and discussed in \autocite{Plann:DeafEducationSpain}.  % XXX more\end{Footnote}
+Through a mixture of sophisticated musical technique, high-minded theology, and low caricature that is characteristic of this composer, Padilla belittles actual deaf people as deficient, undignified, and deserving of laughter. Ironically, Padilla's ensemble made their caricature at the same time that some Spanish churchmen, like Juan Pablo Bonet, were engaged in actually ministering to deaf people. 
+
+[<]: Juan Pablo Bonet, *Reduction de las letras y Arte para enseñar a ablar a los mudos* (Madrid, 1620), cited and discussed in \autocite{Plann:DeafEducationSpain}.  % XXX more
+
+
 
 But the creators of *villancicos de sordos* seem more interested in exploiting the deaf to amuse and edify the hearing. 
 
-Actual deafness is used here with the main goal of pointing to spiritual deafness: the "deaf men" that will make Mary weep are all people whose ears have been stopped by sin and cannot hear the divine Word of Christ with faith. In his 1611 Spanish dictionary, Sebastián de Covarrubias defines the *sordo* as "he who does not hear," rather than he who is not *able* to hear. He adds, "There is no worse kind of deaf man than the one who isunwilling to hear." %\begin{Footnote} \Autocite[s. v. *sordo*]{Covarrubias:Tesoro}: "SORDO, Lat.  surdus, el que no oye.  No ay peor sordo que le que no quiere oyr. "\end{Footnote}
+Actual deafness is used here with the main goal of pointing to spiritual deafness: the "deaf men" that will make Mary weep are all people whose ears have been stopped by sin and cannot hear the divine Word of Christ with faith. In his 1611 Spanish dictionary, Sebastián de Covarrubias defines the *sordo* as "he who does not hear," rather than he who is not *able* to hear. He adds, "There is no worse kind of deaf man than the one who isunwilling to hear." 
+
+[<]: \Autocite[s. v. *sordo*]{Covarrubias:Tesoro}: "SORDO, Lat.  surdus, el que no oye.  No ay peor sordo que le que no quiere oyr. "
+
+
 
 In this view, if hearing is the paradigm of faith, then deafness is its opposite. While Calderón's Judaism heard Faith without faith, the deaf men in villancicos cannot even hear Faith to begin with. 
 
@@ -283,7 +291,11 @@ Unlike in Padilla's villancico, here the deaf man has a lesson of his own to tea
 
 In the catechism lesson presented in the coplas (\expoemref{expoem:Pues_la_fiesta-Ruiz-coplas-1}), the friar quizzes his pupil on key doctrines of Christmas, classic topics in both scholastic and pastoral literature:Tell, *sordo*, he asks, how did God fulfill his word to the prophet-king David?What motivated Christ to become incarnate?
 
-\begin{Footnote} See the next chapter for a discussion of such classic tropes of Christmas preaching in villancicos.  \end{Footnote}
+
+
+[<]: See the next chapter for a discussion of such classic tropes of Christmas preaching in villancicos.  
+
+
 
 But the deaf man mishears every statement: he mistakes *sordo* for \gloss{gordo}{chubby}, and \gloss{profeta}{prophet} as \gloss{estafeta}{mailman}. 
 
