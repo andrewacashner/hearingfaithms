@@ -1,12 +1,11 @@
 ---
-documentclass:  book
+documentclass:  memoir
 classoption:    '12pt, oneside'
 fontfamily:     concmath
 geometry:       margin=1in
-linestretch:    2
-csl:            chicago-fullnote-bibliography.csl
-include-before: '\frenchspacing\raggedbottom
-    \setlength{\parindent}{0.5in}
-    \setlength{\parskip}{0pt plus 0.1pt}'
+indent:         true
+include-before: '\frenchspacing\DoubleSpacing
+                \raggedbottom\feetatbottom
+                \setlength{\parindent}{0.5in}'
 ...
 
