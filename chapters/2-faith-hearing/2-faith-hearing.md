@@ -132,11 +132,10 @@ A central document for understanding the faith of post-Reformation Catholics is
 the catechism "for parish priests" commissioned by the Council of Trent and
 first published in 1566.
 [@Catholic:Catechismus1614; @NewCatholic, s. v. *catechism*]
-In responding to both the challenge of Protestantism and the
-underlying problems that had allowed heresy to take root, the council's bishops
-sought to improve the education of clergy and laity in matters of faith. They
-required priests and bishops to preach on all Sundays and holy
-days.
+In responding to both the challenge of Protestantism and the underlying problems
+that had allowed heresy to take root, the council's bishops sought to improve
+the education of clergy and laity in matters of faith. They required priests and
+bishops to preach on all Sundays and holy days.
 [@NewCatholic, s. v. *Trent, Council of*]
 
 The catechism was a model for teaching the clergy how to preach and teach---a
@@ -1307,21 +1306,15 @@ motion in Chorus I, but blackened noteheads (mensural coloration) to indicate
 the hemiola pattern in the other choirs. But when each voice in Chorus I sings
 the synesthetic phrase "the light is heard to shine," Galán turns the lights
 out---on the page at least---by giving each voice a passage in all black-note
-sesquialtera.
-<!-- \figureref{figure:Galan-Oigan-coloratio} -->
+sesquialtera [(figure ref)](#Galan-Oigan-coloratio).
 They return to white notation again for the following phrase, "while the voice
 is seen in purity." Any attentive listener could hear these juxtapositions and
 abrupt shifts in rhythmic patterns, though only the musicians themselves would
 likely have recognized the dark--light symbolism in the notation. 
 
-<!---
-\begin{figure} 
-\includeWideFigure{Galan-Oigan-coloratio} 
-\caption{Galán, *Oigan todos del ave* (D-Mbs: Mus. ms. 2893), Tiple I-2, end of
-estribillo: Ironic play of coloration}
-\label{figure:Galan-Oigan-coloratio}
-\end{figure}
--->
+![Galán, *Oigan todos del ave* (D-Mbs: Mus. ms. 2893), Tiple I-2, end of
+estribillo: Ironic play of
+coloration](../../figures/Galan-Oigan-coloratio.jpg){#Galan-Oigan-coloratio}
 
 In texture Galán plays with *qué equivocación* literally by setting these words
 to an equal-voiced fugato on a long ascending scalar figure (starting with the
