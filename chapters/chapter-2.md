@@ -787,20 +787,14 @@ for faith.
 [@Calderon:Retiro]
 Judaism is forcefully excluded from the festivities celebrated within the play,
 which culminate with the consecration of the Eucharist. Instead Judaism stands
-to the side and asks the character Faith to explain each event to him. 
-<!--- expoemref{Calderon-Retiro-Judaismo} -->
+to the side and asks the character Faith to explain each event to him
+(`[ref:poem:Calderon-Retiro-Judaismo]`).
 But despite trying to connect Faith's message with what he knows of the Hebrew
 Scriptures, Judaism cannot accept any of these explanations. In fact he is unable
 to believe what Faith has said, because, as he says in an increasingly
 embittered refrain, "I have listened to Faith without Faith." 
 
-<!---
-\begin{expoem}
-\caption{Calderón, *El nuevo palacio del Retiro*, \textlinenums{1303-1336}: Judaism rejects faith} 
-\label{expoem:Calderon-Retiro-Judaismo} 
-\inputexpoem{Calderon-Retiro-Judaismo}
-\end{expoem}
--->
+`[float:poem:Calderon-Retiro-Judaismo]`
 
 Judaism's eloquent confession of unbelief is immediately drowned out by music,
 as clarion fanfares announce a royal procession. For Calderón's listeners, who
@@ -811,22 +805,16 @@ play.
 
 Much of the rest of the play dramatizes a contest of the senses, in which
 Hearing prevails---but only after confessing to his own incertitude. Each
-personified sense competes for a laurel prize awarded by Faith. 
-<!--- expoemref{Calderon-Retiro-Hearing} -->
-Each sense in turn boasts of his powers, but Faith rejects each one. Hearing is
-the last sense to present himself, and in contrast to the other senses, he
-speaks of his weakness, and how easily he can be fooled by echoes or feigned
-voices. Since he cannot trust his own powers, he must rely on faith. In
-response, Faith crowns Hearing precisely because of his *desconfianza*---meaning
-lack of confidence, mistrust, and humility. 
+personified sense competes for a laurel prize awarded by Faith
+(`[ref:poem:Calderon-Retiro-Hearing]`).  Each sense in turn boasts of his
+powers, but Faith rejects each one. Hearing is the last sense to present
+himself, and in contrast to the other senses, he speaks of his weakness, and how
+easily he can be fooled by echoes or feigned voices. Since he cannot trust his
+own powers, he must rely on faith. In response, Faith crowns Hearing precisely
+because of his *desconfianza*---meaning lack of confidence, mistrust, and
+humility. 
 
-<!---
-\begin{expoem} 
-\caption{Calderón, *El nuevo palacio*, \textlinenums{593-602}: Faith crowns Hearing} 
-\label{expoem:Calderon-Retiro-Hearing} 
-\inputexpoem{Calderon-Retiro-Hearing}
-\end{expoem}
--->
+`[float:poem:Calderon-Retiro-Hearing]`
 
 What would it mean, then, for hearing to be the favored sense of faith not just
 because of its humility, but because of its actual weakness? Dominique Reyre
