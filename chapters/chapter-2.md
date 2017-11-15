@@ -1,9 +1,5 @@
 ---
-author:         Andrew A. Cashner
-title:          'Faith, Hearing, and the Power of Music in Devotional Music of
-                the Spanish Empire'
-bibliography:   ../../master.bib
-csl:            chicago-fullnote-bibliography.csl
+suppress-bibliography: true
 ...
 
 <!---
@@ -994,13 +990,12 @@ consented"---playing on *sentido*, the word for sense.
 <!--- expoemref{Si_los_sentidos-Sanchez-estribillo} -->
 Each of the coplas treats a different sense, following nearly the same order as
 in Calderón's play: Sight comes first, followed by Touch; next are Taste and
-Smell, and Hearing comes last.
+Smell, and Hearing comes last (`[ref:table:senses-order]`).
 
-`[table_senses-order]`
+`[float:table:senses-order]`
 
 <!---
 \expoemref{expoem:Si_los_sentidos-Sanchez-coplas}
-\tableref{table:senses-order}
 -->
 
 <!---
@@ -1033,19 +1028,11 @@ Veracruce's Latin treatise accords with Fray Luis de Granada's widely read
 Spanish *Introduction to the Creed* of 1583. 
 [@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
 
-<!---
-\begin{table} 
-\caption{The exterior senses: Order of presentation in versions of *Si los
-sentidos*, correlated with Calderón and Veracruce} 
-\label{table:senses-order}
-\inputtable{senses-order}
-\end{table}
--->
-
 <!-- Table ref at beginning of this sentence -->
-The table shows how Fray Luis explains the relationship of the five exterior
-senses to the interior senses, including the affective faculty, in which the
-sensory stimuli interacted with the balance of bodily humors.
+`[Ref:table_senses-fray-luis]` shows how Fray Luis explains the relationship of
+the five exterior senses to the interior senses, including the affective
+faculty, in which the sensory stimuli interacted with the balance of bodily
+humors.
 [@LuisdeGranada-Balcells:SimboloPtI, ch. 27--35, pp. 439--494]
 The five exterior senses mediated between the outside world and the interior
 senses by means of the ethereal *spiritus animales*, which were something like
@@ -1063,14 +1050,7 @@ attraction and repulsion, this "concupiscible" part of the soul experienced
 three primary pairs of passions: love and hate, desire and fear, joy and
 sadness. 
 
-<!---
-\begin{table} 
-\caption{The senses and faculties of the sensible soul (*ánima sensitiva*),
-according to Fray Luis de Granada} 
-\label{table:senses-fray-luis}
-\inputtable{senses-fray-luis}
-\end{table}
--->
+`[float:table_senses-fray-luis]`
 
 The act of sensation, then, involved the entire body and soul, in a
 pre-Cartesian holistic model; but the external senses differed in how they
@@ -1128,14 +1108,13 @@ subject, who delights in hearing the music of properly tuned senses.
 The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this
 contest of the senses in sound. Their contrasting styles invite different types
 of involvement from listeners. In the earlier setting, for Corpus Christi 1674
-at Segovia Cathedral, Miguel de Irízar creates a musical competition in grand
-festival style by pitting his two four-voice choirs against each other in
-polychoral dialogue.
+at Segovia Cathedral (`[ref:music:Irizar-Si_los_sentidos]`), Miguel de Irízar
+creates a musical competition in grand festival style by pitting his two
+four-voice choirs against each other in polychoral dialogue.
 [@Cashner:WLSCM32. E-SE: 5/32 is the manuscript performing parts in a copyist's
 hand, while E-SE: 18/19 is the draft score in Irízar's hand, and includes the
 heading, "Fiesta del SSantissimo de este año del 1674."]
 <!--- page nos of edition -->
-<!--- \exmusicref{exmusic:Irizar-Si_los_sentidos} -->
 
 Polychoral dialogue, of course, is typical of large-scale villancicos, but
 Irízar has the choirs interrupt each other in ways that create not just a
@@ -1144,14 +1123,7 @@ intensity by cutting the text into shorter phrases to be tossed back and forth
 between the two choirs: *no se den por sentidos* becomes *no se den* and then
 *no, no*. 
 
-<!---
-\begin{exmusic} 
-\inputexmusic{Irizar-Si_los_sentidos} 
-\caption{*Si los sentidos queja forman del pan divino*, Miguel de Irízar (E-SE:
-18/19, 5/32)} 
-\label{exmusic:Irizar-Si_los_sentidos}
-\end{exmusic}
--->
+`[float:music:Irizar-Si_los_sentidos]`
 
 Irízar creates a steadily increasing sense of excitement through shifts of
 rhythmic motion and style. The setting of the opening phrase suggests a tone of
@@ -1198,9 +1170,11 @@ designed to delight, while the coplas provide more of an opportunity to teach.
 
 Irízar's villancico seems to speak to a large crowd through grand, unsubtle
 gestures and sharp contrasts of bright colors. By contrast, Jerónimo de
-Carrión's later setting of the same poem invites a more personal reflection. 
+Carrión's later setting of the same poem invites a more personal reflection
+(`[ref:music:Carrion-Si_los_sentidos]`). 
 [E-SE: 20/5; @Cashner:WLSCM32]
-<!--- \exmusicref{exmusic:Carrion-Si_los_sentidos}) -->
+
+`[float:music:Carrion-Si_los_sentidos]`
 
 Carrión was capable of the festival style, as in his *Qué destemplada armonía*
 (E-SE: 20/5), which almost takes on the dimensions of a *cantada*.
@@ -1211,16 +1185,6 @@ devotion.
 The style is similar to the "high Baroque" music of contemporary Italy, with a
 tonal harmonic language, a running bass part in the accompaniment, and a single
 affective manner throughout. 
-
-<!---
-\begin{exmusic} 
-\inputexmusic{Carrion-Si_los_sentidos} 
-\caption{*Si los sentidos queja forman del pan divino*, Jerónimo de Carrión
-(E-SE: 28/25)} 
-\label{exmusic:Carrion-Si_los_sentidos}
-\end{exmusic}
- XXX Fix all bar numbers
--->
 
 The dialogue and rivalry of the poetic text happens now not through polychoral
 effects but through motivic exchanges between voice and accompaniment. Instead
@@ -1309,13 +1273,13 @@ motion in Chorus I, but blackened noteheads (mensural coloration) to indicate
 the hemiola pattern in the other choirs. But when each voice in Chorus I sings
 the synesthetic phrase "the light is heard to shine," Galán turns the lights
 out---on the page at least---by giving each voice a passage in all black-note
-sesquialtera (figure @figure_Galan-Oigan-coloratio).
+sesquialtera (`ref:figure:Galan-Oigan-coloratio`).
 They return to white notation again for the following phrase, "while the voice
 is seen in purity." Any attentive listener could hear these juxtapositions and
 abrupt shifts in rhythmic patterns, though only the musicians themselves would
 likely have recognized the dark--light symbolism in the notation. 
    
-    [figure_Galan-Oigan-coloratio]
+`[float:figure:Galan-Oigan-coloratio]`
 
 In texture Galán plays with *qué equivocación* literally by setting these words
 to an equal-voiced fugato on a long ascending scalar figure (starting with the
@@ -1397,21 +1361,14 @@ a *simple*---a learned man and a simpleton---Padilla's villancico stages a
 parody of catechism instruction. The friar's attempts to communicate with the
 "deaf" man fail, and this prompts the five-voice chorus to warn the congregation
 against spiritual deafness. Padilla dramatizes the two characters' unsuccessful
-attempts to communicate through disjunctions of rhythm and mode.
-<!-- exmusic:Padilla-Sordo-intro -->
+attempts to communicate through disjunctions of rhythm and mode
+(`[ref:music:Padilla-Sordo-intro]`).
 Rhythmically, Padilla gives each singer a distinct "accent" in music: the
 friar's musical speech is more fluent and sophisticated, while the deaf man's
 speech is halting and clumsy, such as his questions "Eh? eh?" on an offbeat
 figure. 
 
-<!---
-\begin{exmusic}
-\inputexmusic{Padilla-Sordo-intro} 
-\caption{Padilla, *Óyeme, Toribio (El sordo)*, introducción, mm. 1-25}, extant
-parts (missing Tenor I, Bassus I)}
-\label{exmusic:Padilla-Sordo-intro}
-\end{exmusic}
--->
+`[float:music:Padilla-Sordo-intro]`
 
 Padilla illustrates the men's disagreement by having them fail to concur on
 where to cadence. Given the one-flat *cantus mollis* signature, the cadence
@@ -1435,36 +1392,19 @@ says---referring to the Virgin Mary as the dawn---when, having given birth to
 the Word Incarnate, "her eyes see deaf men." Padilla sets the final phrase about
 deaf men, with ten notes in black mensural notation that make a rhetorical
 *catabasis* as they descend in a leaping melodic sequence.
-<!--- \figureref{figure:Padilla-Sordo1651-AI-coloration} -->
 
-<!---
-\begin{figure} 
-\includeWideFigure{Padilla-Sordo1651-AI-coloration} 
-\caption{Padilla, *Óyeme, Toribio (El sordo)*, Altus I manuscript partbook,
-coloration at end of estribillo}
-\label{figure:Padilla-Sordo1651-AI-coloration}
-\end{figure}
--->
-
-When the rest of Chorus I joins in for the responsión,
-<!--- (\exmusicref{exmusic:Padilla-Sordo-responsion}) -->
-their repeated dotted rhythm suggests vivacious laughter and comic offbeat sobs
-on *sollozos*. The catabasis figure is passed through all the voices in
-imitation, leading to a harmonic catabasis when the Tiple I adds
-E flat---shifting further away from the "natural" into the "weak" realm of
+When the rest of Chorus I joins in for the responsión, their repeated dotted
+rhythm suggests vivacious laughter and comic offbeat sobs on *sollozos*
+(`[ref:music:Padilla-Sordo-responsion]`). The catabasis figure is passed through
+all the voices in imitation, leading to a harmonic catabasis when the Tiple I
+adds E flat---shifting further away from the "natural" into the "weak" realm of
 flats. 
 <!--- \citXXX[chafe?] -->
 The heavy syncopation in each voice creates rhythmic confusion that is not
 sorted out until the final cadential flourish on F, validating the friar's
 initial choice of mode. 
 
-<!---
-\begin{exmusic} 
-\inputexmusic{Padilla-Sordo-responsion} 
-\caption{Padilla, *Óyeme, Toribio (El sordo)*, *responsión a 5*, extant voices}
-\label{exmusic:Padilla-Sordo-responsion}
-\end{exmusic}
--->
+`[float:music:Padilla-Sordo-responsion]`
 
 Through a mixture of sophisticated musical technique, high-minded theology, and
 low caricature that is characteristic of this composer, Padilla belittles actual
@@ -1521,20 +1461,14 @@ so he can hear. When the catechist and the *sordo* enter, Ruiz gives the two
 characters phrases that contrast melodically, harmonically, and rhythmically, to
 illustrate their inability to understand each other. The deaf man's musical
 speech is abrupt, uncouth, and loud, fitting with the friar's mockery of the
-deaf man's unmodulated voice. The deaf man bursts on the scene with a scale from
-the top of his register to the bottom (F~4~ to G~3~). The descent across vocal
-*passaggi* would encourage the singer to bawl the phrases in a coarse tone of
-voice. Ironically, a character with impaired sensation of sound is marked for
-the audience primarily by the kind of sounds he makes. 
+deaf man's unmodulated voice (`[ref:music:Ruiz-Sordos-dialogue]`). The deaf man
+bursts on the scene with a scale from the top of his register to the bottom
+(F~4~ to G~3~). The descent across vocal *passaggi* would encourage the singer
+to bawl the phrases in a coarse tone of voice. Ironically, a character with
+impaired sensation of sound is marked for the audience primarily by the kind of
+sounds he makes. 
 
-<!---
-\begin{exmusic} 
-\inputexmusic{Ruiz-Sordos-dialogue} 
-\caption{Ruiz, *Pues la fiesta del niño es (Villancico de los sordos)* (E-E:
-Mús. 83-12), estribillo, mm. 41-55}
-\label{exmusic:Ruiz-Sordos-dialogue}
-\end{exmusic}
--->
+`[float:music:Ruiz-Sordos-dialogue]`
 
 Unlike in Padilla's villancico, here the deaf man has a lesson of his own to
 teach. He may not be able to hear well but he has come with love to adore the
@@ -1614,8 +1548,7 @@ could mean not only sound but was also a term for a type of dance or song,
 according to the 1610 dictionary of Covarrubias. The villancico is built on a
 distinctive harmonic and rhythmic pattern of alternating ternary and
 sesquialtera groupings, which are especially clear on the phrase *los que no
-escuchan ni entienden el son*.
-<!--- (\exmusicref{exmusic:Ruiz-Sordos-son}) -->
+escuchan ni entienden el son* (`[ref:music:Ruiz-Sordos-son]`).
 This pattern bears a close resemblance to dance forms known as *son* today
 ---most obviously, to the Mexican *huarache* familiar from the
 song "America" in Leonard Bernstein's *West Side Story*.
@@ -1623,14 +1556,7 @@ song "America" in Leonard Bernstein's *West Side Story*.
 Even if the reference to *son* is not this specific, the music certainly evokes
 the feeling of a social dance whose circle the deaf man is unable to join fully. 
 
-<!---
-\begin{exmusic} 
-\inputexmusic{Ruiz-Sordos-son} 
-\caption{Ruiz, *Villancico de los sordos*, conclusion of estribillo, mm. 76-83:
-Possible evocation of *son* song/dance style} 
-\label{exmusic:Ruiz-Sordos-son}
-\end{exmusic} 
--->
+`[float:music:Ruiz-Sordos-son]`
 
 The creators of villancicos of the deaf could certainly have imagined that this
 music was contributing to the goal of spiritual ear training. There may be a
@@ -1734,7 +1660,8 @@ contradicted the senses.
 Listeners who wished to overcome the dangers and uncertainties involved with
 hearing devotional music were challenged to practice personal spiritual
 discipline in hearing. This notion is encapsulated in an emblem by Sebastián de
-Covarrubias, whose dictionary definition of deafness we discussed earlier. It
+Covarrubias, whose dictionary definition of deafness we discussed earlier 
+(`[ref:figure:Covarrubias-Emblemas-202-ears-thorns]`). It
 shows two fragile-looking human ears, protected from the buffeting four winds by
 a crown of thorns. Its Latin motto is taken from Ecclesiasticus 28:28, "Make a
 hedge around your ears with thorns."
@@ -1752,13 +1679,7 @@ take refuge in Christ and his crown."
 [@Covarrubias:Emblemas, 202: "En esta vida, que es vna milica,/ Si asegurar
 quisieres tu persona,/ Amparate de Christo, y su corona."]
 
-<!---
-\begin{figure} 
-\includeTallFigure{Covarrubias-Emblemas-202-ears-thorns} 
-\caption{"Sepi aures tuas spinis," from \fullcite[202]{Covarrubias:Emblemas}} 
-\label{figure:Covarrubias-ears-thorns}
-\end{figure}
--->
+`[float:figure:Covarrubias-Emblemas-202-ears-thorns]`
 
 Even if, then, the Church successfully made Christ the Word audible to the
 world, accommodating its teaching to the sense and intelligence of people of
@@ -1775,8 +1696,3 @@ the fundamental Tridentine problem, of making faith appeal to hearing by both
 accommodating the senses and training them, remained a challenge for Catholics,
 both those who would teach through speech or song and those who would listen. 
 
-
-# Bibliography {-}
-
-\noindent\setlength{\parindent}{-0.5in}
-\setlength{\leftskip}{0.5in}
