@@ -995,6 +995,9 @@ consented"---playing on *sentido*, the word for sense.
 Each of the coplas treats a different sense, following nearly the same order as
 in Calderón's play: Sight comes first, followed by Touch; next are Taste and
 Smell, and Hearing comes last.
+
+`[table_senses-order]`
+
 <!---
 \expoemref{expoem:Si_los_sentidos-Sanchez-coplas}
 \tableref{table:senses-order}
@@ -1306,15 +1309,13 @@ motion in Chorus I, but blackened noteheads (mensural coloration) to indicate
 the hemiola pattern in the other choirs. But when each voice in Chorus I sings
 the synesthetic phrase "the light is heard to shine," Galán turns the lights
 out---on the page at least---by giving each voice a passage in all black-note
-sesquialtera [(figure ref)](#Galan-Oigan-coloratio).
+sesquialtera (figure @figure_Galan-Oigan-coloratio).
 They return to white notation again for the following phrase, "while the voice
 is seen in purity." Any attentive listener could hear these juxtapositions and
 abrupt shifts in rhythmic patterns, though only the musicians themselves would
 likely have recognized the dark--light symbolism in the notation. 
-
-![Galán, *Oigan todos del ave* (D-Mbs: Mus. ms. 2893), Tiple I-2, end of
-estribillo: Ironic play of
-coloration](../../figures/Galan-Oigan-coloratio.jpg){#Galan-Oigan-coloratio}
+   
+    [figure_Galan-Oigan-coloratio]
 
 In texture Galán plays with *qué equivocación* literally by setting these words
 to an equal-voiced fugato on a long ascending scalar figure (starting with the
