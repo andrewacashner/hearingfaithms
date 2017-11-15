@@ -1,10 +1,8 @@
-<!--- Chapter 2 -->
-
-`[poem:Calderon-Retiro-Judaismo]`
+`<poem:Calderon-Retiro-Judaismo>`
 
 Calderón, *El nuevo palacio del Retiro*, ll. 1303--1336: Judaism rejects faith
 
-`[original]`
+`<original>`
 
 | ¿Quién eres, que te miro y no lo sé, 
 | porque a la Fe he escuchado sin la Fe? 
@@ -32,7 +30,7 @@ Calderón, *El nuevo palacio del Retiro*, ll. 1303--1336: Judaism rejects faith
   trompetas, y salen coronodos con hojas todos, y lanzas, como de ristre, al
   compás del clarín [. . .].*
 
-`[translation]`
+`<translation>`
 
 | Who are you, that I see you and I do not know it, 
 | because I have listened to Faith without faith? 

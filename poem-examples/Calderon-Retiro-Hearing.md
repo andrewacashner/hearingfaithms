@@ -1,10 +1,8 @@
-<!--- Chapter 2 -->
-
-`[poem:Calderon-Retiro-Hearing]`
+`<poem:Calderon-Retiro-Hearing>`
 
 Calderón, *El nuevo palacio*, ll. 593--602: Faith crowns Hearing
 
-`[original]`
+`<original>`
 
 | OÍDO: Temblar su semblante es justo, 
 | y así, torpe, humilde y ciego, 
@@ -50,7 +48,7 @@ Calderón, *El nuevo palacio*, ll. 593--602: Faith crowns Hearing
 <!--- check solo vs. sólo -->
 
 
-`[translation]`
+`<translation>`
 
 | HEARING: It is right to tremble before you, 
 | thus, lame, humble, and blind, 

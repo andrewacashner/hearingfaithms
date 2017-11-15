@@ -1,25 +1,4 @@
----
-# tables.md
-...
-
-<!--- Chapter 2 -->
-
-`[table:senses-order]` 
-
-Order of the senses in versions of *Si los sentidos*, correlated with
-Calderón, *El nuevo palacio del Retiro*, and Veracruce, *Phisica, speculatio*
-
-Veracruce   Calderón    Sánchez     Carrión     Irízar
-----------  ---------   ---------   ---------   --------
-Sight       Sight       Sight 1--2  Sight 1     Sight 1
-*Hearing*   Touch       Touch       Touch       *Hearing*
-Smell       Smell       Taste 1--2  Taste 1     Smell
-Taste       Taste       Smell       Smell       Taste
-Touch       *Hearing*   *Hearing*   *Hearing*   Touch
-
-
-
-`[table:senses-fray-luis]`
+`<table:senses-fray-luis>`
 
 The senses and faculties of the sensible soul (*ánima sensitiva*),
 according to Fray Luis de Granada
