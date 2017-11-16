@@ -6,7 +6,7 @@ Calderón, *El nuevo palacio del Retiro*, ll. 1303--1336: Judaism rejects faith
 
 | ¿Quién eres, que te miro y no lo sé, 
 | porque a la Fe he escuchado sin la Fe? 
-| [. . .]
+| [...]
 | 
 | Mas ya seas la flor de Jericó, 
 | ya seas de los valles el clavel, 
@@ -28,13 +28,13 @@ Calderón, *El nuevo palacio del Retiro*, ll. 1303--1336: Judaism rejects faith
 |
 | *Tocan todos los intrumentos músicos, chirimías y atabalillas, cajas y
   trompetas, y salen coronodos con hojas todos, y lanzas, como de ristre, al
-  compás del clarín [. . .].*
+  compás del clarín [...].*
 
 `<translation>`
 
 | Who are you, that I see you and I do not know it, 
 | because I have listened to Faith without faith? 
-| [. . .]
+| [...]
 | 
 | But surely you must be the flower of Jericho, 
 | surely you must be the lily of the valleys, 

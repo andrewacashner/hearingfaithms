@@ -1,0 +1,11 @@
+---
+documentclass:  memoir
+classoption:    '12pt, oneside'
+fontfamily:     concmath
+geometry:       margin=1in
+indent:         true
+include-before: '\frenchspacing\DoubleSpacing
+                \raggedbottom\feetatbottom
+                \setlength{\parindent}{0.5in}'
+...
+

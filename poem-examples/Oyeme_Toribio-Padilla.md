@@ -16,10 +16,10 @@
 | 1. Pondréme desotro. 
 | 2. Desotro oigo menos.  
 | 1. Tú eres lindo tonto, 
-|    yo más que te escucho [. . .] 
+|    yo más que te escucho [...] 
 | 2. ¿Si tengo bochorno? 
 |    ¿Qué es lo que me dices?  
-| 1. [. . .] que me vuelves loco. 
+| 1. [...] que me vuelves loco. 
 | 2. [Text missing] 
 | 
 | *[Estribillo] solo, Responsión a 5*
@@ -43,10 +43,10 @@
 | 1. I'll try the other one. 
 | 2. From the other one I can hear even less. 
 | 1. You are a sheer idiot! 
-|    the more I listen to you [. . .] 
+|    the more I listen to you [...] 
 | 2. Am I embarrassed? 
 |    What is it you are telling me? 
-| 1. [. . .] you are driving me crazy! 
+| 1. [...] you are driving me crazy! 
 | 2. [Text missing] 
 | 
 | 
