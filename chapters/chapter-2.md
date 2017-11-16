@@ -303,15 +303,15 @@ faithful way.
 ### Experiencing Spiritual Truth through Music
 
 This tension between accommodating the ear and training it may be seen in the
-explanations of music's power by Athanasius Kircher. This Jesuit polymath's
-compendium of musical knowledge, *Musurgia universalis*, was published in Rome
-in 1650 and thence disseminated throughout the Hispanic world, with copies sent
-to centers of colonial culture including Puebla and Manila.
+explanations of music's power by Athanasius Kircher. 
+This Jesuit polymath's compendium of musical knowledge, *Musurgia universalis*,
+was published in Rome in 1650 and thence disseminated throughout the Hispanic
+world, with copies sent to centers of colonial culture including Puebla and
+Manila.
 [@Findlen:Kircher; @Godwin:KircherTheater;
 on the worldwide distribution of the book as far as Manila, see
 @Irving:Colonial, 48--50. The book may be found in historical collections in
 Madrid, Barcelona, Mexico City, and Puebla (two copies).]
-
 Kircher discusses the power of music several times throughout his ten-part
 treatise, including a detailed analysis of "whether, why, and what kind of power
 music might have to move people's souls, and whether the stories are true that
@@ -327,17 +327,15 @@ style.
 
 For Kircher, music added such power to words, that it could move a listener not
 only to understand the subject of the words, but to physically experience their
-truth. According to legend the famed *aulos* player Timotheus aroused Alexander
-the Great to the furor of war through music, and Kircher says he did this by
-adapting his song both to the feeling of war and to the disposition of the
-king.
+truth. 
+According to legend the famed *aulos* player Timotheus aroused Alexander the
+Great to the furor of war through music, and Kircher says he did this by
+adapting his song both to the feeling of war and to the disposition of the king.
 [Kircher is probably responding to @Galilei:Dialogo, 90, in discussing the
 Classical source, Dio Chrysostom, *Orationes* 1 (*Peri Basileias*); a later
 treatment of this subject is @Dryden:Alexander.]
-
-
-The same music, he says, would have had a different effect on someone else; and
-to illustrate this contrast, Kircher goes on to paint a remarkable picture of
+The same music, he says, would have had a different effect on someone else.
+To illustrate this contrast, Kircher goes on to paint a remarkable picture of
 how sacred music can move those who are disposed to it:
 
 > If, on the other hand, [the musician] addressed the sort of man who was
@@ -361,27 +359,29 @@ experimenta."]
 
 Kircher says that the experience of Jesuit missionaries around the world
 provides ample evidence of this miraculous power of music combined with
-preaching. But Kircher's depiction of music's power goes well beyond the Jesuit
-formula of "teaching, pleasing, and persuading."
+preaching. 
+But Kircher's depiction of music's power goes well beyond the Jesuit formula of
+"teaching, pleasing, and persuading."
 [On the Jesuit approach to religious arts, see @Bailey:Art, 35--51.]
 Music not only makes the teaching of doctrinal truth appealing and persuasive;
-it actually transforms listeners through affective experience. In this
-conception, music links the objective truth with subjective experience through
-the unique ways that music affects the human body. Through principles of
-sympathetic vibration, the humoral-affective properties of music could be
-transferred from composer and performer to listeners. 
+it actually transforms listeners through affective experience. 
+In this conception, music links the objective truth with subjective experience
+through the unique ways that music affects the human body. 
 
+Through principles of sympathetic vibration, the humoral-affective properties of
+music could be transferred from composer and performer to listeners. 
 This passage in Kircher's Book VII comes in the midst of a comparison between
 the fabled powers of music in the ancient world versus the possibilities for
-moving the affections in contemporary music. Kircher argues that music moves a
-listener's soul through sympathetic resonance that creates harmony between the
-numerical proportions of the music and the humoral composition of the listener.
-The various modes and styles of modern music, which Kircher catalogs in
-detail, apparently have inherent affective properties: the Dorian mode, for
-example, is suited to grave and pious religious sentiment. For Kircher, modern
-music was superior to ancient music not because it operated according to
-different principles, but because modern musicians had found ways to extend and
-amplify the same principles that made ancient music effective. 
+moving the affections in contemporary music. 
+Kircher argues that music moves a listener's soul through sympathetic resonance
+that creates harmony between the numerical proportions of the music and the
+humoral composition of the listener.
+The various modes and styles of modern music, which Kircher catalogs in detail,
+apparently have inherent affective properties: the Dorian mode, for example, is
+suited to grave and pious religious sentiment. 
+For Kircher, modern music was superior to ancient music not because it operated
+according to different principles, but because modern musicians had found ways
+to extend and amplify the same principles that made ancient music effective. 
 
 The fundamental principle that gave music its affective power was
 sympathy.
@@ -391,15 +391,15 @@ Music created physical harmony---sympathetic vibration---between the affective
 subject of the music (that is, what the music was meant to express), and the
 listening subject, so that the music moved in the same way as the affections it
 expressed, and this in turn moved the listener to the same affections. 
-
 Music with different intervallic relationships, with the semitone placed
-differently in different modes, produced different effects. Kircher explains:
+differently in different modes, produced different effects. 
+Kircher explains:
 
 > Since harmony is nothing other than the concord, agreement, and mutually
 > corresponding proportion between dissimilar voices, this proportion, then, of
 > numbers, sets the air in motion; the motion, indeed, is to be varied by the
-> ratios of various intervals, ascending and descending; so that the spirits [i.
-> e. , *spiritus animales*], or the implanted internal air [...], should be
+> ratios of various intervals, ascending and descending; so that the spirits 
+> [i. e., *spiritus animales*], or the implanted internal air [...], should be
 > moved according to the proportions of the motion of the external air, so that
 > the spirits' motion are effected in various ways; and through this affections
 > can be engendered in the person.
@@ -412,9 +412,10 @@ moueatur, fit vt spiritus moti ope vari\c{e}, indè in homini affectiones
 nascantur."]
 
 The structure of the music's movements must correspond to the movements of the
-body's humors. Kircher theorizes four conditions that are necessary for music to
-achieve an effect; without any one, music will fail to move the listener in the
-intended way:
+body's humors. 
+Kircher theorizes four conditions that are necessary for music to achieve an
+effect; without any one, music will fail to move the listener in the intended
+way:
 
 > The first is harmony itself. Second, number, and proportion. Third, the power
 > and efficacy of the words to be pronounced in music itself; or, the oration.
@@ -429,20 +430,21 @@ memoratarum rerum capax."]
 
 If there must be this kind of congruence between music and listener, then it
 makes sense that Kircher acknowledges that music affects different people in
-different ways. First, Kircher concedes that geographic and cultural factors
-influence music style and its effect, such that Italians and Germans are moved
-by different styles and therefore compose differently. These national styles, he
-says, are the result of a national "genius" (that is, the special gift of that
-people), as well as environmental factors, such that Germans draw a grave style
-from living in a cold climate, contrasted with the more moderate style of
-Italians. People of the Orient who visit Rome, Kircher says, do not enjoy the
-highly delicate music of that city, and prefer their own strident, clangorous
-music. These differences of style and perception are caused by patriotism---the
+different ways. 
+First, Kircher concedes that geographic and cultural factors influence music
+style and its effect, such that Italians and Germans are moved by different
+styles and therefore compose differently. 
+These national styles, he says, are the result of a national "genius" (that is,
+the special gift of that people), as well as environmental factors, such that
+Germans draw a grave style from living in a cold climate, contrasted with the
+more moderate style of Italians. 
+People of the Orient who visit Rome, Kircher says, do not enjoy the highly
+delicate music of that city, and prefer their own strident, clangorous music.
+These differences of style and perception are caused by patriotism---the
 inordinate love of things from one's own country, as Kircher describes it; and
 by what each person is accustomed to hearing, which is shaped by the traditions
-of each country 
-[@Kircher:Musurgia, 543--544].
-
+of each country.
+[@Kircher:Musurgia, 543--544]
 <!--- XXX translation in Strunk -->
 
 Moreover, "just as different nations enjoy a different style of music, likewise
@@ -453,11 +455,11 @@ gaudent, ita & in vnaquaque natione diuersi temperamenti homines, diuersis
 stylis, vnusquisque suæ naturali inclinationi maximè conformibus afficiuntur."]
 What delights a person with a sanguine temperament might enrage or madden a
 melancholic listener; what has a strong effect on one person may have no effect
-at all on another [@Kircher:Musurgia, 550]. 
+at all on another. 
+[@Kircher:Musurgia, 550]
 "Music does not just move any subject, but the one with which the natural humor
-of the music is congruent [...] for unless the spirits of the receiving
-subject correspond exactly, the music accomplishes
-nothing."
+of the music is congruent [...] for unless the spirits of the receiving subject
+correspond exactly, the music accomplishes nothing."
 [@Kircher:Musurgia, 550: "Musica igitur vt moueat, non qualecunque subiectum
 vult, sed illud cuius humor naturalis musicae congruit [...] quæ nisi
 recipientis subiecti spiritui extactè respondeant, nihil efficient."]
@@ -467,21 +469,25 @@ capacity of memory in his list of four conditions for effective music.
 
 Despite Kircher's confidence in modern musicians' ability to make music music
 move people, the conditions he names may not have been as easy to fulfill as he
-suggests. There must be congruence, first of all, between the structure of the
-music and subject of that music: the music must move in the same way as the
-affective movements it seeks to incite. Harmonic ratios, metrical proportions,
-verbal rhetoric---all of these must align, but they were still not enough
-without the fourth condition, the disposition of the hearer. The listener must
-have a humoral temperament that is moved in the desired way by the music. 
+suggests. 
+There must be congruence, first of all, between the structure of the music and
+subject of that music: the music must move in the same way as the affective
+movements it seeks to incite. 
+Harmonic ratios, metrical proportions, verbal rhetoric---all of these must
+align, but they were still not enough without the fourth condition, the
+disposition of the hearer. 
+The listener must have a humoral temperament that is moved in the desired way by
+the music. 
 
 This means that the tension between accommodating hearing and training it is
-multiplied vastly by the addition of music. While it might seem that music would
-allow for greater accommodation, the number of potential obstacles is increased
-because the content of the music, the performance, and the listeners must all be
-in harmony. When Kircher compares music to preaching, he says that an effective
-preacher is familiar with his audience and therefore "knows which strings to
-pluck"---a phrase that recalls Antonio de Azevedo's image of the religious
-teacher with harp in hand.
+multiplied vastly by the addition of music. 
+While it might seem that music would allow for greater accommodation, the number
+of potential obstacles is increased because the content of the music, the
+performance, and the listeners must all be in harmony. 
+When Kircher compares music to preaching, he says that an effective preacher is
+familiar with his audience and therefore "knows which strings to pluck"---a
+phrase that recalls Antonio de Azevedo's image of the religious teacher with
+harp in hand.
 [@Kircher:Musurgia, 551: "Nouerat enim prædicator fuorum auditorum
 inclinationem; nouerat chordam, quam tangere debebat."]
 
@@ -491,39 +497,42 @@ Music could, as Kircher describes, move someone to experience the truth of
 religious teaching through affective experience, but only if the listener was
 "the sort of man who was devoted to God"---that is, someone who already had
 faith, whose temperament was already disposed to religious devotion of this
-kind. If, as Kircher acknowledges, people of different nations are moved by
-different kinds of music, and if individual people respond differently depending
-on their temperament as well as their intellectual capacity, how could the
-creators of sacred music be assured of its power?
+kind. 
+If, as Kircher acknowledges, people of different nations are moved by different
+kinds of music, and if individual people respond differently depending on their
+temperament as well as their intellectual capacity, how could the creators of
+sacred music be assured of its power?
 
 Kircher's theory represents one attempt to reconcile the challenges of
-accommodating the ear and training it. But outside the erudite realm of
-theoretical speculation, this was a problem that faced every Catholic church
-leader and musician who was serious about using music to make faith appeal to
-hearing. How could the Church use music to accommodate hearing, when individuals
-and communities did not hear the same way? The capacity to listen faithfully,
-and therefore music's power to make faith appeal to hearing, would be limited by
-both personal subjectivity and cultural conditioning, and these limitations
-created anxiety and fear about the role of hearing in faith. 
+accommodating the ear and training it. 
+But outside the erudite realm of theoretical speculation, this was a problem
+that faced every Catholic church leader and musician who was serious about using
+music to make faith appeal to hearing. 
+How could the Church use music to accommodate hearing, when individuals and
+communities did not hear the same way? 
+The capacity to listen faithfully, and therefore music's power to make faith
+appeal to hearing, would be limited by both personal subjectivity and cultural
+conditioning, and these limitations created anxiety and fear about the role of
+hearing in faith. 
 
 ## Danger and Doubt
 
-### Subjective Experience in Faith
-
 Regarding the problem of individual hearing, Reformation controversies had
 pushed Catholics into an increasingly negative and anxious attitude toward
-subjective religious experience. Polemicists like Thomas More accused Martin
-Luther of turning his followers away from the trustworthy institutional Church
-with its objectively operating sacraments, leaving them with only a subjective
-experience as assurance of salvation, and separating individual faith from the
-cultivation of a just society. 
+subjective religious experience. 
+Polemicists like Thomas More accused Martin Luther of turning his followers away
+from the trustworthy institutional Church with its objectively operating
+sacraments, leaving them with only a subjective experience as assurance of
+salvation, and separating individual faith from the cultivation of a just
+society. 
 [@Catholic:Catechismus1614, ch. 4; @Schreiner:Certainty]
 
 But for Catholics the problem remained that some connection needed to be forged
 between individual people and the transcendent object of faith, namely God in
 Christ, and no way of defining faith could completely remove the individual
-element. The Roman Catechism says that faith means more than having an opinion
-or conception of something---it "has the strength of the most certain agreement,
+element. 
+The Roman Catechism says that faith means more than having an opinion or
+conception of something---it "has the strength of the most certain agreement,
 such that the mind, having been opened by God to his mysteries, firmly and
 steadfastly gives assent." 
 [@Catholic:Catechismus1614, 15: "Igitvr credendi vox, hoc loco putare,
@@ -536,7 +545,8 @@ person, but ends with an act of the individual will.
 The catechism preaches, in the tradition of Augustinian Neoplatonism, that God
 the creator is above all created things that can be perceived through the
 senses, and that therefore humans cannot come to the knowledge of God without
-the gift of God's grace. "In order for our minds to reach God, since nothing is
+the gift of God's grace.  
+"In order for our minds to reach God," the catechism says, "since nothing is
 more sublime than God, our mind needs to be pulled away from everything that
 pertains to the senses---something that we, in this natural life, do not have
 the capacity to do." 
@@ -546,11 +556,11 @@ rei facultatem in hac vita naturaliter non habemus."]
 But even as the catechism stresses that sensory experience is inadequate, and
 human beings are incapable of knowing God by their own lights, it still speaks
 of the knowledge of God in subjective terms: "our minds" must be changed, our
-relationship to the world of the senses must be changed by divine action. Though
-God is beyond sensation, sensation is the entrance to the path; the created
-world speaks of God's nature to those who can perceive it. Each person is still
-called to a process of seeking to know God, seeking to move beyond sensory
-experience. 
+relationship to the world of the senses must be changed by divine action. 
+Though God is beyond sensation, sensation is the entrance to the path; the
+created world speaks of God's nature to those who can perceive it. 
+Each person is still called to a process of seeking to know God, seeking to move
+beyond sensory experience. 
 
 As Susan Schreiner argues, the Catholic response to early modern debates about
 the certainty of faith and salvation was to emphasize the work of the Holy
@@ -558,31 +568,31 @@ Spirit through the institutional Church.
 [@Schreiner:Certainty, 131--208]
 Not every individual perception or experience was valid, but only those that
 accorded with the revelation already given through the Church. 
-
 As a result, Spanish theological writers cultivated disciplines for regulating
 spiritual experiences and submitting individual sensation to the Church's
-authority. The Spanish Inquisition investigated Teresa of Ávila and other
-mystics who claimed authority only on the basis of spiritual experiences, and
-most were not as successful as Teresa in avoiding punishment.
+authority. 
+The Spanish Inquisition investigated Teresa of Ávila and other mystics who
+claimed authority only on the basis of spiritual experiences, and most were not
+as successful as Teresa in avoiding punishment.
 [@Ahlgren:TeresaPolitics; Francisca:Inquisition]
 Teresa's student Juan de la Cruz (St. John of the Cross) taught contemplatives
 to pursue union with God by weaning themselves of sensory experiences in the
-"dark night of the soul." The Carmelite reformer defines that union not in
-sensual terms but in ethical ones, as the total surrender and conformity of
-one's will to God.
+"dark night of the soul." 
+The Carmelite reformer defines that union not in sensual terms but in ethical
+ones, as the total surrender and conformity of one's will to God.
 [@Schreiner:Certainty; @JuandelaCruz:Subida, bk. I, ch. 5--7, pp. 226--248]
 Similarly, Ignatius of Loyola provided Jesuits with his *Spiritual Exercises*
 for discerning the validity of their religious sensations.
 [@Schreiner:Certainty, ch. 6]
 
-
 In such a climate, music's power over the senses and affections might be used
 for the purposes of cultivating faith, but this power could also be dangerous.
 Some Catholics such as the Jesuit missionaries, despite their founder's
 suspicion of music, were eager to use this power to advance the cause of the
-Church. On the mission field, the Jesuits were involved with subjective
-experience to such a degree that they even interpreted the dreams of native
-people in New Spain.
+Church. 
+On the mission field, the Jesuits were involved with subjective experience to
+such a degree that they even interpreted the dreams of native people in New
+Spain.
 [@JuandelaCruz:Subida, 40--41; @Bailey:Art]
 But others saw the use of music as a potential distraction or distortion. For
 example, Juan de la Cruz complains that even though churches would seem the
@@ -653,31 +663,32 @@ revelaciones y comunicaciones pueden tener del cielo."]
 The contrast between this passage and the quotation from Kircher reflects not
 only a chronological change in Catholic attitudes between the late sixteenth and
 mid seventeenth centuries, but also a contrast between religious orders, and
-differing emphases on parts of the Christian life. Juan's *Ascent of Mount
-Carmel* was first published in 1618, though it was written some forty years
-earlier; his outlook reflects the hard ascetic extreme of Catholic Reformation
-attitudes toward music. Kircher, on the other hand, writes with the confidence
-of the Jesuit order at the height of its global influence, when this order was
-still trying to engage with any aspect of culture that they saw as advancing
-their mission. Kircher is interested in music's power to convert---to not only
-persuade catechumens of the truth but to enable them to experience truth. Juan,
-on the other hand, is concerned with the limiting effect of sonic pleasures on
-the maturity of the already converted. Both acknowledge music's power over the
-individual person's senses, but Catholics who shared Juan's ascetic bent, or his
-pastoral concern with spiritual growth, saw that power as a danger or even an
-opening for diabolical influence. 
+differing emphases on parts of the Christian life. 
+Juan's *Ascent of Mount Carmel* was first published in 1618, though it was
+written some forty years earlier; his outlook reflects the hard ascetic extreme
+of Catholic Reformation attitudes toward music. 
+Kircher, on the other hand, writes with the confidence of the Jesuit order at
+the height of its global influence, when this order was still trying to engage
+with any aspect of culture that they saw as advancing their mission. 
+Kircher is interested in music's power to convert---to not only persuade
+catechumens of the truth but to enable them to experience truth. 
+Juan, on the other hand, is concerned with the limiting effect of sonic
+pleasures on the maturity of the already converted. 
+Both acknowledge music's power over the individual person's senses, but
+Catholics who shared Juan's ascetic bent, or his pastoral concern with spiritual
+growth, saw that power as a danger or even an opening for diabolical influence. 
 
 ### Cultural Conditioning in Hearing
 
 If reckoning with individual sensory experience was a struggle for the Church
 after Trent, the problem of cultural conditioning in this period presented a
 newer and more difficult challenge that profoundly changed the character of
-Catholic Christianity. Catholics since the early age of exploration had
-struggled to determine which parts of Christian religion they could adapt to
-other cultures. As Ines \v{Z}upanov theorizes Jesuit intercultural encounters
-in India in her book *Missionary Tropics*, the "tropics" represented both a
-geographic zone and a process of inevitable "turning" or cultural
-transformation.
+Catholic Christianity. 
+Catholics since the early age of exploration had struggled to determine which
+parts of Christian religion they could adapt to other cultures. 
+As Ines \v{Z}upanov theorizes Jesuit intercultural encounters in India in her
+book *Missionary Tropics*, the "tropics" represented both a geographic zone and
+a process of inevitable "turning" or cultural transformation.
 [@Zupanov:MissionaryTropics]
 Some missionaries like the Jesuits in Japan and Brazil actively sought to
 accommodate local customs and music; but everywhere that missionaries brought
@@ -686,7 +697,7 @@ into something neither they nor their converts could necessarily predict.
 [@Bailey:Art; @Waterhouse:EarliestJapaneseContacts;
 @Castagna:JesuitsConversionBrazil]
 
-A half century after the Aztec empire fell to the Spanish, the Franciscan
+Half a century after the Aztec empire fell to the Spanish, the Franciscan
 Bernardino de Sahagún was trying to provide Mexica natives with suitable
 Christian songs in their own language. 
 [@Candelaria:Psalmodia]
