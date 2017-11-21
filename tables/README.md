@@ -2,5 +2,5 @@
 
 ## Chapter 2
 
-#. `<senses-order>`
-#. `<senses-fray-luis>`
+#. senses-order
+#. senses-fray-luis

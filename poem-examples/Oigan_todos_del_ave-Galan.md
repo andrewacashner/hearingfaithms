@@ -1,4 +1,4 @@
-`<poem:Oigan_todos_del_ave-Galan>`
+(ref float 'poem 'Oigan_todos_del_ave-Galan)
 
 *Oigan todos del ave*, from setting by Cristóbal Galán, estribillo
 
