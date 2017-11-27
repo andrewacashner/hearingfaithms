@@ -18,4 +18,6 @@ the creator is above all created things that can be perceived through the
 senses, and that therefore humans cannot come to the knowledge of God without
 the gift of God's grace.  
 
-
+<!--- on intercultural encounter -->
+Catholics since the early age of exploration had struggled to determine which
+parts of Christian religion they could adapt to other cultures. 

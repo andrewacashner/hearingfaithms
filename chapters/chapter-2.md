@@ -92,11 +92,11 @@ true biblical orthodoxy, Catholic theologians believed that the reformers had
 redefined faith completely. 
 In contrast, Catholics continued to develop the theology of faith they inherited
 from medieval writers like Thomas Aquinas, in which faith was one of three
-virtues or capacities, along with hope and charity. 
-[@Schreiner:Certainty, 130--132] 
+virtues or capacities, along with hope and charity [@Schreiner:Certainty,
+130--132].
 Simple belief in intellectual propositions was "unformed faith" 
-(*fides informe*). 
-[@Catholic:Catechismus1614, s. v. *Credo in Deum Patrem*, 15--20]
+(*fides informe*) [@Catholic:Catechismus1614, s. v. *Credo in Deum Patrem*,
+15--20].
 It was essential that every Christian believe certain things, but this was not
 the summit of Christian life.
 The goal was that Christians would develop fully "formed faith" 
@@ -118,12 +118,12 @@ sense of obeying.
 
 One of the Church's key tools in combating heresy and promoting evangelism was
 the new catechism "for parish priests" commissioned by the Council of Trent and
-first published in 1566.
-[@Catholic:Catechismus1614; @NewCatholic, s. v. *catechism*]
+first published in 1566 [@Catholic:Catechismus1614; @NewCatholic, s. v.
+*catechism*].
 In responding to both the challenge of Protestantism and the underlying problems
 that had allowed heresy to take root, the council's bishops sought to improve
-the education of clergy and laity in matters of faith. 
-[@NewCatholic, s. v. *Trent, Council of*]
+the education of clergy and laity in matters of faith [@NewCatholic, s. v.
+*Trent, Council of*].
 They required priests and bishops to preach on all Sundays and holy days, but
 they also made provision to ensure that those preaching were themselves properly
 grounded in the faith.
@@ -138,10 +138,9 @@ As the preface teaches, God communicated his own nature to humanity by taking on
 human flesh in Christ. 
 Therefore the true Word of God was not confined to Scripture or doctrines
 alone---the Word was a person, Jesus Christ, to whom the prophetic scriptures
-testified and from whom the Church's doctrine flowed.
-[@Catholic:Catechismus1614, 9: "Omnis autem doctrinæ ratio, quæ fidelibus
-tradenda sit, verbo Dei continetur, quod in scripturas, traditionesque
-distributum est."]
+testified and from whom the Church's doctrine flowed [@Catholic:Catechismus1614,
+9: "Omnis autem doctrinæ ratio, quæ fidelibus tradenda sit, verbo Dei
+continetur, quod in scripturas, traditionesque distributum est."].
 In the words of John's gospel, Jesus Christ himself was the *logos* or *verbum*
 (John 1:1), the "Word made flesh." 
 Where God had previously spoken through the law and the prophets, now he had
@@ -158,28 +157,29 @@ There was thus a close link in Catholic theology between hearing the Word of the
 Church's teaching, obeying that Word, and encountering Christ who was the Word.
 The absolute center of the Church's teaching, according to the catechism, was
 found in Christ's own words in John 17:3, "This is eternal life, that you should
-know the only true God, and the one whom he sent, Jesus Christ."
+know the only true God, and the one whom he sent, Jesus Christ"
 [@Catholic:Catechismus1614, 6: "Hæc est vita æterna, vt cognoscant te solùm
-verum Deum, & quem misisti, Iesum Christum."]
+verum Deum, & quem misisti, Iesum Christum."].
 All the Church's teachers should exert themselves to the end that 
 
 > the faithful should know and love from the heart Jesus Christ, and him
-> crucified [I Cor. 2:2]; and indeed to persuade them so that they
-> believe with the faithfulness [*pietas*] of their inmost heart and with
-> cultivated devotion [*religio*], that there is no other name given to people
-> under heaven, through whom they can be saved [Acts 4:12], since Christ is the
-> atonement for our sins [I John 2:2].
-[@Catholic:Catechismus1614, 6: "Quamobrem in eo præcipuè Ecclesiastici doctoris
-opera versabitur, vt fideles scire ex animo cupiant, Iesum Christum & hunc
-crucifixum: sibíque certò persuadeant, atque intima cordis pietate, & religione
-credant, aliud nomen non esse datum hominibus sub cœlo, in quo oporteat nos
-saluos fieri: siquidem ipse propitiatio est pro peccatis nostris."]
+> crucified (1 Cor. 2:2); and indeed to persuade them so that they believe with
+> the faithfulness [*pietas*] of their inmost heart and with cultivated devotion
+> [*religio*], that there is no other name given to people under heaven, through
+> whom they can be saved (Acts 4:12), since Christ is the atonement for our sins
+> (1 John 2:2) [@Catholic:Catechismus1614, 6 (the scriptural citations are in
+> marginal notes): "Quamobrem in eo præcipuè Ecclesiastici doctoris opera
+> versabitur, vt fideles scire ex animo cupiant, Iesum Christum & hunc
+> crucifixum: sibíque certò persuadeant, atque intima cordis pietate, &
+> religione credant, aliud nomen non esse datum hominibus sub cœlo, in quo
+> oporteat nos saluos fieri: siquidem ipse propitiatio est pro peccatis
+> nostris."].
 
 Finally---contrary to Protestant teaching as Catholics understood it---since "in
 this we know that we know him, if he keep his commandments" (I John 2:3),
 teachers should model faithful living, "not in leisure" but "in applying
 diligent effort to justice, piety, faith, charity, mercy," having been redeemed
-"to do good works" (I Tim. 2:12); so that "whether one sets out to believe or
+"to do good works" (1 Tim. 2:12); so that "whether one sets out to believe or
 hope or do anything," the love of God should be the summit of all Christian
 life.
 [@Catholic:Catechismus1614, 6--7: "At verò quia in hoc scimus, quoniam
@@ -198,51 +198,48 @@ ministers to find a way to make Christ the Word audible:
 
 > Since, therefore, faith is conceived by means of hearing, it is apparent, how
 > necessary it is for achieving eternal life to follow the works of the
-> legitimate teachers and ministers of the faith. [...] Those who are called
-> to this ministry should understand that in passing along the mysteries of
-> faith and the precepts of life, *they must accommodate the teaching to the
-> sense of hearing and intelligence*, so that by these [mysteries and precepts],
-> *those who possess a well-trained sense* should be filled up by spiritual
-> food.
-[@Catholic:Catechismus1614, 2, 8--9 (emphasis added): "Cvm autem fides ex auditu
-concipiatur, perspicuum est, quàm necessaria semper fuerit ad æternam vitam
-consequendam doctoris legitimi fidelis opera, ac ministerium [...] vt
-videlicet intelligerent, que ad hoc ministerium vocati sunt, ita in tradendis
-fidei mysteriis, ac vitæ præceptis, doctrinam ad audientium sensum, atque
-intelligentiam accommodari oportere, vt cùm eorum animos, qui exercitatos sensus
-habent, spirituali cibo expleuerint [...]."]
+> legitimate teachers and ministers of the faith. [...] Those who are called to
+> this ministry should understand that in passing along the mysteries of faith
+> and the precepts of life, *they must accommodate the teaching to the sense of
+> hearing and intelligence*, so that by these [mysteries and precepts], *those
+> who possess a well-trained sense* should be filled up by spiritual food
+> [@Catholic:Catechismus1614, 2, 8--9 (emphasis added): "Cvm autem fides ex
+> auditu concipiatur, perspicuum est, quàm necessaria semper fuerit ad æternam vitam
+> consequendam doctoris legitimi fidelis opera, ac ministerium [...] vt
+> videlicet intelligerent, que ad hoc ministerium vocati sunt, ita in tradendis
+> fidei mysteriis, ac vitæ præceptis, doctrinam ad audientium sensum, atque
+> intelligentiam accommodari oportere, vt cùm eorum animos, qui exercitatos
+> sensus habent, spirituali cibo expleuerint [...]."].
 
 To do this, pastors should consider "the age, intelligence [*ingenium*],
 customs, condition" of their charges, to give milk to spiritual infants and
 solid food to the maturing, to raise up a "perfect man [*virum perfectum*],
-after the measure of the fullness of Christ."
-[@Catholic:Catechismus1614, 8: "Obseruanda est enim audientium ætas, ingenium,
-mores, conditio [...]. sed cùm alij veluti modò geniti infantes sint, alij
-in Christo adolescere incipiant, nonnulli verò quodammodo confirmata sint ætate,
-necesse est diligenter considerare, quibus lacte, quibus solidiore cibo opus
-sit, ac singulis ea doctrinæ alimenta præbere, quæ spiritum augeant, donec
-occurramus omnes in vnitatem fidei, & agnitiones filij Dei, in virum perfectum,
-in mensuram ætatis plenitudinis Christi."]
+after the measure of the fullness of Christ" [@Catholic:Catechismus1614, 8:
+"Obseruanda est enim audientium ætas, ingenium, mores, conditio [...]. sed cùm
+alij veluti modò geniti infantes sint, alij in Christo adolescere incipiant,
+nonnulli verò quodammodo confirmata sint ætate, necesse est diligenter
+considerare, quibus lacte, quibus solidiore cibo opus sit, ac singulis ea
+doctrinæ alimenta præbere, quæ spiritum augeant, donec occurramus omnes in
+vnitatem fidei, & agnitiones filij Dei, in virum perfectum, in mensuram ætatis
+plenitudinis Christi."].
 
 The catechism's principle of accommodation was exemplified in vernacular
 expositions of the catechism, like the Spanish versions of Antonio de Azevedo,
-Juan Eusebio de Nieremberg, and Juan de Palafox y Mendoza.
-[@Azevedo:Catecismo; @Nieremberg:PracticaCatecismo; @Palafox:Bocados]
+Juan Eusebio de Nieremberg, and Juan de Palafox y Mendoza [@Azevedo:Catecismo;
+@Nieremberg:PracticaCatecismo; @Palafox:Bocados].
 The Spanish versions brought this teaching down to a more colloquial level,
 aiming to help "laborers and simple folk" (in Palafox's words) with earthy
 illustrations and paraphrases of Biblical stories.
 These texts come alive when read aloud, and indeed the primary goal of this type
 of literature was to prepare pastors to teach unlettered disciples through words
 and voice, whether those disciples were the "Indians" of America or Asia, or the
-peasants of Europe whose customs were still more pagan than Christian.
-[On Europe as a mission front after Trent, see @Kamen:EarlyModernSociety,
-60--63.]
+peasants of Europe whose customs were still more pagan than Christian [On Europe
+as a mission front after Trent, see @Kamen:EarlyModernSociety, 60--63.].
 
 The Augustinian friar Antonio de Azevedo begins his 1589 *Catechism of the
 Mysteries of the Faith* by declaring from the outset that communicating the
 faith requires both trustworthy teachers and faithful listeners---a concept for
-which Azevedo uses music as a key metaphor.
-[@Azevedo:Catecismo] 
+which Azevedo uses music as a key metaphor [@Azevedo:Catecismo].
 He begins with the image taken from Pliny of a pupil listening at the feet of a
 teacher who is holding harp. 
 The teacher is shown, Azevedo says,
@@ -252,21 +249,20 @@ The teacher is shown, Azevedo says,
 > that the disciple should be like a child, simple, without malice or duplicity,
 > without knowing even how to respond or argue, but only how to listen and
 > learn. Thus this image depicts for us elegantly, what the hearer of the Faith
-> should be like.
-[@Azevedo:Catecismo, f. 1b: "Para pintar los Romanos la
-Fe, lo primero que hizieron templo y altar [...] Numa pompilio [...] puso vn
-idolo: de forma de vn viejo cano, que tenia vna harpa en la mano, i estava
-enseñando vn niño echado a sus pies. En esta figura o geroglifica esta encerrada
-mucha filosofia, i aun cristiana. En el templo i ara denota, que la fe a de ser
-firme i fixa, no movediça, ni flaca, que a cada ayre de novedad se mueva I
-tambien que a menester maestros que la enseñen, i dicipulos que la oygan. I, que
-el maestro a de ser anciano, i maduro en edad y bondad. Porque la dotrina es
-grave, antigua, i de tomo i sustancia. No nueua, ni de pocos años sino antigue
-dende los Apostoles, i con instrumento musico que da gusto al oido. Paraque
-entendamos, que la Fe entra por el oido; como dize S. Pablo. I que el dicipulo
-sea como niño, sencillo, sin malicia ni doblez, sin saber ni replicar, ni
-arguir, mas de solo oir, y deprender. En lo qual nos dibuxa galanamente, qual a
-de ser el oiente de la Fe."]
+> should be like [@Azevedo:Catecismo, f. 1b: "Para pintar los Romanos la Fe, lo
+> primero que hizieron templo y altar [...] Numa pompilio [...] puso vn idolo:
+> de forma de vn viejo cano, que tenia vna harpa en la mano, i estava enseñando
+> vn niño echado a sus pies. En esta figura o geroglifica esta encerrada mucha
+> filosofia, i aun cristiana. En el templo i ara denota, que la fe a de ser
+> firme i fixa, no movediça, ni flaca, que a cada ayre de novedad se mueva I
+> tambien que a menester maestros que la enseñen, i dicipulos que la oygan. I,
+> que el maestro a de ser anciano, i maduro en edad y bondad. Porque la dotrina
+> es grave, antigua, i de tomo i sustancia. No nueua, ni de pocos años sino
+> antigue dende los Apostoles, i con instrumento musico que da gusto al oido.
+> Paraque entendamos, que la Fe entra por el oido; como dize S. Pablo. I que el
+> dicipulo sea como niño, sencillo, sin malicia ni doblez, sin saber ni
+> replicar, ni arguir, mas de solo oir, y deprender. En lo qual nos dibuxa
+> galanamente, qual a de ser el oiente de la Fe."].
 
 The teacher's task, then, is not only to make the faith heard, but to make it
 "appeal to the ear," just as Azevedo says music does.
@@ -307,20 +303,18 @@ explanations of music's power by Athanasius Kircher.
 This Jesuit polymath's compendium of musical knowledge, *Musurgia universalis*,
 was published in Rome in 1650 and thence disseminated throughout the Hispanic
 world, with copies sent to centers of colonial culture including Puebla and
-Manila.
-[@Findlen:Kircher; @Godwin:KircherTheater;
-on the worldwide distribution of the book as far as Manila, see
-@Irving:Colonial, 48--50. The book may be found in historical collections in
-Madrid, Barcelona, Mexico City, and Puebla (two copies).]
+Manila [@Findlen:Kircher; @Godwin:KircherTheater; on the worldwide distribution
+of the book as far as Manila, see @Irving:Colonial, 48--50. The book may be
+found in historical collections in Madrid, Barcelona, Mexico City, and Puebla
+(two copies).].
 <!--- Revise if discussing Kircher in ch 1 -->
 Kircher discusses the power of music several times throughout his ten-part
 treatise, including a detailed analysis of "whether, why, and what kind of power
 music might have to move people's souls, and whether the stories are true that
-were written about the miraculous effects of ancient
-music."
-[@Kircher:Musurgia, bk. 7, p. 549: "Vtrum, cur, & quomodo Musica uim habeat
-ad animos hominum commouendos, & vtrum vera sint, quæ de mirificis Musicæ
-Veteris effectibus scribuntur."].
+were written about the miraculous effects of ancient music" [@Kircher:Musurgia,
+bk. 7, p. 549: "Vtrum, cur, & quomodo Musica uim habeat ad animos hominum
+commouendos, & vtrum vera sint, quæ de mirificis Musicæ Veteris effectibus
+scribuntur."].
 Kircher's contribution to this favorite controversy of the Renaissance is to
 defend the superiority of modern music on the basis of, among other factors, its
 increased ability to move listeners through varieties of musical structure and
@@ -331,10 +325,10 @@ only to understand the subject of the words, but to physically experience their
 truth. 
 According to legend the famed *aulos* player Timotheus aroused Alexander the
 Great to the furor of war through music, and Kircher says he did this by
-adapting his song both to the feeling of war and to the disposition of the king.
+adapting his song both to the feeling of war and to the disposition of the king
 [Kircher is probably responding to @Galilei:Dialogo, 90, in discussing the
 Classical source, Dio Chrysostom, *Orationes* 1 (*Peri Basileias*); a later
-treatment of this subject is @Dryden:Alexander.]
+treatment of this subject is @Dryden:Alexander.].
 The same music, he says, would have had a different effect on someone else.
 To illustrate this contrast, Kircher goes on to paint a remarkable picture of
 how sacred music can move those who are disposed to it:
@@ -348,41 +342,40 @@ how sacred music can move those who are disposed to it:
 > [the listener] would experience that what was said was actually true, those
 > heavenly things that were made by harmonic sweetness, and he would suddenly be
 > carried away beyond himself to that place where those joyful things are
-> true.
-[@Kircher:Musurgia, bk. 7, p. 550: "Sicuti contra, si quis Deo deuotum hominum
-rerumque cœlestium, meditationi deditum in exoticos affectus raptusque mentis
-commouere vellet is supra insigne aliquod verborum thema, quod rerum cælestium
-dulcedinem, & suauitatem auditori in memoriam reuocaret, modulo dorio per
-clausulas interuallaque aptè adaptet, & experietur quod dixi verum esse, statim
-extra se factos dulcedine harmonica eò, vbi vera sunt gaudi rapi: vidi ego
-nonsemel in viris ordinis nostri sanctitate illustribus huiusmodi
-experimenta."]
+> true [@Kircher:Musurgia, bk. 7, p. 550: "Sicuti contra, si quis Deo deuotum
+> hominum rerumque cœlestium, meditationi deditum in exoticos affectus raptusque
+> mentis commouere vellet is supra insigne aliquod verborum thema, quod rerum
+> cælestium dulcedinem, & suauitatem auditori in memoriam reuocaret, modulo
+> dorio per clausulas interuallaque aptè adaptet, & experietur quod dixi verum
+> esse, statim extra se factos dulcedine harmonica eò, vbi vera sunt gaudi rapi:
+> vidi ego nonsemel in viris ordinis nostri sanctitate illustribus huiusmodi
+> experimenta."].
 
 Kircher says that the experience of Jesuit missionaries around the world
 provides ample evidence of this miraculous power of music combined with
 preaching. 
 But Kircher's depiction of music's power in this passage goes well beyond the
-Jesuit formula of "teaching, pleasing, and persuading."
-[On the Jesuit approach to religious arts, see @Bailey:Art, 35--51.]
+Jesuit formula of "teaching, pleasing, and persuading"
+[On the Jesuit approach to religious arts, see @Bailey:Art, 35--51.].
 Music not only makes the teaching of doctrinal truth appealing and persuasive;
 it actually transforms listeners through affective experience. 
 
 In this conception, music links the objective truth with subjective experience
 through the unique ways that music affects the human body. 
 Kircher posits that music moves a listener's soul through the principle of
-sympathy.
+sympathy
 [On the links between this interest in the occult powers of music and early
-scientific research, see @Gouk:Sciences; @Gouk:Harmonics.]
+scientific research, see @Gouk:Sciences; @Gouk:Harmonics.].
 Just as a string plucked on one lute would cause a string tuned to the same
 pitch on another lute to vibrate, music created physical harmony---sympathetic
 vibration---between the affective content of the music and the humors of the
 person listening.
 When the music moved in the same way as the affections it expressed, this in
-turn moved the listener to feel the same affections.
+turn moved the listener to feel the same affections
 [Kircher's theory bears a striking resemblance to some recent theories of music
 cognition, such as Lawrence Zbikowski's description of musical structures as
 "sonic analogues for internal dynamic processes"; -@Zbikowski:Conceptualizing,
-XX.] 
+XX.].
 <!--- check page and quote -->
 Kircher explains:
 
@@ -393,14 +386,13 @@ Kircher explains:
 > [i. e., *spiritus animales*], or the implanted internal air [...], should be
 > moved according to the proportions of the motion of the external air, so that
 > the spirits' motion are effected in various ways; and through this affections
-> can be engendered in the person.
-[@Kircher:Musurgia, 552: "Cum harmonia nihil aliud sit, quam dissimilium vocum
-concordia, consensus, & undequaque correspondens proportio; proportio autem
-numerorum in motu aeris elucescat; motus verò pro varia interuallorum, ascensus,
-descensusque ratione varius sit, spiritus quoque, siue aer internus implantatus,
-vti paulò ante ostensum fuit, iuxta proportionem motus aeris extrinseci
-moueatur, fit vt spiritus moti ope vari\c{e}, indè in homini affectiones
-nascantur."]
+> can be engendered in the person [@Kircher:Musurgia, 552: "Cum harmonia nihil
+> aliud sit, quam dissimilium vocum concordia, consensus, & undequaque
+> correspondens proportio; proportio autem numerorum in motu aeris elucescat;
+> motus verò pro varia interuallorum, ascensus, descensusque ratione varius sit,
+> spiritus quoque, siue aer internus implantatus, vti paulò ante ostensum fuit,
+> iuxta proportionem motus aeris extrinseci moueatur, fit vt spiritus moti ope
+> variȩ, indè in homini affectiones nascantur."].
 
 Kircher seems to assume that the affective properties of different modes and
 styles of music are inherent in the numerical proportions of the music; in other
@@ -420,13 +412,12 @@ way:
 > The first is harmony itself. Second, number, and proportion. Third, the power
 > and efficacy of the words to be pronounced in music itself; or, the oration.
 > Fourth is the disposition of the hearers, or the subject's capacity to
-> remember things.
-[@Kircher:Musurgia, 550: "Tertius purè naturalis est, per harmonicum, scilicet
-sonum, qui nisi quatuor conditiones annexas habeat, quarum vna deficiente,
-desideratus effectus minimé obtinebitur: Prima est ipsa harmonia. Secunda,
-numerus, & proportio. Tertia, verborum in ipsa musica prouniciandorum vis, &
-efficacia, siue ipsa oratio. Quarta audientis dispositio, siue subiectum
-memoratarum rerum capax."]
+> remember things [@Kircher:Musurgia, 550: "Tertius purè naturalis est, per
+> harmonicum, scilicet sonum, qui nisi quatuor conditiones annexas habeat,
+> quarum vna deficiente, desideratus effectus minimé obtinebitur: Prima est ipsa
+> harmonia. Secunda, numerus, & proportio. Tertia, verborum in ipsa musica
+> prouniciandorum vis, & efficacia, siue ipsa oratio. Quarta audientis
+> dispositio, siue subiectum memoratarum rerum capax."].
 
 If there must be this kind of congruence between music and listener, then it
 makes sense that Kircher acknowledges that music affects different people in
@@ -443,26 +434,24 @@ delicate music of that city, and prefer their own strident, clangorous music.
 These differences of style and perception are caused by patriotism---the
 inordinate love of things from one's own country, as Kircher describes it; and
 by what each person is accustomed to hearing, which is shaped by the traditions
-of each country.
-[@Kircher:Musurgia, 543--544]
+of each country [@Kircher:Musurgia, 543--544].
 <!--- XXX translation in Strunk -->
 
 Moreover, "just as different nations enjoy a different style of music, likewise
 within each nation, people of different temperaments appreciate different styles
-that conform the most to their natural inclinations."
-[@Kircher:Musurgia, 544: "Quod quemadmodum diversæ nationes diuerso stylo musico
-gaudent, ita & in vnaquaque natione diuersi temperamenti homines, diuersis
-stylis, vnusquisque suæ naturali inclinationi maximè conformibus afficiuntur."]
+that conform the most to their natural inclinations" [@Kircher:Musurgia, 544:
+"Quod quemadmodum diversæ nationes diuerso stylo musico gaudent, ita & in
+vnaquaque natione diuersi temperamenti homines, diuersis stylis, vnusquisque suæ
+naturali inclinationi maximè conformibus afficiuntur."].
 What delights a person with a sanguine temperament might enrage or madden a
 melancholic listener; what has a strong effect on one person may have no effect
-at all on another. 
-[@Kircher:Musurgia, 550]
+at all on another [@Kircher:Musurgia, 550].
 "Music does not just move any subject, but the one with which the natural humor
 of the music is congruent [...] for unless the spirits of the receiving subject
-correspond exactly, the music accomplishes nothing."
-[@Kircher:Musurgia, 550: "Musica igitur vt moueat, non qualecunque subiectum
-vult, sed illud cuius humor naturalis musicae congruit [...] quæ nisi
-recipientis subiecti spiritui extactè respondeant, nihil efficient."]
+correspond exactly, the music accomplishes nothing" [@Kircher:Musurgia, 550:
+"Musica igitur vt moueat, non qualecunque subiectum vult, sed illud cuius humor
+naturalis musicae congruit [...] quæ nisi recipientis subiecti spiritui extactè
+respondeant, nihil efficient."].
 Furthermore, Kircher suggests that not only humoral temperament but also training
 and intelligence are a factor in individual listening, since he includes the
 capacity of memory in his list of four conditions for effective music. 
@@ -487,9 +476,8 @@ performance, and the listeners must all be in harmony.
 When Kircher compares music to preaching, he says that an effective preacher is
 familiar with his audience and therefore "knows which strings to pluck"---a
 phrase that recalls Antonio de Azevedo's image of the religious teacher with
-harp in hand.
-[@Kircher:Musurgia, 551: "Nouerat enim prædicator fuorum auditorum
-inclinationem; nouerat chordam, quam tangere debebat."]
+harp in hand [@Kircher:Musurgia, 551: "Nouerat enim prædicator fuorum auditorum
+inclinationem; nouerat chordam, quam tangere debebat."].
 But Kircher never fully resolves the tension between the universal power of
 music and the variables of individual subjectivity and cultural conditioning. 
 Music could, as Kircher describes, move someone to experience the truth of
@@ -524,8 +512,7 @@ Polemicists like Thomas More accused Martin Luther of turning his followers away
 from the trustworthy institutional Church with its objectively operating
 sacraments, leaving them with only a subjective experience as assurance of
 salvation, and separating individual faith from the cultivation of a just
-society. 
-[@Catholic:Catechismus1614, ch. 4; @Schreiner:Certainty]
+society [@Catholic:Catechismus1614, ch. 4; @Schreiner:Certainty].
 <!--- + More -->
 
 But for Catholics the problem remained that some connection needed to be forged
@@ -535,12 +522,10 @@ element.
 The Roman Catechism says that faith means more than having an opinion or
 conception of something---it "has the strength of the most certain agreement,
 such that the mind, having been opened by God to his mysteries, firmly and
-steadfastly gives assent." 
-[@Catholic:Catechismus1614, 15: "Igitvr credendi vox, hoc loco putare,
-existimare, opinari, non significat, sed vt docent sacræ litteræ, certissimæ
-assensionis vim habet, qua mens Deo sua mysteria aperienti, firmè constantérq;
-assentitur."] 
-
+steadfastly gives assent" [@Catholic:Catechismus1614, 15: "Igitvr credendi vox,
+hoc loco putare, existimare, opinari, non significat, sed vt docent sacræ
+litteræ, certissimæ assensionis vim habet, qua mens Deo sua mysteria aperienti,
+firmè constantérq; assentitur."]. 
 This theology of faith begins with God's grace opening the mind of the passive
 person, but ends with an act of the individual will. 
 People cannot arrive at the full knowledge of God purely from observing the
@@ -549,10 +534,9 @@ In the tradition of Augustinian Neoplatonism, the catechism preaches that "in
 order for our minds to reach God, since nothing is more sublime than God, our
 mind needs to be pulled away from everything that pertains to the
 senses---something that we, in this natural life, do not have the capacity to
-do." 
-[@Catholic:Catechismus1614, 18: "Nam vt mens nostra ad Deum, quo nihil est
+do" [@Catholic:Catechismus1614, 18: "Nam vt mens nostra ad Deum, quo nihil est
 sublimius, perueniat, necesse est eam omnino à sensibus abstractam esse: cuius
-rei facultatem in hac vita naturaliter non habemus."]
+rei facultatem in hac vita naturaliter non habemus."]. 
 Faith thus means being empowered by God's grace to go beyond the senses, to
 reach "the assurance of things not seen" (Heb. XX). <!--- citation -->
 
@@ -570,8 +554,7 @@ assent" to the truth of God.
 Catholic leaders defended against the potential danger of this subjective
 element by insisting that the certainty of faith and salvation came through the
 work of the Holy Spirit in the institutional Church, as Susan Schreiner
-demonstrates.
-[@Schreiner:Certainty, 131--208]
+demonstrates [@Schreiner:Certainty, 131--208].
 Not every individual perception or experience was valid, but only those that
 accorded with the revelation already given through the Church. 
 Moreover, reacting against the perceived "fideism" of the Lutherans,
@@ -583,20 +566,20 @@ spiritual experiences and submitting individual sensation to the Church's
 authority. 
 The Spanish Inquisition investigated Teresa of Ávila and other mystics who
 claimed authority only on the basis of spiritual experiences, and most were not
-as successful as Teresa in avoiding punishment.
-[@Ahlgren:TeresaPolitics; Francisca:Inquisition]
+as successful as Teresa in avoiding punishment [@Ahlgren:TeresaPolitics;
+Francisca:Inquisition].
 Teresa's student Juan de la Cruz (St. John of the Cross) taught contemplatives
 to pursue union with God by weaning themselves of sensory experiences in the
 "dark night of the soul." 
 The Carmelite reformer defines that union not in sensual terms but in ethical
-ones, as the total surrender and conformity of one's will to God.
-[@Schreiner:Certainty; @JuandelaCruz:Subida, bk. I, ch. 5--7, pp. 226--248]
+ones, as the total surrender and conformity of one's will to God
+[@Schreiner:Certainty; @JuandelaCruz:Subida, bk. I, ch. 5--7, pp. 226--248].
 <!-- Carmelite secondary -->
 Similarly, Ignatius of Loyola provided Jesuits with his *Spiritual Exercises*
 for discerning the validity of their religious sensations, and for using those
 experiences to make decisive changes in life, as part of a radical commitment of
-the self to God.
-[@Schreiner:Certainty, ch. 6] <!-- Ignatius primary and secondary -->
+the self to God [@Schreiner:Certainty, ch. 6]. 
+<!-- Ignatius primary and secondary -->
 
 In such a climate, music might be used for the purposes of cultivating faith,
 because of its power over the senses and affections, but this power could also
@@ -606,19 +589,17 @@ suspicion of music, were eager to use this power to advance the cause of the
 Church. 
 On the mission field, the Jesuits were involved with subjective experience to
 such a degree that they even interpreted the dreams of native people in New
-Spain.
-[@Bailey:Art]
+Spain [@Bailey:Art].
 Others, though, saw the use of music as a potential distraction or distortion. 
 For example, Juan de la Cruz complains that even though churches would seem the
 ideal place for prayer, their decorations, ceremonies, and music so engage a
 person's senses that it can be impossible to worship God "in spirit and in
-truth" (John 4:23-24).
-[@JuandelaCruz:Subida, bk. 3, ch. 39--45, pp. 415--424]
+truth" (John 4:23-24) [@JuandelaCruz:Subida, bk. 3, ch. 39--45, pp. 415--424].
 
 Juan warns that desiring "to feel some effect on oneself" in doing elaborate
 ceremonies "is no less than to tempt God and provoke him gravely; so much so,
 that sometimes it gives license to the devil to deceive them, making them feel
-and understand things far removed from what is good for their soul."
+and understand things far removed from what is good for their soul"
 [@JuandelaCruz:Subida, bk. 3, ch. 43, p. 420: "Y lo que es peor es que algunos
 quieren sentire algún efecto en sí, o cumplirse lo que piden, o saber que se
 cumple el fin de aquellas sus oraciones ceremoniáticas; que no es menos que
@@ -626,7 +607,7 @@ tentar a Dios y enojarle gravemente; tanto, que algunas veces da licencia al
 demonio para que los engañe, haciéndolos sentir y entender cosas harto ajenas
 del provecho de su alma, mereciéndolos ellos por la propiedad que llevan en sus
 oraciones, no deseando más que se haga lo que Dios quiere que lo que ellos
-pretenden."]
+pretenden."].
 In a strong counterpoint to Kircher's statement about music's power to augment
 preaching, Juan admonishes his readers to be wary of overly artful preaching
 which, like music, only serves to stimulate "the sense and understanding"---Juan
@@ -635,45 +616,44 @@ hearer's will to live faithfully:
 
 > How commonly we see that [...] if the preacher's life is better, greater is
 > the fruit that he gains though his style be low and his rhetoric scanty, and
-> his teaching common, because the living spirit infuses him with ardor; but
-> the other preacher gets very little gain, no matter how much more elevated
-> his style and doctrine may be: because, though it is true that good style and
+> his teaching common, because the living spirit infuses him with ardor; but the
+> other preacher gets very little gain, no matter how much more elevated his
+> style and doctrine may be: because, though it is true that good style and
 > actions and elevated doctrine and good language move and create more effect
 > when accompanied by a good spirit, without the spirit, though the sermon may
-> give the sense and understanding much to savor and enjoy, it infuses little
-> or no sustenance to the spirit, because commonly it remains as lax and loath
-> as before to labor, even though marvelous things were said in marvelous ways,
-> which only serve to delight the ear [*oído*], like some polyphonic music
-> [*una música concertada*] or the clanging of bells [...]. It matters
-> little to hear someone perform one kind of music that is better than some
-> other, if it does not move me more than the other to do works; because,
-> although they have spoken marvels, then they are forgotten, as they do not
-> infuse fire into the will.
-[@JuandelaCruz:Subida, bk. 3, ch. 45, p. 425: "Que comúnmente vemos que---cuanto
-acá podemos juzgar---cuanto el predicador es de mejor vida, mayor es el fruto
-que hace por bajo que sea su estilo, y poca su retórica, y su doctrina común,
-porque del espíritu vivo se pega el calor; pero el otro muy poco provecho hará,
-aunque más subido sea su estilo y doctrina; porque, aunque es verdad que el buen
-estilo y acciones y subida doctrina y buen lenguaje mueven y hacen más efecto
-acompañado de buen espíritu; pero sin él, aunque da sabor y gusto el sermón al
-sentido y al entendimiento, muy poco o nada de jugo pega a la voluntad, porque
-comúnmente se queda tan floja y remisa como antes para obrar, aunque haya dicho
-maravillosas cosas maravillosamente dichas, que sólo sirven para deleitar el
-oído, como una música concertada o sonido de campanas; mas el espíritu, como
-digo, no sale de sus quicios más que antes, no teniendo la voz virtud para
-resucitar al muerto de su sepultura. Poco importa oír una música mejor que otra
-sonar, si no me mueve ésta más que aquélla a hacer obras; porque, aunque hayan
-dicho maravillas, luego se olvidan, como no pegaron fuego en la voluntad."]
+> give the sense and understanding much to savor and enjoy, it infuses little or
+> no sustenance to the spirit, because commonly it remains as lax and loath as
+> before to labor, even though marvelous things were said in marvelous ways,
+> which only serve to delight the ear [*oído*], like some polyphonic music [*una
+> música concertada*] or the clanging of bells [...]. It matters little to hear
+> someone perform one kind of music that is better than some other, if it does
+> not move me more than the other to do works; because, although they have
+> spoken marvels, then they are forgotten, as they do not infuse fire into the
+> will [@JuandelaCruz:Subida, bk. 3, ch. 45, p. 425: "Que comúnmente vemos
+> que---cuanto acá podemos juzgar---cuanto el predicador es de mejor vida, mayor
+> es el fruto que hace por bajo que sea su estilo, y poca su retórica, y su
+> doctrina común, porque del espíritu vivo se pega el calor; pero el otro muy
+> poco provecho hará, aunque más subido sea su estilo y doctrina; porque, aunque
+> es verdad que el buen estilo y acciones y subida doctrina y buen lenguaje
+> mueven y hacen más efecto acompañado de buen espíritu; pero sin él, aunque da
+> sabor y gusto el sermón al sentido y al entendimiento, muy poco o nada de jugo
+> pega a la voluntad, porque comúnmente se queda tan floja y remisa como antes
+> para obrar, aunque haya dicho maravillosas cosas maravillosamente dichas, que
+> sólo sirven para deleitar el oído, como una música concertada o sonido de
+> campanas; mas el espíritu, como digo, no sale de sus quicios más que antes, no
+> teniendo la voz virtud para resucitar al muerto de su sepultura. Poco importa
+> oír una música mejor que otra sonar, si no me mueve ésta más que aquélla a
+> hacer obras; porque, aunque hayan dicho maravillas, luego se olvidan, como no
+> pegaron fuego en la voluntad."].
 
 This passage of warning comes at the end of Juan's encyclopedic treatment of
 contemplative practice and mystical experience, and it seems to deliberately
-echo the "love" chapter of I Corinthians in insisting that, as Juan says
+echo the "love" chapter of 1 Corinthians in insisting that, as Juan says
 elsewhere, "a single work or act of the will done in charity is more precious
 before God than all the visions and revelations and communications from heaven
-that there can be."
-[@JuandelaCruz:Subida, bk. 2, ch. 22, p. 306: "[...] es más preciosa delante
-de Dios una obra o acto de voluntad hecho en caridad que cantas visiones y
-revelaciones y comunicaciones pueden tener del cielo."]
+that there can be" [@JuandelaCruz:Subida, bk. 2, ch. 22, p. 306: "[...] es más
+preciosa delante de Dios una obra o acto de voluntad hecho en caridad que cantas
+visiones y revelaciones y comunicaciones pueden tener del cielo."].
 
 The contrast between this passage and the quotation from Kircher shows that
 Catholics were not all of one mind about sensation and faith.
@@ -699,78 +679,74 @@ influence.
 
 ### Cultural Conditioning in Hearing
 
-If reckoning with individual sensory experience was a struggle for the Church
-after Trent, the problem of cultural conditioning in this period presented a
-newer and more difficult challenge that profoundly changed the character of
-Catholic Christianity. 
-Catholics since the early age of exploration had struggled to determine which
-parts of Christian religion they could adapt to other cultures. 
-As Ines \v{Z}upanov theorizes Jesuit intercultural encounters in India in her
-book *Missionary Tropics*, the "tropics" represented both a geographic zone and
-a process of inevitable "turning" or cultural transformation.
-[@Zupanov:MissionaryTropics]
+If reckoning with individual sensory experience was a struggle for church
+leaders after Trent, their evangelistic and colonial efforts posed the even
+greater challenge of training entire communities to hear faithfully.
+Catholics at the boundaries of intercultural encounters around the globe found
+themselves in what Ines Županov has termed the "missionary tropics"---both a
+geographic zone and a process of troping or turning through cultural
+transformation [@Zupanov:MissionaryTropics].
 Some missionaries like the Jesuits in Japan and Brazil actively sought to
 accommodate local customs and music; but everywhere that missionaries brought
 Christian faith, the process of cultural translation inevitably transformed it
-into something neither they nor their converts could necessarily predict.
+into something neither they nor their converts could necessarily predict
 [@Bailey:Art; @Waterhouse:EarliestJapaneseContacts;
-@Castagna:JesuitsConversionBrazil]
+@Castagna:JesuitsConversionBrazil].
+<!--- plus Fromont and others -->
 
 Half a century after the Aztec empire fell to the Spanish, the Franciscan
 Bernardino de Sahagún was trying to provide Mexica natives with suitable
 Christian songs in their own language. 
-[@Candelaria:Psalmodia]
-But at the same time New-Spanish church leaders complained that there were often
-no linguists sufficiently skilled in Náhuatl to verify that the songs and dances
-of the natives were not secretly continuing to invoke demonic powers.
-[@Candelaria:Psalmodia, 637]
-Lorenzo Candelaria has made the provocative suggestion that the Council of
-Trent's infamous decree that music should be preserved from anything "lascivious
-or impure" may have been motivated more by anxiety about the songs in Native
-American languages---and I would add, syncretic musical practices across the
-globe---rather than concern about styles of European church music.
-[@Candelaria:Psalmodia, 637--638]
-<!--- XXX on Trent -->
+But at the same time church leaders in New Spain complained that most places
+lacked linguists sufficiently skilled in Náhuatl to verify that the songs and
+dances of the natives were not in fact still invoking the demonic powers of the
+Aztecs [@Candelaria:Psalmodia, 637].
+As Lorenzo Candelaria has suggested, when the Council of Trent issued its
+infamous decree that music should be preserved from anything "lascivious or
+impure," the bishops may have been motivated more by concern with such songs in
+non-European languages, not to mention other syncretic musical and ritual
+practices across the globe, than by any European church music
+[@Candelaria:Psalmodia, 637--638].
+<!--- XXX on Trent --> 
 
-We know in the realm of visual art that even where Jesuits wrote to their
-superiors in Rome praising the natives' uncanny ability to copy European models,
-the actual surviving artifacts often bear strong traces of indigenous methods,
-aesthetics, and religious understandings.
-[@Bailey:Art, 27--29, 34]
-Likewise, given what we know about differing techniques and styles of vocal
-production between places like central Africa and south India today, there is
-every reason to think that music in mission churches and colonial cathedrals,
-even plainchant and polyphony imported directly from Europe, sounded quite
-different in actual performance from its European models. 
+In the realm of visual art, even where Jesuits wrote to their superiors in Rome
+praising the natives' uncanny ability to copy European models, the actual
+surviving artifacts often bear strong traces of indigenous methods, aesthetics,
+and religious understandings [@Bailey:Art, 27--29, 34].
+Likewise, given the differing techniques and styles of vocal production between
+places like central Africa and south India today, the actual performance of
+music in mission churches and colonial cathedrals, even plainchant and polyphony
+imported directly from Europe, probably sounded quite different the practice of
+European chapels [@Kendrick:Jeremiah, XXX]. <!--- page no, chapter 1-2 -->
 
 As the Church was adapting itself to native sensibilities, or being adapted by
 colonial subjects in ways the Church could not fully control, how was the church
 to accommodate its teaching to the "sense and intelligence" of all these
-different people? The church could proclaim "the Faith," but how could leaders
-know that people heard what they intended? And even more challenging, once these
-processes of cultural adaptation and exchange had begun to "turn," what parts of
-Christianity constituted "the Faith" that was supposed to come through
-hearing? Did changing the musical style of worship, for example, mean changing
-the Faith as well?
+different people? 
+The church could proclaim "the Faith," but how could leaders know that people
+heard what they intended? 
+And even more challenging, once these processes of cultural adaptation and
+exchange had begun to "turn," what parts of Christianity constituted "the Faith"
+that was supposed to come through hearing? 
+Did changing the musical style of worship, for example, mean changing the Faith
+as well?
 
 If ways of hearing music were culturally conditioned, then religious ear
-training was required. The cultural aspect of acquiring a "properly trained
-sense," as the Roman Catechism puts it, is plainly stated in a Latin dialogue
-published by the leaders of the Jesuit mission in Japan in 1590.
-[@Sande:DeMissioneLegatorum]
+training was required. 
+The cultural aspect of acquiring a "properly trained sense," as the Roman
+Catechism puts it, is plainly stated in a Latin dialogue published by the
+leaders of the Jesuit mission in Japan in 1590 [@Sande:DeMissioneLegatorum].
 The missionaries had taken four Japanese noble youths on a grand tour of Spain
-and Italy between 1582 and 1590. The boys practiced and performed music
-throughout their trip, and heard the greatest ensembles of Catholic Europe in a
-tour that included most of the major Iberian musical centers discussed in this
+and Italy between 1582 and 1590, during which they trained in music and heard
+the finest ensembles of Catholic Europe.
+Their trip included most of the major Iberian musical centers discussed in this
 study: on the outgoing trip, Lisbon, Évora, Toledo, Madrid, and Alcalá; and on
-the return, Barcelona, Montserrat, Zaragoza and Daroca. With this trip and with
-the subsequent publication, the leader of the Jesuit mission to Japan,
-Alessandro Valignano, hoped to persuade the authorities of his order and church
-that "European Jesuits must accommodate themselves to Japanese manners and
-customs." 
-[@Massarella:JapaneseTravellers, 4]
-The boys' mission was both to represent Japan to Europe and, on their return, to
-represent Europe to Japan. 
+the return, Barcelona, Montserrat, Zaragoza and Daroca. 
+With this trip and with the subsequent publication, the leader of the Jesuit
+mission to Japan, Alessandro Valignano, hoped to persuade the authorities of his
+order and church that (as Derek Massarella puts it) "European Jesuits must
+accommodate themselves to Japanese manners and customs"
+[@Massarella:JapaneseTravellers, 4].
 
 In Colloquio XI of the dialogue, Michael, one of the "ambassadors," tells his
 friend who stayed home about European music:
@@ -796,8 +772,7 @@ friend who stayed home about European music:
 > which the rules of harmony are contained; whereas the Europeans, with their
 > great variety of sounds, their skillful construction of instruments, and their
 > remarkable quantity of books on music and note shapes, have hugely enriched
-> this art. 
-[@Massarella:JapaneseTravellers, 155-156]
+> this art [@Massarella:JapaneseTravellers, 155-156].
 
 Michael's friend Linus responds with a statement that surely understates the
 attitude of many non-Europeans whose ears had not yet been trained for European
@@ -807,8 +782,8 @@ music:
 > instruments and the books which you have brought back, as well as the singing
 > and the modulation of harmony, testify to a remarkable artistic system. Nor
 > do I doubt that our normal expectations in listening to singing are an
-> impediment when it comes to appreciating the beauties of European harmony. 
-[@Massarella:JapaneseTravellers, 156]
+> impediment when it comes to appreciating the beauties of European harmony
+> [@Massarella:JapaneseTravellers, 156].
 
 ### Obstacles to Faith and Mistrust of Hearing
 
@@ -923,13 +898,12 @@ music" and "the listener." The musical ritual of the seventeenth-century Church
 involved a large number of community participants, for whom performing music
 with the body and hearing it were inextricably linked. 
 
-In terms of the most influential medieval music theorist Boethius (*De musica*
-II), whose concept of music was foundational to the major Spanish music
-treatises like that of Pedro Cerone, well-tuned *musica instrumentalis*
-(sounding, played music) could harmonize the *musica humana*---the harmony of
-the individual in body and soul, reason and passion, but also the concord of
-human society.
-[@Boethius:Musica, bk. II, pp. 187--189; @Cerone:Melopeo, 203--208;
+In terms of the most influential medieval music theorist Boethius (*De musica*),
+whose concept of music was foundational to the major Spanish music treatises
+like that of Pedro Cerone, well-tuned *musica instrumentalis* (sounding, played
+music) could harmonize the *musica humana*---the harmony of the individual in
+body and soul, reason and passion, but also the concord of human society.
+[@Boethius:Musica, bk. 2, pp. 187--189; @Cerone:Melopeo, 203--208;
 @Baker:Harmony, 22--31] 
 All this could better reflect the cosmic *musica mundana* and ultimately the
 harmonies of the triune God. 
