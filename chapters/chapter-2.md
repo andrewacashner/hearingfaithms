@@ -899,6 +899,8 @@ Dominique Reyre interprets the play as a straightforward medium for
 ritual that reinforced the king's power; but neither scholar accounts
 sufficiently for the high degree of uncertainty expressed on stage.
 [@Reyre:Retiro; @Greer:Retiro]
+<!--- XXX compare inquisition trials? 
+return to "drama of conversion" concept -->
 How could an auditory art form like sacred drama, or the villancicos that
 were usually performed in conjunction with them, provide a medium for
 propagating faith or instituting social discipline, if hearing was so easily
