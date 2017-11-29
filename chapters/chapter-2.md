@@ -820,27 +820,35 @@ music:
 ### Obstacles to Faith and Mistrust of Hearing
 
 How, then, could the Church overcome such an impediment? 
-What if a person simply lacked the proper disposition to hear the Word with
-faith? 
-The figure of the unbelieving Jew functioned as a warning for Spanish Catholics
-against the danger of "listening to Faith without faith," as the character
-*Judaísmo* expresses it in a sacred drama by Spanish court poet Pedro Calderón
-de la Barca, *El nuevo palacio del Retiro*. 
-The allegorical character "Judaism" becomes a vivid representation of the
-incapacity to acquire faith, *despite* the sense of hearing. 
-
-This Corpus Christi mystery play (*auto sacramental*), was performed in 1634 to
-inaugurate Philip IV's new palace-retreat, the Buen Retiro.
+Would music's power be lost on a person who simply lacked the proper disposition
+to hear the Word with faith? 
+These doubts were displayed vividly in a sacred drama performed before King
+Philip IV in 1634, *El nuevo palacio del Retiro* by court poet Pedro Calderón de
+la Barca.
 [@Calderon:Retiro]
-The play glorifies the Spanish monarch as the guardian of faith---since one
-cannot say *Felipe* without saying *Fe* (ll. XXX). 
-Having thus named the allegorical character of the King, the playwright even
-risks blasphemy by having the King pronounce Christ's words of Eucharistic
-consecration, "This is my body"---inviting hearers to consider Philip as the
-vicar of Christ or even as Christ himself.
-The play, in keeping with the typical themes of Corpus Christi Eucharistic
-devotion, presents a discourse on sensation and belief---since the Eucharist
-defies normal sensation and must be perceived through faith.
+This Corpus Christi mystery play (*auto sacramental*), was staged in 1634 to
+inaugurate the Spanish monarch's new palace-retreat, the Buen Retiro.
+Like most *autos* this one was performed in the context of a whole day of
+liturgical and processional music, including numerous villancicos; and the drama
+includes texts to be sung (though the music is now lost).
+<!--- XXX sources for Corpus Christi 1634 music, generally -->
+Literary scholars have considered Spanish Corpus Christi plays to be "dramas of
+conversion" with the primary goal of teaching doctrine; 
+and thus this literary and performative genre, 
+which was so closely tied to devotional music, 
+allows us to evaluate how auditory arts were used to propagate faith, and how
+that effort served the purposes of the Spanish state.
+<!--- XXX specific source and context -->
+The plays typically present allegorical characters whose conflicts dramatize
+theological debates in the scholastic tradition (as in Aquinas) of thesis,
+antithesis, and synthesis.
+Calderón's play for the politically significant occasion glorifies the
+king---whose name *Felipe* cannot be said without saying *Fe* (faith)---as the
+defender of the Catholic faith, which centers on the doctrine of the Eucharist.
+[@Calderon:Retiro, ll. XXX]
+Since the Eucharist defies normal sensation and must be perceived through faith,
+much of the play sets up debates about the relationship between faith and the
+senses.
 By staging a contest of the senses before Faith (all personified as characters),
 Calderón promulgates the church's teaching that unless one possessed the
 divinely implanted virtue of faith to begin with, the senses could actually
@@ -849,6 +857,8 @@ become obstacles to faith obstacles to faith.
 If the King was the defender of the faith, then Judaism was its enemy, as
 dramatized by the long portion of the play that centers on Judaism's incapacity
 for faith.
+The allegorical character *Judaísmo* becomes a vivid representation of the
+incapacity to acquire faith, *despite* the sense of hearing. 
 Judaism is forcefully excluded from the festivities celebrated within the play,
 which culminate with the consecration of the Eucharist. 
 Instead Judaism stands to the side and asks the character Faith to explain each
@@ -915,40 +925,31 @@ Simply put, faithful hearing required listeners to doubt their own sensation.
 
 Catholic devotional music provided a practical medium for both appealing to the
 ear and training it, though music amplified the challenges of acquiring faith
-through hearing. Music could be a way to make faith pleasing to the ear, as
-Kircher describes, but this only worked if the ear was trained to find such
-music pleasing. Likewise, techniques that gave sense and meaning to
-music---structures of phrasing, contrapuntal devices, symbolic and figurative
-word-painting---were not universally intelligible. Religious ear training
-required individual discipline to avoid the dangers of over-reliance on
-subjective sensory experience. In an ideal Catholic scenario, musical training
-also disciplined the whole community as participants through performance or
-listening, and in missionary and colonial contexts, it required the community to
-change its expectations of music to fit European norms. 
+through hearing. 
+Music could be a way to make faith pleasing to the ear, as Kircher describes,
+but this only worked if the ear was trained to find such music pleasing. 
+Likewise, techniques that gave sense and meaning to music---structures of
+phrasing, contrapuntal devices, symbolic and figurative word-painting---were not
+universally intelligible. 
+Religious ear training required individual discipline to avoid the dangers of
+over-reliance on subjective sensory experience. 
+In an ideal Catholic scenario, musical training also disciplined the whole
+community as participants through performance or listening, and in missionary
+and colonial contexts, it required the community to change its expectations of
+music to fit European norms. 
 
 For this reason post-Reformation Catholics emphasized the Church as the source
 of certainty in faith, as the living embodiment of Christ the Word in the world.
 The virtue of man as Neoplatonic microcosm was reflected in the broader society
-and in turn depended on it. Propagating faith, then, meant trying to establish
-not just individual Christians, but also building a Christian society as the
-body of Christ. For Roman Catholics, the Church was the gospel. 
+and in turn depended on it. 
+Propagating faith, then, meant trying to establish not just individual
+Christians, but also building a Christian society as the body of Christ. For
+Roman Catholics, the Church was the gospel. 
 
 As Catholics worked to create Christian communities, music was a potent tool for
 creating harmony, for instituting social discipline as a reflection of the
 heavenly hierarchy.
 [@Baker:Harmony; @Irving:Colonial; @Illari:Polychoral]
-This is why the Franciscan friars in New Spain and the Jesuit priests in Brazil
-not only started parishes, but also trained choirs. The musical efforts of the
-colonizing church concretely built social relationships through musical
-training. Forming choirs of boys and training ensembles of village musicians in
-colonial Mexico were practical means of establishing the Church and propagating
-faith on individual and communal levels. Inculcating faith through music---the
-kind of fully formed faith that resulted in a faithful life as part of the
-community of the Church---meant more than a one-on-one dialogue between "the
-music" and "the listener." The musical ritual of the seventeenth-century Church
-involved a large number of community participants, for whom performing music
-with the body and hearing it were inextricably linked. 
-
 In terms of the most influential medieval music theorist Boethius (*De musica*),
 whose concept of music was foundational to the major Spanish music treatises
 like that of Pedro Cerone, well-tuned *musica instrumentalis* (sounding, played
@@ -959,16 +960,44 @@ body and soul, reason and passion, but also the concord of human society.
 All this could better reflect the cosmic *musica mundana* and ultimately the
 harmonies of the triune God. 
 
-Catholic music, then, was not *about* society; it was a form *of* society. The
-challenge of cultural conditioning led Catholics to experiment with, and argue
-about, new ways of communicating across boundaries of language and customs.
-Devotional music provided one way to make faith appeal to hearing, if some
-way could be found to overcome the "impediment" of the "normal expectations in
+Catholic music, then, was not *about* society; it was a form *of* society. 
+This is why the Franciscan friars in New Spain and the Jesuit priests in Brazil
+not only started parishes, but also trained choirs. 
+Forming choirs of boys and training ensembles of village musicians in colonial
+Mexico were practical means of establishing the Church and propagating faith on
+individual and communal levels. 
+The musical ritual of the seventeenth-century Church involved a large number of
+community participants, for whom performing music with the body and hearing it
+were inextricably linked. 
+The musical efforts of the colonizing church concretely built social
+relationships through musical training.
+<!--- [@RamosKittrell] -->
+For this reason, we cannot fully understand the faith of early modern Catholics
+on the basis of verbal formulations alone; we need to see and hear how
+communities practiced their faith through coordinated action---such as in
+devotional music.[^cf-Cruger]
+
+[^cf-Cruger]: 
+The Lutheran hymn composer Johann Crüger advocated a similar
+concept of "the musical practice of piety" (*Praxis pietatis melica*, 1647 and
+many later editions), coming out of the Lutheran "new piety" movement of the
+seventeenth century, whose proponents (Martin Moller, Johann Arndt) were
+inspired by much of the same medieval devotional literature as their Catholic
+counterparts. 
+<!--- XXX relevant citations; this is why music fueled confessional divides -->
+
+The challenge of cultural conditioning led Catholics to experiment with, and
+argue about, new ways of communicating across boundaries of language and
+customs.
+Devotional music provided one way to make faith appeal to hearing, if some way
+could be found to overcome the "impediment" of the "normal expectations in
 listening to singing" of non-Europeans, as the Japanese ambassadors' dialogue
-puts it. At the same time, Catholics of the seventeenth century were encouraged
-to doubt their senses as much as to trust them; to submit their sensory
-experience to the authority of the church; and to be wary of the possibility
-that some people may lack the capacity for faithful hearing entirely. 
+puts it. 
+At the same time, Catholics of the seventeenth century were encouraged to doubt
+their senses as much as to trust them.
+Faithful Catholics had to learn to submit their sensory experience to the
+authority of the church, and to be wary of the possibility that some people may
+lack the capacity for faithful hearing entirely. 
 
 ## The Primacy of Hearing in Villancicos
 
@@ -1200,7 +1229,7 @@ the third and fourth lines of each strophe in short phrases, where the latter
 phrase repeats the former down a fifth. This creates a feeling of a teacher
 saying "on the one one hand" and "on the other hand" that suits the general
 philosophical tone of the strophes and matches the specific poetic phrasing of
-these lines. To recall the Jesuit formula, Irízar's estribillo seems more
+these lines. To recall the Jesuit formula, Irízar's estribillo seems more 
 designed to delight, while the coplas provide more of an opportunity to teach. 
 
 Irízar's villancico seems to speak to a large crowd through grand, unsubtle

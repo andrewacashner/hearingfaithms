@@ -1,7 +1,6 @@
 ---
 documentclass:  memoir
 classoption:    '12pt, oneside'
-mainfont:       Libertinus Math
 geometry:       margin=1in
 ...
 
