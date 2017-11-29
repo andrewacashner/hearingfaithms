@@ -21,3 +21,26 @@ the gift of God's grace.
 <!--- on intercultural encounter -->
 Catholics since the early age of exploration had struggled to determine which
 parts of Christian religion they could adapt to other cultures. 
+
+<!--- on the public sphere of villancicos -->
+Villancicos manifest many of these same theological preoccupations and
+anxieties. They do not answer the questions we have raised---in fact some of
+them intensify the problems; but they do provide evidence for a broad public
+discourse about sensation and faith even as these pieces of music were
+themselves objects to be sensed and believed. 
+
+Like most of the other sources discussed in this chapter, villancicos were
+created by members of the literate elite, and thus they represent first of all a
+discourse between those elite poets, musicians, and churchmen. At the same time,
+though, villancicos were generally performed in public festivities with varied
+audiences. Compared with the royal pomp and verbal virtuosity of Calderón's
+Corpus Christi drama, for example, villancicos were performed in settings where
+there could be more proximity between people of different social strata. 
+
+The same question should be asked of Italian opera, German sacred concertos, and
+English anthems of the same period. 
+There are not, at present, sufficient
+sources to reconstruct the sociology of villancico audiences for all their
+varied performance contexts around the world. 
+
+

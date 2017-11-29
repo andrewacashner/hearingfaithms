@@ -927,27 +927,29 @@ Simply put, faithful hearing required listeners to doubt their own sensation.
 
 Catholic devotional music provided a practical medium for both appealing to the
 ear and training it, though music amplified the challenges of acquiring faith
-through hearing. 
-Music could be a way to make faith pleasing to the ear, as Kircher describes,
-but this only worked if the ear was trained to find such music pleasing. 
-Likewise, techniques that gave sense and meaning to music---structures of
-phrasing, contrapuntal devices, symbolic and figurative word-painting---were not
-universally intelligible. 
+through hearing.
 Religious ear training required individual discipline to avoid the dangers of
 over-reliance on subjective sensory experience. 
-In an ideal Catholic scenario, musical training also disciplined the whole
-community as participants through performance or listening, and in missionary
-and colonial contexts, it required the community to change its expectations of
-music to fit European norms. 
-
-For this reason post-Reformation Catholics emphasized the Church as the source
-of certainty in faith, as the living embodiment of Christ the Word in the world.
+Catholic listeners were encouraged to doubt their senses as much as to trust
+them; and church leaders struggled with the frightening possibility that some
+people might simply lack the capacity for hearing with faith.
+Faithful Catholics had to learn to submit their sensory experience to the
+authority of the Church as the source of certainty, as the living embodiment of
+Christ the Word in the world.
 The virtue of man as Neoplatonic microcosm was reflected in the broader society
 and in turn depended on it. 
-Propagating faith, then, meant trying to establish not just individual
-Christians, but also building a Christian society as the body of Christ. For
-Roman Catholics, the Church was the gospel. 
+In an ideal Catholic scenario, musical training also disciplined the whole
+community as participants through performance or listening. 
+In missionary and colonial contexts, this training required the community to
+change its expectations of music to fit European norms. 
+Music could be a way to make faith pleasing to the ear, as Kircher describes,
+but this only worked if the ear was trained to find such music pleasing, as the
+Japanese "ambassadors" learned to do.
 
+Propagating faith, then, meant trying to establish not just individual
+Christians, but also building a Christian society as the body of Christ. 
+For Roman Catholics, the Church *was* the gospel, and the task of building
+the Church could not be separated from the work of building an empire.
 As Catholics worked to create Christian communities, music was a potent tool for
 creating harmony, for instituting social discipline as a reflection of the
 heavenly hierarchy.
@@ -988,59 +990,35 @@ inspired by much of the same medieval devotional literature as their Catholic
 counterparts. 
 <!--- XXX relevant citations; this is why music fueled confessional divides -->
 
-The challenge of cultural conditioning led Catholics to experiment with, and
-argue about, new ways of communicating across boundaries of language and
-customs.
-Devotional music provided one way to make faith appeal to hearing, if some way
-could be found to overcome the "impediment" of the "normal expectations in
-listening to singing" of non-Europeans, as the Japanese ambassadors' dialogue
-puts it. 
-At the same time, Catholics of the seventeenth century were encouraged to doubt
-their senses as much as to trust them.
-Faithful Catholics had to learn to submit their sensory experience to the
-authority of the church, and to be wary of the possibility that some people may
-lack the capacity for faithful hearing entirely. 
-
 ## The Primacy of Hearing in Villancicos
 
-Villancicos manifest many of these same theological preoccupations and
-anxieties. They do not answer the questions we have raised---in fact some of
-them intensify the problems; but they do provide evidence for a broad public
-discourse about sensation and faith even as these pieces of music were
-themselves objects to be sensed and believed. 
-
-Like most of the other sources discussed in this chapter, villancicos were
-created by members of the literate elite, and thus they represent first of all a
-discourse between those elite poets, musicians, and churchmen. At the same time,
-though, villancicos were generally performed in public festivities with varied
-audiences. Compared with the royal pomp and verbal virtuosity of Calderón's
-Corpus Christi drama, for example, villancicos were performed in settings where
-there could be more proximity between people of different social strata. 
+Villancicos provide evidence for a broad public discourse about sensation and
+faith.
+Pieces on the subject of hearing and faith manifest these same theological
+preoccupations and anxieties.
 
 It is legitimate to ask, as José María Díez Borque has done for Calderonian
 drama, how much listeners could actually hear and understand of these complex
 performances.
-[@DiezBorque:Publico]
-The same question should be asked of Italian opera, German sacred concertos, and
-English anthems of the same period. There are not, at present, sufficient
-sources to reconstruct the sociology of villancico audiences for all their
-varied performance contexts around the world. But Margit Frenk argues that
-Spanish literature of this period was written for the ear and that reading in
-most cases meant one person reading out loud to an audience of illiterate family
-and friends, whose auditory comprehension and memory would probably astound us
-today.
+[@DiezBorque:Publico] But Margit Frenk argues that Spanish literature of this
+period was written for the ear and that reading in most cases meant one person
+reading out loud to an audience of illiterate family and friends, whose auditory
+comprehension and memory would probably astound us today.
 [@Frenk:Voz]
 And while we may not know exactly who listened to villancicos, the musical
 sources do tell us what they heard with a far greater degree of specificity than
 is possible for literature alone. 
 
 Through vernacular poetry and likely also through musical style, the creators
-and performers of villancicos addressed a broad public audience. These pieces
-often represented complex theological concepts, but they made these concepts
-accessible in quite a different way than a theological treatise or even a
-sermon. As individual villancicos were repeated, and as conventional villancico
-types were performed at multiple festivals each year, these pieces must have
-shaped attitudes and beliefs in the broader community. 
+and performers of villancicos addressed a broad public audience. 
+These pieces often represented complex theological concepts, but they made these
+concepts accessible in quite a different way than a theological treatise or even
+a sermon. 
+As individual villancicos were repeated, and as conventional villancico types
+were performed at multiple festivals each year, these pieces must have shaped
+attitudes and beliefs in the broader community. 
+
+<!--- outline of rest of chapter -->
 
 ### Contests of the Senses and Early Modern Concepts of Sensation
 
