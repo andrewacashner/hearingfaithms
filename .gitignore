@@ -1,4 +1,3 @@
-!config/reference.odt
 aux/
 odt/
 pdf/
@@ -38,3 +37,4 @@ pdf/
 *.xdv
 *.zip
 
+!config/reference.odt
