@@ -1,0 +1,17 @@
+\frenchspacing
+\DoubleSpacing
+\raggedbottom
+\feetatbottom
+\setlength{\parindent}{0.5in}
+\pagestyle{plain}
+
+\usepackage{endnotes}
+
+\makeatletter
+\renewcommand\enoteformat{%
+    \setlength{\parindent}{0.5in}%
+    \@theenmark.\ }
+\makeatother
+
+\let\footnote\endnote
+\AtEndDocument{\theendnotes}

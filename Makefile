@@ -4,8 +4,10 @@ INCLUDES = $(METADATA) $(TEXT)
 
 PDF-OUTFILE = pdf/all.pdf
 PDF-SETTINGS = config/pdf.yaml
+TEX-HEADER = config/ms.tex
 PDF-INCLUDES = $(PDF-SETTINGS) $(INCLUDES)
 PANDOC-PDF = pandoc --latex-engine xelatex \
+    --include-in-header $(TEX-HEADER) \
     --filter pandoc-citeproc -o $(PDF-OUTFILE)
 
 ODT-OUTFILE = odt/all.odt
@@ -20,7 +22,7 @@ pdf : $(PDF-OUTFILE)
 
 odt : $(ODT-OUTFILE)
 
-$(PDF-OUTFILE) : $(PDF-INCLUDES)
+$(PDF-OUTFILE) : $(PDF-INCLUDES) $(TEX-HEADER)
 	cat $(PDF-INCLUDES) | mdref | $(PANDOC-PDF)
 
 $(ODT-OUTFILE) : $(ODT-INCLUDES)
