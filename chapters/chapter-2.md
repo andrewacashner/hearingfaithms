@@ -1045,8 +1045,10 @@ the same text as a solo continuo song.
 [@LopezCalo:Segovia, XXX]
 
 The poem invites hearers to imagine the senses "filing a complaint"
-against the bread of the Eucharist because "what they sense is not by faith
-consented"---playing on *sentido*, the word for sense
+against the bread of the Eucharist because "what they sense is not by faith 
+consented," and in a motto that is repeated after each copla, the poem
+admonishes, "let the senses not resent it" (*no se den por sentidos los
+sentidos*), playing on the word for sense in several ways
 ((ref float 'poem 'Si_los_sentidos-Sanchez)).
 Each of the coplas treats a different sense, following nearly the same order as
 in Calderón's play: Sight comes first, followed by Touch; next are Taste and
@@ -1154,97 +1156,100 @@ into a pleasing concord.
 Here Faith is not the object of sensation, but the subject, who delights in
 hearing the music of properly tuned senses. 
 
-<!--- START -->
 ### Staging the Contest in Sound: Irízar and Carrión at Segovia Cathedral
 
+<!--- START -->
 <!--- XXX Redo all measure numbers according to new edition -->
+<!--- You could shift the musical analysis to after the introduction and basic
+poetic analysis; then do the early modern concepts of sensation, then show how
+these work in the musical version and lead into synesthesia etc. -->
 
 The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this
-contest of the senses in sound. Their contrasting styles invite different types
-of involvement from listeners. 
-
+contest of the senses in sound. 
 The Segovia Cathedral archive preserves manuscript performing parts for both
 settings along with Irízar's draft score for his version.
-[The performing parts for Irízar's setting are in E-SE: 5/32 and the score, in
-E-Se: 18/19; those for Carrión's are in E-SE: 28/25.] 
+[The performing parts for Irízar's setting are in E-SE: 5/32 (in a copyist's
+hand), and E-SE:18/19 contains the the score in the composer's own hand.
+Carrión's performing parts are in E-SE: 28/25.]
 As rare as composers' scores of villancicos are, Irízar's manuscripts are doubly
 valuable because this economical composer drafted his music in makeshift
 notebooks stitched together from piles of his received letters, fitting up to
 twelve staves of music in the margins and unused sides of the paper.
-The letters reflect a correspondence with a broad with a peninsular network of
+The letters reflect a correspondence with a broad peninsular network of
 musicians, often about exchanging villancico poetry (see chapter 4).
 [@LopezCalo:IrizarLetters1; @Olarte:Irizar; @Rodriguez:Networks]
-Irízar probably received this poem from a colleague in Zaragoza. 
+Irízar probably received this poem through correspondence with a colleague in
+Zaragoza.
+Carrión likely knew (and probably performed) Irízar's setting from the
+archive, but also seems to have had a separate source for the Sánchez poem.
 
-In the earlier setting, for Corpus Christi 1674
-at Segovia Cathedral ((ref float 'music 'Irizar-Si_los_sentidos)), Miguel de
-Irízar creates a musical competition in grand festival style by pitting his two
-four-voice choirs against each other in polychoral dialogue.
-[@Cashner:WLSCM32. E-SE: 5/32 is the manuscript performing parts in a copyist's
-hand, while E-SE: 18/19 is the draft score in Irízar's hand, and includes the
-heading, "Fiesta del SSantissimo de este año del 1674."]
+In Irízar's earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
+Miguel de Irízar creates a musical competition in grand festival style by
+pitting his two four-voice choirs against each other in polychoral dialogue
+((ref float 'music 'Irizar-Si_los_sentidos)).
+[@Cashner:WLSCM32. The score (E-SE: 18/19)includes the heading, "Fiesta del
+SSantissimo de este año del 1674."]
 <!--- page nos of edition -->
-
 Polychoral dialogue, of course, is typical of large-scale villancicos, but
 Irízar has the choirs interrupt each other in ways that create not just a
-dialogue, but a debate. Like a film editor creating a fight scene, Irízar builds
-intensity by cutting the text into shorter phrases to be tossed back and forth
-between the two choirs: *no se den por sentidos* becomes *no se den* and then
-*no, no*. 
+dialogue, but a debate. 
+Like a film editor creating a fight scene, Irízar builds intensity by cutting
+the text into shorter phrases to be tossed back and forth between the two
+choirs: *no se den por sentidos* becomes *no se den* and then *no, no*. 
 
 (insert float 'music 'Irizar-Si_los_sentidos)
 
 Irízar creates a steadily increasing sense of excitement through shifts of
-rhythmic motion and style. The setting of the opening phrase suggests a tone of
-hushed awe: the voices sing low in their registers, with a slow harmonic rhythm,
-and pause for prominent breaths (mm. 1--9). The harmonies here change
-less frequently than in the following sections, creating a relatively static
-feeling for this introduction. In m. 10 Irízar has the ensemble switch
-to ternary meter and increases the rate of harmonic motion. The sense of
-antagonism is heightened when one choir interrupts the other with exclamations
-of *no* on normally weak beats (mm. 13--14). When Irízar returns to
-duple meter in m. 18, the voices move in smaller note values
-(*corcheas*) and exchange shorter phrases, so that the tempo feels faster (and
-the actual tempo could certainly be increased here in performance). Each choir's
-entrances become more emphatic, repeating tones in simple triads, and Irízar
-adds more offbeat accents and syncopations, particularly for *no se den por
-sentidos los sentidos* in mm. 24--32. The estribillo builds to a
-climactic *peroratio* with the voices breaking into imitative texture in
-descending melodic lines. 
+rhythmic motion and style. 
+The setting of the opening phrase suggests a tone of hushed awe: the voices sing
+low in their registers, with a slow harmonic rhythm, and pause for prominent
+breaths (mm. 1--9). 
+The harmonies here change less frequently than in the following sections,
+creating a relatively static feeling for this introduction. 
+In m. 10 Irízar has the ensemble switch to ternary meter and increases the rate
+of harmonic motion. 
+The sense of antagonism is heightened when one choir interrupts the other with
+exclamations of *no* on normally weak beats (mm. 13--14). 
+When Irízar returns to duple meter in m. 18, the voices move in smaller note
+values (*corcheas*) and exchange shorter phrases, so that the tempo feels faster
+(and the actual tempo could certainly be increased here in performance). 
+Each choir's entrances become more emphatic, repeating tones in simple triads,
+and Irízar adds more offbeat accents and syncopations, particularly for *no se
+den por sentidos los sentidos* in mm. 24--32. 
+The estribillo builds to a climactic *peroratio* with the voices breaking into
+imitative texture in descending melodic lines. 
 
 The distinguishing stylistic characteristics of the setting suggest that Irízar
 is evoking a musical battle topic, a style one may find in *batallas* for organ
 as well as other villancicos on military themes. 
 [@Grove, s. v. *battle music*; @Sutton:IberianBatalla, who discusses examples
 including those in Martín y Coll's *Huerto ameno de flores de música* (Madrid,
-1709). Another villancico in this style is Antonio de Salazar's *Al campo, a la
+1709). 
+Another villancico in this style is Antonio de Salazar's *Al campo, a la
 batalla* (MEX-Mc: A28).]
-
 Battle pieces typically feature a slow, peaceful introduction followed by
 sections in contrasting meters and styles and a texture of dialogue between
-opposing groups (as in between high and low registers on the keyboard). Typical
-of the style is the reiteration of 5/3 ("root position") chord voicings, with
-the bass moving by fourths and fifths, and the 3--3--2 syncopations on *no se
-den por sentidos los sentidos* (mm. 25--26, 31--32, 43--46). 
+opposing groups (as in between high and low registers on the keyboard). 
+Typical of the style is the reiteration of 5/3 ("root position") chord voicings,
+with the bass moving by fourths and fifths, and the 3--3--2 syncopations on *no
+se den por sentidos los sentidos* (mm. 25--26, 31--32, 43--46). 
 
-Irízar sets the coplas, by contrast, in a sober and deliberate style. The melody
-moves more calmly in duple meter with melodic phrases that fit well with the
-rhetorical structure of the poetic strophes. Irízar has the treble soloist sing
-the third and fourth lines of each strophe in short phrases, where the latter
-phrase repeats the former down a fifth. This creates a feeling of a teacher
-saying "on the one one hand" and "on the other hand" that suits the general
-philosophical tone of the strophes and matches the specific poetic phrasing of
-these lines. To recall the Jesuit formula, Irízar's estribillo seems more 
-designed to delight, while the coplas provide more of an opportunity to teach. 
+Irízar sets the coplas, by contrast, in a sober and deliberate style. 
+The melody moves more calmly in duple meter with melodic phrases that fit well
+with the rhetorical structure of the poetic strophes. 
+Irízar has the treble soloist sing the third and fourth lines of each strophe in
+short phrases, where the latter phrase repeats the former down a fifth. 
+This creates a feeling of a teacher saying "on the one one hand" and "on the
+other hand" that suits the general philosophical tone of the strophes and
+matches the specific poetic phrasing of these lines. 
+To recall the Jesuit formula, Irízar's estribillo seems more designed to
+delight, while the coplas provide more of an opportunity to teach. 
 
 Irízar's villancico seems to speak to a large crowd through grand, unsubtle
-gestures and sharp contrasts of bright colors. By contrast, Jerónimo de
-Carrión's later setting of the same poem invites a more personal reflection
-((ref float 'music 'Carrion-Si_los_sentidos)). 
+gestures and sharp contrasts of bright colors. 
+By contrast, Jerónimo de Carrión's later setting of the same poem invites a more
+personal reflection ((ref float 'music 'Carrion-Si_los_sentidos)). 
 [E-SE: 20/5; @Cashner:WLSCM32]
-
-(insert float 'music 'Carrion-Si_los_sentidos)
-
 Carrión was capable of the festival style, as in his *Qué destemplada armonía*
 (E-SE: 20/5), which almost takes on the dimensions of a *cantada*.
 But this setting fits more in the subgenre of *tono divino* or chamber
@@ -1255,27 +1260,32 @@ The style is similar to the "high Baroque" music of contemporary Italy, with a
 tonal harmonic language, a running bass part in the accompaniment, and a single
 affective manner throughout. 
 
+(insert float 'music 'Carrion-Si_los_sentidos)
+
 The dialogue and rivalry of the poetic text happens now not through polychoral
-effects but through motivic exchanges between voice and accompaniment. Instead
-of metrical contrasts from one section to the next, Carrión creates rhythmic
-contrasts between simultaneous voices. Carrión dramatizes *queja* (m. 4) with a
-metrical disagreement between the two voices (normal ternary motion versus the
-voice's sesquialtera). The descending pattern of leaps for *porque lo que ellos
+effects but through motivic exchanges between voice and accompaniment. 
+Instead of metrical contrasts from one section to the next, Carrión creates
+rhythmic contrasts between simultaneous voices. 
+Carrión dramatizes *queja* (m. 4) with a metrical disagreement between the two
+voices (normal ternary motion versus the voice's sesquialtera). 
+The descending pattern of leaps for *porque lo que ellos
 sienten* perhaps suggests the confusion and tumult of the senses, and it creates
-a certain amount of rhythmic confusion as it moves between voices. Carrión
-creates a climax through a canon between soloist and accompaniment in mm. 36--40
-that leads the singer to the top of his register. The upward leaps in the last
-line on *no se den* (m. 32) contrast with the downward leaping motive of the
-opening (on *sentidos*, m. 1). 
+a certain amount of rhythmic confusion as it moves between voices. 
+Carrión creates a climax through a canon between soloist and accompaniment in
+mm. 36--40 that leads the singer to the top of his register. 
+The upward leaps in the last line on *no se den* (m. 32) contrast with the
+downward leaping motive of the opening (on *sentidos*, m. 1). 
 
 The similarities between these two settings of *Si los sentidos* demonstrate the
-persistence of concerns about the hearing's role in faith. Meanwhile the
-differences between versions reflect different styles not only of composition
-but of devotional practice. Irízar and Carrión take a verbal discourse on
-sensation and faith, in which music is the paradigm of something that pleases
-the ear, and bring it to life through actual music. Thus the pieces seem
-designed to teach listeners how to hear music even as they are listening---they
-accommodate hearing while training it, as the catechism says. 
+persistence of concerns about the hearing's role in faith. 
+Meanwhile the differences between versions reflect different styles not only of
+composition but of devotional practice. 
+Irízar and Carrión take a verbal discourse on sensation and faith, in which
+music is the paradigm of something that pleases the ear, and bring it to life
+through actual music. 
+Thus the pieces seem designed to teach listeners how to hear music even as they
+are listening---as the catechism advises, they accommodate hearing while
+training it.
 
 ### Sensory Confusion
 
