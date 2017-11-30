@@ -22,6 +22,25 @@ the gift of God's grace.
 Catholics since the early age of exploration had struggled to determine which
 parts of Christian religion they could adapt to other cultures. 
 
+<!--- on hearing the word in community -->
+
+In an ideal Catholic scenario, musical training also disciplined the whole
+community as participants through performance or listening. 
+In missionary and colonial contexts, this training required the community to
+change its expectations of music to fit European norms. 
+Music could be a way to make faith pleasing to the ear, as Kircher describes,
+but this only worked if the ear was trained to find such music pleasing, as the
+Japanese "ambassadors" learned to do.
+
+In terms of the most influential medieval music theorist Boethius (*De musica*),
+whose concept of music was foundational to the major Spanish music treatises
+like that of Pedro Cerone, well-tuned *musica instrumentalis* (sounding, played
+music) could harmonize the *musica humana*---the harmony of the individual in
+body and soul, reason and passion, but also the concord of human society.
+harmonies of the triune God. 
+
+
+
 <!--- on the public sphere of villancicos -->
 Villancicos manifest many of these same theological preoccupations and
 anxieties. They do not answer the questions we have raised---in fact some of
@@ -39,8 +58,9 @@ there could be more proximity between people of different social strata.
 
 The same question should be asked of Italian opera, German sacred concertos, and
 English anthems of the same period. 
-There are not, at present, sufficient
-sources to reconstruct the sociology of villancico audiences for all their
-varied performance contexts around the world. 
+There are not, at present, sufficient sources to reconstruct the sociology of
+villancico audiences for all their varied performance contexts around the world. 
 
-
+And even if we may not know exactly who listened to villancicos, the musical
+sources do tell us what they heard with a far greater degree of specificity than
+is possible for literature alone. 

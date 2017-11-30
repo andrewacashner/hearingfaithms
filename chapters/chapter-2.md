@@ -816,7 +816,6 @@ music:
 > impediment when it comes to appreciating the beauties of European harmony.
 [@Massarella:JapaneseTravellers, 156]
 
-<!--- START -->
 ### Obstacles to Faith and Mistrust of Hearing
 
 How, then, could the Church overcome such an impediment? 
@@ -928,41 +927,43 @@ Simply put, faithful hearing required listeners to doubt their own sensation.
 Catholic devotional music provided a practical medium for both appealing to the
 ear and training it, though music amplified the challenges of acquiring faith
 through hearing.
-Religious ear training required individual discipline to avoid the dangers of
-over-reliance on subjective sensory experience. 
 Catholic listeners were encouraged to doubt their senses as much as to trust
 them; and church leaders struggled with the frightening possibility that some
 people might simply lack the capacity for hearing with faith.
-Faithful Catholics had to learn to submit their sensory experience to the
-authority of the Church as the source of certainty, as the living embodiment of
-Christ the Word in the world.
-The virtue of man as Neoplatonic microcosm was reflected in the broader society
-and in turn depended on it. 
-In an ideal Catholic scenario, musical training also disciplined the whole
-community as participants through performance or listening. 
-In missionary and colonial contexts, this training required the community to
-change its expectations of music to fit European norms. 
-Music could be a way to make faith pleasing to the ear, as Kircher describes,
-but this only worked if the ear was trained to find such music pleasing, as the
-Japanese "ambassadors" learned to do.
+Religious ear training required individual discipline to avoid the danger of
+over-reliance on subjective sensory experience and to learn to discern the
+spiritual truth communicated through musical patterns.
+This training would also needs to discipline the whole community to overcome
+misunderstandings based on cultural conditioning.
 
 Propagating faith, then, meant trying to establish not just individual
 Christians, but also building a Christian society as the body of Christ. 
+Faithful Catholics had to learn to submit their sensory experience to the
+authority of the Church as the source of certainty, as the living, communal
+embodiment of Christ the Word in the world.
 For Roman Catholics, the Church *was* the gospel, and the task of building
 the Church could not be separated from the work of building an empire.
+
 As Catholics worked to create Christian communities, music was a potent tool for
 creating harmony, for instituting social discipline as a reflection of the
 heavenly hierarchy.
 [@Baker:Harmony; @Irving:Colonial; @Illari:Polychoral]
-In terms of the most influential medieval music theorist Boethius (*De musica*),
-whose concept of music was foundational to the major Spanish music treatises
-like that of Pedro Cerone, well-tuned *musica instrumentalis* (sounding, played
-music) could harmonize the *musica humana*---the harmony of the individual in
-body and soul, reason and passion, but also the concord of human society.
-[@Boethius:Musica, bk. 2, pp. 187--189; @Cerone:Melopeo, 203--208;
+The virtue of man as Neoplatonic microcosm was reflected in the broader society
+and in turn depended on it.
+Spanish political thinkers conceived of the colonial project in terms of
+creating harmony in society.
 @Baker:Harmony, 22--31] 
-All this could better reflect the cosmic *musica mundana* and ultimately the
-harmonies of the triune God. 
+Most educated Spaniards were familiar with the medieval philosopher Boethius
+(either directly or through expositions of his ideas in contemporary music
+treates like that of Pedro Cerone) and his concept that there were three kinds
+of music: *musica instrumentalis*, sounding, playing music; *musica humana*, the
+harmony of the individual in body and soul, reason and passion, and the concord
+of human society; and *musica mundana*, the music of the celestial spheres.
+[@Boethius:Musica, bk. 2, pp. 187--189; @Cerone:Melopeo, 203--208]
+The proper performance of *musica instrumentalis*, they believed, could actually
+attune the *musica humana* on individual and social levels, bringing human
+society in concord with the order of the cosmos, and beyond it, with the
+mysterious harmonious of the triune God.
 
 Catholic music, then, was not *about* society; it was a form *of* society. 
 This is why the Franciscan friars in New Spain and the Jesuit priests in Brazil
@@ -993,66 +994,64 @@ counterparts.
 ## The Primacy of Hearing in Villancicos
 
 Villancicos provide evidence for a broad public discourse about sensation and
-faith.
-Pieces on the subject of hearing and faith manifest these same theological
-preoccupations and anxieties.
-
-It is legitimate to ask, as José María Díez Borque has done for Calderonian
-drama, how much listeners could actually hear and understand of these complex
-performances.
-[@DiezBorque:Publico] But Margit Frenk argues that Spanish literature of this
-period was written for the ear and that reading in most cases meant one person
-reading out loud to an audience of illiterate family and friends, whose auditory
-comprehension and memory would probably astound us today.
-[@Frenk:Voz]
-And while we may not know exactly who listened to villancicos, the musical
-sources do tell us what they heard with a far greater degree of specificity than
-is possible for literature alone. 
-
+faith that manifests these same theological preoccupations and anxieties.
 Through vernacular poetry and likely also through musical style, the creators
-and performers of villancicos addressed a broad public audience. 
+and performers of villancicos addressed hearers of multiple social stations and
+levels of education.
 These pieces often represented complex theological concepts, but they made these
 concepts accessible in quite a different way than a theological treatise or even
 a sermon. 
-As individual villancicos were repeated, and as conventional villancico types
-were performed at multiple festivals each year, these pieces must have shaped
-attitudes and beliefs in the broader community. 
 
-<!--- outline of rest of chapter -->
+Certainly it is legitimate to ask, as José María Díez Borque has done for
+Calderonian drama, how much listeners could actually hear and understand of
+these complex performances---a question that would also apply to other 
+vernacular music like Italian oratorios and German Lutheran sacred concertos.
+[@DiezBorque:Publico]
+How much of the poetic text could be perceived by listeners outside the walls of
+the cathedral choir or on the other side of convent partitions?
+Factors of acoustics, vocal performance practice, and instrumentation (such as
+the balance between singers and players), would all play into the answer, in
+addition to the problems of individual training already discussed.
+Educated people who possessed the means and connections to acquire printed
+pamphlets of villancico poetry would doubtless have understood more in the
+moment of performance and in reflection on the text before or after.
+But even common people may have had the aural capacity to perceive the gist of
+what these pieces were trying to communicate.
+Margit Frenk argues that Spanish literature of this period was written for the
+ear and that reading in most cases meant one person reading out loud to an
+audience of illiterate family and friends, whose auditory comprehension and
+memory would probably astound us today.
+[@Frenk:Voz] 
+As individual villancicos were repeated, and as conventional villancico types
+were performed at multiple festivals each year in public settings where many
+kinds of listeners were present, these pieces must have shaped attitudes and
+beliefs in the broader community. 
 
 ### Contests of the Senses and Early Modern Concepts of Sensation
 
-Two villancicos from Segovia in the later seventeenth century demonstrate how a
-sophisticated discourse on sensation and faith was presented through devotional
-music. The contest of the senses in Calderón's play is echoed in villancicos by
-successive chapelmasters at Segovia Cathedral. Miguel de Irízar was born in 1634
-and served at Segovia from 1671 until his death in 1684. Jerónimo de Carrión,
-born in 1660, followed after Irízar in 1684 and died in 1721.
-[@LopezCalo:Segovia]
-Both chapelmasters set variants of the same villancico poem, *Si los sentidos
-queja forman del Pan divino*, which was attributed to Zaragoza poet Vicente
-Sánchez in the posthumous publication of his works in 1688.
-[@Sanchez:LiraPoetica]
+Two villancicos from Segovia in the later seventeenth century demonstrate that
+devotional music could present a sophisticated discourse on sensation and faith,
+one that not only educated hearers about doctrine but actually challenged them
+to listen with new ears.
+The contest of the senses in Calderón's play is echoed in villancicos by
+successive chapelmasters at Segovia Cathedral. 
+In the 1670s, Miguel de Irízar set the villancico *si los sentidos queja forman
+del Pan divino*, later attributed to the Zaragozan poet Vicente Sánchez, for
+eight voices and instruments in grand polychoral style.
+[@Sanchez:LiraPoetica, XXX]
+Irízar was born in 1634 and served at Segovia from 1671 until his death in 1684. 
+A few decades later Irízar's successor, Jerónimo de Carrión (1660--1721), set
+the same text as a solo continuo song.
+[@LopezCalo:Segovia, XXX]
 
-The Segovia Cathedral archive preserves manuscript performing parts for both
-settings along with Irízar's draft score for his version. Irízar corresponded
-with a peninsular network of musicians, often about exchanging villancico
-poetry; he probably received this poem from a colleague in Zaragoza. He drafted
-his scores on the backsides and in the margins of these letters in makeshift
-notebooks. 
-[The performing parts for Irízar's setting are in E-SE: 5/32; those for
-Carrión's are in E-SE: 28/25. Irízar's letters and compositional process will
-be discussed further in a later chapter. See also @LopezCalo:IrizarLetters1;
-@Olarte:Irizar; @Rodriguez:Networks.]
-<!--- chapter ref -->
-
-The estribillo invites hearers to imagine the senses "filing a complaint"
+The poem invites hearers to imagine the senses "filing a complaint"
 against the bread of the Eucharist because "what they sense is not by faith
 consented"---playing on *sentido*, the word for sense
 ((ref float 'poem 'Si_los_sentidos-Sanchez)).
 Each of the coplas treats a different sense, following nearly the same order as
 in Calderón's play: Sight comes first, followed by Touch; next are Taste and
-Smell, and Hearing comes last ((ref float 'table 'senses-order)).
+Smell, and Hearing comes last and wins the day
+((ref float 'table 'senses-order)).
 
 (insert float 'poem 'Si_los_sentidos-Sanchez)
 
@@ -1061,55 +1060,60 @@ Smell, and Hearing comes last ((ref float 'table 'senses-order)).
 The poem's treatment of the senses reflects a common physiological model of
 sensation and perception, as educated Spaniards would have learned from the kind
 of theological treatises preserved from seminary and convent libraries in Spain
-and Mexico. Spanish theologians always treated Vision as the first and highest
-of the five exterior senses. A typical example is the 1557 natural-philosophy
-textbook *Phisica, Speculatio* by an Augustinian friar in New Spain, Alphonsus à
-Veracruce. 
+and Mexico. 
+Spanish theologians always treated Vision as the first and highest of the five
+exterior senses. 
+A typical example is the 1557 natural-philosophy textbook *Phisica, Speculatio*
+by an Augustinian friar in New Spain, Alphonsus à Veracruce. 
 [@Veracruce:Phisica]
 Veracruce summarizes the traditional Catholic teaching, which drew on Aristotle
 as interpreted by Thomas Aquinas. 
-<!--- [@ Aristotle early modern] -->
+<!--- XXX [@ Aristotle early modern] -->
 Veracruce's Latin treatise accords with Fray Luis de Granada's widely read
 Spanish *Introduction to the Creed* of 1583. 
 [@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
 
-(ref float 'table 'senses-fray-luis) shows how Fray Luis explains the relationship of
-the five exterior senses to the interior senses, including the affective
-faculty, in which the sensory stimuli interacted with the balance of bodily
-humors.
+As Fray Luis explains this widespread understanding of perception, the five
+exterior senses are linked to a set of interior senses or faculties, including
+the affective faculty, in which the sensory stimuli interacted with the balance
+of bodily humors ((ref float 'table 'senses-fray-luis)).
 [@LuisdeGranada-Balcells:SimboloPtI, ch. 27--35, pp. 439--494]
 The five exterior senses mediated between the outside world and the interior
 senses by means of the ethereal *spiritus animales*, which were something like
-invisible beams of light that flowed through the nerves. The cerebrum housed the
-internal faculties, which "made sense" of what the external senses told
-them---first the "common sense," a kind of reception area where the exterior
-senses met the interior faculties; and next the imagination, the cogitative
-faculty, and memory. All of these exterior and interior senses were part of the
-*ánima sensitiva*, the sensing, reasoning soul. In addition to these senses the
-*ánima sensitiva* possessed an affective faculty, in which the balance of humors
-in the body interacted with the interior and exterior senses to produce
-different "passions" or "affects" (Fray Luis uses *pasiones* and *afectos*
-interchangeably). Based on a fundamental dichotomy like magnetism between
-attraction and repulsion, this "concupiscible" part of the soul experienced
-three primary pairs of passions: love and hate, desire and fear, joy and
-sadness. 
+invisible beams of light that flowed through the nerves. 
+The cerebrum housed the internal faculties, which "made sense" of what the
+external senses told them---first the "common sense," a kind of reception area
+where the exterior senses met the interior faculties; and next the imagination,
+the cogitative faculty, and memory. 
+All of these exterior and interior senses were part of the *ánima sensitiva*,
+the sensing, reasoning soul. 
+In addition to these senses the *ánima sensitiva* possessed an affective
+faculty, in which the balance of humors in the body interacted with the interior
+and exterior senses to produce different "passions" or "affects" (Fray Luis uses
+*pasiones* and *afectos* interchangeably). 
+Based on a fundamental dichotomy like magnetism between attraction and
+repulsion, this "concupiscible" part of the soul experienced three primary pairs
+of passions: love and hate, desire and fear, joy and sadness. 
+<!--- XXX secondary on physiology of sensation -->
 
 (insert float 'table 'senses-fray-luis)
 
 The act of sensation, then, involved the entire body and soul, in a
 pre-Cartesian holistic model; but the external senses differed in how they
-connected the external world to the internal faculties and passions. The
-hierarchy of the senses was determined by the degree of mediation between the
-object of sensation and the person sensing. The most base sense was taste,
-because the person actually had to physically consume the object of sensation.
+connected the external world to the internal faculties and passions. 
+The hierarchy of the senses was determined by the degree of mediation between
+the object of sensation and the person sensing. 
+The most base sense was taste, because the person actually had to physically
+consume the object of sensation.
 The most powerful sense was sight, since it enabled a person to perceive objects
 a great distance away without any direct contact. 
 
 Hearing stood out from the other senses because for it alone, the object of
-perception was not identical with the thing sensed. As Calderón's character
-Hearing says, "Sight sees, without doubting/ what she sees; Smell smells/ what
-he smells; Touch touches/ what he touches, and Taste tastes/ what he tastes,
-since the object/ is proximate [immediate] to the action."
+perception was not identical with the thing sensed. 
+As Calderón's character Hearing says, "Sight sees, without doubting/ what she
+sees; Smell smells/ what he smells; Touch touches/ what he touches, and Taste
+tastes/ what he tastes, since the object/ is proximate [immediate] to the
+action."
 [@Calderon:Retiro, ll. 577--582]
 But Hearing hears a person's voice, not the person directly, as Calderón's text
 continues: "But what Hearing hears/ is only a fleeting echo,/ born of a distant
@@ -1120,38 +1124,59 @@ this sense a unique capability in spiritual matters, where the object of
 perception was not immediately sensible at all. 
 
 The poetic contests of the senses thus rearrange the traditional scholastic
-hierarchy by putting Hearing at the end for a dramatic climax. Sight comes
-first, but Hearing, the underdog competitor, triumphs at the
-last.[^Irizar-ordering]
+hierarchy by putting Hearing at the end for a dramatic climax. 
+Sight comes first, but Hearing, the underdog competitor, triumphs at the
+last.[^Irizar-ordering] 
 In the Sánchez villancico, each of the coplas highlights the failure of one of
-the senses to rightly perceive the sacrament. For example, the eyes "do not look
-at what they see," and the Eucharist reduces Sight to "blindness" (copla 1). The
-"colors" and "rays of light" through which Sight normally operates are "hidden"
-"beneath transparent veils" and "transformed" so that "God Incarnate is not
-seen" (copla 2). Similarly, Touch may make contact with the host, but not with
-the "mystery" hidden within (copla 3). Taste and Smell (coplas 5 and 6) are
-similarly hindered by their ability only to perceive material accidents and not
-spiritual substance. 
+the senses to rightly perceive the sacrament. 
+For example, the eyes "do not look at what they see," and the Eucharist reduces
+Sight to "blindness" (copla 1). 
+The "colors" and "rays of light" through which Sight normally operates are
+"hidden" "beneath transparent veils" and "transformed" so that "God Incarnate is
+not seen" (copla 2). 
+Similarly, Touch may make contact with the host, but not with the "mystery"
+hidden within (copla 3). 
+Taste and Smell (coplas 5 and 6) are similarly hindered by their ability only to
+perceive material accidents and not spiritual substance. 
 
-[^Irizar-ordering]: 
-Irízar alone puts Hearing in its traditional position, though this goes against
-the spirit of the poetic text; perhaps he was influenced by a scholastic
-training to "correct" the philosophical order. 
+[^Irizar-ordering]: Irízar alone (perhaps working from an earlier version of the
+  text later attributed to Sánchez), puts Hearing in its traditional position,
+  though this goes against the spirit of the poetic text. 
+  Perhaps he was influenced by a scholastic training to "correct" the
+  philosophical order. 
 
-Sánchez presents hearing in the last copla, through the conceit of music. The
-senses are "five instruments" like a musical consort, which must be "tempered"
-by faith. Without Faith, sight is actually blind, and touch, taste, and smell
+Sánchez presents hearing in the last copla, through the conceit of music. 
+The senses are "five instruments" like a musical consort, which must be
+"tempered" by faith. 
+Without Faith, sight is actually blind, and touch, taste, and smell
 are fooled; but when properly attuned by Faith, the senses can be harmonized
-into a pleasing concord. Here Faith is not the object of sensation, but the
-subject, who delights in hearing the music of properly tuned senses. 
+into a pleasing concord. 
+Here Faith is not the object of sensation, but the subject, who delights in
+hearing the music of properly tuned senses. 
 
+<!--- START -->
 ### Staging the Contest in Sound: Irízar and Carrión at Segovia Cathedral
 
 <!--- XXX Redo all measure numbers according to new edition -->
 
 The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this
 contest of the senses in sound. Their contrasting styles invite different types
-of involvement from listeners. In the earlier setting, for Corpus Christi 1674
+of involvement from listeners. 
+
+The Segovia Cathedral archive preserves manuscript performing parts for both
+settings along with Irízar's draft score for his version.
+[The performing parts for Irízar's setting are in E-SE: 5/32 and the score, in
+E-Se: 18/19; those for Carrión's are in E-SE: 28/25.] 
+As rare as composers' scores of villancicos are, Irízar's manuscripts are doubly
+valuable because this economical composer drafted his music in makeshift
+notebooks stitched together from piles of his received letters, fitting up to
+twelve staves of music in the margins and unused sides of the paper.
+The letters reflect a correspondence with a broad with a peninsular network of
+musicians, often about exchanging villancico poetry (see chapter 4).
+[@LopezCalo:IrizarLetters1; @Olarte:Irizar; @Rodriguez:Networks]
+Irízar probably received this poem from a colleague in Zaragoza. 
+
+In the earlier setting, for Corpus Christi 1674
 at Segovia Cathedral ((ref float 'music 'Irizar-Si_los_sentidos)), Miguel de
 Irízar creates a musical competition in grand festival style by pitting his two
 four-voice choirs against each other in polychoral dialogue.
