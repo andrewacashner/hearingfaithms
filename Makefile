@@ -2,25 +2,35 @@ METADATA = master.yaml
 TEXT = chapters/chapter-*.md
 INCLUDES = $(METADATA) $(TEXT)
 
-GLOBAL-SETTINGS = --filter pandoc-citeproc \
+GLOBAL-OPTIONS = \
+    --filter pandoc-citeproc \
     --smart \
-    --number-sections \
-    --top-level-division part \
-    --table-of-contents \
-    --toc-depth 4
+    --table-of-contents 
 
 PDF-OUTFILE = pdf/all.pdf
 PDF-SETTINGS = config/pdf.yaml
 TEX-HEADER = config/ms.tex
+PDF-OPTIONS = \
+    --latex-engine xelatex \
+    --top-level-division part \
+    --include-in-header $(TEX-HEADER) 
 PDF-INCLUDES = $(PDF-SETTINGS) $(INCLUDES)
-PANDOC-PDF = pandoc --latex-engine xelatex \
-    --include-in-header $(TEX-HEADER) \
-    $(GLOBAL-SETTINGS) \
+PANDOC-PDF = pandoc \
+    $(GLOBAL-OPTIONS) \
+    $(PDF-OPTIONS) \
     -o $(PDF-OUTFILE)
 
 ODT-OUTFILE = odt/all.odt
+ODT-TEMPLATE = config/vcbook.opendocument
+ODT-SETTINGS = config/vcbook.odt
+ODT-OPTIONS = \
+    --template $(ODT-TEMPLATE) \
+    --reference-odt $(ODT-SETTINGS) \
+    --variable=toc-title:'Contents'
 ODT-INCLUDES = $(INCLUDES)
-PANDOC-ODT = pandoc $(GLOBAL-SETTINGS) \
+PANDOC-ODT = pandoc \
+    $(GLOBAL-OPTIONS) \
+    $(ODT-OPTIONS) \
     -o $(ODT-OUTFILE)
 
 TARGETS = $(PDF-OUTFILE) $(ODT-OUTFILE)

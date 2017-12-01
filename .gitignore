@@ -37,4 +37,4 @@ pdf/
 *.xdv
 *.zip
 
-!config/reference.odt
+!config/vcbook.odt
