@@ -3,17 +3,23 @@
 \setmathfont{Libertinus Math}
 
 \frenchspacing
-\DoubleSpacing
-
 \raggedbottom
-\feetatbottom
 
 \pagestyle{plain}
 
+\usepackage{setspace}
+\doublespacing
+
 \usepackage[document]{ragged2e}
 \setlength{\RaggedRightParindent}{0.5in}
+\setlength{\parskip}{0pt plus 0.1pt}
 
 \usepackage[none]{hyphenat}
+
+\renewenvironment{quote}
+    {\list{}{\leftmargin=0.5in \rightmargin=0.5in}%
+    \item\relax}
+    {\endlist}
 
 \usepackage{endnotes}
 

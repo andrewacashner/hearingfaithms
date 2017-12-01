@@ -5,13 +5,14 @@ chapter 1: Villancicos as Musical Theology
 2017-11-15  New start for book proposal
 -->
 
-# Villancicos as Musical Theology
+# Listening for Faith
 
-> | Faith, then, comes through hearing,
-> | and hearing, by the word of Christ.
-> | --- St. Paul, Romans 10:17
+## Villancicos as Musical Theology
 
-## Introduction
+> Faith, then, comes through hearing,  
+> and hearing, by the word of Christ.  
+> --- St. Paul, Romans 10:17
+
 
 St. Paul wrote to the Christian community in Rome, "How are they to believe if
 they have not heard?" since "faith comes through hearing, and hearing, by the

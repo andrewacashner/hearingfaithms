@@ -12,11 +12,11 @@ additions from 9/16 version and new material (50pp)
 2015-03-18 Dissertation ch. 2 defended
 -->
 
-# Making Faith Appeal to Hearing
+## Making Faith Appeal to Hearing
 
-> | I cannot comprehend you nor know your enigma,
-> | because I have listened to Faith without faith.
-> | --- "Judaism," in Calderón, *El nuevo palacio del Retiro*
+> I cannot comprehend you nor know your enigma,  
+> because I have listened to Faith without faith.  
+> --- "Judaism," in Calderón, *El nuevo palacio del Retiro*
 
 If faith came by hearing, as St. Paul wrote, then what kind of power did music
 have to make faith appeal to hearing?
@@ -74,7 +74,7 @@ vehicles for simplistic religious teaching or as banal, worldly entertainment.
 The villancicos in this chapter appeal to the ear in order to give listeners an
 opportunity to contemplate the challenges of faithful hearing. 
 
-## Accommodating and Training the Ear
+###Accommodating and Training the Ear
 
 Catholic theologians of the Tridentine era emphasized the need for the Church's
 teachers to make faith appeal to hearing, and the Church used devotional music
@@ -113,7 +113,7 @@ Christian disciples were charged not only to "hear" the Church's teaching and
 believe it (this would be unformed faith); they also had to "listen" in the
 sense of obeying. 
 
-### Hearing Christ the Word
+#### Hearing Christ the Word
 
 One of the Church's key tools in combating heresy and promoting evangelism was
 the new catechism "for parish priests" commissioned by the Council of Trent and
@@ -300,7 +300,7 @@ In other words, music would seem to be a way of better accommodating faith
 to the sense of hearing, but it also required more training to be heard in a
 faithful way. 
 
-### Experiencing Spiritual Truth through Music
+#### Experiencing Spiritual Truth through Music
 
 This tension between accommodating the ear and training it may be seen in the
 explanations of music's power by Athanasius Kircher. 
@@ -517,7 +517,7 @@ appeal to hearing, would be limited by both personal subjectivity and cultural
 conditioning, and these limitations created anxiety and fear about the role of
 hearing in faith. 
 
-## Danger and Doubt
+### Danger and Doubt
 
 Regarding the problem of individual hearing, Reformation controversies had
 pushed Catholics into an increasingly negative and anxious attitude toward
@@ -702,7 +702,7 @@ Later Catholics who shared Juan's ascetic bent, or his pastoral concern with
 spiritual growth, saw that power as a danger or even an opening for diabolical
 influence. 
 
-### Cultural Conditioning in Hearing
+#### Cultural Conditioning in Hearing
 
 If reckoning with individual sensory experience was a struggle for church
 leaders after Trent, their evangelistic and colonial efforts posed the even
@@ -816,7 +816,7 @@ music:
 > impediment when it comes to appreciating the beauties of European harmony.
 [@Massarella:JapaneseTravellers, 156]
 
-### Obstacles to Faith and Mistrust of Hearing
+#### Obstacles to Faith and Mistrust of Hearing
 
 How, then, could the Church overcome such an impediment? 
 Would music's power be lost on a person who simply lacked the proper disposition
@@ -922,7 +922,7 @@ The senses were powerful, and thus sensory art was powerful; but this power had
 to be harnessed to serve the purposes of the Church. 
 Simply put, faithful hearing required listeners to doubt their own sensation. 
 
-### Hearing the Word in Community
+#### Hearing the Word in Community
 
 Catholic devotional music provided a practical medium for both appealing to the
 ear and training it, though music amplified the challenges of acquiring faith
@@ -991,7 +991,7 @@ inspired by much of the same medieval devotional literature as their Catholic
 counterparts. 
 <!--- XXX relevant citations; this is why music fueled confessional divides -->
 
-## The Primacy of Hearing in Villancicos
+### The Primacy of Hearing in Villancicos
 
 Villancicos provide evidence for a broad public discourse about sensation and
 faith that manifests these same theological preoccupations and anxieties.
@@ -1027,7 +1027,7 @@ were performed at multiple festivals each year in public settings where many
 kinds of listeners were present, these pieces must have shaped attitudes and
 beliefs in the broader community. 
 
-### Contests of the Senses and Early Modern Concepts of Sensation
+#### Contests of the Senses and Early Modern Concepts of Sensation
 
 Two villancicos from Segovia in the later seventeenth century demonstrate that
 devotional music could present a sophisticated discourse on sensation and faith,
@@ -1156,7 +1156,7 @@ into a pleasing concord.
 Here Faith is not the object of sensation, but the subject, who delights in
 hearing the music of properly tuned senses. 
 
-### Staging the Contest in Sound: Irízar and Carrión at Segovia Cathedral
+#### Staging the Contest in Sound: Irízar and Carrión at Segovia Cathedral
 
 <!--- START -->
 <!--- XXX Redo all measure numbers according to new edition -->
@@ -1287,7 +1287,7 @@ Thus the pieces seem designed to teach listeners how to hear music even as they
 are listening---as the catechism advises, they accommodate hearing while
 training it.
 
-### Sensory Confusion
+#### Sensory Confusion
 
 While the *Si los sentidos* villancicos may not project as much uncertainty
 about sensation and faith as does Calderón's *El nuevo palacio del Retiro*, they
@@ -1373,7 +1373,7 @@ senses by appealing to them directly. They seem intended to provoke listeners to
 a higher form of sensation, to a holy dismay and wonder that would lead to true,
 faithful perception. 
 
-## Impaired Hearers, Incompetent Teachers: "Villancicos of the Deaf"
+### Impaired Hearers, Incompetent Teachers: "Villancicos of the Deaf"
 
 The problem of lacking the capacity for faithful hearing is evident
 in villancicos that represent deaf characters. The final section of this chapter
@@ -1386,7 +1386,7 @@ and the other is by Matías Ruíz for the Royal Chapel in Madrid. Both pieces
 present mock catechism scenes with a friar and a man who is deaf or hard of
 hearing. 
 
-### Laughing at the Deaf: Juan Gutiérrez de Padilla (Puebla, 1651)
+#### Laughing at the Deaf: Juan Gutiérrez de Padilla (Puebla, 1651)
 
 In a piece labeled *sordo* in the partbooks, Juan Gutiérrez de Padilla creates a
 comic dialogue between a religious teacher and a "deaf" man named Toribio
@@ -1495,7 +1495,7 @@ In this view, if hearing is the paradigm of faith, then deafness is its
 opposite. While Calderón's Judaism heard Faith without faith, the deaf men in
 villancicos cannot even hear Faith to begin with. 
 
-### Learning from the Deaf: Matías Ruíz (Madrid, 1671)
+#### Learning from the Deaf: Matías Ruíz (Madrid, 1671)
 
 The *Villancico de los sordos* by Matías Ruiz (E-E: Mús. 83-12) extends its
 parody to the catechist as well ((ref float 'poem 'Pues_la_fiesta-Ruiz)). 
@@ -1684,7 +1684,7 @@ text, or the play on modal cadences and black notation of Padilla's music. This
 means that the depictions of imperfect hearing in the villancicos of the deaf
 themselves depended on the attention of listeners with well-trained ears. 
 
-## "Make a Hedge around Your Ears"
+#### "Make a Hedge around Your Ears"
 
 To understand the role of villancicos in the dynamics of hearing and faith,then,
 we must consider these performative texts as more than just one-way transmissions
