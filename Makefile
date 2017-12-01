@@ -3,9 +3,7 @@ TEXT = chapters/chapter-*.md
 INCLUDES = $(METADATA) $(TEXT)
 
 GLOBAL-OPTIONS = \
-    --filter pandoc-citeproc \
-    --smart \
-    --table-of-contents 
+    --filter pandoc-citeproc 
 
 PDF-OUTFILE = pdf/all.pdf
 PDF-SETTINGS = config/pdf.yaml
@@ -13,6 +11,7 @@ TEX-HEADER = config/ms.tex
 PDF-OPTIONS = \
     --latex-engine xelatex \
     --top-level-division part \
+    --table-of-contents \
     --include-in-header $(TEX-HEADER) 
 PDF-INCLUDES = $(PDF-SETTINGS) $(INCLUDES)
 PANDOC-PDF = pandoc \
@@ -21,12 +20,10 @@ PANDOC-PDF = pandoc \
     -o $(PDF-OUTFILE)
 
 ODT-OUTFILE = odt/all.odt
-ODT-TEMPLATE = config/vcbook.opendocument
 ODT-SETTINGS = config/vcbook.odt
 ODT-OPTIONS = \
-    --template $(ODT-TEMPLATE) \
-    --reference-odt $(ODT-SETTINGS) \
-    --variable=toc-title:'Contents'
+    --smart \
+    --reference-odt $(ODT-SETTINGS) 
 ODT-INCLUDES = $(INCLUDES)
 PANDOC-ODT = pandoc \
     $(GLOBAL-OPTIONS) \
