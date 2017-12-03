@@ -12,7 +12,7 @@ additions from 9/16 version and new material (50pp)
 2015-03-18 Dissertation ch. 2 defended
 -->
 
-## Making Faith Appeal to Hearing
+## Chapter 2. Making Faith Appeal to Hearing
 
 > I cannot comprehend you nor know your enigma,  
 > because I have listened to Faith without faith.  
