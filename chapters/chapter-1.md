@@ -5,9 +5,9 @@ chapter 1: Villancicos as Musical Theology
 2017-11-15  New start for book proposal
 -->
 
-# Part I. Listening for Faith
+# Listening for Faith
 
-## Chapter 1. Villancicos as Musical Theology
+## Villancicos as Musical Theology
 
 > Faith, then, comes through hearing,  
 > and hearing, by the word of Christ.  

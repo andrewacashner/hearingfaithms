@@ -4,9 +4,9 @@ set -e
 echo "Resolving cross-references..."
 mdref chapters/chapter-*.md
 
-for file in chapters/chapter-*.mdref
+for file in chapters/chapter-*.md.ref
 do
-    echo "Converting to ODT: "$file"..."
+    echo "Converting to ODT: ${file%.ref}..."
     pandoc \
         --filter pandoc-citeproc \
         --smart \
@@ -14,12 +14,12 @@ do
         --bibliography master.bib \
         --csl chicago-fullnote-bibliography.csl \
         chapters/head.yaml "$file" \
-        -o "${file%.mdref}.odt"
+        -o "${file%.md.ref}.odt"
 done
 
 echo "Created $(find chapters/chapter-*.odt)"
 mv chapters/*.odt odt/
-rm chapters/*.mdref
+rm chapters/*.md.ref
 
 exit 0
 
