@@ -1088,7 +1088,7 @@ pitting his two four-voice choirs against each other in polychoral dialogue
 ((ref float 'music 'Irizar-Si_los_sentidos)).
 [@Cashner:WLSCM32. The score (E-SE: 18/19)includes the heading, "Fiesta del
 SSantissimo de este año del 1674."]
-<!--- page nos of edition -->
+<!--- XXX page nos of edition -->
 Polychoral dialogue, of course, is typical of large-scale villancicos, but
 Irízar has the choirs interrupt each other in ways that create not just a
 dialogue, but a debate. 
@@ -1291,15 +1291,18 @@ training it.
 While the *Si los sentidos* villancicos may not project as much uncertainty
 about sensation and faith as does Calderón's *El nuevo palacio del Retiro*, they
 still emphasize the need for all the senses to submit to faith, which means that
-listeners should not trust their senses alone. Some villancico poets and
-composers go further than stating that senses can be deceitful; they use paradox
-to deliberately confuse the senses for pious purposes. We have already seen in
-the previous chapter that many villancicos feature auditory "special effects"
-like echoes, voices imitating instruments, and voices imitating birdsong. Such
-pieces might be compared to the contemporary rise of *trompe l'oeil* effects in
-visual art, like the illusion of the heavens opening in the *Transparente* of
-Toledo Cathedral (by Narciso Tomé, 1732) or the false domes painted by Andrea
-Pozzo and his students on Jesuit church ceilings from Rome to China.
+listeners should not trust their senses alone. 
+Some villancico poets and composers go further than stating that senses can be
+deceitful; they use paradox to deliberately confuse the senses for pious
+purposes. 
+We have already seen in the previous chapter that many villancicos feature
+auditory "special effects" like echoes, voices imitating instruments, and voices
+imitating birdsong. 
+Such pieces might be compared to the contemporary rise of *trompe l'oeil*
+effects in visual art, like the illusion of the heavens opening in the
+*Transparente* of Toledo Cathedral (by Narciso Tomé, 1732) or the false domes
+painted by Andrea Pozzo and his students on Jesuit church ceilings from Rome to
+China.
 [@GroveArt, s. v. *Tomé, Narciso*; @Bailey:Art, 110]
 
 Villancicos with "synesthetic" topics mismatch the sense in the spirit of
@@ -1328,49 +1331,54 @@ The poem makes "confusion" of sight and hearing, which is projected partly
 through irregular poetic meter 
 ((ref float 'poem 'Oigan_todos_del_ave-Galan)).[^Galan-meter]
 In his musical setting for eleven voices in three choirs, Galán creates
-*equivocación* through rhythm, notation, and texture. Galán juxtaposes the three
-voices of Chorus I against the other two choirs by having Chorus I sing
-primarily in a normal triple-meter motion (with dotted figures intensifying the
-ternary feeling), while the other two choirs interject *¡Oigan!* and *¡Miran!*
-in sesquialtera rhythm. 
+*equivocación* through rhythm, notation, and texture. 
+Galán juxtaposes the three voices of Chorus I against the other two choirs by
+having Chorus I sing primarily in a normal triple-meter motion (with dotted
+figures intensifying the ternary feeling), while the other two choirs interject
+*¡Oigan!* and *¡Miran!* in sesquialtera rhythm. 
 
-[^Galan-meter]:
-The division into lines is speculative, but the syllable counts and line
-groupings in this arrangement could be scanned as 10, 6 10, 8 7 6, 6, 6 10, 10.
+[^Galan-meter]: The division into lines is speculative, but the syllable counts
+  and line groupings in this arrangement could be scanned as 10, 6 10, 8 7 6, 6,
+  6 10, 10.
 
 (insert float 'poem 'Oigan_todos_del_ave-Galan)
 
 To notate these rhythms, Galán must use white notes for the regular ternary
 motion in Chorus I, but blackened noteheads (mensural coloration) to indicate
-the hemiola pattern in the other choirs. But when each voice in Chorus I sings
-the synesthetic phrase "the light is heard to shine," Galán turns the lights
-out---on the page at least---by giving each voice a passage in all black-note
-sesquialtera ((ref float 'figure 'Galan-Oigan-coloratio)).
+the hemiola pattern in the other choirs. 
+But when each voice in Chorus I sings the synesthetic phrase "the light is heard
+to shine," Galán turns the lights out---on the page at least---by giving each
+voice a passage in all black-note sesquialtera ((ref float 'figure
+'Galan-Oigan-coloratio)).
 They return to white notation again for the following phrase, "while the voice
-is seen in purity." Any attentive listener could hear these juxtapositions and
-abrupt shifts in rhythmic patterns, though only the musicians themselves would
-likely have recognized the dark--light symbolism in the notation. 
+is seen in purity." 
+Any attentive listener could hear these juxtapositions and abrupt shifts in
+rhythmic patterns, though only the musicians themselves would likely have
+recognized the dark--light symbolism in the notation. 
    
 (insert float 'figure 'Galan-Oigan-coloratio)
+<!--- cite Kendrick on darkness coloratio symbolism -->
 
 In texture Galán plays with *qué equivocación* literally by setting these words
 to an equal-voiced fugato on a long ascending scalar figure (starting with the
-Tiple II's stepwise ascent A~4~--G~5~). The sudden outburst of
-polyphonic texture in the midst of primarily homophonic polychoral dialogue
-could create a more affective sense of confusion as well. As the estribillo
-continues, Galán increasingly mixes up the music for *Oigan todos del ave*, the
-sesquialtera interjections, and the contrapuntal texture of *qué equivocación*,
-between the various choirs. 
+Tiple II's stepwise ascent A~4~--G~5~). 
+The sudden outburst of polyphonic texture in the midst of primarily homophonic
+polychoral dialogue could create a more affective sense of confusion as well. 
+As the estribillo continues, Galán increasingly mixes up the music for *Oigan
+todos del ave*, the sesquialtera interjections, and the contrapuntal texture of
+*qué equivocación*, between the various choirs. 
 
 Pieces like this describe and seek to incite a condition of sensory overload, an
 ecstasy in which all the senses blend together in the effort to grasp something
-that is beyond them.^[This notion is part of the Catholic heritage that shaped
-Olivier Messiaen's concept of "dazzlement."]
+that is beyond them.[^dazzlement]
 Such pieces provide further evidence that Catholic religious arts could not be
 reduced to the function of simply teaching doctrine; these pieces train the
-senses by appealing to them directly. They seem intended to provoke listeners to
-a higher form of sensation, to a holy dismay and wonder that would lead to true,
-faithful perception. 
+senses by appealing to them directly. 
+They seem intended to provoke listeners to a higher form of sensation, to a holy
+dismay and wonder that would lead to true, faithful perception. 
+
+[^dazzlement]: This notion is part of the Catholic heritage that shaped Olivier
+  Messiaen's concept of "dazzlement."
 
 ### Impaired Hearers, Incompetent Teachers: "Villancicos of the Deaf"
 
