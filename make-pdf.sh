@@ -2,7 +2,8 @@
 set -e
 
 echo "Resolving cross-references..."
-mdref chapters/chapter-*.md
+floatref chapters/chapter-*.md
+
 echo "Converting to PDF..."
 pandoc \
     config/pdf.yaml chapters/head.yaml chapters/chapter-*.md.ref \

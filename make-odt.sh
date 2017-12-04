@@ -2,7 +2,7 @@
 set -e
 
 echo "Resolving cross-references..."
-mdref chapters/chapter-*.md
+floatref chapters/chapter-*.md
 
 for file in chapters/chapter-*.md.ref
 do
@@ -17,8 +17,8 @@ do
         -o "${file%.md.ref}.odt"
 done
 
-echo "Created $(find chapters/chapter-*.odt)"
 mv chapters/*.odt odt/
+echo "Created $(find odt/chapter-*.odt)"
 rm chapters/*.md.ref
 
 exit 0

@@ -9,4 +9,4 @@ Andrew A. Cashner
 - To produce single PDF for whole book in `pdf` directory : `./make-pdf.sh`
 
 Cross references for floats are written in Scheme commands, which are
-preprocessed with `mdref`.
+preprocessed with `floatref`.
