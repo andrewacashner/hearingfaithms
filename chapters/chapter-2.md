@@ -1027,7 +1027,7 @@ were performed at multiple festivals each year in public settings where many
 kinds of listeners were present, these pieces must have shaped attitudes and
 beliefs in the broader community. 
 
-#### Contests of the Senses and Early Modern Concepts of Sensation
+#### Contests of the Senses (Irízar and Carrión at Segovia Cathedral)
 
 Two villancicos from Segovia in the later seventeenth century demonstrate that
 devotional music could present a sophisticated discourse on sensation and faith,
@@ -1059,118 +1059,12 @@ Smell, and Hearing comes last and wins the day
 
 (insert float 'table 'senses-order)
 
-The poem's treatment of the senses reflects a common physiological model of
-sensation and perception, as educated Spaniards would have learned from the kind
-of theological treatises preserved from seminary and convent libraries in Spain
-and Mexico. 
-Spanish theologians always treated Vision as the first and highest of the five
-exterior senses. 
-A typical example is the 1557 natural-philosophy textbook *Phisica, Speculatio*
-by an Augustinian friar in New Spain, Alphonsus à Veracruce. 
-[@Veracruce:Phisica]
-Veracruce summarizes the traditional Catholic teaching, which drew on Aristotle
-as interpreted by Thomas Aquinas. 
-<!--- XXX [@ Aristotle early modern] -->
-Veracruce's Latin treatise accords with Fray Luis de Granada's widely read
-Spanish *Introduction to the Creed* of 1583. 
-[@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
-
-As Fray Luis explains this widespread understanding of perception, the five
-exterior senses are linked to a set of interior senses or faculties, including
-the affective faculty, in which the sensory stimuli interacted with the balance
-of bodily humors ((ref float 'table 'senses-fray-luis)).
-[@LuisdeGranada-Balcells:SimboloPtI, ch. 27--35, pp. 439--494]
-The five exterior senses mediated between the outside world and the interior
-senses by means of the ethereal *spiritus animales*, which were something like
-invisible beams of light that flowed through the nerves. 
-The cerebrum housed the internal faculties, which "made sense" of what the
-external senses told them---first the "common sense," a kind of reception area
-where the exterior senses met the interior faculties; and next the imagination,
-the cogitative faculty, and memory. 
-All of these exterior and interior senses were part of the *ánima sensitiva*,
-the sensing, reasoning soul. 
-In addition to these senses the *ánima sensitiva* possessed an affective
-faculty, in which the balance of humors in the body interacted with the interior
-and exterior senses to produce different "passions" or "affects" (Fray Luis uses
-*pasiones* and *afectos* interchangeably). 
-Based on a fundamental dichotomy like magnetism between attraction and
-repulsion, this "concupiscible" part of the soul experienced three primary pairs
-of passions: love and hate, desire and fear, joy and sadness. 
-<!--- XXX secondary on physiology of sensation -->
-
-(insert float 'table 'senses-fray-luis)
-
-The act of sensation, then, involved the entire body and soul, in a
-pre-Cartesian holistic model; but the external senses differed in how they
-connected the external world to the internal faculties and passions. 
-The hierarchy of the senses was determined by the degree of mediation between
-the object of sensation and the person sensing. 
-The most base sense was taste, because the person actually had to physically
-consume the object of sensation.
-The most powerful sense was sight, since it enabled a person to perceive objects
-a great distance away without any direct contact. 
-
-Hearing stood out from the other senses because for it alone, the object of
-perception was not identical with the thing sensed. 
-As Calderón's character Hearing says, "Sight sees, without doubting/ what she
-sees; Smell smells/ what he smells; Touch touches/ what he touches, and Taste
-tastes/ what he tastes, since the object/ is proximate [immediate] to the
-action."
-[@Calderon:Retiro, ll. 577--582]
-But Hearing hears a person's voice, not the person directly, as Calderón's text
-continues: "But what Hearing hears/ is only a fleeting echo,/ born of a distant
-voice/ without a known object."
-[@Calderon:Retiro, ll. 583--586]
-While this feature of hearing may have made it "easily deceived," it also gave
-this sense a unique capability in spiritual matters, where the object of
-perception was not immediately sensible at all. 
-
-The poetic contests of the senses thus rearrange the traditional scholastic
-hierarchy by putting Hearing at the end for a dramatic climax. 
-Sight comes first, but Hearing, the underdog competitor, triumphs at the
-last.[^Irizar-ordering] 
-In the Sánchez villancico, each of the coplas highlights the failure of one of
-the senses to rightly perceive the sacrament. 
-For example, the eyes "do not look at what they see," and the Eucharist reduces
-Sight to "blindness" (copla 1). 
-The "colors" and "rays of light" through which Sight normally operates are
-"hidden" "beneath transparent veils" and "transformed" so that "God Incarnate is
-not seen" (copla 2). 
-Similarly, Touch may make contact with the host, but not with the "mystery"
-hidden within (copla 3). 
-Taste and Smell (coplas 5 and 6) are similarly hindered by their ability only to
-perceive material accidents and not spiritual substance. 
-
-[^Irizar-ordering]: Irízar alone (perhaps working from an earlier version of the
-  text later attributed to Sánchez), puts Hearing in its traditional position,
-  though this goes against the spirit of the poetic text. 
-  Perhaps he was influenced by a scholastic training to "correct" the
-  philosophical order. 
-
-Sánchez presents hearing in the last copla, through the conceit of music. 
-The senses are "five instruments" like a musical consort, which must be
-"tempered" by faith. 
-Without Faith, sight is actually blind, and touch, taste, and smell
-are fooled; but when properly attuned by Faith, the senses can be harmonized
-into a pleasing concord. 
-Here Faith is not the object of sensation, but the subject, who delights in
-hearing the music of properly tuned senses. 
-
-#### Staging the Contest in Sound: Irízar and Carrión at Segovia Cathedral
-
-<!--- START -->
 <!--- XXX Redo all measure numbers according to new edition -->
-<!--- You could shift the musical analysis to after the introduction and basic
-poetic analysis; then do the early modern concepts of sensation, then show how
-these work in the musical version and lead into synesthesia etc. -->
 
 The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this
 contest of the senses in sound. 
 The Segovia Cathedral archive preserves manuscript performing parts for both
-settings along with Irízar's draft score for his version.
-[The performing parts for Irízar's setting are in E-SE: 5/32 (in a copyist's
-hand), and E-SE:18/19 contains the the score in the composer's own hand.
-Carrión's performing parts are in E-SE: 28/25.]
+settings along with Irízar's draft score for his version.[^Segovia-sources]
 As rare as composers' scores of villancicos are, Irízar's manuscripts are doubly
 valuable because this economical composer drafted his music in makeshift
 notebooks stitched together from piles of his received letters, fitting up to
@@ -1182,6 +1076,11 @@ Irízar probably received this poem through correspondence with a colleague in
 Zaragoza.
 Carrión likely knew (and probably performed) Irízar's setting from the
 archive, but also seems to have had a separate source for the Sánchez poem.
+
+[^Segovia-sources]: 
+The performing parts for Irízar's setting are in E-SE: 5/32 (in a copyist's
+hand), and E-SE:18/19 contains the the score in the composer's own hand.
+Carrión's performing parts are in E-SE: 28/25.
 
 In Irízar's earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
 Miguel de Irízar creates a musical competition in grand festival style by
@@ -1276,10 +1175,110 @@ mm. 36--40 that leads the singer to the top of his register.
 The upward leaps in the last line on *no se den* (m. 32) contrast with the
 downward leaping motive of the opening (on *sentidos*, m. 1). 
 
-The similarities between these two settings of *Si los sentidos* demonstrate the
-persistence of concerns about the hearing's role in faith. 
+#### The Priority of Hearing in Early Modern Philosophy
+
+The treatment of the senses in these villancicos reflects a common physiological
+model of sensation and perception, as educated Spaniards would have learned from
+the kind of theological treatises preserved from seminary and convent libraries
+in Spain and Mexico. 
+Spanish theologians always treated Vision as the first and highest of the five
+exterior senses. 
+A typical example is the 1557 natural-philosophy textbook *Phisica, Speculatio*
+by an Augustinian friar in New Spain, Alphonsus à Veracruce. 
+[@Veracruce:Phisica]
+Veracruce summarizes the traditional Catholic teaching, which drew on Aristotle
+as interpreted by Thomas Aquinas. 
+<!--- XXX [@ Aristotle early modern] -->
+Veracruce's Latin treatise accords with Fray Luis de Granada's widely read
+Spanish *Introduction to the Creed* of 1583. 
+[@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
+
+As Fray Luis explains this widespread understanding of perception, the five
+exterior senses are linked to a set of interior senses or faculties, including
+the affective faculty, in which the sensory stimuli interacted with the balance
+of bodily humors ((ref float 'table 'senses-fray-luis)).
+[@LuisdeGranada-Balcells:SimboloPtI, ch. 27--35, pp. 439--494]
+The five exterior senses mediated between the outside world and the interior
+senses by means of the ethereal *spiritus animales*, which were something like
+invisible beams of light that flowed through the nerves. 
+The cerebrum housed the internal faculties, which "made sense" of what the
+external senses told them---first the "common sense," a kind of reception area
+where the exterior senses met the interior faculties; and next the imagination,
+the cogitative faculty, and memory. 
+All of these exterior and interior senses were part of the *ánima sensitiva*,
+the sensing, reasoning soul. 
+In addition to these senses the *ánima sensitiva* possessed an affective
+faculty, in which the balance of humors in the body interacted with the interior
+and exterior senses to produce different "passions" or "affects" (Fray Luis uses
+*pasiones* and *afectos* interchangeably). 
+Based on a fundamental dichotomy like magnetism between attraction and
+repulsion, this "concupiscible" part of the soul experienced three primary pairs
+of passions: love and hate, desire and fear, joy and sadness. 
+<!--- XXX secondary on physiology of sensation -->
+
+(insert float 'table 'senses-fray-luis)
+
+The act of sensation, then, involved the entire body and soul, in a
+pre-Cartesian holistic model; but the external senses differed in how they
+connected the external world to the internal faculties and passions. 
+The hierarchy of the senses was determined by the degree of mediation between
+the object of sensation and the person sensing. 
+The most base sense was taste, because the person actually had to physically
+consume the object of sensation.
+The most powerful sense was sight, since it enabled a person to perceive objects
+a great distance away without any direct contact. 
+
+Hearing stood out from the other senses because for it alone, the object of
+perception was not identical with the thing sensed. 
+As Calderón's character Hearing says, "Sight sees, without doubting/ what she
+sees; Smell smells/ what he smells; Touch touches/ what he touches, and Taste
+tastes/ what he tastes, since the object/ is proximate [immediate] to the
+action."
+[@Calderon:Retiro, ll. 577--582]
+But Hearing hears a person's voice, not the person directly, as Calderón's text
+continues: "But what Hearing hears/ is only a fleeting echo,/ born of a distant
+voice/ without a known object."
+[@Calderon:Retiro, ll. 583--586]
+While this feature of hearing may have made it "easily deceived," it also gave
+this sense a unique capability in spiritual matters, where the object of
+perception was not immediately sensible at all. 
+
+The poetic contests of the senses thus rearrange the traditional scholastic
+hierarchy by putting Hearing at the end for a dramatic climax. 
+Sight comes first, but Hearing, the underdog competitor, triumphs at the
+last.[^Irizar-ordering] 
+In the Sánchez villancico, each of the coplas highlights the failure of one of
+the senses to rightly perceive the sacrament. 
+For example, the eyes "do not look at what they see," and the Eucharist reduces
+Sight to "blindness" (copla 1). 
+The "colors" and "rays of light" through which Sight normally operates are
+"hidden" "beneath transparent veils" and "transformed" so that "God Incarnate is
+not seen" (copla 2). 
+Similarly, Touch may make contact with the host, but not with the "mystery"
+hidden within (copla 3). 
+Taste and Smell (coplas 5 and 6) are similarly hindered by their ability only to
+perceive material accidents and not spiritual substance. 
+
+[^Irizar-ordering]: Irízar alone (perhaps working from an earlier version of the
+  text later attributed to Sánchez), puts Hearing in its traditional position,
+  though this goes against the spirit of the poetic text. 
+  Perhaps he was influenced by a scholastic training to "correct" the
+  philosophical order. 
+
+The Sánchez villancico presents hearing in the last copla, through the conceit
+of music. 
+The senses are "five instruments" like a musical consort, which must be
+"tempered" by faith. 
+Without Faith, sight is actually blind, and touch, taste, and smell
+are fooled; but when properly attuned by Faith, the senses can be harmonized
+into a pleasing concord. 
+Here Faith is not the object of sensation, but the subject, who delights in
+hearing the music of properly tuned senses. 
+
+The similarities between the settings of *Si los sentidos* by Irízar and Carrión
+demonstrate the persistence of concerns about the hearing's role in faith. 
 Meanwhile the differences between versions reflect different styles not only of
-composition but of devotional practice. 
+composition but of devotional practice in public and private settings.
 Irízar and Carrión take a verbal discourse on sensation and faith, in which
 music is the paradigm of something that pleases the ear, and bring it to life
 through actual music. 
