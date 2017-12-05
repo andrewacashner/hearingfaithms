@@ -1373,8 +1373,8 @@ motion in Chorus I, but blackened noteheads (mensural coloration) to indicate
 the hemiola pattern in the other choirs. 
 But when each voice in Chorus I sings the synesthetic phrase "the light is heard
 to shine," Galán turns the lights out---on the page at least---by giving each
-voice a passage in all black-note sesquialtera ((ref float 'figure
-'Galan-Oigan-coloratio)).
+voice a passage in all black-note sesquialtera 
+((ref float 'figure 'Galan-Oigan-coloratio)).
 They return to white notation again for the following phrase, "while the voice
 is seen in purity." 
 Any attentive listener could hear these juxtapositions and abrupt shifts in
@@ -1406,18 +1406,23 @@ dismay and wonder that would lead to true, faithful perception.
 This notion is part of the Catholic heritage that shaped Olivier Messiaen's
 concept of "dazzlement."
 
+<!--- could connect back to catechism, or Juan de la Cruz, or Kircher -->
+
 ### Impaired Hearers, Incompetent Teachers: "Villancicos of the Deaf"
 
-The problem of lacking the capacity for faithful hearing is evident
-in villancicos that represent deaf characters. The final section of this chapter
-presents two *villancicos de sordos*---villancicos of the deaf---which dramatize
-the limitations of hearing, and poke fun at the difficulty some religious
-teachers faced in making faith appeal to this sense. Similar pieces from both
-sides of the Atlantic use hearing disability as a symbol of spiritual deafness:
-the first is by Juan Gutiérrez de Padilla from Puebla Cathedral in New Spain,
-and the other is by Matías Ruíz for the Royal Chapel in Madrid. Both pieces
-present mock catechism scenes with a friar and a man who is deaf or hard of
-hearing. 
+<!-- START need better transition -->
+The problem of lacking the capacity for faithful hearing is evident in
+villancicos that represent deaf characters. 
+The final section of this chapter presents two *villancicos de
+sordos*---villancicos of the deaf---which dramatize the limitations of hearing,
+and poke fun at the difficulty some religious teachers faced in making faith
+appeal to this sense. 
+Similar pieces from both sides of the Atlantic use hearing disability as a
+symbol of spiritual deafness: the first is by Juan Gutiérrez de Padilla from
+Puebla Cathedral in New Spain, and the other is by Matías Ruíz for the Royal
+Chapel in Madrid. 
+Both pieces present mock catechism scenes with a friar and a man who is deaf or
+hard of hearing. 
 
 #### Laughing at the Deaf: Juan Gutiérrez de Padilla (Puebla, 1651)
 
@@ -1429,24 +1434,27 @@ bajón," was performed in Matins for Christmas at Puebla Cathedral in 1651.
 [MEX-Pc: Leg. 1/2; @Stanford:Catalog; @Puebla:Microfilm]
 It is part of Padilla's earliest surviving Christmas cycle for the new
 cathedral, which had been consecrated in 1649. 
-[Another villancico by Padilla is discussed in the next chapter. See also
-@Cashner:Cards; @Mauleon:PadillaPalafox.]
+[Another villancico by Padilla is discussed in the next chapter. 
+<!-- and others too -->
+See also @Cashner:Cards; @Mauleon:PadillaPalafox.]
 Though two key partbooks are missing, including the Tenor I part who played the
 deaf man, the dialogue can be reconstructed because the lyrics of the deaf man's
 part were written in the surviving bass part.[^Sordo-performers]
 The lyrics are preserved in one of the few imprints of villancico poetry from
 Puebla to match up with surviving music, from Christmas 1651, currently
-inaccessible in a private collection in Puebla. Gustavo Mauleón Rodríguez, who
-alone has access to the collection, kindly shared with me a few pages of this
-imprint but not the ones including this poem.
+inaccessible in a private collection in Puebla. 
+Gustavo Mauleón Rodríguez, who alone has access to the collection, kindly shared
+with me a few pages of this imprint but not the ones including this poem.
 <!--- rewrite -->
 
 [^Sordo-performers]:
-The friar was played by the Altus I. The friar was probably accompanied by the
-Bassus I on *bajón*, but this partbook is missing. The deaf man was played by
-the Tenor I, but this partbook is missing. The deaf man was accompanied by the
-Bassus II on *bajón*. Though the Tenor I solo music is missing, the lyrics for
-the vocal part are written in above the accompaniment in the Bassus II part.
+The friar was played by the Altus I. 
+The friar was probably accompanied by the Bassus I on *bajón*, but this partbook
+is missing. 
+The deaf man was played by the Tenor I, but this partbook is missing. 
+The deaf man was accompanied by the Bassus II on *bajón*. 
+Though the Tenor I solo music is missing, the lyrics for the vocal part are
+written in above the accompaniment in the Bassus II part.
 Thus we have the music for the friar without its accompaniment, and the
 accompaniment for the deaf man and most of the lyrics, but not the deaf man's
 music. 
@@ -1455,10 +1463,11 @@ music.
 
 Playing with a conventional villancico type of a dialogue between a *docto* and
 a *simple*---a learned man and a simpleton---Padilla's villancico stages a
-parody of catechism instruction. The friar's attempts to communicate with the
-"deaf" man fail, and this prompts the five-voice chorus to warn the congregation
-against spiritual deafness. Padilla dramatizes the two characters' unsuccessful
-attempts to communicate through disjunctions of rhythm and mode
+parody of catechism instruction. 
+The friar's attempts to communicate with the "deaf" man fail, and this prompts
+the five-voice chorus to warn the congregation against spiritual deafness. 
+Padilla dramatizes the two characters' unsuccessful attempts to communicate
+through disjunctions of rhythm and mode 
 ((ref float 'music 'Padilla-Sordo-intro)).
 Rhythmically, Padilla gives each singer a distinct "accent" in music: the
 friar's musical speech is more fluent and sophisticated, while the deaf man's
@@ -1468,17 +1477,19 @@ figure.
 (insert float 'music 'Padilla-Sordo-intro)
 
 Padilla illustrates the men's disagreement by having them fail to concur on
-where to cadence. Given the one-flat *cantus mollis* signature, the cadence
-points articulated by the extant bass part, and the final on F, Padilla probably
-would have categorized this piece as mode 11 or 12.
+where to cadence. 
+Given the one-flat *cantus mollis* signature, the cadence points articulated by
+the extant bass part, and the final on F, Padilla probably would have
+categorized this piece as mode 11 or 12.
 [@Cerone:Melopeo, 873--882; @Judd:RenaissanceModalTheory;
 @Barnett:TonalOrganization17C] 
 The friar appropriately sings an opening phrase that surely would have cadenced
-on F; but the deaf man responds with a phrase that cadences on C. At one point
-the friar moves to a cadence on A, but the deaf man, responding that he can't
-hear out of that ear, cadences on D. The friar says he will try the other ear,
-but no sooner has the friar moved to D, than Toribio, saying, "Out of that ear I
-hear even less!" moves to a cadence on C. This pushes the friar over the edge.
+on F; but the deaf man responds with a phrase that cadences on C. 
+At one point the friar moves to a cadence on A, but the deaf man, responding
+that he can't hear out of that ear, cadences on D. The friar says he will try
+the other ear, but no sooner has the friar moved to D, than Toribio, saying,
+"Out of that ear I hear even less!" moves to a cadence on C. 
+This pushes the friar over the edge.
 He bursts out, "You are a sheer idiot!"---mimicking the deaf man's halting
 short-long rhythms, and returning to his own final of F. 
 
@@ -1486,16 +1497,17 @@ After the dialogue in the introducción, the Altus I, who has been representing
 the friar, seems to turn away from the dramatic scenario and address the
 congregation as a preacher: "The laughter of the dawn will turn to sobs," he
 says---referring to the Virgin Mary as the dawn---when, having given birth to
-the Word Incarnate, "her eyes see deaf men." Padilla sets the final phrase about
-deaf men, with ten notes in black mensural notation that make a rhetorical
-*catabasis* as they descend in a leaping melodic sequence.
+the Word Incarnate, "her eyes see deaf men." 
+Padilla sets the final phrase about deaf men, with ten notes in black mensural
+notation that make a rhetorical *catabasis* as they descend in a leaping melodic
+sequence.
 
 When the rest of Chorus I joins in for the responsión, their repeated dotted
 rhythm suggests vivacious laughter and comic offbeat sobs on *sollozos*
-((ref float 'music 'Padilla-Sordo-responsion)). The catabasis figure is passed through
-all the voices in imitation, leading to a harmonic catabasis when the Tiple I
-adds E flat---shifting further away from the "natural" into the "weak" realm of
-flats. 
+((ref float 'music 'Padilla-Sordo-responsion)). 
+The catabasis figure is passed through all the voices in imitation, leading to a
+harmonic catabasis when the Tiple I adds E flat---shifting further away from the
+"natural" into the "weak" realm of flats. 
 <!--- [@chafe?] -->
 The heavy syncopation in each voice creates rhythmic confusion that is not
 sorted out until the final cadential flourish on F, validating the friar's
@@ -1505,28 +1517,30 @@ initial choice of mode.
 
 Through a mixture of sophisticated musical technique, high-minded theology, and
 low caricature that is characteristic of this composer, Padilla belittles actual
-deaf people as deficient, undignified, and deserving of laughter. Ironically,
-Padilla's ensemble made their caricature at the same time that some Spanish
-churchmen, like Juan Pablo Bonet, were engaged in actually ministering to deaf
-people. 
+deaf people as deficient, undignified, and deserving of laughter. 
+Ironically, Padilla's ensemble made their caricature at the same time that some
+Spanish churchmen, like Juan Pablo Bonet, were engaged in actually ministering
+to deaf people. 
 [Juan Pablo Bonet, *Reduction de las letras y Arte para enseñar a ablar a los
 mudos* (Madrid, 1620), cited and discussed in @Plann:DeafEducationSpain] 
 <!--- more -->
 
 But the creators of *villancicos de sordos* seem more interested in exploiting
-the deaf to amuse and edify the hearing. Actual deafness is used here with the
-main goal of pointing to spiritual deafness: the "deaf men" that will make Mary
-weep are all people whose ears have been stopped by sin and cannot hear the
-divine Word of Christ with faith. In his 1611 Spanish dictionary, Sebastián de
-Covarrubias defines the *sordo* as "he who does not hear," rather than he who is
-not *able* to hear. He adds, "There is no worse kind of deaf man than the one
-who is unwilling to hear." 
+the deaf to amuse and edify the hearing. 
+Actual deafness is used here with the main goal of pointing to spiritual
+deafness: the "deaf men" that will make Mary weep are all people whose ears have
+been stopped by sin and cannot hear the divine Word of Christ with faith. 
+In his 1611 Spanish dictionary, Sebastián de Covarrubias defines the *sordo* as
+"he who does not hear," rather than he who is not *able* to hear. 
+He adds, "There is no worse kind of deaf man than the one who is unwilling to
+hear." 
 [@Covarrubias:Tesoro, s. v. *sordo*: "SORDO, Lat. surdus, el que no oye. No ay
 peor sordo que le que no quiere oyr."]
 
 In this view, if hearing is the paradigm of faith, then deafness is its
-opposite. While Calderón's Judaism heard Faith without faith, the deaf men in
-villancicos cannot even hear Faith to begin with. 
+opposite. 
+While Calderón's Judaism heard Faith without faith, the deaf men in villancicos
+cannot even hear Faith to begin with. 
 
 #### Learning from the Deaf: Matías Ruíz (Madrid, 1671)
 
