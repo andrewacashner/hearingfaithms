@@ -236,7 +236,8 @@ These texts come alive when read aloud, and indeed the primary goal of this type
 of literature was to prepare pastors to teach unlettered disciples through words
 and voice, whether those disciples were the "Indians" of America or Asia, or the
 peasants of Europe whose customs were still more pagan than Christian. 
-[On Europe as a mission front after Trent, see @Kamen:EarlyModernSociety, 60--63.]
+[On Europe as a mission front after Trent, see @Kamen:EarlyModernSociety,
+60--63.]
 
 The Augustinian friar Antonio de Azevedo begins his 1589 *Catechism of the
 Mysteries of the Faith* by declaring from the outset that communicating the
@@ -983,12 +984,12 @@ communities practiced their faith through coordinated action---such as in
 devotional music.[^cf-Cruger]
 
 [^cf-Cruger]: 
-The Lutheran hymn composer Johann Crüger advocated a similar
-concept of "the musical practice of piety" (*Praxis pietatis melica*, 1647 and
-many later editions), coming out of the Lutheran "new piety" movement of the
-seventeenth century, whose proponents (Martin Moller, Johann Arndt) were
-inspired by much of the same medieval devotional literature as their Catholic
-counterparts. 
+The Lutheran hymn composer Johann Crüger advocated a similar concept of "the
+musical practice of piety" (*Praxis pietatis melica*, 1647 and many later
+editions), coming out of the Lutheran "new piety" movement of the seventeenth
+century, whose proponents (Martin Moller, Johann Arndt) were inspired by much of
+the same medieval devotional literature as their Catholic counterparts. 
+
 <!--- XXX relevant citations; this is why music fueled confessional divides -->
 
 ### The Primacy of Hearing in Villancicos
@@ -1027,32 +1028,32 @@ were performed at multiple festivals each year in public settings where many
 kinds of listeners were present, these pieces must have shaped attitudes and
 beliefs in the broader community. 
 
-#### Contests of the Senses (Irízar and Carrión at Segovia Cathedral)
+#### Contests of the Senses at Segovia Cathedral
 
 Two villancicos from Segovia in the later seventeenth century demonstrate that
 devotional music could present a sophisticated discourse on sensation and faith,
 one that not only educated hearers about doctrine but actually challenged them
 to listen with new ears.
 The contest of the senses in Calderón's play is echoed in villancicos by
-successive chapelmasters at Segovia Cathedral. 
+successive chapelmasters at Segovia Cathedral in the later seventeenth century.
 In the 1670s, Miguel de Irízar set the villancico *si los sentidos queja forman
 del Pan divino*, later attributed to the Zaragozan poet Vicente Sánchez, for
-eight voices and instruments in grand polychoral style.
-[@Sanchez:LiraPoetica, XXX]
+eight voices and instruments in grand polychoral style (E-SE: 18/19, 5/32).
 Irízar was born in 1634 and served at Segovia from 1671 until his death in 1684. 
 A few decades later Irízar's successor, Jerónimo de Carrión (1660--1721), set
-the same text as a solo continuo song.
-[@LopezCalo:Segovia, XXX]
+the same text as a solo continuo song (E-SE: 28/25).
 
 The poem invites hearers to imagine the senses "filing a complaint"
 against the bread of the Eucharist because "what they sense is not by faith 
-consented," and in a motto that is repeated after each copla, the poem
-admonishes, "let the senses not resent it" (*no se den por sentidos los
-sentidos*), playing on the word for sense in several ways
-((ref float 'poem 'Si_los_sentidos-Sanchez)).
+consented" (*porque lo que ellos sienten no es de fe consentido*, 
+(ref float 'poem 'Si_los_sentidos-Sanchez)).
+[@Sanchez:LiraPoetica, XXX]
+In a motto that is repeated after each copla, the poem admonishes, "let the
+senses not resent it" (*no se den por sentidos los sentidos*)---playing on the
+word for *sense* in several ways.
 Each of the coplas treats a different sense, following nearly the same order as
 in Calderón's play: Sight comes first, followed by Touch; next are Taste and
-Smell, and Hearing comes last and wins the day
+Smell, and Hearing comes last and wins the day 
 ((ref float 'table 'senses-order)).
 
 (insert float 'poem 'Si_los_sentidos-Sanchez)
@@ -1075,20 +1076,21 @@ musicians, often about exchanging villancico poetry (see chapter 4).
 Irízar probably received this poem through correspondence with a colleague in
 Zaragoza.
 Carrión likely knew (and probably performed) Irízar's setting from the
-archive, but also seems to have had a separate source for the Sánchez poem.
+archive, but the differences between his text and that of Irízar suggest that
+Carrión had a separate source for the Sánchez poem, one that was closer to the
+poem published in Sánchez's 1688 posthumous works.
 
 [^Segovia-sources]: 
 The performing parts for Irízar's setting are in E-SE: 5/32 (in a copyist's
 hand), and E-SE:18/19 contains the the score in the composer's own hand.
 Carrión's performing parts are in E-SE: 28/25.
 
-In Irízar's earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
-Miguel de Irízar creates a musical competition in grand festival style by
+In the earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
+Miguel de Irízar creates a musical competition in festival style by
 pitting his two four-voice choirs against each other in polychoral dialogue
 ((ref float 'music 'Irizar-Si_los_sentidos)).
-[@Cashner:WLSCM32. The score (E-SE: 18/19)includes the heading, "Fiesta del
-SSantissimo de este año del 1674."]
-<!--- XXX page nos of edition -->
+[@Cashner:WLSCM32. <!--- XXX page nos of edition -->
+The score includes the heading, "Fiesta del SSantissimo de este año del 1674."]
 Polychoral dialogue, of course, is typical of large-scale villancicos, but
 Irízar has the choirs interrupt each other in ways that create not just a
 dialogue, but a debate. 
@@ -1108,20 +1110,20 @@ creating a relatively static feeling for this introduction.
 In m. 10 Irízar has the ensemble switch to ternary meter and increases the rate
 of harmonic motion. 
 The sense of antagonism is heightened when one choir interrupts the other with
-exclamations of *no* on normally weak beats (mm. 13--14). 
-When Irízar returns to duple meter in m. 18, the voices move in smaller note
+exclamations of *no* on normally weak beats (mm. 16--17). 
+When Irízar returns to duple meter in m. 25, the voices move in smaller note
 values (*corcheas*) and exchange shorter phrases, so that the tempo feels faster
 (and the actual tempo could certainly be increased here in performance). 
 Each choir's entrances become more emphatic, repeating tones in simple triads,
 and Irízar adds more offbeat accents and syncopations, particularly for *no se
-den por sentidos los sentidos* in mm. 24--32. 
+den por sentidos los sentidos* in mm. 32--53.
 The estribillo builds to a climactic *peroratio* with the voices breaking into
 imitative texture in descending melodic lines. 
 
 The distinguishing stylistic characteristics of the setting suggest that Irízar
 is evoking a musical battle topic, a style one may find in *batallas* for organ
-as well as other villancicos on military themes. 
-[@Grove, s. v. *battle music*; @Sutton:IberianBatalla, who discusses examples
+as well as other villancicos on military themes.
+[@Grove, s. v. *battle music*; @Sutton:IberianBatalla, discusses examples
 including those in Martín y Coll's *Huerto ameno de flores de música* (Madrid,
 1709). 
 Another villancico in this style is Antonio de Salazar's *Al campo, a la
@@ -1131,58 +1133,68 @@ sections in contrasting meters and styles and a texture of dialogue between
 opposing groups (as in between high and low registers on the keyboard). 
 Typical of the style is the reiteration of 5/3 ("root position") chord voicings,
 with the bass moving by fourths and fifths, and the 3--3--2 syncopations on *no
-se den por sentidos los sentidos* (mm. 25--26, 31--32, 43--46). 
+se den por sentidos los sentidos* as in mm. 31--33.
+<!--- XXX specific points of comparison, with music example, to a batalla that
+could be tied to Segovia or Irízar's network? -->
 
 Irízar sets the coplas, by contrast, in a sober and deliberate style. 
 The melody moves more calmly in duple meter with melodic phrases that fit well
 with the rhetorical structure of the poetic strophes. 
-Irízar has the treble soloist sing the third and fourth lines of each strophe in
-short phrases, where the latter phrase repeats the former down a fifth. 
+Irízar has the treble soloist sing the and fourth lines of each strophe in short
+phrases, where the latter phrase repeats the former, tranposed down a fifth. 
 This creates a feeling of a teacher saying "on the one one hand" and "on the
 other hand" that suits the general philosophical tone of the strophes and
 matches the specific poetic phrasing of these lines. 
 To recall the Jesuit formula, Irízar's estribillo seems more designed to
 delight, while the coplas provide more of an opportunity to teach. 
 
-Irízar's villancico seems to speak to a large crowd through grand, unsubtle
+Irízar's villancico seems to speak to a large crowd through bold, unsubtle
 gestures and sharp contrasts of bright colors. 
 By contrast, Jerónimo de Carrión's later setting of the same poem invites a more
 personal reflection ((ref float 'music 'Carrion-Si_los_sentidos)). 
-[E-SE: 20/5; @Cashner:WLSCM32]
+[@Cashner:WLSCM32]
 Carrión was capable of the festival style, as in his *Qué destemplada armonía*
 (E-SE: 20/5), which almost takes on the dimensions of a *cantada*.
 But this setting fits more in the subgenre of *tono divino* or chamber
 villancico, a continuo song used in more intimate settings like Eucharistic
 devotion. 
 [See, for example, @Robledo:MadridTonos.]
+<!--- article in Knighton/Torrente on chamber vs. tutti villancicos? -->
 The style is similar to the "high Baroque" music of contemporary Italy, with a
 tonal harmonic language, a running bass part in the accompaniment, and a single
 affective manner throughout. 
+<!--- on "Italianization"? -->
 
 (insert float 'music 'Carrion-Si_los_sentidos)
 
-The dialogue and rivalry of the poetic text happens now not through polychoral
-effects but through motivic exchanges between voice and accompaniment. 
+The dialogue and rivalry of the poetic text is embodied now not through
+polychoral effects but through motivic exchanges between voice and
+accompaniment. 
 Instead of metrical contrasts from one section to the next, Carrión creates
 rhythmic contrasts between simultaneous voices. 
-Carrión dramatizes *queja* (m. 4) with a metrical disagreement between the two
-voices (normal ternary motion versus the voice's sesquialtera). 
-The descending pattern of leaps for *porque lo que ellos
-sienten* perhaps suggests the confusion and tumult of the senses, and it creates
-a certain amount of rhythmic confusion as it moves between voices. 
-Carrión creates a climax through a canon between soloist and accompaniment in
-mm. 36--40 that leads the singer to the top of his register. 
-The upward leaps in the last line on *no se den* (m. 32) contrast with the
-downward leaping motive of the opening (on *sentidos*, m. 1). 
+Carrión dramatizes *queja* (mm. 3--4) with a metrical disagreement between the
+two voices (normal ternary motion versus the voice's sesquialtera).
+The descending pattern of leaps for *porque lo que ellos sienten* perhaps
+suggests the confusion and tumult of the senses, and it creates a certain amount
+of rhythmic confusion as it moves between voices. 
+Carrión creates a climax through a series of phrases in close imitation between soloist and accompaniment in mm. 18--32 that leads the singer to the top of his register in mm. 35--37. 
+The upward leaps in the last line on *no se den* (mm. 41--42) contrast with the
+downward leaping motive of the opening gesture on *sentidos* (m. 1). 
+The solo setting allows the singer and instrumentalists much more expressive
+freedom than is possible in a large-ensemble texture, and likewise the
+individual voice of the singer might encourage a more subjective response in
+individual listeners.
 
-#### The Priority of Hearing in Early Modern Philosophy
+#### Ranking the Senses in Early Modern Philosophy
 
 The treatment of the senses in these villancicos reflects a common physiological
 model of sensation and perception, as educated Spaniards would have learned from
-the kind of theological treatises preserved from seminary and convent libraries
-in Spain and Mexico. 
-Spanish theologians always treated Vision as the first and highest of the five
-exterior senses. 
+the kind of scientific and theological treatises preserved from seminary and
+convent libraries in Spain and Mexico. 
+<!--- XXX source on theological/philosophical education in Spanish Empire,
+libraries --> 
+Spanish philosophers taught that vision, not hearing, was the
+first and highest of the five exterior senses; but hearing superseded the other senses in matters of faith.
 A typical example is the 1557 natural-philosophy textbook *Phisica, Speculatio*
 by an Augustinian friar in New Spain, Alphonsus à Veracruce. 
 [@Veracruce:Phisica]
@@ -1194,7 +1206,7 @@ Spanish *Introduction to the Creed* of 1583.
 [@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
 
 As Fray Luis explains this widespread understanding of perception, the five
-exterior senses are linked to a set of interior senses or faculties, including
+exterior senses were linked to a set of interior senses or faculties, including
 the affective faculty, in which the sensory stimuli interacted with the balance
 of bodily humors ((ref float 'table 'senses-fray-luis)).
 [@LuisdeGranada-Balcells:SimboloPtI, ch. 27--35, pp. 439--494]
@@ -1259,11 +1271,12 @@ hidden within (copla 3).
 Taste and Smell (coplas 5 and 6) are similarly hindered by their ability only to
 perceive material accidents and not spiritual substance. 
 
-[^Irizar-ordering]: Irízar alone (perhaps working from an earlier version of the
-  text later attributed to Sánchez), puts Hearing in its traditional position,
-  though this goes against the spirit of the poetic text. 
-  Perhaps he was influenced by a scholastic training to "correct" the
-  philosophical order. 
+[^Irizar-ordering]: 
+Irízar alone (perhaps working from an earlier version of the text later
+attributed to Sánchez), puts Hearing in its traditional position, though this
+goes against the spirit of the poetic text.
+Perhaps he was influenced by a scholastic training to "correct" the
+philosophical order. 
 
 The Sánchez villancico presents hearing in the last copla, through the conceit
 of music. 
@@ -1275,10 +1288,16 @@ into a pleasing concord.
 Here Faith is not the object of sensation, but the subject, who delights in
 hearing the music of properly tuned senses. 
 
+If the poem speaks of Faith listening to the music of the senses, the musical
+settings allow humans to listen in as well.
+The musical discourse adds its own layer of meaning to the poetic discourse,
+both by helping listeners imagine the contest of the senses (each setting in its
+own way), and by turning the poem into an object of sensory perception.
 The similarities between the settings of *Si los sentidos* by Irízar and Carrión
 demonstrate the persistence of concerns about the hearing's role in faith. 
 Meanwhile the differences between versions reflect different styles not only of
 composition but of devotional practice in public and private settings.
+
 Irízar and Carrión take a verbal discourse on sensation and faith, in which
 music is the paradigm of something that pleases the ear, and bring it to life
 through actual music. 
@@ -1305,7 +1324,7 @@ painted by Andrea Pozzo and his students on Jesuit church ceilings from Rome to
 China.
 [@GroveArt, s. v. *Tomé, Narciso*; @Bailey:Art, 110]
 
-Villancicos with "synesthetic" topics mismatch the sense in the spirit of
+Villancicos with "synesthetic" topics mismatch the senses in the spirit of
 paradox and enigma. 
 [@DoetschKraus:Sinestesia explores connections between poetic "synthesis of the
 senses" in Spanish verse and the actual neurological phenomenon of synesthesia.]
@@ -1313,12 +1332,17 @@ For example, sight and hearing are the principal objects in the anonymous
 fragment *Porque cuando las voces puedan pintarla* (If voices could only paint
 her) (E-Mn: M3881/44).
 
-Cristóbal Galán, master of the Royal Chapel (1680--1684, after serving as
-chapelmaster at Segovia Cathedral) juxtaposes hearing and vision in a villancico
+Cristóbal Galán juxtaposes hearing and vision in a villancico
 for the Conception of Mary. 
 [D-Mbs: Mus. ms. 2893, edition in @CaberoPueyo:PhD, 567--568]
+Galán was master of the Royal Chapel from 1680 to 1684, and to judge from
+copies of his works in multiple archives, his works were performed all across
+the empire and likely served as models for provincial composers who wanted to
+stay current with trends in Madrid.
+He had actually preceded Irízar as chapelmaster at Segovia Cathedral in XXX
+YEARS. <!--- dates, cite sources on bio; complete works edition?? -->
 Galán's text exhorts listeners to "hear the bird" and "see the voice."
-The visual language in this villancicos evokes the common iconography of the
+The visual language in this villancico evokes the common iconography of the
 Holy Spirit as a dove surrounded by golden rays, such as may be seen in the
 Monastery of the Encarnación in Madrid, where the Royal Chapel frequently
 performed.
@@ -1337,9 +1361,10 @@ having Chorus I sing primarily in a normal triple-meter motion (with dotted
 figures intensifying the ternary feeling), while the other two choirs interject
 *¡Oigan!* and *¡Miran!* in sesquialtera rhythm. 
 
-[^Galan-meter]: The division into lines is speculative, but the syllable counts
-  and line groupings in this arrangement could be scanned as 10, 6 10, 8 7 6, 6,
-  6 10, 10.
+[^Galan-meter]: 
+The division into lines is speculative, but the syllable counts
+and line groupings in this arrangement could be scanned as 
+10, 6 10, 8 7 6, 6, 6 10, 10.
 
 (insert float 'poem 'Oigan_todos_del_ave-Galan)
 
@@ -1355,7 +1380,7 @@ is seen in purity."
 Any attentive listener could hear these juxtapositions and abrupt shifts in
 rhythmic patterns, though only the musicians themselves would likely have
 recognized the dark--light symbolism in the notation. 
-   
+
 (insert float 'figure 'Galan-Oigan-coloratio)
 <!--- cite Kendrick on darkness coloratio symbolism -->
 
@@ -1377,8 +1402,9 @@ senses by appealing to them directly.
 They seem intended to provoke listeners to a higher form of sensation, to a holy
 dismay and wonder that would lead to true, faithful perception. 
 
-[^dazzlement]: This notion is part of the Catholic heritage that shaped Olivier
-  Messiaen's concept of "dazzlement."
+[^dazzlement]: 
+This notion is part of the Catholic heritage that shaped Olivier Messiaen's
+concept of "dazzlement."
 
 ### Impaired Hearers, Incompetent Teachers: "Villancicos of the Deaf"
 
