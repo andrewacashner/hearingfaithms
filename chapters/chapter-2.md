@@ -1060,8 +1060,6 @@ Smell, and Hearing comes last and wins the day
 
 (insert float 'table 'senses-order)
 
-<!--- XXX Redo all measure numbers according to new edition -->
-
 The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this
 contest of the senses in sound. 
 The Segovia Cathedral archive preserves manuscript performing parts for both
@@ -1177,7 +1175,9 @@ two voices (normal ternary motion versus the voice's sesquialtera).
 The descending pattern of leaps for *porque lo que ellos sienten* perhaps
 suggests the confusion and tumult of the senses, and it creates a certain amount
 of rhythmic confusion as it moves between voices. 
-Carrión creates a climax through a series of phrases in close imitation between soloist and accompaniment in mm. 18--32 that leads the singer to the top of his register in mm. 35--37. 
+Carrión creates a climax through a series of phrases in close imitation between
+soloist and accompaniment in mm. 18--32 that leads the singer to the top of his
+register in mm. 35--37. 
 The upward leaps in the last line on *no se den* (mm. 41--42) contrast with the
 downward leaping motive of the opening gesture on *sentidos* (m. 1). 
 The solo setting allows the singer and instrumentalists much more expressive
@@ -1192,9 +1192,9 @@ model of sensation and perception, as educated Spaniards would have learned from
 the kind of scientific and theological treatises preserved from seminary and
 convent libraries in Spain and Mexico. 
 <!--- XXX source on theological/philosophical education in Spanish Empire,
-libraries --> 
-Spanish philosophers taught that vision, not hearing, was the
-first and highest of the five exterior senses; but hearing superseded the other senses in matters of faith.
+libraries --> Spanish philosophers taught that vision, not hearing, was the
+first and highest of the five exterior senses; but hearing superseded the other
+senses in matters of faith.
 A typical example is the 1557 natural-philosophy textbook *Phisica, Speculatio*
 by an Augustinian friar in New Spain, Alphonsus à Veracruce. 
 [@Veracruce:Phisica]
@@ -1395,25 +1395,39 @@ todos del ave*, the sesquialtera interjections, and the contrapuntal texture of
 
 Pieces like this describe and seek to incite a condition of sensory overload, an
 ecstasy in which all the senses blend together in the effort to grasp something
-that is beyond them.[^dazzlement]
+that is beyond them.
 Such pieces provide further evidence that Catholic religious arts could not be
 reduced to the function of simply teaching doctrine; these pieces train the
 senses by appealing to them directly. 
 They seem intended to provoke listeners to a higher form of sensation, to a holy
-dismay and wonder that would lead to true, faithful perception. 
-
-[^dazzlement]: 
-This notion is part of the Catholic heritage that shaped Olivier Messiaen's
-concept of "dazzlement."
-
-<!--- could connect back to catechism, or Juan de la Cruz, or Kircher -->
+dismay and wonder that would lead to true, faithful perception.
 
 ### Impaired Hearers, Incompetent Teachers: "Villancicos of the Deaf"
 
-<!-- START need better transition -->
-The problem of lacking the capacity for faithful hearing is evident in
-villancicos that represent deaf characters. 
-The final section of this chapter presents two *villancicos de
+In the terms of Athanasius Kircher, such pieces would incite
+"otherworldly affects and rapture of the mind," and they would seem to share
+Kircher's ideal that a listener who was "carried away beyond himself" in this
+way would actually move beyond sheer sensory overload and come to "experience
+the truth of what was said."
+[@Kircher:Musurgia, bk. 7, p. 550] 
+It seems reasonable to assume that those who paid repeatedly for the creation
+and performance of this kind of villancico believed this music to have power to
+overwhelm the senses with poetic and musical ingenuity, and that they saw this
+kind of "dazzlement" as contributing positively to the goals of church and state
+(to borrow Olivier Messiaen's term from a later stage of Catholic musical
+evangelism).
+At the same time, though, we might wonder how the creators of this devotional
+music responded to the other strain of post-Tridentine thought about music, more
+in the ascetic line of leaders like Juan de la Cruz, who were suspicious of
+music's powers over the senses and expressed concern that such music would
+produce no actual fruit, no increase of faith working through hope and charity
+to contribute to building a virtuous society.
+As it turns out, villancico poets and composers addressed this topic as well.
+Several villancicos represent characters who are deaf or hard-of-hearing,
+creating comic dialogues between these figures and a religious teacher who fails
+to find a way to make them hear the Word.
+
+The final section of this chapter presents two of these *villancicos de
 sordos*---villancicos of the deaf---which dramatize the limitations of hearing,
 and poke fun at the difficulty some religious teachers faced in making faith
 appeal to this sense. 
@@ -1426,9 +1440,12 @@ hard of hearing.
 
 #### Laughing at the Deaf: Juan Gutiérrez de Padilla (Puebla, 1651)
 
-In a piece labeled *sordo* in the partbooks, Juan Gutiérrez de Padilla creates a
-comic dialogue between a religious teacher and a "deaf" man named Toribio
-((ref float 'poem 'Oyeme_Toribio-Padilla)).
+<!--- XXX Add measure numbers for both after making editions and musical
+examples --> 
+
+In a piece labeled *sordo* in the partbooks, Juan Gutiérrez de
+Padilla creates a comic dialogue between a religious teacher and a "deaf" man
+named Toribio ((ref float 'poem 'Oyeme_Toribio-Padilla)).
 The villancico, which begins *Óyeme, Toribio* and is labeled as a "Dúo con
 bajón," was performed in Matins for Christmas at Puebla Cathedral in 1651. 
 [MEX-Pc: Leg. 1/2; @Stanford:Catalog; @Puebla:Microfilm]
@@ -1441,38 +1458,45 @@ Though two key partbooks are missing, including the Tenor I part who played the
 deaf man, the dialogue can be reconstructed because the lyrics of the deaf man's
 part were written in the surviving bass part.[^Sordo-performers]
 The lyrics are preserved in one of the few imprints of villancico poetry from
-Puebla to match up with surviving music, from Christmas 1651, currently
-inaccessible in a private collection in Puebla. 
-Gustavo Mauleón Rodríguez, who alone has access to the collection, kindly shared
-with me a few pages of this imprint but not the ones including this poem.
-<!--- rewrite -->
+Puebla to match up with surviving music, from Christmas
+1651.[^Puebla-1651-source]
 
-[^Sordo-performers]:
-The friar was played by the Altus I. 
-The friar was probably accompanied by the Bassus I on *bajón*, but this partbook
-is missing. 
-The deaf man was played by the Tenor I, but this partbook is missing. 
-The deaf man was accompanied by the Bassus II on *bajón*. 
+[^Sordo-performers]: 
+In Padilla's manuscripts, *dúo* means a single voice at a time with a single
+instrumental bass line, in this case specified to be played on *bajón*.
+The surviving parts for this section are Altus I and Bassus II; the Tenor I and
+Bassus I partbooks are lost.
+The Altus I includes the friar's part, which was probably accompanied by the
+Bassus I on *bajón* (lost).
+The deaf man was played by the Tenor I (lost), accompanied by Bassus II on
+*bajón*. 
 Though the Tenor I solo music is missing, the lyrics for the vocal part are
 written in above the accompaniment in the Bassus II part.
 Thus we have the music for the friar without its accompaniment, and the
 accompaniment for the deaf man and most of the lyrics, but not the deaf man's
 music. 
 
+[^Puebla-1651-source]:
+The poetry imprint is currently inaccessible in a private collection in Puebla. 
+Gustavo Mauleón Rodríguez, who alone has access to the collection, kindly shared
+with me a few pages of this imprint but not the ones including this poem.
+<!--- rewrite or get source -->
+
 (insert float 'poem 'Oyeme_Toribio-Padilla)
 
 Playing with a conventional villancico type of a dialogue between a *docto* and
 a *simple*---a learned man and a simpleton---Padilla's villancico stages a
 parody of catechism instruction. 
+<!--- XXX examples from catalog of this type, or from Leon Marchante -->
 The friar's attempts to communicate with the "deaf" man fail, and this prompts
 the five-voice chorus to warn the congregation against spiritual deafness. 
+
 Padilla dramatizes the two characters' unsuccessful attempts to communicate
 through disjunctions of rhythm and mode 
 ((ref float 'music 'Padilla-Sordo-intro)).
-Rhythmically, Padilla gives each singer a distinct "accent" in music: the
-friar's musical speech is more fluent and sophisticated, while the deaf man's
-speech is halting and clumsy, such as his questions "Eh? eh?" on an offbeat
-figure. 
+Rhythmically, Padilla gives the friar relatively refined and elegant musical
+speech, while the deaf man's speech is halting and clumsy, as in the offbeat
+figure on *¿Eh? ¿eh? que no te oigo* (Huh? huh? I can't hear you).
 
 (insert float 'music 'Padilla-Sordo-intro)
 
