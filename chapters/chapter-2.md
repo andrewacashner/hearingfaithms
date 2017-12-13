@@ -74,7 +74,7 @@ vehicles for simplistic religious teaching or as banal, worldly entertainment.
 The villancicos in this chapter appeal to the ear in order to give listeners an
 opportunity to contemplate the challenges of faithful hearing. 
 
-###Accommodating and Training the Ear
+### Accommodating and Training the Ear
 
 Catholic theologians of the Tridentine era emphasized the need for the Church's
 teachers to make faith appeal to hearing, and the Church used devotional music
@@ -1402,6 +1402,7 @@ senses by appealing to them directly.
 They seem intended to provoke listeners to a higher form of sensation, to a holy
 dismay and wonder that would lead to true, faithful perception.
 
+
 ### Impaired Hearers, Incompetent Teachers: "Villancicos of the Deaf"
 
 In the terms of Athanasius Kircher, such pieces would incite
@@ -1442,6 +1443,8 @@ hard of hearing.
 
 <!--- XXX Add measure numbers for both after making editions and musical
 examples --> 
+
+<!--- START -->
 
 In a piece labeled *sordo* in the partbooks, Juan Gutiérrez de
 Padilla creates a comic dialogue between a religious teacher and a "deaf" man
