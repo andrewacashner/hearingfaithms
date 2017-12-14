@@ -9,8 +9,9 @@ additions from 9/16 version and new material (50pp)
 2016-10-13 Abridged version for USCB presentation (12pp)
 2016-09-16 First draft based on diss., expanded (60pp)
 2016-08-31 Revision for book begun
-2015-03-18 Dissertation ch. 2 defended
+2015-03-18 Dissertation ch. 2 defended> 
 -->
+
 
 ## Making Faith Appeal to Hearing
 
@@ -74,7 +75,7 @@ vehicles for simplistic religious teaching or as banal, worldly entertainment.
 The villancicos in this chapter appeal to the ear in order to give listeners an
 opportunity to contemplate the challenges of faithful hearing. 
 
-### Accommodating and Training the Ear
+### Accommodating and Training the Ear 
 
 Catholic theologians of the Tridentine era emphasized the need for the Church's
 teachers to make faith appeal to hearing, and the Church used devotional music
@@ -113,7 +114,9 @@ Christian disciples were charged not only to "hear" the Church's teaching and
 believe it (this would be unformed faith); they also had to "listen" in the
 sense of obeying. 
 
+
 #### Hearing Christ the Word
+
 
 One of the Church's key tools in combating heresy and promoting evangelism was
 the new catechism "for parish priests" commissioned by the Council of Trent and
@@ -301,7 +304,9 @@ In other words, music would seem to be a way of better accommodating faith
 to the sense of hearing, but it also required more training to be heard in a
 faithful way. 
 
+
 #### Experiencing Spiritual Truth through Music
+
 
 This tension between accommodating the ear and training it may be seen in the
 explanations of music's power by Athanasius Kircher. 
@@ -445,7 +450,7 @@ inordinate love of things from one's own country, as Kircher describes it; and
 by what each person is accustomed to hearing, which is shaped by the traditions
 of each country. 
 [@Kircher:Musurgia, 543--544]
-<!--- XXX translation in Strunk -->
+<!---  translation in Strunk -->
 
 Moreover, "just as different nations enjoy a different style of music, likewise
 within each nation, people of different temperaments appreciate different styles
@@ -518,7 +523,9 @@ appeal to hearing, would be limited by both personal subjectivity and cultural
 conditioning, and these limitations created anxiety and fear about the role of
 hearing in faith. 
 
+
 ### Danger and Doubt
+
 
 Regarding the problem of individual hearing, Reformation controversies had
 pushed Catholics into an increasingly negative and anxious attitude toward
@@ -703,7 +710,9 @@ Later Catholics who shared Juan's ascetic bent, or his pastoral concern with
 spiritual growth, saw that power as a danger or even an opening for diabolical
 influence. 
 
+
 #### Cultural Conditioning in Hearing
+
 
 If reckoning with individual sensory experience was a struggle for church
 leaders after Trent, their evangelistic and colonial efforts posed the even
@@ -735,7 +744,7 @@ impure," the bishops may have been motivated more by concern with such songs in
 non-European languages, not to mention other syncretic musical and ritual
 practices across the globe, than by any European church music.
 [@Candelaria:Psalmodia, 637--638]
-<!--- XXX on Trent --> 
+<!---  on Trent --> 
 
 In the realm of visual art, even where Jesuits wrote to their superiors in Rome
 praising the natives' uncanny ability to copy European models, the actual
@@ -817,7 +826,9 @@ music:
 > impediment when it comes to appreciating the beauties of European harmony.
 [@Massarella:JapaneseTravellers, 156]
 
+
 #### Obstacles to Faith and Mistrust of Hearing
+
 
 How, then, could the Church overcome such an impediment? 
 Would music's power be lost on a person who simply lacked the proper disposition
@@ -831,14 +842,14 @@ inaugurate the Spanish monarch's new palace-retreat, the Buen Retiro.
 Like most *autos* this one was performed in the context of a whole day of
 liturgical and processional music, including numerous villancicos; and the drama
 includes texts to be sung (though the music is now lost).
-<!--- XXX sources for Corpus Christi 1634 music, generally -->
+<!---  sources for Corpus Christi 1634 music, generally -->
 Literary scholars have considered Spanish Corpus Christi plays to be "dramas of
 conversion" with the primary goal of teaching doctrine; 
 and thus this literary and performative genre, 
 which was so closely tied to devotional music, 
 allows us to evaluate how auditory arts were used to propagate faith, and how
 that effort served the purposes of the Spanish state.
-<!--- XXX specific source and context -->
+<!---  specific source and context -->
 The plays typically present allegorical characters whose conflicts dramatize
 theological debates in the scholastic tradition (as in Aquinas) of thesis,
 antithesis, and synthesis.
@@ -899,7 +910,7 @@ Dominique Reyre interprets the play as a straightforward medium for
 ritual that reinforced the king's power; but neither scholar accounts
 sufficiently for the high degree of uncertainty expressed on stage.
 [@Reyre:Retiro; @Greer:Retiro]
-<!--- XXX compare inquisition trials? 
+<!---  compare inquisition trials? 
 return to "drama of conversion" concept -->
 How could an auditory art form like sacred drama, or the villancicos that
 were usually performed in conjunction with them, provide a medium for
@@ -923,7 +934,9 @@ The senses were powerful, and thus sensory art was powerful; but this power had
 to be harnessed to serve the purposes of the Church. 
 Simply put, faithful hearing required listeners to doubt their own sensation. 
 
+
 #### Hearing the Word in Community
+
 
 Catholic devotional music provided a practical medium for both appealing to the
 ear and training it, though music amplified the challenges of acquiring faith
@@ -990,9 +1003,11 @@ editions), coming out of the Lutheran "new piety" movement of the seventeenth
 century, whose proponents (Martin Moller, Johann Arndt) were inspired by much of
 the same medieval devotional literature as their Catholic counterparts. 
 
-<!--- XXX relevant citations; this is why music fueled confessional divides -->
+<!---  relevant citations; this is why music fueled confessional divides -->
+
 
 ### The Primacy of Hearing in Villancicos
+
 
 Villancicos provide evidence for a broad public discourse about sensation and
 faith that manifests these same theological preoccupations and anxieties.
@@ -1027,6 +1042,7 @@ As individual villancicos were repeated, and as conventional villancico types
 were performed at multiple festivals each year in public settings where many
 kinds of listeners were present, these pieces must have shaped attitudes and
 beliefs in the broader community. 
+
 
 #### Contests of the Senses at Segovia Cathedral
 
@@ -1087,7 +1103,7 @@ In the earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
 Miguel de Irízar creates a musical competition in festival style by
 pitting his two four-voice choirs against each other in polychoral dialogue
 ((ref float 'music 'Irizar-Si_los_sentidos)).
-[@Cashner:WLSCM32. <!--- XXX page nos of edition -->
+[@Cashner:WLSCM32. <!---  page nos of edition -->
 The score includes the heading, "Fiesta del SSantissimo de este año del 1674."]
 Polychoral dialogue, of course, is typical of large-scale villancicos, but
 Irízar has the choirs interrupt each other in ways that create not just a
@@ -1132,7 +1148,7 @@ opposing groups (as in between high and low registers on the keyboard).
 Typical of the style is the reiteration of 5/3 ("root position") chord voicings,
 with the bass moving by fourths and fifths, and the 3--3--2 syncopations on *no
 se den por sentidos los sentidos* as in mm. 31--33.
-<!--- XXX specific points of comparison, with music example, to a batalla that
+<!---  specific points of comparison, with music example, to a batalla that
 could be tied to Segovia or Irízar's network? -->
 
 Irízar sets the coplas, by contrast, in a sober and deliberate style. 
@@ -1185,13 +1201,14 @@ freedom than is possible in a large-ensemble texture, and likewise the
 individual voice of the singer might encourage a more subjective response in
 individual listeners.
 
+
 #### Ranking the Senses in Early Modern Philosophy
 
 The treatment of the senses in these villancicos reflects a common physiological
 model of sensation and perception, as educated Spaniards would have learned from
 the kind of scientific and theological treatises preserved from seminary and
 convent libraries in Spain and Mexico. 
-<!--- XXX source on theological/philosophical education in Spanish Empire,
+<!---  source on theological/philosophical education in Spanish Empire,
 libraries --> Spanish philosophers taught that vision, not hearing, was the
 first and highest of the five exterior senses; but hearing superseded the other
 senses in matters of faith.
@@ -1200,7 +1217,7 @@ by an Augustinian friar in New Spain, Alphonsus à Veracruce.
 [@Veracruce:Phisica]
 Veracruce summarizes the traditional Catholic teaching, which drew on Aristotle
 as interpreted by Thomas Aquinas. 
-<!--- XXX [@ Aristotle early modern] -->
+<!---  [@ Aristotle early modern] -->
 Veracruce's Latin treatise accords with Fray Luis de Granada's widely read
 Spanish *Introduction to the Creed* of 1583. 
 [@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
@@ -1226,7 +1243,7 @@ and exterior senses to produce different "passions" or "affects" (Fray Luis uses
 Based on a fundamental dichotomy like magnetism between attraction and
 repulsion, this "concupiscible" part of the soul experienced three primary pairs
 of passions: love and hate, desire and fear, joy and sadness. 
-<!--- XXX secondary on physiology of sensation -->
+<!---  secondary on physiology of sensation -->
 
 (insert float 'table 'senses-fray-luis)
 
@@ -1304,6 +1321,7 @@ through actual music.
 Thus the pieces seem designed to teach listeners how to hear music even as they
 are listening---as the catechism advises, they accommodate hearing while
 training it.
+
 
 #### Sensory Confusion
 
@@ -1439,24 +1457,46 @@ Chapel in Madrid.
 Both pieces present mock catechism scenes with a friar and a man who is deaf or
 hard of hearing. 
 
+
 #### Laughing at the Deaf: Juan Gutiérrez de Padilla (Puebla, 1651)
 
-<!--- XXX Add measure numbers for both after making editions and musical
+<!---  Add measure numbers for both after making editions and musical
 examples --> 
 
-<!--- START -->
-
-In a piece labeled *sordo* in the partbooks, Juan Gutiérrez de
-Padilla creates a comic dialogue between a religious teacher and a "deaf" man
-named Toribio ((ref float 'poem 'Oyeme_Toribio-Padilla)).
-The villancico, which begins *Óyeme, Toribio* and is labeled as a "Dúo con
-bajón," was performed in Matins for Christmas at Puebla Cathedral in 1651. 
+In 1651, only two years after the reforming bishop Juan de Palafox y Mendoza had
+consecrated a new, but still unfinished, cathedral in Puebla de los Ángeles, the
+cathedral's chapelmaster included a "villancico of the deaf" among the
+villancicos for Christmas Matins.
+In a piece that begins *Óyeme, Toribio* and is labeled *sordo* in the partbooks, 
+Juan Gutiérrez de Padilla created a comic dialogue between a religious teacher
+and a "deaf" man named Toribio 
+((ref float 'poem 'Oyeme_Toribio-Padilla)).
 [MEX-Pc: Leg. 1/2; @Stanford:Catalog; @Puebla:Microfilm]
-It is part of Padilla's earliest surviving Christmas cycle for the new
-cathedral, which had been consecrated in 1649. 
-[Another villancico by Padilla is discussed in the next chapter. 
-<!-- and others too -->
-See also @Cashner:Cards; @Mauleon:PadillaPalafox.]
+This villancico is part of Juan Gutiérrez de Padilla's earliest surviving complete
+cycle of Christmas villancicos, and the first extant musical compositions that
+is known to have been performed in the new space.
+Since Padilla was a member of the Oratorian society of San Felipe Neri, whose
+building in Puebla was consecrated in 1651, these villancicos may
+have been performed at the *oratorio* as well.
+<!--- ref to other chapters, Padilla-Puebla lit, Oratorians -->
+[See also @Cashner:Cards; @Mauleon:PadillaPalafox.]
+In that venue, dramatic elements like costumes, gestures, and even choreography
+might have been more likely that in the cathedral; and the group of listeners
+likely included a broader mixture of people of different social status, who
+would have listened with somewhat different expectations than those
+participating in the Christmas Eve liturgy before the new high altar, or those
+straining to listen in from surrounding spaces.
+Both the cathedral and the oratorio were designed as spaces in which colonial
+residents could hear the Word through Scripture, liturgy, preaching, and music.
+Padilla's comic "deaf" villancico explicitly plays with the challenges of
+hearing the faith and making it heard.
+
+(insert float 'poem 'Oyeme_Toribio-Padilla)
+
+Padilla sets the anonymous poem as a dialogue between two soloists, each
+accompanied by a bass reed instrument (Padilla calls the texture of soloist and
+accompanying instrument a *dúo con bajón*); followed by a five-voice choral
+section.
 Though two key partbooks are missing, including the Tenor I part who played the
 deaf man, the dialogue can be reconstructed because the lyrics of the deaf man's
 part were written in the surviving bass part.[^Sordo-performers]
@@ -1485,14 +1525,13 @@ Gustavo Mauleón Rodríguez, who alone has access to the collection, kindly shar
 with me a few pages of this imprint but not the ones including this poem.
 <!--- rewrite or get source -->
 
-(insert float 'poem 'Oyeme_Toribio-Padilla)
 
 Playing with a conventional villancico type of a dialogue between a *docto* and
 a *simple*---a learned man and a simpleton---Padilla's villancico stages a
 parody of catechism instruction. 
-<!--- XXX examples from catalog of this type, or from Leon Marchante -->
+<!---  examples from catalog of this type, or from Leon Marchante -->
 The friar's attempts to communicate with the "deaf" man fail, and this prompts
-the five-voice chorus to warn the congregation against spiritual deafness. 
+the chorus to warn the congregation against spiritual deafness. 
 
 Padilla dramatizes the two characters' unsuccessful attempts to communicate
 through disjunctions of rhythm and mode 
@@ -1500,6 +1539,8 @@ through disjunctions of rhythm and mode
 Rhythmically, Padilla gives the friar relatively refined and elegant musical
 speech, while the deaf man's speech is halting and clumsy, as in the offbeat
 figure on *¿Eh? ¿eh? que no te oigo* (Huh? huh? I can't hear you).
+The two men interrupt each other and cannot follow each other's train of
+thought.
 
 (insert float 'music 'Padilla-Sordo-intro)
 
@@ -1510,24 +1551,29 @@ the extant bass part, and the final on F, Padilla probably would have
 categorized this piece as mode 11 or 12.
 [@Cerone:Melopeo, 873--882; @Judd:RenaissanceModalTheory;
 @Barnett:TonalOrganization17C] 
-The friar appropriately sings an opening phrase that surely would have cadenced
-on F; but the deaf man responds with a phrase that cadences on C. 
+Thus the friar appropriately sings an opening phrase that surely would have
+cadenced on F; but the deaf man responds with a phrase that cadences on C.  
 At one point the friar moves to a cadence on A, but the deaf man, responding
 that he can't hear out of that ear, cadences on D. The friar says he will try
-the other ear, but no sooner has the friar moved to D, than Toribio, saying,
+the other ear; as though trying to meet Toribio on his level, he moves to
+cadence on the same note.
+But no sooner has the friar moved to D, than Toribio, saying,
 "Out of that ear I hear even less!" moves to a cadence on C. 
 This pushes the friar over the edge.
 He bursts out, "You are a sheer idiot!"---mimicking the deaf man's halting
 short-long rhythms, and returning to his own final of F. 
 
-After the dialogue in the introducción, the Altus I, who has been representing
-the friar, seems to turn away from the dramatic scenario and address the
-congregation as a preacher: "The laughter of the dawn will turn to sobs," he
-says---referring to the Virgin Mary as the dawn---when, having given birth to
-the Word Incarnate, "her eyes see deaf men." 
-Padilla sets the final phrase about deaf men, with ten notes in black mensural
-notation that make a rhetorical *catabasis* as they descend in a leaping melodic
+Next the Altus I singer, who has been representing the friar, addresses the
+congregation like a preacher: "The laughter of the dawn will turn to sobs," he
+says---referring to the Virgin Mary---when, having given birth to the Word
+Incarnate, "her eyes see deaf men." 
+Padilla sets the final phrase about deaf men with ten blackened notes in mensural
+coloration.
+Where Galán used musical coloration as a symbol of blindness, here Padilla would
+seem to use the same symbol to point to a deficit in hearing.
+This phrase make a rhetorical *catabasis* as it descends in a leaping melodic
 sequence.
+<!--- source for catabasis and black notation -->
 
 When the rest of Chorus I joins in for the responsión, their repeated dotted
 rhythm suggests vivacious laughter and comic offbeat sobs on *sollozos*
@@ -1542,157 +1588,162 @@ initial choice of mode.
 
 (insert float 'music 'Padilla-Sordo-responsion)
 
-Through a mixture of sophisticated musical technique, high-minded theology, and
-low caricature that is characteristic of this composer, Padilla belittles actual
-deaf people as deficient, undignified, and deserving of laughter. 
-Ironically, Padilla's ensemble made their caricature at the same time that some
-Spanish churchmen, like Juan Pablo Bonet, were engaged in actually ministering
-to deaf people. 
-[Juan Pablo Bonet, *Reduction de las letras y Arte para enseñar a ablar a los
-mudos* (Madrid, 1620), cited and discussed in @Plann:DeafEducationSpain] 
-<!--- more -->
-
-But the creators of *villancicos de sordos* seem more interested in exploiting
-the deaf to amuse and edify the hearing. 
-Actual deafness is used here with the main goal of pointing to spiritual
-deafness: the "deaf men" that will make Mary weep are all people whose ears have
+Padilla uses his characteristic mixture of sophisticated musical technique, high-minded theology, and low caricature to exploit the deaf for the amusement of the hearing, making them into a warning against spiritual deafness.
+The "deaf men" that will make Mary weep are all people whose ears have
 been stopped by sin and cannot hear the divine Word of Christ with faith. 
-In his 1611 Spanish dictionary, Sebastián de Covarrubias defines the *sordo* as
-"he who does not hear," rather than he who is not *able* to hear. 
+This concept recalls the definition of *sordo* in the 1611 Spanish dictionary of Sebastián de Covarrubias, who defines the *sordo*, not as one who is *unable* to hear, but rather as "he who does not hear."
 He adds, "There is no worse kind of deaf man than the one who is unwilling to
 hear." 
 [@Covarrubias:Tesoro, s. v. *sordo*: "SORDO, Lat. surdus, el que no oye. No ay
 peor sordo que le que no quiere oyr."]
 
-In this view, if hearing is the paradigm of faith, then deafness is its
-opposite. 
-While Calderón's Judaism heard Faith without faith, the deaf men in villancicos
-cannot even hear Faith to begin with. 
 
 #### Learning from the Deaf: Matías Ruíz (Madrid, 1671)
 
-The *Villancico de los sordos* by Matías Ruiz (E-E: Mús. 83-12) extends its
-parody to the catechist as well ((ref float 'poem 'Pues_la_fiesta-Ruiz)). 
-Ruiz was chapelmaster at the Real Convento de la Encarnación in Madrid, and the
-poetry imprint survives from what must have been the first performance there at
-Christmas, 1671.
+The last example, the *Villancico de los sordos* by Matías Ruiz (E-E: Mús.
+83-12), invites more sympathy for the deaf and extends its parody to the
+catechist as well 
+((ref float 'poem 'Pues_la_fiesta-Ruiz)). 
+The poetry imprint survives from the first performance by the Royal Chapel at
+Madrid's Convent of the Incarnation in 1671, where Ruiz was chapelmaster.
 [@1671-Madrid-Enc-Nav]
+<!--- sources on Ruiz, Encarnacion -->
+<!--- who was the audience for royal chapel performances here? -->
 Here the *sordo* is a hard-of-hearing man, "very learned in humane letters"---a
-doddering old university professor, or perhaps a street sage. The piece mocks
-his impairment while contrasting true faith with the book learning of this
-would-be humanistic scholar. But the biggest laughs come at the expense of the
-friar, as the deaf man mishears his rote teaching formulas in increasingly
-absurd ways.
+doddering old university professor, or perhaps a street sage. 
+The piece mocks his impairment while contrasting true faith with the book
+learning of this would-be humanistic scholar. 
+But the biggest laughs come at the expense of the friar, as the deaf man
+mishears his rote teaching formulas in increasingly absurd ways.
 
 (insert float 'poem 'Pues_la_fiesta-Ruiz)
 
 The piece begins with soloist and chorus gleefully crying "On with the deaf
 man!" rather like a bunch of high-school bullies, telling everyone to speak up
-so he can hear. When the catechist and the *sordo* enter, Ruiz gives the two
-characters phrases that contrast melodically, harmonically, and rhythmically, to
-illustrate their inability to understand each other. The deaf man's musical
-speech is abrupt, uncouth, and loud, fitting with the friar's mockery of the
-deaf man's unmodulated voice ((ref float 'music 'Ruiz-Sordos-dialogue)). 
+so he can hear. 
+When the catechist and the *sordo* enter, Ruiz illustrates their inability to
+understand each other with contrasting styles. 
+The deaf man's musical speech is abrupt, uncouth, and loud, fitting with the
+friar's mockery of the deaf man's unmodulated voice 
+((ref float 'music 'Ruiz-Sordos-dialogue)). 
 The deaf man bursts on the scene with a scale from the top of his register to
-the bottom
-(F~4~ to G~3~). The descent across vocal *passaggi* would encourage the singer
-to bawl the phrases in a coarse tone of voice. Ironically, a character with
-impaired sensation of sound is marked for the audience primarily by the kind of
-sounds he makes. 
+the bottom (F~4~ to G~3~). 
+The descent across vocal *passaggi* would encourage the singer to bawl the
+phrases in a coarse tone of voice, so that ironically, a character who cannot
+hear is marked for the audience by the sound he makes.
 
 (insert float 'music 'Ruiz-Sordos-dialogue)
 
 Unlike in Padilla's villancico, here the deaf man has a lesson of his own to
-teach. He may not be able to hear well but he has come with love to adore the
-Christ-child. Acting as a kind of holy fool, and echoing Covarrubias's
-definition of deafness, he reminds everyone within the sound of his voice that
-the truly deaf are "those who neither listen nor understand the sound." 
+teach. 
+He may not be able to hear well but he has come with love to adore the
+Christ-child. 
+Acting as a kind of holy fool, and echoing Covarrubias's definition of deafness,
+he reminds everyone within the sound of his voice that the truly deaf are "those
+who neither listen nor understand the sound." 
 
-In the catechism lesson presented in the coplas, the friar quizzes his pupil on
-key doctrines of Christmas, classic topics in both scholastic and pastoral
-literature: Tell, *sordo*, he asks, how did God fulfill his word to the
-prophet-king David?What motivated Christ to become incarnate?[^Christmas-tropes]
+In the parodied catechism lesson presented in the coplas, the friar quizzes his pupil on the same key doctrines of Christmas emphasized by contemporary theological writers both scholastic and pastoral.[^Christmas-tropes]
+Tell, *sordo*, he asks, how did God fulfill his word to the
+prophet-king David?
+What motivated Christ to become incarnate?
 But the deaf man mishears every statement: he mistakes *sordo* for *gordo*
-(chubby), and *profeta* (prophet) as *estafeta* (mailman). 
+(chubby), and hears *profeta* (prophet) as *estafeta* (mailman). 
 
 [^Christmas-tropes]:
 See the next chapter for a discussion of such classic tropes of Christmas
 preaching in villancicos. 
+<!--- or some sources here -->
 
-
-His supposed learning in the humanities leads only to confusion. When the friar
-lauds the *bailes* (dances) of Christmas, and says *el portal es nuestro alivio*
-(the stable is our remedy), the deaf man thinks he is citing *Tito Libio*. The
-humanist is puzzled: he has read the Classical historian Livy, he says, but Livy
-doesn't say anything about *frailes* (friars). 
+His supposed learning in the humanities leads only to confusion. 
+When the friar says *el portal es
+nuestro alivio* (the stable is our remedy), the deaf man thinks he is citing
+*Tito Libio*. 
+Since the catechist has just been lauding the *bailes* (dances) of Christmas,
+the humanist is puzzled: he has read the Classical historian Livy, he says, but
+Livy doesn't say anything about *frailes* (friars). 
 
 Hearing that the child Jesus is shivering with cold, the deaf man suggests he
-drink hot chocolate. The friar reassures him that "the Queen"---the Virgin
-Mary---is keeping the child bundled, such that he glows with warmth (*arde*).
+drink hot chocolate. 
+The friar reassures him, "the Queen"---the Virgin Mary---is keeping the
+child bundled, such that he glows (*arde*) with warmth.
 The deaf man now seems to feel that at last he has figured out what they are
 talking about, and sums up with satisfaction, *Esta es, por la mañana y
 tarde, la Reina de las bebidas* (Chocolate is, morning and evening, the Queen of
 beverages). 
 
-One can imagine that Ruiz's deaf man would invite the sympathies of listeners.
-He is an earthy, common character, focused on material comforts. He is keenly
-aware of the chill, as many older men are, and dotes tenderly onthe infant. The
-deaf man's bumbling but endearing statements contrast strikingly with the friar's
-abstract theology and clichéd poetic language. The text even reminds listeners
-of the deaf man's response to mockery: he cannot hear the nine choirs of
-Christmas angels, so he asks them to sing out loudly, as long as they don't say
-anything bad about him. 
+We can imagine that Ruiz's deaf man would invite the sympathies of listeners.
+He is an earthy, common character, keenly aware of the chill, as many older men are.
+The deaf man even explicitly asks not to be mocked:
+since he cannot hear the nine choirs of Christmas angels, he asks them to "sing out
+loudly"---"as long as they don't say anything bad about me." 
+<!--- line numbers -->
 
-Ruiz's characters present a contrast of types of learning: the churchman who
+The deaf man's bumbling but endearing statements contrast strikingly with the
+friar's abstract theology and clichéd poetic language. 
+The characters represent contrasting types of learning: the churchman who
 repeats the same teaching points in every catechism class, versus an ersatz
 humanist who has read Livy and perhaps Ovid but may not understand them at all.
 Ruiz's hard-of-hearing humanities scholar demonstrates a central tenet of
 Reformation-era Catholicism: that Classical learning alone is not enough to
 understand Christianity.
-[@Erasmus:Dolan, 206, "Erasmus perceived in the paganistic trends of the
+[@Erasmus:Dolan, 206: "Erasmus perceived in the paganistic trends of the
 Renaissance a greater threat to religion than the theological squabbles he was
 so reluctant to participate in."]
-Even so, the friar's inability to teach this man demonstrates yet again the
-pervasive uncertainty about how faith could be made to appeal to hearing. 
+What the man lacks in knowledge, though, he makes up in heartfelt devotion,
+doting on the baby Jesus.
 
-Ruiz's *Villancico de los sordos*, like the other pieces we have discussed,
-exalts hearing music as a means to faith---one which the deaf cannot understand.
-This is because the word *son* in the epigrammatic conclusion of the estribillo
-could mean not only sound but was also a term for a type of dance or song,
-according to the 1610 dictionary of Covarrubias. The villancico is built on a
-distinctive harmonic and rhythmic pattern of alternating ternary and
-sesquialtera groupings, which are especially clear on the phrase *los que no
-escuchan ni entienden el son* ((ref float 'music 'Ruiz-Sordos-son)).
+The piece as a whole, though, still uses deafness as a negative symbol.
+When the chorus sings that "the deaf are those who neither listen nor understand
+the sound," they use the term *son*, which the dictionary of Covarrubias defines
+as a kind of dance.
+Indeed, this villancico features a distinctive harmonic and rhythmic pattern
+with alternating ternary and sesquialtera groupings, which are most clear on the
+phrase *los que no escuchan ni entienden el son*
+((ref float 'music 'Ruiz-Sordos-son)).
 This pattern bears a close resemblance to dance forms known as *son* today
----most obviously, to the Mexican *huarache* familiar from the
-song "America" in Leonard Bernstein's *West Side Story*.
-[@Grove, s. v. *huarache*]
-Even if the reference to *son* is not this specific, the music certainly evokes
-the feeling of a social dance whose circle the deaf man is unable to join fully. 
+---most obviously, the Mexican *huarache* familiar from the song "America" in
+Leonard Bernstein's *West Side Story*.
+[@Grove, s. v. *huarache*] <!--- Bernstein sources -->
+Just as in the contests of the senses, then, music is the paradigm of faithful
+hearing; those who can't pick up the tune, spiritually speaking, are the truly
+deaf.
 
 (insert float 'music 'Ruiz-Sordos-son)
 
-The creators of villancicos of the deaf could certainly have imagined that this
-music was contributing to the goal of spiritual ear training. There may be a
-higher theological point here about spiritual deafness, but both *sordo*
-villancicos make the point at the expense of real people with disabilities.
-Whether the music really accomplished that goal, or just provided amusement and
-reinforced cultural stereotypes for commoners, is a question that haunts the
-whole repertoire. In a pattern typical of this genre (and especially vexing in
-the "ethnic" villancicos), someone on the margins of society is, through musical
-representation, welcomed to Christ's manger, but the way he is represented
-actually emphasizes his exclusion from the community.
-[@Baker:EthnicVC; @Baker:PerformancePostColonial; @Cashner:PadillaRhythm-AMS]
-At the same time they also demonstrate a surprising levity about the church and
-its incompetent teachers. 
+Where did this theology of hearing leave actual people with hearing
+disabilities?
+At the same time as these caricatures of the deaf were performed, the Spanish
+churchman Juan Pablo Bonet was laying the foundations of modern deaf education.
+[Juan Pablo Bonet, *Reduction de las letras y Arte para enseñar a ablar a los
+mudos* (Madrid, 1620), cited and discussed in @Plann:DeafEducationSpain] 
+<!--- more -->
+These villancicos, though, do not offer much hope for actual people with
+disabilities.
+While Calderón's Judaism heard Faith without faith, the deaf men in villancicos
+cannot even hear Faith to begin with. 
+
+Whether these pieces accomplished anything more than amusing hearers by
+reinforcing their prejudices is a question that haunts the whole repertoire of
+Spanish devotional music---and one that should give modern performers pause
+before reviving some villancicos.
+[@Cashner:WLSCM32, XXX]
+This problem is especially vexing in the "ethnic" villancicos, which represent
+Africans and other non-Castilian groups through caricatured deformations of
+speech and music.
+These pieces appear to welcome people from the margins of society to Christ's
+stable, or around his altar, but the stereotyped representation actually
+reinforces their social exclusion in real life.
+
 
 ### Failures of Faithful Hearing
 
-Critiquing both the poor level of theological knowledge among the lay people,
-and the low quality of teaching among the clergy, were both characteristic
-Tridentine postures.
+These villancicos depict failures of faithful hearing as a call for disciplined
+listening.
+The villancicos of the deaf fit in with a characteristic tendency of Roman
+Catholics after Trent to critique the poor level of theological knowledge among
+the lay people and the low quality of teaching among the clergy.
 [@Kamen:EarlyModernSociety, 56--57]
-Antonio de Azevedo describes real-life scenes of failed catechesis:
+In his vernacular catechism, the Augustinian friar Antonio de Azevedo describes real-life scenes of failed catechesis:
 
 > Some will say that the doctrine of the gospel has already been taught
 > everywhere or almost everywhere (I am speaking of our Spain), and we concede;
@@ -1705,86 +1756,138 @@ Antonio de Azevedo describes real-life scenes of failed catechesis:
 >
 > And a principal friar of my order, I've heard that once he was asking a woman
 > how many [persons in the Trinity] there were, and she said, "Fifteen." And he
-> said, "*Ay*, is that really your answer?" And then she wanted to correct
-> herself, and she said, "*Ay Señor*, I think I was wrong---I'll say there are
-> five hundred." 
-[@Azevedo:Catecismo, 26: "Diran, o que ya ay dotrina del Euangelio en todas
-partes, o casi todas (hablo de nuestra España) concedamoslo: Pero ay tanta falta
-en muchas, de quien enseñe las cosas de la fe; que cierto que es lastima, verlo
-que en muchas partes de España, y particularmente en montañas passa: a do estan
-muchos tan boçales en las cosas de la fe, que si les preguntays, quantas son las
-personas de la Santissima Trinidad, vnos dizen que son siete otros que quinze; y
-otros veynte desatinos, de los quales yo soy buen testigo. Y a un frayle
-principal de mi orden le oy, que preguntando el a vna muger, quantas eran, que
-dixo ella que quinze, y diziendole el ay, y esso aueys de dezir? y ella se quiso
-emendar, y dixo ay Señor, digo mi culpa, digo que son quinientas."]
+> said, "*Ay*, is that really your answer?"
+> And then she wanted to correct herself, and she said, "*Ay Señor*, I think I
+> was wrong---I'll say there are five hundred." 
+[@Azevedo:Catecismo, 26: 
+"Diran, o que ya ay dotrina del Euangelio en todas partes, o casi todas (hablo
+de nuestra España) concedamoslo: Pero ay tanta falta en muchas, de quien enseñe
+las cosas de la fe; que cierto que es lastima, verlo que en muchas partes de
+España, y particularmente en montañas passa: a do estan muchos tan boçales en
+las cosas de la fe, que si les preguntays, quantas son las personas de la
+Santissima Trinidad, vnos dizen que son siete otros que quinze; y otros veynte
+desatinos, de los quales yo soy buen testigo.
+Y a un frayle principal de mi orden le oy, que preguntando el a vna muger,
+quantas eran, que dixo ella que quinze, y diziendole el ay, y esso aueys de
+dezir? 
+y ella se quiso emendar, y dixo ay Señor, digo mi culpa, digo que son
+quinientas."]
 
 Azevedo sees no humor in this lack of religious knowledge; and he faults not the
-illiterate laypeople but the religious orders and clerics who have failed to
+illiterate laypeople but the friars and clergy who have failed to
 teach the basics of faith in a plain way, as Azevedo himself endeavors to do in
 his book:
 
 > It is a shame to see the ignorance that there is in many, in things of such
-> importance [...]. Because even though the religious orders and those who
-> preach do declare the gospel, they do not explain the ABCs [*b, a, ba*] of
-> Christianity; they do not want to deal with giving milk because this is the
-> task of mothers, those lordly Curates or Orators, who are responsible for
-> this task, and what I have described is their fault. 
-[@Azevedo:Catecismo, 27: "Es lastima ver la ignorancia que ay en muchos, en
-cosas de tanta importancia: Y preguntados algunos qual de las tres personas
-encarno, el vno dize, que el Padre otros que el Espiritu Santo: y en muy buenos
-pueblos lo he oydo yo, hartas vezes con mis oydos; porque dado los religiosos y
-los que predican declaren el Euangelio, no tratan del b,a ba de cristiandad, no
-tratan de dar leche porque esse es officio de madres, de los señores Curas, o
-Retores, a cuyo cargo esta esso; y cuya culpa es lo dicho."]
+> importance [...]. 
+> Because even though the religious orders and those who preach do declare the
+> gospel, they do not explain the ABCs [*b, a, ba*] of Christianity; they do not
+> want to deal with giving milk because this is the task of mothers, those
+> lordly Curates or Orators, who are responsible for this task, and what I have
+> described is their fault. 
+[@Azevedo:Catecismo, 27: 
+"Es lastima ver la ignorancia que ay en muchos, en cosas de tanta importancia: Y
+preguntados algunos qual de las tres personas encarno, el vno dize, que el Padre
+otros que el Espiritu Santo: y en muy buenos pueblos lo he oydo yo, hartas vezes
+con mis oydos; porque dado los religiosos y los que predican declaren el
+Euangelio, no tratan del b,a ba de cristiandad, no tratan de dar leche porque
+esse es officio de madres, de los señores Curas, o Retores, a cuyo cargo esta
+esso; y cuya culpa es lo dicho."]
 
 The friars of Padilla's and Ruiz's villancicos seem to fit with Azevedo's
-description of "lordly orators" who delight in lofty language, rather than
-motherly teachers who spell out the fundamentals of Christian faith. Azevedo's
-critique, though, is motivated by the late-sixteenth-century Tridentine agenda
-of reform and education; Juan de la Cruz makes a similarcritique of preaching
-and music that delight the ears but do not effect the will. By the
-mid-seventeenth century, though, the function of Catholic religious art under
-developing "Baroque" aesthetics shifted away from the kind of"plain" instruction
-Azevedo models, toward more ornate, learned, and often arcane forms of
-expression. Composers of villancicos in the seventeenth century seem to have
-followed an ideal closer to Kircher's Jesuit ideal of affectively powerful sacred
-music attuned to the varying desires of a broad audience. 
+description of "lordly orators" who delight in lofty language and fail to adapt
+their disciples' capacity, rather than motherly teachers who spell out the
+fundamentals of Christian faith. 
+Both pieces illustrate the difference in language and understanding through
+appropriate contrasts of musical style.
+
+What does it mean, then, that this music invites hearers to laugh at the
+Church's incompetent teachers?
+After all, the friars are caricatured just as much as the deaf men are.
+Padilla's piece was performed at the epicenter of religious reform in the New
+World, and Ruíz's piece was heard by the royal defender of the faith Charles II.
+<!--- really? -->
+The function of villancicos must be more complex than a one-way imposition of
+dogma.
+Few villancicos of the seventeenth century would satisfy Azevedo's call to teach
+the "*b, a, ba* of Christianity."
+As the severity of the years after Trent gave way to Baroque aesthetics that
+valued more elaborate forms of expression, even the comic villancicos involved
+learned plays of language and music, like the Classical references in Ruiz's
+poetic text, or the play on modal cadences and black notation of Padilla's
+music. 
+Composers of villancicos in the seventeenth century seem to have followed an
+ideal closer to Kircher's Jesuit ideal of affectively powerful sacred music
+attuned to the varying desires of a broad audience. 
+The depictions of imperfect hearing in the villancicos of the deaf, in fact,
+depended on the attention of listeners with well-trained ears.
 
 Few villancicos of the seventeenth century would satisfy Azevedo's call to teach
-the "*b, a, ba* of Christianity." Even the comic villancicos depend on learned
-plays of language and music, like the Classical references in Ruiz's poetic
-text, or the play on modal cadences and black notation of Padilla's music. This
-means that the depictions of imperfect hearing in the villancicos of the deaf
-themselves depended on the attention of listeners with well-trained ears. 
+the "*b, a, ba* of Christianity." 
+This means that the depictions of imperfect hearing in the villancicos of the
+deaf themselves depended on the attention of listeners with well-trained ears. 
+
 
 #### "Make a Hedge around Your Ears"
 
-To understand the role of villancicos in the dynamics of hearing and faith,then,
-we must consider these performative texts as more than just one-way transmissions
-of religious teaching from the Church to listening worshipers. They sometimes
-raise more questions than they answer. The creators of these pieces seem to
-expect listeners to be active, attentive, and intelligent. Indeed, Catholic
-listeners in this period had to pay attention, because as multiple examples have
-demonstrated, hearing was "the sense most easily deceived" and Catholics were not
-expected to believe everything they heard. Hearing with faith meant questioning
-anything that contradicted true faith and accepting the true faith even when it
-contradicted the senses. 
+To understand the role of villancicos in the dynamics of hearing and faith,
+then, we must consider these performative texts as more than just one-way
+transmissions of religious teaching from the Church to listening worshipers. 
+They sometimes raise more questions than they answer. 
+The creators of these pieces seem to expect listeners to be active, attentive,
+and intelligent. 
+Indeed, Catholic listeners in this period had to pay attention, because as
+multiple examples have demonstrated, hearing was "the sense most easily
+deceived" and Catholics were not expected to believe everything they heard.
+Hearing with faith meant questioning anything that contradicted true faith and
+accepting the true faith even when it contradicted the senses. 
 
-Listeners who wished to overcome the dangers and uncertainties involved with
-hearing devotional music were challenged to practice personal spiritual
-discipline in hearing. This notion is encapsulated in an emblem by Sebastián de
-Covarrubias, whose dictionary definition of deafness we discussed earlier 
-((ref float 'figure 'Covarrubias-Emblemas-202-ears-thorns)). It
-shows two fragile-looking human ears, protected from the buffeting four winds by
-a crown of thorns. Its Latin motto is taken from Ecclesiasticus 28:28, "Make a
-hedge around your ears with thorns."
-[@Covarrubias:Emblemas, 202, "SEPI AVRES TVAS SPINIS."]
-Covarrubias explains that our ears are endangered lest we "keep ourselves from
-hearing flattery, gossip, lies, and false doctrines; and so that these things
-will not reach our ears we must put a strong fence around them, and protect it
-with thorns."
-[@Covarrubias:Emblemas, 203, "Esse mesmo peligro tienen las orejas, sino las
+It is clear from a rare listener's account of a villancico that not everyone
+felt adequately trained to appreciate this music.
+The chronicler of a Zaragoza festival in 1724 praises the performance by the
+musicians of the city's two principal churches, El Pilar and La Seo, leaning
+heavily on a stock vocabulary for musical encomium: 
+
+> During the whole event, the senses were enchanted with an imponderable spell
+> by the sweet, solemn, and sonorous harmony, with which the two chapels, united
+> to this end by the chapter, officiated the Mass, and since in the short time
+> that was given to their Masters for composition, it was necessary that they
+> employed, in competition, the most exquisite skill [*primor*] of the art,
+> which should be credited mutually to the virtuosity [*destreza*] of the voices
+> and the well-adjusted management of the instruments.  Each Master set to music
+> one of the following villancicos [included in the chronicle], which were part
+> of the design of the chapter's order.
+
+"The two villancicos were sung nobly, and were heard with pleasure," he writes,
+but, truth be told, "it would have been even better, if every ear was
+intelligent in points of consonance."
+[@Zaragoza1724Relacion, 97: 
+"Todo el rato que durò la Funcion, tuvo en imponderable embeleso à los sentidos,
+la dulce, grave, y sonora harmonìa, con que oficiaron la Missa las dos Capillas,
+unidas à este fin por el Cabildo, y prevenidas de que en el corto plazo que se
+diò à sus Maestros para la composicion, havia de emplearse, à competencia, el
+primor mas exquisito del Arte, que acreditasse mutuamente la destreza de las
+vozes, con el ajustado manejo de los instrumentos.
+Cada Maestro puso en musica uno de los Villancicos siguientes, que fueron parte
+del desempeño de la orden del Cabildo: los dos se cantaron con gala, y se oyeron
+con gusto; pero aun huviera sido mayor, si todos los oìdos fuessen inteligentes,
+en puntos de consonancia." 
+The language used to describe music reiterates a set of key vocabulary that
+appears in most of the texts of villancicos about music in this study---*dulce,
+grave, y sonora armonía*, *primor*, *destreza*, *puntos de consonancia*.]
+
+Moreover, in the Spanish theological climate, not even an aural-skills course
+would meet the more pressing demand for spiritual discipline in listening.
+A moral emblem from 1610 by dictionary author Sebastián de Covarrubias shows two
+fragile human ears, protected from the four winds by a crown of thorns
+((ref float 'figure 'Covarrubias-Emblemas-202-ears-thorns)). 
+Its Latin motto, from Ecclesiasticus 28:28, reads, "Make a hedge around your
+hears with thorns."
+[@Covarrubias:Emblemas, 202: "SEPI AVRES TVAS SPINIS."]
+In the double explanation of the emblem, first in vernacular poetry, then in prose, eaders who contemplated this image and its possible interpretations were advised to shield their ears "from hearing flattery, gossip, lies,
+and false doctrines; and so that these things will not reach our ears we must
+put a strong fence around them, and protect it with thorns."
+[@Covarrubias:Emblemas, 203: "Esse mesmo peligro tienen las orejas, sino las
 apartamos de oir lisonjas, murmuraciones, mentiras, y falsas dotrinas: y para
 que no lleguen a nuestros oydos deuemos hecharles van fuerta cerca, y vardarlas
 con espinas."]
@@ -1795,18 +1898,11 @@ quisieres tu persona,/ Amparate de Christo, y su corona."]
 
 (insert float 'figure 'Covarrubias-Emblemas-202-ears-thorns)
 
-Even if, then, the Church successfully made Christ the Word audible to the
-world, accommodating its teaching to the sense and intelligence of people of
-varying temperaments and cultural backgrounds, faithful hearing for Catholics
-still required individuals to discipline their ears to focus on Christ.
-Villancicos provided both an opportunity to hear the Word and a challenge
-to discern it and live accordingly. From a modern perspective, it would seem that
-some villancicos posed more of challenge in this respect than others, and not
-for the reasons that their creators might have intended: did the caricatures of
-deaf people in villancicos really move many listeners beyond simple mockery? Did
-the special rhetorical effects of villancico poetry and music edify more than
-they entertained? Or were such distinctions unimportant at the time? In any case,
-the fundamental Tridentine problem, of making faith appeal to hearing by both
+Spanish devotional music of the seventeenth century appealed to the ears of
+diverse people at different levels; but it challenged all of them to "temper"
+their own hearing, as the Segovia villancicos say, lest the Church's musical
+proclamation of faith fall on "deaf ears."
+The fundamental Tridentine problem, of making faith appeal to hearing by both
 accommodating the senses and training them, remained a challenge for Catholics,
 both those who would teach through speech or song and those who would listen. 
 
