@@ -386,7 +386,7 @@ When the music moved in the same way as the affections it expressed, this in
 turn moved the listener to feel the same affections.
 [Kircher's theory bears a striking resemblance to some recent theories of music
 cognition, such as Lawrence Zbikowski's description of musical structures as
-"sonic analogues for internal dynamic processes"; -@Zbikowski:Conceptualizing,
+"sonic analogues for internal dynamic processes"; @Zbikowski:Conceptualizing,
 XX.]
 <!--- check page and quote -->
 Kircher explains:
@@ -1209,8 +1209,9 @@ model of sensation and perception, as educated Spaniards would have learned from
 the kind of scientific and theological treatises preserved from seminary and
 convent libraries in Spain and Mexico. 
 <!---  source on theological/philosophical education in Spanish Empire,
-libraries --> Spanish philosophers taught that vision, not hearing, was the
-first and highest of the five exterior senses; but hearing superseded the other
+libraries --> 
+Spanish philosophers taught that vision, not hearing, was the first and highest
+of the five exterior senses; but hearing superseded the other
 senses in matters of faith.
 A typical example is the 1557 natural-philosophy textbook *Phisica, Speculatio*
 by an Augustinian friar in New Spain, Alphonsus à Veracruce. 
@@ -1642,7 +1643,9 @@ Acting as a kind of holy fool, and echoing Covarrubias's definition of deafness,
 he reminds everyone within the sound of his voice that the truly deaf are "those
 who neither listen nor understand the sound." 
 
-In the parodied catechism lesson presented in the coplas, the friar quizzes his pupil on the same key doctrines of Christmas emphasized by contemporary theological writers both scholastic and pastoral.[^Christmas-tropes]
+In the parodied catechism lesson presented in the coplas, the friar quizzes his
+pupil on the same key doctrines of Christmas emphasized by contemporary
+theological writers both scholastic and pastoral.[^Christmas-tropes] 
 Tell, *sordo*, he asks, how did God fulfill his word to the
 prophet-king David?
 What motivated Christ to become incarnate?
@@ -1743,7 +1746,8 @@ The villancicos of the deaf fit in with a characteristic tendency of Roman
 Catholics after Trent to critique the poor level of theological knowledge among
 the lay people and the low quality of teaching among the clergy.
 [@Kamen:EarlyModernSociety, 56--57]
-In his vernacular catechism, the Augustinian friar Antonio de Azevedo describes real-life scenes of failed catechesis:
+In his vernacular catechism, the Augustinian friar Antonio de Azevedo describes
+real-life scenes of failed catechesis:
 
 > Some will say that the doctrine of the gospel has already been taught
 > everywhere or almost everywhere (I am speaking of our Spain), and we concede;
