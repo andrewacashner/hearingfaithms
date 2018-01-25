@@ -643,11 +643,76 @@ polychoral dialogue (mm. 51--59).
 Padilla sets the numbers in the poem literally: three performers for
 *tres a tres*, two for *dos a dos*, and one for *uno a uno*.  
 
-<!--- example
+The style of this section, contrasting with that of the introduction, is like
+that of a madrigal ((ref float 'music 'Padilla-Voces-madrigal)).
+The madrigal *As Vesta Was from Latmos Hill Descending* by Thomas Weelkes (1601)
+uses the same technique to depict similar words, possibly reflecting a common
+Italian model.[^Weelkes]
+This section, then, is "music about music" in yet another sense, as Padilla refers
+to other genres and styles of music within one villancico.
+As the poem depicts the actual singing performed at the firs Christmas, Padilla
+uses a style that evokes and embodies convivial group singing.
+The angels, planets, shepherds, and animals around the créche are represented
+not only as singing in the abstract---they are singing a madrigal.
 
- madrigal style diss p168 and stylistic topic, zurbaran
+[^Weelkes]: 
+Weelkes's madrigal was published in Thomas Morley's *The Triumphes of Oriana*
+(London, 1601), but there is little evidence that English music circulated in
+Spain or its colonies.
 
- oportune time, CZ
+(insert float 'music 'Padilla-Voces-madrigal)
+
+Padilla's musical scene matches contemporary Nativity images that portray
+music-making around the manger. 
+Padilla's Andalusian compatriot Francisco de Zurbarán depicted two levels of
+music in his *Adoration of the Shepherds*, painted for the high altar of the
+Carthusian monastery of Jerez de la Frontera in 1638--1639
+(ref float 'figure 'Zurbaran-Jerez-Adoracion).
+In heaven above, angels sing to the accompaniment of the harp, while below,
+another angelic consort joins the company of worshippers in the stable, and they
+sing to the accompaniment of the lute.
+In Spain the harp was associated with both heavenly music and earthly church
+music (see chapter 5), and the lute, with musical genres performed outside of
+church, such as the madrigal. 
+Villancicos crossed both domains, and therefore could incorporate references to
+both styles within them---much as Zurbarán's painting incorporates aspects of
+genre painting, the representation of earthy details from everyday life, into a
+representation of sacred history.
+[@Sanchez:Zurbaran, 31; Cherry:Bodegon; Haraszti-Takacs:Genre]
+Both visual and musical forms of crossover were especially fitting to represent
+the Christmas moment when the "maxima" and "breve", high and low, were brought
+together, and the music of the heavenly chorus broke through to be heard by
+humble shepherds.
+Zurbarán's image, in line with other contemporary iconography like the manger
+scene in a 1613 Roman Breviary and the Adoration of the Shepherds on the retable
+of Puebla Cathedral, includes a bound lamb next to the manger as a symbol of
+Christ's fate as the paschal lamb, much as "the thirty-three" and other
+references in this villancico connect Christ's birth to his sacrificial
+death.[@Catholic:Breviarium1631, 168] 
+<!--- Puebla cathedral book or image in this book -->
+
+(insert float 'figure 'Zurbaran-Jerez-Adoracion)
+
+At the phrase *y aguardan tiempo oportuno* ("and they await the opportune time,"
+m. 60), Padilla shifts meter signatures again, returning to ternary meter (CZ)
+with a new lilting rhythmic pattern. 
+This creates a sense of arrival in a new *tiempo*, which then abruptly halts at
+the end of the phrase, *quien antes del tiempo fue* ("the one who was before
+time", mm. 63--65).
+As Christ is "the beginning and the end" (Rev. XXX), this halt is fitting.
+Lorente says the term *tiempo* can denote the meter and the symbol that sets the
+meter.[@Lorente:Porque, bk. 2, 149]
+Thus, since Christ existed before all time theologically, Padilla puts this
+phrase "before the time signature" musically.
+
+
+
+
+
+
+
+<!--- 
+
  a la mi re, sofa
  skip diss to p 173
  ascending and descending motives and coloration
@@ -684,4 +749,4 @@ Padilla sets the numbers in the poem literally: three performers for
 #### Genealogy
 
 
-### Conclusions
+
