@@ -738,19 +738,99 @@ Even if fully trained singers did not often resort to the actual syllables in
 reading music, they were trained in the system and could certainly have
 recognized the Guidonian puns in this passage.
 
-The next phrase evokes both singing and listening: *a la voz del padre oí cantar
-por puntos de llanto* (I heard the father's voice singing in weeping tones).
+The next phrase evokes both singing and listening---*a la voz del padre oí cantar
+por puntos de llanto* (I heard the father's voice singing in weeping
+tones)---and on "I heard" (m. 77), all the voices cadence and then rest, as
+though to stop and listen.
+To create the effect of the interjection *¡O, qué canto!*, Padilla has the
+second chorus enter on the last minim of the measure (m. 83), before the first
+chorus has finished their phrase. 
+The emphatic *O* in the succeeding passage may well be intended to contrast with
+the *signo A (la, mi, re)*, marking Christ as *alpha* and *omega*.
+
+In the final couplet of the estribillo (*Todo en el hombre es subir/ y todo en
+Dios es bajar*, mm. 100--126), as the full chorus evokes the theological concept
+of God's descent and humankind's ascent through the Incarnation, Padilla creates
+a matching musical concept of contrasting ascending and descending gestures with
+opposed rhythmic profiles.
+In the first gesture, for Man ascending, the voices ascend stepwise in minims,
+in a lilting ternary dotted rhythm.
+this is first heard in Altus I and Tenor I, mm. 98--100, with the ascent
+highlighted by having the Tenor move through F sharp.
+In rhetorical terms this is *anabasis*.
+In the second gesture, for God descending, all the voices move
+downwards---*catabasis*---in emphatic duple rhythm with blackened semibreves,
+including passing through added E flats (Chorus I, mm. 100--104).
+The Tenor I has the highest number of blackened notes, singing a sequence of
+descending fourths (mm. 100--103), then thirds (mm. 108--112), and finally
+seconds (mm. 118--122) (`(ref float 'figure 'Padilla-Voces-TI-bajar)`).
+
+`(insert float 'figure 'Padilla-Voces-TI-bajar)`
+
+When Padilla juxtaposes these ideas in the full polychoral texture, listeners
+can hear the fusion of both rising and falling melodic lines, and two different
+rhythmic systems---the duple-compound *sesquialtera* rhythm of "Man ascending"
+and the triple-simple rhythm of "God descending."
+In the final cadence, the Altus I combines the two gestures at once by singing
+the words "everything in God is to descend" to the music associated with "Man
+ascending" (mm. 124--126).
+The passage embodies the central theology of the Incarnation: through God's
+descent to become Man in Christ, Man may ascend to share in God's nature.
+<!--- patristic sources for this -->
+
+Each of the two poetic coplas centers on a concept from music theory: the first
+plays with the notion of *peregrino tono* ("wandering song," or the plainchant
+*tonus peregrinus*); the second, on the contrasting rhythmic values of *la
+máxima y breve*.
+True to form, Padilla sets *peregrino tono* to a fragment of the actual
+plainchant tone.
+The last psalm tone was known in Latin sources as the *tonus peregrinus* and in
+Spanish sources as *tono irregular* or *tono mixto*. 
+Its final cadence is a rising minor third followed by a stepwise descent to the
+final (`(ref float 'figure 'Cerone-tonus-peregrinus)`). <!--- p. 354) -->
+In *cantus durus* this is D--F--E--D; if notated in the *cantus mollis*
+transposition of this villancico, the pitches would be G--B♭--A--G, which are
+exactly what the Altus I sings on these words (mm. 128--129).
+The same motive of the a leap up followed by a descending third is then imitated
+in the Tenor I and Tiple I on F--E--D, the *durus* version.
+
+<!--- cautionary F# as "strange tone"? -->
+
+In the last phrase of this copla, when the poem speaks of Christ "going up the
+octave" or theologically "ascending on the eighth day", Padilla creates an
+octave ascent across the voices, with the Tenor leaping D~4~--G~4~ and the Tiple
+continuing, G~4~--D~5~.
+This octave also plays into the symbolism of the *tonus peregrinus*, since
+Cerone says that Spanish writers call this "eighth" psalm tone *octavo
+irregular*.[@Cerone:Melopeo, 354]
+
+The second copla emphasizes rhythm, using the *máxima* and *breve*, in medieval
+theory the longest and shortest note values, to point to the union of eternal
+and temporal, infinite and finite in the incarnate Christ as the divine
+chapelmaster's "composition."
+Padilla presents the basic concept of long versus short note values through the
+lengthened note on *máxima* in the Tenor (mm. 153--154) over a long held note
+in the Bassus (mm. 154--155).
+Ironically, each of these long notes is actually a breve.
+How better to express the unity between these opposites than by vocalizing the name
+for one while singing the value of the other?
+The Altus echoes with a blackened semibreve (mm. 154--155), which in this
+context is a long note made shorter, getting at the same concept a different
+way.
+At a more arcane level, the whole first phrase of this coplas (mm. 147--156) is
+ten compases long, which is precisely equal to the length of a true maxima
+(eight measures in C3) plus a breve (two measures).
+
+Padilla's setting as a whole is intimately connected to the sound and meaning of
+the poetry.
+Padilla has his chapel choir present the poem in a way that allows the words to
+be heard clearly, reflecting their grammatical structure and the poem's dramatic
+shape, while also embodying the conceits of the poetry in appropriate musical
+symbols and even adding some musical puzzles of his own.
 
 
 
 
-<!--- 
-
- skip diss to p 173
- ascending and descending motives and coloration
- coplas: peregrino tono, wandering, cautionary F#?
- maxima on breve
--->
 
 
 #### Theology of Christ as *Verbum infans*
