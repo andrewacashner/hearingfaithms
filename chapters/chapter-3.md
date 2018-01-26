@@ -620,8 +620,8 @@ page as a visual indication to the singer to "keep count," and makes a
 clear audible symbol as well.
 Padilla sets "the lightest dissonance" in mm. 14--19 by having the
 Altus I suspend across the first minim of m. 18, making a dissonant
-seventh against the Tenor's A---a light dissonance that quickly resolves to
-F sharp and then to a cadence on G in m. 19.
+seventh against the Tenor's A---this forms a light dissonance that quickly
+resolves to F sharp and then to a cadence on G in m. 19.
 On the repeat of this section, it is easy to imagine that an experienced trble
 singing about "the trills of the dawn" in mm. 25--27 would have
 improvised a trill on the suspension at this cadence.
@@ -641,10 +641,10 @@ Here Padilla depicts what the words say by building up a point of imitation
 "from one choir to the other" (mm. 45--50) and then creating
 polychoral dialogue (mm. 51--59).
 Padilla sets the numbers in the poem literally: three performers for
-*tres a tres*, two for *dos a dos*, and one for *uno a uno*.  
+*tres a tres*, two for *dos a dos*, and one for *uno a uno*.
 
 The style of this section, contrasting with that of the introduction, is like
-that of a madrigal ((ref float 'music 'Padilla-Voces-madrigal)).
+that of a madrigal (`(ref float 'music 'Padilla-Voces-madrigal)`).
 The madrigal *As Vesta Was from Latmos Hill Descending* by Thomas Weelkes (1601)
 uses the same technique to depict similar words, possibly reflecting a common
 Italian model.[^Weelkes]
@@ -660,14 +660,14 @@ Weelkes's madrigal was published in Thomas Morley's *The Triumphes of Oriana*
 (London, 1601), but there is little evidence that English music circulated in
 Spain or its colonies.
 
-(insert float 'music 'Padilla-Voces-madrigal)
+`(insert float 'music 'Padilla-Voces-madrigal)`
 
 Padilla's musical scene matches contemporary Nativity images that portray
 music-making around the manger. 
 Padilla's Andalusian compatriot Francisco de Zurbarán depicted two levels of
 music in his *Adoration of the Shepherds*, painted for the high altar of the
 Carthusian monastery of Jerez de la Frontera in 1638--1639
-(ref float 'figure 'Zurbaran-Jerez-Adoracion).
+(`(ref float 'figure 'Zurbaran-Jerez-Adoracion)`).
 In heaven above, angels sing to the accompaniment of the harp, while below,
 another angelic consort joins the company of worshippers in the stable, and they
 sing to the accompaniment of the lute.
@@ -678,9 +678,9 @@ Villancicos crossed both domains, and therefore could incorporate references to
 both styles within them---much as Zurbarán's painting incorporates aspects of
 genre painting, the representation of earthy details from everyday life, into a
 representation of sacred history.
-[@Sanchez:Zurbaran, 31; Cherry:Bodegon; Haraszti-Takacs:Genre]
+[@Sanchez:Zurbaran, 31; @Cherry:Bodegon; @Haraszti-Takacs:Genre]
 Both visual and musical forms of crossover were especially fitting to represent
-the Christmas moment when the "maxima" and "breve", high and low, were brought
+the Christmas moment when the "maxima" and "breve," high and low, were brought
 together, and the music of the heavenly chorus broke through to be heard by
 humble shepherds.
 Zurbarán's image, in line with other contemporary iconography like the manger
@@ -691,7 +691,7 @@ references in this villancico connect Christ's birth to his sacrificial
 death.[@Catholic:Breviarium1631, 168] 
 <!--- Puebla cathedral book or image in this book -->
 
-(insert float 'figure 'Zurbaran-Jerez-Adoracion)
+`(insert float 'figure 'Zurbaran-Jerez-Adoracion)`
 
 At the phrase *y aguardan tiempo oportuno* ("and they await the opportune time,"
 m. 60), Padilla shifts meter signatures again, returning to ternary meter (CZ)
@@ -705,15 +705,47 @@ meter.[@Lorente:Porque, bk. 2, 149]
 Thus, since Christ existed before all time theologically, Padilla puts this
 phrase "before the time signature" musically.
 
+The musical conceipts in the next lines of poetry shift the focus from rhythm to
+melody, as the poem uses solmization symbols: *por el signo a la mi re, puestos
+los ojos en mi* (upon the sign of *A (la, mi, re)*, with eyes set on
+me/*mi*).
+Likewise, Padilla's metamusical conceits play on the musical terms in the most
+literal sense, realizing the solmization syllables in several ways at the same
+time (`(ref float 'figure 'Padilla-Voces-alamire)`).
+Both Altus I and Tenor I sing the word *a* on the pitch *A (la, mi, re)* (m.
+67). 
+On the words *la mi re* (mm. 68--69), the Tiple I sings the pitches D--C♯--D: in
+the soft hexachord the D would in fact be *la*; then the written sharp on C
+would alter it to a *mi* in *musica ficta*; and the final D could be *re* in the
+natural hexachord.
+On the same words, the Tenor sings D--A--D: *la--mi* in the soft hexachord, then
+*re* in the natural hexachord.
+At the end of this phrase (m. 72), the performers of all three voices sing the
+word *mi* by literally "putting their eyes on *mi*, with Tiple and Tenor on A
+(*mi* in the soft hexachord) and Altus on E (*mi* in the natural hexachord).
 
+`(insert float 'figure 'Padilla-Voces-alamire)`
 
+Guidonian solmization was still a fundamental part of Spanish theory treatises
+through the eighteenth century, and were used frequently enough that they came
+to be used as the Spanish names for pitch-classes in the seven-note scale.
+The prevalence of solmization practice is evidenced by both books intended for
+specialists (Cerone) and those for beginners, such as the 1677 guitar primer of
+Lucas Ruiz de Ribayaz, as well as student notebooks in manuscript.
+[@Ruiz:Luz; examples of manuscript student notebooks are in E-Bbc: M732/13--16;
+see also @Cohen:NotesMiddleAges]
+Even if fully trained singers did not often resort to the actual syllables in
+reading music, they were trained in the system and could certainly have
+recognized the Guidonian puns in this passage.
+
+The next phrase evokes both singing and listening: *a la voz del padre oí cantar
+por puntos de llanto* (I heard the father's voice singing in weeping tones).
 
 
 
 
 <!--- 
 
- a la mi re, sofa
  skip diss to p 173
  ascending and descending motives and coloration
  coplas: peregrino tono, wandering, cautionary F#?
