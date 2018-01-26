@@ -829,26 +829,36 @@ shape, while also embodying the conceits of the poetry in appropriate musical
 symbols and even adding some musical puzzles of his own.
 
 
-
-
-
-
 #### Theology of Christ as *Verbum infans*
 
 <!---
- theological context (e.g., patristic, liturgical allusions)
- grace/glory
- admirabile sacramentum
 
- VERBUM INFANS
- infante
- A & O
- (blessing hand vs Guidonian hand)
+- this piece comes from a deeper background of theology of Incarnation & voice
+  related to Christmas; manifests tropes of Christmas - devotion to Christ *as*
+  something rather than teaching that Christ *is* something
+  + Liturgical context: admirabile sacramentum etc
+  + Christmas preaching, exegesis
+    - Verbum infans
+    - (Grace & glory)
+    - Alpha & O
+
 -->
 
 
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
 
+<!---
+(brief)
+
+- this piece is part of a tradition of related pieces, a villancico family
+- Padilla is situating himself in a pedigree of compositional craft and
+  theological learning, connecting himself to Santiago; differentiating himself
+  from Jalón
+- philological comparison with Jalón
+- biographical links
+-->
+
+<!--- ---------------------------------------------------------------------- -->
 
 ### Heavenly Dissonance and the "Newest Consonance" of Christ (Cererols)
 
