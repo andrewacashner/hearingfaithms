@@ -828,6 +828,7 @@ be heard clearly, reflecting their grammatical structure and the poem's dramatic
 shape, while also embodying the conceits of the poetry in appropriate musical
 symbols and even adding some musical puzzles of his own.
 
+<!--- *********************************************************************** -->
 
 #### Theology of Christ as *Verbum infans*
 
@@ -844,6 +845,7 @@ symbols and even adding some musical puzzles of his own.
 
 -->
 
+<!--- *********************************************************************** -->
 
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
 
@@ -858,7 +860,8 @@ symbols and even adding some musical puzzles of his own.
 - biographical links
 -->
 
-<!--- ---------------------------------------------------------------------- -->
+<!--- *********************************************************************** -->
+<!--- *********************************************************************** -->
 
 ### Heavenly Dissonance and the "Newest Consonance" of Christ (Cererols)
 
