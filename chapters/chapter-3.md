@@ -1038,13 +1038,100 @@ Padilla's setting of *Voces, las de la capilla* evokes wonder not only in the
 words in the virtuoso composition and performance of the music as well.
 The song that is the Christ-child is "as much to hear as to admire," the
 villancico says.
-
+The villancico aims less to instruct than to amaze, just as Mary Malcolm Gaylord
+has said that the goal of elaborate Spanish poetry is "to produce effects of
+astonishment and awe conveyed by the Latin term *admiratio*"---and indeed
+Padilla's piece asks listeners to imagine a song that is "as much to hear as to
+admire [*admirar*],/ as much to admire as to hear."
+[@Gaylord:Poetry, 227]
 
 <!--- admirabile sacramentum; tan de admirar; Gaylord on admiratio diss l. 1510
 
  - liturgy, Leo
  - Fray Luis
 -->
+
+In this case the term *admirar* has a more specific association, with the
+liturgy of Matins.
+Based on the piece's position in the musical manuscripts, it was most likely sung as the fourth villancico in the Matins cycle on Christmas Eve 1657
+at Puebla Cathedral.
+Padilla's *Voces*, according to a 1633 decree of the cathedral chapter, would have occupied the same liturgical time and space as the fourth Responsory, *O magnum mysterium et admirabile sacramentum*:
+
+> *Respond.* O great mystery and admirable sacrament, that the animals should
+> see the newborn Lord, lying in the manger.
+> Blessed Virgin, whose womb was worthy to bear the Lord Christ.  
+> *Versicle.* Greetings, Mary, full of grace: The Lord is with you.
+[@Catholic:Breviarium1631, 175: 
+"*Respond.* O magnum mysterium, & admirabile sacramentum, vt animalia vidêrent
+Dominum natum, iacentem in praesepio: \* Beata Virgo, cuius viscera meruêrunt
+portare Dominum Christum. *Versicle.* Ave Maria, gratia plena: Dominus tecum.]
+
+The chapter mandated that while "the lessons should be sung in their entirety,"
+"the *chanzoneta* shall serve for the Responsory, which shall be prayed speaking
+while the singing is going on."
+[MEX-Pc: AC 1633-12-30: 
+"que a los maitines de nauidad deste año y de los venideros [...] se canten todas las liçiones yn totum sin dejar cossa alguna dellas y que la chansoneta sirba de Responsorio el qual se diga resado mientrass se estubiere cantando."] 
+<!--- full text in diss or appendix -->
+This villancico stood in between the lessons of the second Nocturne, which were
+taken from a Christmas sermon of Pope St. Leo the Great.
+This means that after a cantor chanted the first lesson, a cleric spoke the
+mandatory liturgical text of the fourth Responsory above *while* the chorus sang
+this villancico.
+<!--- cantor? -->
+The poet and composer were evidently steeped in the theological and liturgical
+traditions of the Church, and had good reason to refer to the Responsory even in
+situations like this where it was not sung.
+For the learned cathedral canons, rather than diminishing the importance of the
+Responsory, the simultaneous performance of the Latin prayer and Spanish song may have actually deepend the hidden connections between the two.
+Lay people outside the walls of the architectural choir would not probably have
+heard or understood the words of the Latin liturgical text, so they would
+perhaps not have missed much.
+
+The Responsory evokes the scenario of the Nativity, with the animals gathered
+around the manger, just as the villancico calls up the image of angels, beasts,
+and humans joining together in song around the Christ-child.
+In the quatrain (a *redondilla*) that closes the estribillo, the lines *tan de
+oír y de admirar/ tan de admirar y de oír* actually seem like a reply to the
+Responsory, as though to say that the mystery of the Incarnat Christ certainly
+was an "admirable" sacrament---that is, one that can be seen---but it is also an
+audible sacrament.
+Listeners in Puebla could not visit the manger in Bethlehem; they could only look
+at the retable paintings of the Adoration of the Shepherds and the Visitation of
+the Kings and imagine.
+<!--- chrysostom quote -->
+But in the conception of this villancico, they could hear the "voices of the
+chapel choir" reverberating in the space and through those voices they could
+"hear the voice of the Father/ in tones of weeping"---that is, they could hear
+the Christ the Word himself not merely speaking, but singing, through all the
+other voices from the choirboys up to the angels.
+
+<!--- grace and glory, specific lexical connections between villancico and
+liturgy from diss 
+
+Leo
+-->
+
+In a widely disseminated model sermon for Christmas, Fray Luis de Granada
+invites worshippers to turn from vision toward hearing:
+
+> After the devout sight of the manger we open our ears to hear the music of the
+> angels, of whom the Evangelist says, that when one of them had finished giving
+> these very glad tidings to the shepherds, there were joined with him a crowd
+> of the heavenly army, and that they all in one voice sang upon the airs
+> praises to God, saying, Glory be to God in the heights, and on the earth peace
+> to men of good will.
+[@LuisdeGranada:Xmas, para. 24]
+<!--- full text elsewhere or original text here with page -->
+
+More important than these angelic voices to Fray Luis, however, is the voice of
+the newborn Christ himself.
+Fray Luis begins the sermon by directing his listeners' attention to the
+Christ-child, "weeping and trembling with cold in the stable."
+[@LuisdeGranada:Xmas, para. 9]
+Fray Luis follows the exegetical tradition of reading Wisdom 7 as a Messianic
+prophecy, such that King Solomon's words about himself may be applied to his
+royal descendent, Christ: "I too am a mortal man like others, [...]
+
 
 <!--- *********************************************************************** -->
 
