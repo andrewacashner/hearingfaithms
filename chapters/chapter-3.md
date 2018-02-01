@@ -845,6 +845,94 @@ symbols and even adding some musical puzzles of his own.
 
 -->
 
+The villancico *Voces, las de la capilla* embodies the central tropes of
+Christmas devotion in early modern Catholicism, while extending these traditions
+by expressing them through the language and techniques of music.
+In other words, the feast of Christmas centered on devotion to incarnation of
+Christ as a child, the "Word made flesh"; this piece of devotional music
+presents a poetic and musical discourse on Christ's incarnation by conceiving of
+"the Word" in musical terms and then representing that concept in actual music.
+Padilla's piece presents a new twist on a trope that extends back to Bernard of
+Clairvaux and further to Augustine---that of Christ as *Verbum infans*, "the
+unspeaking/infant Word."
+This trope continued to be turned and refined through the sixteenth and
+seventeenth centuries, and can be found in Christmas sermons and exegetical
+commentaries on the Gospel infancy narratives that were widely available in
+Padilla's day and that would have been familiar to a university-educated priest.
+
+The festival of Christmas had first developed from regionally varying annual
+celebrations of Christ's birth and beginnings, and solidified as a formal
+observance among the church communities of fourth-century Rome.
+[@Talley:LiturgicalYear, 85--140; @Bradshaw:EarlyWorship, 86--89;
+@Roll:OriginsChristmas]
+The customary readings and chants from Scripture developed alongside the other
+customs of Christmas throughout the medieval period.
+While it may be more conventional to label these traditions "doctrines" or
+"dogmas" (particularly after Trent), they represent more than officially
+codified propositions.
+Rather, the tropes of Christmas include not only doctrinal concepts like the two
+natures of the incarnate Christ as divine and human, but extend also to
+attitudes, affects, frames of mind---all the cultural practices that go into
+making the festival "feel like Christmas," the "proper ways of worshipping" (one
+etymology of the term *orthodoxy*) that characterize this particular
+celebration.[^feasts-and-seasons]
+
+These tropes contributed to what might be called a Christmas imaginary, the
+contents of which one may see restated and endlessly varied not only in
+villancicos but also painted and sculpted on Spanish church walls and printed in
+the text and illustrations of contemporary theological books.
+The visual and performing arts preserved in such historic sources represent only
+a portion of the lively variety of customary social practices connected with the
+feast---gift-giving, traditional foods, popular songs from oral tradition.
+both official sources like the liturgy, creeds, catechisms, commentaries, and
+homilies as well as unofficial popular devotion drew from and contributed to a
+commmon fund of Christmas tropes, which by the seventeenth century was filled to
+overflowing.
+
+[^feasts-and-seasons]:
+@Grimes:Beginnings, 54--62, identifies distinct but interlinked ritual modes of
+"liturgy" and "celebration."
+Scholars of ritual studies and Christian liturgical theology have consistently
+argued that liturgy does more than promulgate doctrines, but musicological and
+philological studies of post-Tridentine religious arts have not always paid
+enough attention to the insights of these fields.
+For an influential modern Catholic theology of the function of liturgical
+feasts, see @Taft:LiturgicalYear, 3--4, 12--23.
+<!--- ***** -->
+
+Though oral tradition was probably still the most important force in cultivating
+the Christmas imaginary in early modern Spain, printed theological literature
+disseminated and reinforced these tropes in Padilla's day and makes them
+accessible today.
+The Christmas liturgy provided the foundation for the theology behind this
+trope, through the way the ritual texts framed the interpretation of
+Scripture within the Church's exegetical traditions.
+Certain passage of Scripture treating Christ's birth, his Messianic identity,
+and the theology of incarnation became classic Christmas *loci theologici*
+through the mutually reinforcing practices of, first, reading and singing these
+passages in the developing Christmas liturgy, and, second, interpreting these
+passages in preaching and commentaries.
+[On patristic exegesis and its relationship to later interpretve traditions, see
+@Kannengiesser:PatristicExegesis; @McKim:BiblicalInterpreters;
+@Thompson:ReadingwDead.]
+For example, the tradition of beginning the series of psalms in the Christmas
+Matins liturgy with Psalm 2 was influenced by the interpretation of that psalm
+as a Messianic prophecy in patristic exegesis---such as the sermons of Pope St.
+Leo the Great, Pope St. Gregory the Great, and St. Ambrose, which were included in Matins as the lessons of the second and third Nocturnes.
+Moreover, the Scripture's placement in this liturgical context in turn
+reinforced the Messianic interpretation.
+Padilla's villancico was performed in the midst of these Scriptures and
+patristic preaching, as well as contemporary preaching in the vernacular; it
+should be understood as amplifying, extending, and even playing with the
+Christmas tropes in those other sources.
+
+<!--- catechism, cur Deus incarnatus, foundation of Christmas belief and
+devotion (Christ "is" and Christ "as"; God's action in Incarnation and our
+response in wonder and adoration)
+then right to Verbum infans as bridge between the theological concept and
+possibility of musical conceit
+-->
+
 <!--- *********************************************************************** -->
 
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
