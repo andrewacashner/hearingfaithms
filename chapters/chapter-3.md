@@ -708,7 +708,7 @@ phrase "before the time signature" musically.
 The musical conceipts in the next lines of poetry shift the focus from rhythm to
 melody, as the poem uses solmization symbols: *por el signo a la mi re, puestos
 los ojos en mi* (upon the sign of *A (la, mi, re)*, with eyes set on
-*mi*, or on me).
+me/*mi*).
 Likewise, Padilla's metamusical conceits play on the musical terms in the most
 literal sense, realizing the solmization syllables in several ways at the same
 time (`(ref float 'figure 'Padilla-Voces-alamire)`).
@@ -877,6 +877,17 @@ making the festival "feel like Christmas," the "proper ways of worshipping" (one
 etymology of the term *orthodoxy*) that characterize this particular
 celebration.[^feasts-and-seasons]
 
+[^feasts-and-seasons]:
+@Grimes:Beginnings, 54--62, identifies distinct but interlinked ritual modes of
+"liturgy" and "celebration."
+Scholars of ritual studies and Christian liturgical theology have consistently
+argued that liturgy does more than promulgate doctrines, but musicological and
+philological studies of post-Tridentine religious arts have not always paid
+enough attention to the insights of these fields.
+For an influential modern Catholic theology of the function of liturgical
+feasts, see @Taft:LiturgicalYear, 3--4, 12--23.
+<!--- ***** -->
+
 These tropes contributed to what might be called a Christmas imaginary, the
 contents of which one may see restated and endlessly varied not only in
 villancicos but also painted and sculpted on Spanish church walls and printed in
@@ -888,17 +899,10 @@ both official sources like the liturgy, creeds, catechisms, commentaries, and
 homilies as well as unofficial popular devotion drew from and contributed to a
 commmon fund of Christmas tropes, which by the seventeenth century was filled to
 overflowing.
-
-[^feasts-and-seasons]:
-@Grimes:Beginnings, 54--62, identifies distinct but interlinked ritual modes of
-"liturgy" and "celebration."
-Scholars of ritual studies and Christian liturgical theology have consistently
-argued that liturgy does more than promulgate doctrines, but musicological and
-philological studies of post-Tridentine religious arts have not always paid
-enough attention to the insights of these fields.
-For an influential modern Catholic theology of the function of liturgical
-feasts, see @Taft:LiturgicalYear, 3--4, 12--23.
-<!--- ***** -->
+The function of early modern Catholic feasts was not so much to teach people
+that Christ *is* something, as to cultivate to devotion to Christ *as*
+something.
+The goal was doxology more than doctrine.
 
 Though oral tradition was probably still the most important force in cultivating
 the Christmas imaginary in early modern Spain, printed theological literature
@@ -915,10 +919,12 @@ passages in preaching and commentaries.
 [On patristic exegesis and its relationship to later interpretve traditions, see
 @Kannengiesser:PatristicExegesis; @McKim:BiblicalInterpreters;
 @Thompson:ReadingwDead.]
+
 For example, the tradition of beginning the series of psalms in the Christmas
 Matins liturgy with Psalm 2 was influenced by the interpretation of that psalm
 as a Messianic prophecy in patristic exegesis---such as the sermons of Pope St.
-Leo the Great, Pope St. Gregory the Great, and St. Ambrose, which were included in Matins as the lessons of the second and third Nocturnes.
+Leo the Great, Pope St. Gregory the Great, and St. Ambrose, which were included
+in Matins as the lessons of the second and third Nocturnes. 
 Moreover, the Scripture's placement in this liturgical context in turn
 reinforced the Messianic interpretation.
 Padilla's villancico was performed in the midst of these Scriptures and
@@ -931,6 +937,113 @@ devotion (Christ "is" and Christ "as"; God's action in Incarnation and our
 response in wonder and adoration)
 then right to Verbum infans as bridge between the theological concept and
 possibility of musical conceit
+-->
+
+The foundation of the Christmas feast was devotion to "Jesus Christ, [God's]
+only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin
+Mary," as stated in the Apostle's Creed, which in turn was the basis for
+catechesis.
+[@Catholic:Catechismus1614, 34: "Et in Iesum Christum Filium eius vnicum,
+Dominum nostrum"; 46, "Qui conceptus est de Spiritu sancto, natus ex Maria
+virgine."]
+The Roman Catechism explains this article by answering a classic theological
+question that appeared in many other commentaries, *Cur Deus incarnatus fuerit*
+(Why God became incarnate).
+The catechism instructs pastors to teach the "admirable mystery of the concept"
+by having "the faithful repeat by memory [...] that he [Christ] is God, who took
+on human flesh, and thereby was truly 'made man'---which cannot be grasped by
+our mind, nor explained through words: that he should wish to become a human,
+to the end that we humans should be reborn as children of God."
+[@Catholic:Catechismus1614, 50: "Hæc sunt quæ de admirabili conceptionis
+mysterio explicanda visa sunt, ex quibus, vt salutaris fructus ad nos redundare
+possit, illa in primis fideles memoria repetere, ac sæpiùs cogitare cum animis
+suis debent, Deum esse, qui humanam carnem assumpsit: ea verò ratione hominem
+factum, quam mente nobis assequi non licet, ne dum verbis explicare: ob eum
+denique finem hominem fieri voluisse, vt nos homines filij Dei renasceremur.
+Hæc cùm attentè considerauerint, tum verò omnia mysteria, quæ hoc articulo
+continentur, humili ac fideli animo credant, & adorent: nec curiosè & quod sine
+periculo vix vnquam fieri potest, illa inuestigare, ac perscrutari velint."]
+
+This frequently quoted passage summarizes the basic theology of exchange between
+God and Man by means of Christ's Incarnation.
+Padilla's villancico text puts this in musical terms, speaking of Christ as
+"forming the consonances of Man and God" and concluding that "Everything in God
+is to descend, and everything in Man is to ascend."
+The musical setting even performs the concept through literal voice exchanges
+between the ascending and descending motives.
+
+The exegete Cornelius à Lapide summarizes the same concept, drawing on Biblical
+and patristic sources, to show that Christ's birth is integral to the Christian
+gospel of salvation through Christ's sacrifical death and resurrection
+In the birth of Christ, he writes "the Word was made flesh, God was made man,
+the Son of God was made the son of a Virgin": 
+
+> This was of all God's works the greatest and best, such that it stupefied and
+> stupefies the angels and all the saints.
+> In this God demonstrated his full power by uniting man to God, the mire to the
+> Word, the earth to heaven; and showed his full wisdom, since the one who could
+> not suffer and redeem us in his divinity, put on flesh in the Virgin, since in
+> flesh he could suffer and make satisfaction for our sins to God the Father;
+> and his full justice, so that by the dignity of his person, as one equal to
+> God, he satisfied God's wrath and vengeance by dying on the cross; and all his
+> goodness, which he poured out completely in order to give away his gifts to
+> us; "For he was made the son of men, so that he might make us sons of God,"
+> says St. Augustine. "He was born on the earth, so that man might be reborn
+> into heaven," as St. Gregory says.
+[@Lapide:Gospels19C, 50, on Mt. 1:16, *natus est Jesus*: 
+"q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
+Filius Virginis.
+Hoc, [...] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt et
+stupent Angeli, Sanctique omnes.
+In eo enim Deus ostendit summam potentiam uniendo hominem Deo, limum Verbo,
+terram cœlo: ac summam sapientiam, ut qui divinitate pati et nos redimere non
+poterat, carnem in Virgine indueret, qua pati, et pro peccatis nostris Deo Patri
+satisfacere posset: summam quoque justititiam, quia ob dignitatem personæ, ex
+æquo quasi Dei iræ et vindictæ moriendo in cruce satisfecit: summam etiam
+bonitatem, quia semetipsum exinanivit, ut nos suis donis repleret: *Ac factus
+est filius hominis, ut nos efficeret filios Dei*, ait S. August. *Natus est in
+terra, ut homo nasceretur in cœlo*, ut ait S. Gregorius."]
+
+These formulations not only explain God's action in becoming Incarnate for human
+salvation, but also model how the faithful should respond---worshiping and
+serving Christ with wonder and admiration, like the shepherds of Bethlehem.
+While the Incarnation was certainly a dogma, a "rule of belief," even the
+offical catechism moves beyond simply defining a theological concept, to include
+an affective, devotional emphasis---a "rule of prayer" as well.[^lex-orandi]
+The proper response to meditating on this "all of these mysteries," the
+catechism says, would be "that with a humble and faithful spirit they should
+believe, and adore."
+[@Catholic:Catechismus1614, 50: "Hæc cùm attentè considerauerint, tum verò omnia
+mysteria, quæ hoc articulo continentur, humili ac fideli animo credant, &
+adorent: nec curiosè & quod sine periculo vix vnquam fieri potest, illa
+inuestigare, ac perscrutari velint."]
+
+[^lex-orandi]:
+The idea of a "rule of prayer" comes from a Latin motto, drawn from Prosper of
+Aquitaine, that has become a standby in modern liturgical studies, *lex orandi,
+lex credendi*.
+Rather than use the motto to create a dichotomy between belief and prayer---in
+which "the rule of prayer establishes the rule of faith", as in
+@Kavanagh:LiturgicalTheology---the intent here is simply to emphasize that both
+faith and worship may be seen as integral and interrelated parts of religious
+life in Christianity.
+For critical discussion of the motto, with attentions to its actual origin and
+its changing meaning in recent scholarship, see @Irwin:LexOrandi.
+<!--- ***** -->
+
+Wonder at Christ's birth is one of the primary tropes of Christmas, and
+much Spanish devotional music seems designed primarily to cultivate this
+attitude.
+Padilla's setting of *Voces, las de la capilla* evokes wonder not only in the
+words in the virtuoso composition and performance of the music as well.
+The song that is the Christ-child is "as much to hear as to admire," the
+villancico says.
+
+
+<!--- admirabile sacramentum; tan de admirar; Gaylord on admiratio diss l. 1510
+
+ - liturgy, Leo
+ - Fray Luis
 -->
 
 <!--- *********************************************************************** -->
