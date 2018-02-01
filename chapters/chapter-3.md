@@ -708,7 +708,7 @@ phrase "before the time signature" musically.
 The musical conceipts in the next lines of poetry shift the focus from rhythm to
 melody, as the poem uses solmization symbols: *por el signo a la mi re, puestos
 los ojos en mi* (upon the sign of *A (la, mi, re)*, with eyes set on
-me/*mi*).
+*mi*, or on me).
 Likewise, Padilla's metamusical conceits play on the musical terms in the most
 literal sense, realizing the solmization syllables in several ways at the same
 time (`(ref float 'figure 'Padilla-Voces-alamire)`).
