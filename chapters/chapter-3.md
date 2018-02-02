@@ -1130,7 +1130,86 @@ Christ-child, "weeping and trembling with cold in the stable."
 [@LuisdeGranada:Xmas, para. 9]
 Fray Luis follows the exegetical tradition of reading Wisdom 7 as a Messianic
 prophecy, such that King Solomon's words about himself may be applied to his
-royal descendent, Christ: "I too am a mortal man like others, [...]
+royal descendent, Christ: "I too am a mortal man like others, [...] and the
+first sound [*voz*] that I m ade was crying like other children, because not one
+of the kings had any different origin in their birth."
+[@LuisdeGranada:Xmas, para. 9]
+
+Fray Luis, as an avid student and teacher of Catholic Humanism, presents Christ
+as an orator and philosophical teacher, a "Master of Heaven"---*Maestro del
+cielo*, the same term used for a musical master---and explicitly compares the
+voice of this incarnate Word with music:
+
+> Oh fortunate house!
+> Oh stable, more precious than all the royal palaces, where God sat upon the
+> chair [*cátedra*] of the philosophy of heaven, where the word of God, though
+> made mute, speaks so much more clearly, all the more silently it admonishes
+> us!
+> Look, then, brother, if you wish to be a true philosopher, do not remove
+> yourself from this stable where the word of God cries while keeping silent;
+> but this cry is greater eloquence than that of Tully [Cicero], and even than
+> the music of the angels of heaven.
+[@LuisdeGranada:Xmas, para. 16:
+<!--- first portion ... -->
+"donde la palabra de Dios enmudecida, tanto mas claramente hable, cuanto mas
+calladamente nos avisa.
+Mira, pues, hermano, si quieres ser verdadero filósofo no te apartes deste
+establo donde la palabra de Dios callando llora; mas este lloro es mayor
+elocuencia que la de Tulio, y aun que las músicas de los ángeles del cielo."]
+
+For this passage Fray Luis cites "a doctor", and in fact the whole passage is a
+paraphrase from St. Bernard of Clairvaux. 
+<!--- saint titles? -->
+The Latin key term behind the friar's phrase *la palabra de Dios enmudecida* is,
+in Bernard's fifth Christmas sermon, *Verbum infans*---the Word who is both
+"infant" and "unspeaking," since like the Spanish *infante* in Padilla's
+villancico, the Latin word *infans* can have either meaning.
+Bernard expresses the trope in this way:
+
+> But what kind of mediator is this, you ask, who is born in a stable, placed in
+> a manger, wrapped in cloths like all others, cries like all others, in sum,
+> who lies unspeaking as an infant [*infans*], just as others are accustomed to
+> do?
+> A great mediator he is indeed, even in this seeking all the things that are
+> for peace, not just going through the motions but working effectively.
+> He is an infant, but he is the infant Word [*Verbum infans*], and not even in
+> his infancy does he keep silent.
+[@Bernard:Nativitate, 128A, Sermo V: 
+"Sed qualis mediator est, inquies, qui in stabulo nascitur, in praesepio
+ponitur, pannis involvitur sicut caeteri, plorat ut caeteri, denique infans
+jacet, ut caeteri consueverunt? 
+Magnus plane mediator est, etiam in his omnibus, quae ad pacem sunt, non
+perfunctorie, sed efficaciter quaerens.
+Infans quidem est, sed Verbum infans, cujus ne ipsa quidem infantia tacet."]
+<!--- check all translations, especially Latiin -->
+
+<!--- establish connection of these books to Spanish education and Puebla
+libraries -->
+
+Bernard is himself drawing on an older tradition of the theology of the Word
+going back to St. Augustine, who reiterates this trope throughout his dozens of
+Christmas sermons.
+Augustine's editors even title one sermon *Verbum infans doctor humilitatis*---the
+infant Word, teacher of humility.
+[@Augustine:SermonesPL, 1004, heading for sermon 187.]
+<!--- him or his editor? which editor? -->
+In another, Augustine preaches, 
+
+> [This day] is called the Nativity of the Lord, when the Wisdom of God
+> manifested itself unspeaking [or, as an infant], and the Word of God without
+> words sent forth a voice of flesh.
+> That divinity which was thus hidden, was both signified to the Magi by the
+> witness of Heaven, and announced to the shepherds by an angelic voice.
+> This, therefore, is the day whose anniversary we celebrate in our ritual.
+[@Augustine:SermonesPL, 997, Sermo 185, In Natali Domini 2: 
+"Natalis Domini dicitur, quando Dei Sapientia se demonstravit infantem, et Dei
+Verbum sine verbis vocem carnis emisit.
+Illa tamen occulta divinitas, et Magis coelo teste significate, et pastoribus
+angelica voce nuntiata est.
+Hanc igitur anniversaria solemnitate celebramus diem [...]."]
+
+
+
 
 
 <!--- *********************************************************************** -->
