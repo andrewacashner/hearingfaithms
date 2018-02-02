@@ -1137,8 +1137,8 @@ of the kings had any different origin in their birth."
 
 Fray Luis, as an avid student and teacher of Catholic Humanism, presents Christ
 as an orator and philosophical teacher, a "Master of Heaven"---*Maestro del
-cielo*, the same term used for a musical master---and explicitly compares the
-voice of this incarnate Word with music:
+cielo*, the same term used for a musical master.[^Clement-magister]
+He explicitly compares the voice of this incarnate Word with music:
 
 > Oh fortunate house!
 > Oh stable, more precious than all the royal palaces, where God sat upon the
@@ -1156,6 +1156,18 @@ calladamente nos avisa.
 Mira, pues, hermano, si quieres ser verdadero filósofo no te apartes deste
 establo donde la palabra de Dios callando llora; mas este lloro es mayor
 elocuencia que la de Tulio, y aun que las músicas de los ángeles del cielo."]
+
+[^Clement-magister:]
+This trope extends as far back as Clement of Alexandria in the first century,
+whom Lapide quotes as saying that "the Word, which was with God, appears as a
+teacher; the Word by which all things were build [...], as a craftsman; to teach
+good living, as a master teacher."
+*Exhortatione ad Gentes*, as quoted in @Lapide:Gospels19C, 878, on John 1:
+"Verbum, ait, "quod erat apud Deum, doctor apparuit; Verbum per quot omnia sunt
+fabricata, et quod cum eo, qui finxit, vitam simul præbuit, ut opifex, bene
+vivere docuit, cum apparuisset ut magister, ut postea semper vivere suppeditaret
+ut Deus."
+<!--- ***** -->
 
 For this passage Fray Luis cites "a doctor", and in fact the whole passage is a
 paraphrase from St. Bernard of Clairvaux. 
@@ -1208,7 +1220,35 @@ Illa tamen occulta divinitas, et Magis coelo teste significate, et pastoribus
 angelica voce nuntiata est.
 Hanc igitur anniversaria solemnitate celebramus diem [...]."]
 
+In true Neoplatonic fashion, Augustine builds a chain of signification from the
+highest level of being---the Godhead and its incarnation as the
+Christ-child---to the signs that pointed to this reality in the material world;
+moving from divine Wisdom to the child in whom God manifested himself.
+He then moves to the worldly signs that pointed to Christ at his birth, and then
+links this to the present-day ritual of the Mass of the Nativity.
+As the master of a theology of communication through sign and signified (in *De
+doctrina christiana*), Augustine is teaching the faithful to hear the words
+proclaimed in their midst (Scripture, preaching, liturgy) as signs pointing
+first to the angels' song in Bethlehem, and to hear and heed the angel's
+exhortation to the shepherds to seek out the "sign" of "a child wrapped in
+swaddling clothes and lying in a manger" (Luke 2:XXX).
+The Christ child they found was at this "infant" stage of life, not a speaker of
+divine words, but was the very Word himself---as Augustine says, "a voice of
+flesh."
 
+<!--- 
+- more on Augustine's concept of voice, Word, signification; to get at voice as
+  embodied presence, perhaps even to sacramental hearing
+- link to present-day worship; match to concept of voces
+- also match scenario of "unspeaking Word" holding forth in his chair of
+philosophy as magister to opening image of Voces with divine chapelmaster
+listening 
+- link incarnation to sacrament; find him in the Eucharist as in Chrysostom
+  quote
+- also link encounter with Christ to devotion and life as in closing quote about
+  imitating shepherd
+- bring in Palafox, Pastor de nochebuena for this
+-->
 
 
 
