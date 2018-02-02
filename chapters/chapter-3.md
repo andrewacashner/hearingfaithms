@@ -964,17 +964,16 @@ Hæc cùm attentè considerauerint, tum verò omnia mysteria, quæ hoc articulo
 continentur, humili ac fideli animo credant, & adorent: nec curiosè & quod sine
 periculo vix vnquam fieri potest, illa inuestigare, ac perscrutari velint."]
 
-This frequently quoted passage summarizes the basic theology of exchange between
-God and Man by means of Christ's Incarnation.
-Padilla's villancico text puts this in musical terms, speaking of Christ as
-"forming the consonances of Man and God" and concluding that "Everything in God
-is to descend, and everything in Man is to ascend."
-The musical setting even performs the concept through literal voice exchanges
-between the ascending and descending motives.
-
-The exegete Cornelius à Lapide summarizes the same concept, drawing on Biblical
-and patristic sources, to show that Christ's birth is integral to the Christian
-gospel of salvation through Christ's sacrifical death and resurrection
+The exegete Cornelius à Lapide attributes a similar formulation to Anselm,
+writing that Christ "lowered himself to the earth and flesh, in order to lift us
+up to heaven. 'Therefore,' says St. Anselm, 'God was made man, in order that man
+might be made God.'"
+[@Lapide:Gospels19C, 670, on Lk. 2:7:
+"Depressit se in terram et carnem, ut nos eveheret in cœlum. *Ideo*, ait S.
+Anselm, *Deus factus est homo, ut homo fieret Deus*.]
+Lapide draws on Biblical and patristic sources to show that Christ's birth is
+integral to the Christian gospel of salvation through Christ's sacrifical death
+and resurrection.
 In the birth of Christ, he writes "the Word was made flesh, God was made man,
 the Son of God was made the son of a Virgin": 
 
@@ -1003,6 +1002,14 @@ satisfacere posset: summam quoque justititiam, quia ob dignitatem personæ, ex
 bonitatem, quia semetipsum exinanivit, ut nos suis donis repleret: *Ac factus
 est filius hominis, ut nos efficeret filios Dei*, ait S. August. *Natus est in
 terra, ut homo nasceretur in cœlo*, ut ait S. Gregorius."]
+
+This is the basic theology of exchange between God and Man by means of Christ's
+Incarnation that was celebrated, and enacted, in the Christmas liturgy.
+Padilla's villancico text puts this in musical terms, speaking of Christ as
+"forming the consonances of Man and God" and concluding that "Everything in God
+is to descend, and everything in Man is to ascend."
+The musical setting even performs the concept through literal voice exchanges
+between the ascending and descending motives.
 
 These formulations not only explain God's action in becoming Incarnate for human
 salvation, but also model how the faithful should respond---worshiping and
@@ -1133,7 +1140,7 @@ prophecy, such that King Solomon's words about himself may be applied to his
 royal descendent, Christ: "I too am a mortal man like others, [...] and the
 first sound [*voz*] that I m ade was crying like other children, because not one
 of the kings had any different origin in their birth."
-[@LuisdeGranada:Xmas, para. 9]
+[@LuisdeGranada:Xmas, para. 9; cf. @Lapide:Gospels19C, 670, on Lk. 2:7]
 
 Fray Luis, as an avid student and teacher of Catholic Humanism, presents Christ
 as an orator and philosophical teacher, a "Master of Heaven"---*Maestro del
@@ -1236,20 +1243,85 @@ The Christ child they found was at this "infant" stage of life, not a speaker of
 divine words, but was the very Word himself---as Augustine says, "a voice of
 flesh."
 
+
 <!--- 
 - more on Augustine's concept of voice, Word, signification; to get at voice as
   embodied presence, perhaps even to sacramental hearing
 - link to present-day worship; match to concept of voces
+
 - also match scenario of "unspeaking Word" holding forth in his chair of
 philosophy as magister to opening image of Voces with divine chapelmaster
 listening 
+  + Lapide, stable is turned into highest heaven, diss l. 1877
 - link incarnation to sacrament; find him in the Eucharist as in Chrysostom
-  quote
+  quote, l. 2475
+
 - also link encounter with Christ to devotion and life as in closing quote about
-  imitating shepherd
-- bring in Palafox, Pastor de nochebuena for this
+  imitating shepherd, l. 2496 (or save for section or chapter conclusion) 
+- bring in Palafox, Pastor de nochebuena for this (diss last ch, xJAMS article)
+
+- TIE BACK to the villancico text and music
 -->
 
+Augustine uses the voice as an extended metaphor for understanding the actual
+process of Christ's Incarnation.
+<!--- which is why music can then be added on -->
+Augustine uses the peculiar features of the voice to defend the doctrine that
+Christ was not "changed" into flesh, but "remained the Son of God" even "having
+been made the Son of Man."
+[@Augustine:SermonesPL, 1002, Sermo 187, In Natali Domini 4: 
+"manentem Dei filium, factum hominis filium."]
+<!--- rest of quote -->
+The Word of God existed from eternity, Augustine teaches, drawing on his
+learning in rhetoric and language (as also expressed in his treatise *De
+musica*).
+In its eternal state it "was not varied by punctuation marks whether short or
+long [*nec morulis brevibus longisque*, a concept echoed in Padilla's *máxima y
+breve*], nor drawn together by the voice, nor ended by silence."
+[@Augustine:SermonesPL, 1001, Sermo 187, In Natali Domini 4: 
+"Quanto magis Verbum Dei, per quod facta sunt omnia, et quod in se manens
+innovat omnia; quod nec locis concluditur; nec temporibus tenditur, nec morulis
+brevibus longisque variatur, nec vocibus texitur, nec silentio terminatur;
+quanto magis hoc tantum et tale Verbum potuit matris uterum assumpto corpore
+fecundare, et de sinu Patris non emigrare?"]
+But Christ as the Word took on flesh and became known to humans, Augustine
+teaches, just an idea becomes a spoken word, without ceasing to be an idea.
+In the form of a spoken word it can be communicated to those who hear it and
+enter into their minds as an idea.
+This is because for Augustine, a word first exists as pure thought before it is
+spoken, but when uttered is "clothed in the voice":
+
+> A word [*verbum*; or, thought] that we carry in the heart, when joined with a
+> voice [*vox*; or, speech, spoken word], we bring forth to the ear, is not
+> changed into the voice, but the whole word is assumed into the voice in which
+> it proceeds, so that internally the idea the word makes intelligible remains,
+> while externally the voice produces the sound that is heard.
+> This word, then, brings forth in sound, what previously resounded in silence.
+> The word, upon being made a voice [or, upon being spoken], is not changed into
+> the voice itself, but rather, remaining in the mind's light, and having
+> assumed the voice [or speech] of flesh, it proceeds to the hearer, and does
+> not leave the thinker.
+> The word in silence is not thought by means of this voice [spoken word],
+> whether it is Greek or Latin or whatever other tongue: but rather, the thing
+> itself which is to be said, before all other differentiations of tongues, is
+> understood in some naked manner in the chambers of the heart, from whence it
+> proceeds, being spoken, to be clothed in the voice.
+[@Augustine:SermonesPL, 1002, Sermo 187, In Natali Domini 4: 
+"Sicut verbum quod corde gestamus, fit vox cum id ore proferimus, non tamen
+illud in hanc commutatur, sed illo integro ista in qua procedat assumitur, ut et
+intus maneat quod intelligatur, et foris sonet quod adiatur: hoc idem tamen
+profertur in sono, quod ante sonuerat in silentio; atque ita verbum cum fit vox,
+non mutatur in vocem; sed manens in mentis luce, et assumpta carnis voce
+procedit ad audientem, et non deserti cogitantem.
+Non cum ipsa vox in silentio cogitatur, quae vel graecae est, vel latinae, vel
+linguae alterius cujuslibet: sed cum ante omnem linguarum diversitatem res ipsa
+quae dicenda est, adhuc in cubili cordis quodam modo nuda est intelligenti, quae
+ut inde procedat loquentis voce vestitur."]
+
+<!--- START diss l. 1909 summarize incarnation and voice and bring back to
+villancico -->
+
+<!--- cite sermons so that ibid can work -->
 
 
 <!--- *********************************************************************** -->
