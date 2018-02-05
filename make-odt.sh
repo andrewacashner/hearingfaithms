@@ -13,8 +13,8 @@ do
         --reference-odt config/vcbook.odt \
         --bibliography master.bib \
         --csl chicago-fullnote-bibliography.csl \
-        chapters/head.yaml "$file" \
-        -o "${file%.md.ref}.odt"
+        -o "${file%.md.ref}.odt" \
+        config/odt.yaml chapters/head.yaml "$file"
 done
 
 mv chapters/*.odt odt/

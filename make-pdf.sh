@@ -6,7 +6,6 @@ floatref chapters/chapter-*.md
 
 echo "Converting to PDF..."
 pandoc \
-    config/pdf.yaml chapters/head.yaml chapters/chapter-*.md.ref \
     --filter pandoc-citeproc \
     --latex-engine xelatex \
     --top-level-division part \
@@ -14,7 +13,9 @@ pandoc \
     --include-in-header config/ms.tex \
     --bibliography master.bib \
     --csl chicago-fullnote-bibliography.csl \
-    -o pdf/all.pdf
+    -o pdf/all.pdf \
+    config/pdf.yaml chapters/head.yaml chapters/chapter-*.md.ref 
+
 rm chapters/chapter-*.md.ref
 echo "Created pdf/all.pdf"
 

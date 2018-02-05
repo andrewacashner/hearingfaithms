@@ -8,6 +8,13 @@ chapter 3: Christ as Singer and Song
 2017-05-01      New version for book begun in Montrose
 -->
 
+<!--- TODO
+- check Scriptural quotations: when to use Vulgate or own translation vs NRSV;
+  Greek vs. Latin 
+- cite sermons so that ibid can work 
+-->
+
+
 # Listening for Unhearable Music
 
 ## Christ as Singer and Song
@@ -1144,7 +1151,7 @@ of the kings had any different origin in their birth."
 
 Fray Luis, as an avid student and teacher of Catholic Humanism, presents Christ
 as an orator and philosophical teacher, a "Master of Heaven"---*Maestro del
-cielo*, the same term used for a musical master.[^Clement-magister]
+cielo*, the same term used for a musical master.
 He explicitly compares the voice of this incarnate Word with music:
 
 > Oh fortunate house!
@@ -1164,19 +1171,7 @@ Mira, pues, hermano, si quieres ser verdadero filósofo no te apartes deste
 establo donde la palabra de Dios callando llora; mas este lloro es mayor
 elocuencia que la de Tulio, y aun que las músicas de los ángeles del cielo."]
 
-[^Clement-magister:]
-This trope extends as far back as Clement of Alexandria in the first century,
-whom Lapide quotes as saying that "the Word, which was with God, appears as a
-teacher; the Word by which all things were build [...], as a craftsman; to teach
-good living, as a master teacher."
-*Exhortatione ad Gentes*, as quoted in @Lapide:Gospels19C, 878, on John 1:
-"Verbum, ait, "quod erat apud Deum, doctor apparuit; Verbum per quot omnia sunt
-fabricata, et quod cum eo, qui finxit, vitam simul præbuit, ut opifex, bene
-vivere docuit, cum apparuisset ut magister, ut postea semper vivere suppeditaret
-ut Deus."
-<!--- ***** -->
-
-For this passage Fray Luis cites "a doctor", and in fact the whole passage is a
+For this passage Fray Luis cites "a doctor," and in fact the whole passage is a
 paraphrase from St. Bernard of Clairvaux. 
 <!--- saint titles? -->
 The Latin key term behind the friar's phrase *la palabra de Dios enmudecida* is,
@@ -1318,10 +1313,105 @@ linguae alterius cujuslibet: sed cum ante omnem linguarum diversitatem res ipsa
 quae dicenda est, adhuc in cubili cordis quodam modo nuda est intelligenti, quae
 ut inde procedat loquentis voce vestitur."]
 
-<!--- START diss l. 1909 summarize incarnation and voice and bring back to
+<!--- diss l. 1909 summarize incarnation and voice and bring back to
 villancico -->
 
-<!--- cite sermons so that ibid can work -->
+Augustine is reflecting on language as a way to understand how Christ can be in
+his body the form of communication between God and
+humankind.[^Augustine-further-word]
+Human thought is transferred from one person's inner heart and mind to that of
+another by means of the external medium of the spoken voice.
+The body thus converts an inarticulate, abstract idea into a form that others
+can perceive through the physical act of hearing.
+The voice itself, then, is independent of the body; it transfers the idea
+to the hearer without the idea leaving the speaker's mind.
+Theologically, in Augustine's conception, Christ as the eternral Word is like
+the inner thought before being expressed in speech; Christ as the Word made
+flesh is like the human spoken word.
+Thus the Christ-child embodies divine communication not through spoken words,
+but through his very body. 
+Because the Christ-child is both divine and human, he is both sign and
+signified.
+
+[^Augustine-further-word]:
+For further on Augustine's concept of the Word and its relationship to language
+and rhetoric, see the sermons *De verbis Domini* and the treatise *De doctrina
+christiana*.
+The theology of Christ as the Word is also exhaustively treated in Lapide's
+commentary on the first chapter of John, @Lapide:Gospels19C, 872--889.
+<!--- ***** -->
+
+The concept of the *Verbum infans*, then, is that Christ as an infant cannot
+speak words, but this is fitting since he himself is the Word.
+This all amounts to an extended exegesis of the opening of the New Testament
+letter to the Hebrews, which contrasts God's communications to humanity
+through prophetic words with his final communication in the person of Jesus:
+"Long ago God spoke to our ancestors in many and various ways by the prophets,
+but in these last days he has spoken to us by a Son [...]. He is the reflection
+of God's glory and the exact imprint of God's very being, and he sustains all
+things by his powerful word" (Heb. 1:1--3, NRSV).
+Lapide connects Word and Incarnation thus: "We hear God teaching and preaching
+from the chair [*cathedra*] of this manger, not by a word but by a deed: [...] 
+I have been made a little one, of your bone and your flesh, I am made man, in
+order to make you God."
+[@Lapide:Gospels19C, 673, on Lk. 2: 
+"Quid fecit tantus Deus, in tantilla carne, jacens in præsepio? 
+Audiamus ipsummet in præsepii cathedra, non verbo sed facto docentem et
+prædicantem: 
+[...] Parvulus factus sum, os tuum et caro tua, factus sum homo, ut te Deum
+efficerem."]
+Lapide paraphrases St. Cyril on the Word in John's Gospel 1:3 ("through him [the
+Word] all things were made"): 
+
+> An artisan [*artifex*] makes all of the works of his craft [*opera artis*]
+> according to the idea, knowledge [wisdom], concept, or "word" [thought] that
+> is in his mind: all of these comparisons are appropriate for the divine Word,
+> or Son, who is Wisdom begotten, not made; and by consequence it is also
+> appropriate to say that by him all things were made." 
+[@Lapide:Gospels19C, 877, on Jn. 1:3: 
+"Artifex enim omnia opera artis suæ facit per ideam, sapientiam, conceptum, sive
+verbum mentis suæ: hæc autem omnia appropriantur Verbo divino, sive Filio, qui
+est Sapientia genita, sed increata; et per consequens appropriatur ei, quod per
+ipsum omnia sint facta. Ita S. Cyrillus."]
+
+### Christ the Word as Both Song and Singer
+
+The signifance of the villancico *Voces, las de la capilla* as a source of
+musical theology is that the poem takes this theological trope and interprets in
+musical terms, and the musical setting embodies that musical conceit in sounding
+music.
+According to the poem's concept, the Christ-child is the masterwork that proves
+the craft of the divine *artifex*---now a chapelmaster in the Spanish
+fashion. 
+Bringing together *maxima* and *breve*, "high" and low in the incarnate Christ,
+God the Father "proves" that he can form "consonances between a man and God"
+(copla 2).
+Thus on one level Christ is God's song, and "the Word" is envisioned not as
+speech but as music.
+Christ, then, takes the "lyrics" of his ancestor David, royal chapelmaster, and
+"sets them to notes" (poem l. 7) through his heroic, sacrificial life.
+He himself holds the *clave* (musical clef/key of authority); he himself is the
+*divisa* (sign); and it is Christ himself who is *el signo a la mi re*, "the
+sign of A"---the first note of a new song in which can be heard "the voice of
+the Father." (ll. 9, 11, 24, 27).
+This connects to a larger theological trope of the "new song," based on
+Revelations X:XX, numerous psalms, and other Scriptures. 
+<!--- examples of new song trope -->
+
+<!--- FN Lapide on signum -->
+
+The poem's "sign of *A (la, mi, re)*"---realized by Padilla through puns of
+solmization on these syllables---connects the concept of Christ as the song to
+that of Christ as the singer as well.
+
+<!--- alpha/omega, inarticulate baby A voice (cf Solomon), music better metaphor
+than speech for capturing this concept; and specifically musical formal
+constructions, not just poetic references to music; connect back to Augustine's
+linking of present-day feast to Christmas past to Christ the Word -->
+
+<!--- Bernard says Verbum infans is silent -->
+
+
 
 
 <!--- *********************************************************************** -->
