@@ -1067,9 +1067,12 @@ admire [*admirar*],/ as much to admire as to hear."
 
 In this case the term *admirar* has a more specific association, with the
 liturgy of Matins.
-Based on the piece's position in the musical manuscripts, it was most likely sung as the fourth villancico in the Matins cycle on Christmas Eve 1657
-at Puebla Cathedral.
-Padilla's *Voces*, according to a 1633 decree of the cathedral chapter, would have occupied the same liturgical time and space as the fourth Responsory, *O magnum mysterium et admirabile sacramentum*:
+Based on the piece's position in the musical manuscripts, it was most likely
+sung as the fourth villancico in the Matins cycle on Christmas Eve 1657 at
+Puebla Cathedral.
+Padilla's *Voces*, according to a 1633 decree of the cathedral chapter, would
+have occupied the same liturgical time and space as the fourth Responsory, *O
+magnum mysterium et admirabile sacramentum*:
 
 > *Respond.* O great mystery and admirable sacrament, that the animals should
 > see the newborn Lord, lying in the manger.
@@ -1084,7 +1087,9 @@ The chapter mandated that while "the lessons should be sung in their entirety,"
 "the *chanzoneta* shall serve for the Responsory, which shall be prayed speaking
 while the singing is going on."
 [MEX-Pc: AC 1633-12-30: 
-"que a los maitines de nauidad deste año y de los venideros [...] se canten todas las liçiones yn totum sin dejar cossa alguna dellas y que la chansoneta sirba de Responsorio el qual se diga resado mientrass se estubiere cantando."] 
+"que a los maitines de nauidad deste año y de los venideros [...] se canten
+todas las liçiones yn totum sin dejar cossa alguna dellas y que la chansoneta
+sirba de Responsorio el qual se diga resado mientrass se estubiere cantando."]
 <!--- full text in diss or appendix -->
 This villancico stood in between the lessons of the second Nocturne, which were
 taken from a Christmas sermon of Pope St. Leo the Great.
@@ -1096,7 +1101,8 @@ The poet and composer were evidently steeped in the theological and liturgical
 traditions of the Church, and had good reason to refer to the Responsory even in
 situations like this where it was not sung.
 For the learned cathedral canons, rather than diminishing the importance of the
-Responsory, the simultaneous performance of the Latin prayer and Spanish song may have actually deepend the hidden connections between the two.
+Responsory, the simultaneous performance of the Latin prayer and Spanish song
+may have actually deepend the hidden connections between the two.
 Lay people outside the walls of the architectural choir would not probably have
 heard or understood the words of the Latin liturgical text, so they would
 perhaps not have missed much.
@@ -1374,7 +1380,7 @@ verbum mentis suæ: hæc autem omnia appropriantur Verbo divino, sive Filio, qui
 est Sapientia genita, sed increata; et per consequens appropriatur ei, quod per
 ipsum omnia sint facta. Ita S. Cyrillus."]
 
-### Christ the Word as Both Song and Singer
+##### Christ the Word as Both Song and Singer
 
 The signifance of the villancico *Voces, las de la capilla* as a source of
 musical theology is that the poem takes this theological trope and interprets in
@@ -1403,21 +1409,110 @@ Revelations X:XX, numerous psalms, and other Scriptures.
 The poem's "sign of *A (la, mi, re)*"---realized by Padilla through puns of
 solmization on these syllables---connects the concept of Christ as the song to
 that of Christ as the singer as well.
+This theological tradition sees Christ the Word as a "sign," and therefore even
+as a "letter."
+Covarrubias glosses Spanish *divisa* with the Latin *signum*, from the Greek
+*sēma*, sign; and Lapide calls Christ "the sign of reconciliation of the human
+race to God."
+[@Covarrubias:Tesoro, s.v. *divisa*; @Lapide:Gospels19C, 685--686, on Lk. 2]
+Augustine connects the concept of the Word in Jn. 1 to Christ's statement in the
+Revelation to John, "I am *alpha* and *omega*, first and last, beginning and
+end" (Rev. 22:13).
+"And just as no letter comes before *alpha*," Augustine preaches, nothing
+precedes Christ or follows after him, "for he is God"---in the villancico's
+terms, "the one who is before time" (l. 24).
+[@Augustine:Opera1555, vol. 10, 118r, In Natali Domini 2: 
+"Sifides assit, aperta est ratio qua Christus nunc minor, nunc aequalis patri
+sacris voluminibus asseratur, sicut ipse de se dicit, Ego primus & novissimus. 
+Indubitanter agnosce quòd priorem non potest habere qui primus est. 
+Item, Ego sum α et ω. Et sicut alpha litera nulla praecedit, ita & filium dei
+nulli secundum constat esse, quia deus est."
+See also @Lapide:Apocalypse1627, on Rev. 1.]
 
-<!--- alpha/omega, inarticulate baby A voice (cf Solomon), music better metaphor
-than speech for capturing this concept; and specifically musical formal
-constructions, not just poetic references to music; connect back to Augustine's
-linking of present-day feast to Christmas past to Christ the Word -->
+Augustine uses the first and last letters of the Greek alphabet to explain the
+doctrine of the two conceptions of Christ, namely, that the Son of God was
+begotten eternally of the Father, but born temporally of the Virgin.
+<!--- catechism on this -->
+Christ's status as the Word had no beginning, but there was a temporal beginning
+to his life as a man.
+Thus in the villancico the *divisa* signifies the start of a new *tiempo* (l.
+11, 23).
+To use Augustine's concept of voice and word discussed earlier, then, the
+beginning of Christ's human life is the moment when idea becomes voice and
+communication becomes possible.
 
-<!--- Bernard says Verbum infans is silent -->
+What theological significance, in this tradition of theology, would be
+attributed to the actual voice of the baby Jesus?
+Bernard says the *Verbum infans* is "silent," and Fray Luis describes Christ as
+an orator but makes clear that Christ himself *is* the oration.
+Augustine's treatment of the voice is really a metaphor for Incarnation, not an
+attempt to speak of Christ's literal voice.
+But the concept of "the sign of A" in the villancico opens up the possibility of
+interpreting the newborn Christ's inarticulate cries as an expression, not of
+verbal concepts, but of his physical being.
+Covarrubias begins his Spanish dictionary with this definition of the letter A
+(pronounced like *ah* in Spanish):
 
+> The first letter in order according to all the nations that used characters,
+> [...] and this because of its being so very simple in its pronunciation
+> [*prolación*]. [...] And thus it is the first thing that man pronounces in
+> being born, except that the male (since he has more strength) says A, and the
+> female E [pronounced *eh*], in which man seems to enter into the wrld,
+> lamenting his first parents Adam and Eve.
+[@Covarrubias:Tesoro, s.v. *A*:
+"Primera letra en orden cerca de todas las naciones que usaron caracteres, [...]
+y esto por ser simplicissima en su prolacion. [...] 
+Y assi es la primera que el hombre pronuncia en naciendo, saluo que el varon
+como tiene mas fuerça dize A, y la hembra E, en que parace entrar en el mundo,
+lamentandose de sus primeros padres Adan y Eva."
+On symbolic alphabets in early modern devotional music, see @Kendrick:Jeremiah,
+XXX.]
 
+By this account, keeping in mind Fray Luis's description of Christ's newborn
+cries, the baby Jesus first cried out with the inarticulate vowel *A*,
+expressing in this sound his essenced as *alpha* and *omega*, as incarnate Word.
+Of course, A is also the first of the musical tones alphabetically, and may have
+been used as a common tuning pitch, as today.
+<!--- evidence -->
+The sound of his voice in this context expressed Christ's identity as the son of
+Adam, while also serving as a tuning note, or intonation, for a new song to
+replace the "wandering song" given to "the first man" (l. 34--35).
+All the other voices of Christmas follow after and echo the voice of Christ.
+Thus Christ in his cries performs the song that he himself is.
+What the worshippers heard in the baby's cries was "the voice of the Father/
+singing in tones of weeping," a "song/ as much to hear as to admire" (ll.
+27--30).
+This was not just an *admirabile sacramentum* as in the Responsory, but an
+audible sacrament as well---the sign of the bodily presence of the divine
+entering into their ears through sounds that were more like music than speech.
+
+It would not be possible to realize such a concept in any more fitting way than
+through a musical performance.
+Augustine, Fray Luis, and Lapide all connect the present-day liturgy of
+Christmas to the historical music of the angels at Christmas and ultimately to
+Christ himself as the divine Word, *Verbum infans*.
+Likewise, the villancico poem begins by invoking not angelic choirs or the
+musical menagerie of the manger, but rather calls listeners' attention to the
+"voices of the chapel choir," asking them to heed "what is sung" (ll. 1--2).
+Only through "putting notes to his lyrics" can the composer fully enact the
+concept of theological hearing central to the text. 
+Listeners are asked to pay attention not only to the words, but to "what is
+sung"---which includes the sonic whole of the composition with its plays of
+solmization, rhythm, stylistic allusion, and contrapuntal devices.
+Through the voices of the Puebla chapel choir, the faithful could listen for the
+unhearable higher music of Christmas, which ultimately meant encountering Christ
+himself.
+
+<!--- FN (Augustine uses the same phrase in Latin when he confesses being distracted by
+the singer rather than by "what is sung")
+-->
 
 
 <!--- *********************************************************************** -->
 
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
 
+<!--- START -->
 <!---
 (brief)
 
@@ -1443,4 +1538,4 @@ linking of present-day feast to Christmas past to Christ the Word -->
 #### Genealogy
 
 
-
+<!--- conclusions from diss padilla chapter: manger=altar etc. -->
