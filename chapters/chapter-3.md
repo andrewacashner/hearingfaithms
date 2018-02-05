@@ -1085,12 +1085,7 @@ portare Dominum Christum. *Versicle.* Ave Maria, gratia plena: Dominus tecum.]
 
 The chapter mandated that while "the lessons should be sung in their entirety,"
 "the *chanzoneta* shall serve for the Responsory, which shall be prayed speaking
-while the singing is going on."
-[MEX-Pc: AC 1633-12-30: 
-"que a los maitines de nauidad deste año y de los venideros [...] se canten
-todas las liçiones yn totum sin dejar cossa alguna dellas y que la chansoneta
-sirba de Responsorio el qual se diga resado mientrass se estubiere cantando."]
-<!--- full text in diss or appendix -->
+while the singing is going on."[^Puebla-Matins-AC]
 This villancico stood in between the lessons of the second Nocturne, which were
 taken from a Christmas sermon of Pope St. Leo the Great.
 This means that after a cantor chanted the first lesson, a cleric spoke the
@@ -1106,6 +1101,13 @@ may have actually deepend the hidden connections between the two.
 Lay people outside the walls of the architectural choir would not probably have
 heard or understood the words of the Latin liturgical text, so they would
 perhaps not have missed much.
+
+[^Puebla-Matins-AC]:
+MEX-Pc: AC 1633-12-30: 
+"que a los maitines de nauidad deste año y de los venideros [...] se canten
+todas las liçiones yn totum sin dejar cossa alguna dellas y que la chansoneta
+sirba de Responsorio el qual se diga resado mientrass se estubiere cantando."
+<!--- full text in diss or appendix -->
 
 The Responsory evokes the scenario of the Nativity, with the animals gathered
 around the manger, just as the villancico calls up the image of angels, beasts,
