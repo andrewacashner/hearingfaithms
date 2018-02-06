@@ -12,6 +12,8 @@ chapter 3: Christ as Singer and Song
 - check Scriptural quotations: when to use Vulgate or own translation vs NRSV;
   Greek vs. Latin 
 - cite sermons so that ibid can work 
+- Spanish quotes vs italics?
+- policy on date format? 
 -->
 
 
@@ -1680,8 +1682,195 @@ in Puebla -->
 ##### Version by Luis Bernardo Jalón, 1647
 
 <!--- connect Jalón and *Cantores* to Padilla via Puebla collection -->
+The next known villancico in this family is the 1647 poem *Cantores de la
+capilla*, performed in Seville, with music probably by Luis Bernardo Jalón.
+The text corresponds closely to the text of Padilla's *Voces, las de la
+capilla*.
+The first four lines of both poems are the same, except that Jalón's text has
+*Cantores* (singers) instead of *Voces* (voices) and *Niño* (child) instead of
+*Rey* (king). 
+Most of the last half of the estribillo in the Jalón print is the same as that
+set by Padilla, including the identical closing couplet.
+Jalón's fourth copla is identical to the end of Padilla's *introducción*.
 
-<!--- START -->
+Though the text of *Cantores* predates that of Padilla's *Voces*,
+the citation of a *Voces* setting by Santiago from even earlier combines with
+philological evidence to suggest that *Voces* actually preserves an earlier
+version of this textual family.
+The general trend in mid seventeenth-century Spanish villancico poetry was away
+from complex puzzles in the manner of Góngora and toward greater simplicity,
+clarity, and conventionality.
+Upon close comparison *Cantores* appears to be a somewhat garbled attempt to
+simplify the arcanely Gongoresque *Voces* to make it suit the tastes of a
+younger generation.
+
+In terms of structure and meter, *Voces* is more intricately patterned than
+*Cantores*: it features a *respuesta* section and a *linea de vuelta* joining the
+last line of the coplas to the beginning of the estribillo.
+The *respuesta* was more commonly used in villancicos before 1640, though
+Padilla continues to use it in several pieces of the 1650s.
+The *linea de vuelta* was a holdover from the rather different structure of the
+courtly villancicos of the sixteenth century, such as those set by Juan del
+Encina.
+[@Navarro:Metrica, XXX]
+Both Padilla's *Voces* and the incipit for Santiago's *Voces* contain the *linea
+de vuelta*, "Y a trechos las distancias."
+*Cantores*, by contrast, has no *respuesta* and omits this line.
+
+The estribillo of Padilla's *Voces* begins with the *linea de vuelta*, followed
+by a series of fully rhymed verse pairs, all in eight-syllable lines.
+The half-line "uno a uno" forms a bracket with the other half-line "O qué
+canto," marking off this section of paired verses from the closing quatrain, a
+*redondilla abrazada*.
+By contrast, the estribillo of *Cantores* begins with two lines with neither
+assonance nor rhyme, followed by a line that rhymes with nothing and can only
+scan as eight syllables if *que* and *lleva* are elided; the fourth line can
+only be read as ten syllables.
+The next four lines group in pairs with full rhymes, alternating lines of six
+and eleven syllables.
+These metrical irregularities are confined to this first portion of the
+estribillo; after this the remainder is almost identical to *Voces*.
+Thus the first section appears "tacked on" to the more refined pre-existing
+material in the second section.
+<!--- line numbers; poem in text? -->
+
+In terms of theological and musical conceits, *Cantores* reads like an attempt
+to take the dense *conceptismo* of *Voces* and both simplify and explain it.
+The connection of Christ's voice ("the sign of A") and the "voices of the chapel
+choir" is obscured, as the opening is changed to "singers of the chapel choir." 
+The crucial lines from *Voces*, "a la voz del padre oí/ cantar por puntos de
+llanto," are missing as well, which makes it harder to make sense of "el signo a
+la mi re."
+The thematically central second copla of *Voces* is absent from *Cantores*,
+obscuring the conceit of God as a musician and the newborn Christ as his
+masterwork.
+The connection between David and Christ as musician-kings is absent as well.
+"The King is a musician" in *Voces* is changed to "the child is a musician"---so
+that Christ is now explicitly the creator of the music rather than himself being
+the Music *and* the musician.
+Throughout the poems, where *Voces* has an ambiguous or cryptic line, *Cantores*
+has a less multivalent one: instead of "a la voz del padre oí" *Cantores* has
+"con que mil maravillas vi"; instead of "y aguardan tiempo oportuno/ quien antes
+del tiempo fue" *Cantores* has "después que aguardaron uno/ que llegó a tiempo
+oportuno/ quién antes del tiempo fue."
+The *Voces* version of these lines is pithy but a bit arcane; the *Cantores*
+version is crystal-clear but requires an extra line to say the same thing.
+
+The *conceptismo* in *Cantores* is not as tight as in *Voces*: in many cases,
+*Cantores* makes sense on the musical side but not on the theological side.
+Some of the musical terminology is deployed innaccurately, as when *Cantores*
+has Christ the composer writing in "compás mayor" in a "proporción abreviada"
+using a "clave con tres tiempos"---it is hard to know which actual meters might
+be indicated here.
+The poet of *Cantores* writes multiple lines like "O que lindamente suenan!/ o
+que dulcemente cantan" that do not advance the conceit, where the poet of
+*Voces* restrained such effusions to the four-syllable "O qué canto."
+The new poet has retained the technical terms and other key words used in the
+first version of the poem, but has attempted to explain the metaphors, sometimes
+in ways that change the meaning from the first poem.
+
+A good example of this procedure is the way the poet has retained the word
+*destreza* in the first portion of the text. 
+In *Voces*, the poet follows a mention of "the thirty-three" with these lines:
+"Años antes la divisa/ la destreza en la esperanza."
+The poet of *Cantores* replaces those lines with these:
+
+> Una clave con tres tiempos  
+> pone con destreza tanta,  
+> que el pasado y el futuro  
+> al compás presente iguala.
+
+> He places a clef with three times [meters]  
+> with such dexterity  
+> that in this meter he makes  
+> the past and the future equal the present.
+
+This poet retains a numerological reference based on three, and connects it to
+the idea of a "sign" and "destreza" so that the sign clearly indicates a
+metrical symbol (ternary meter), and *destreza* now indicates the divine
+baby-musician's compositional skill.
+The poet does not use *destreza* as a *divisa* or motto as it is in *Voces*,
+possibly taken from Tacitus's *spes in virtute*. 
+All the connotations of swordsmanship and heroic combat (which link to the
+Matins reading from Leo the Great) are absent, along with any specific reference
+to Christ's future struggle in the Passion. 
+The term's meaning is reduced to a simply musical one, and the rich theological
+associations in *Voces* are lost.
+
+These differences are consistent with the explanation that *Cantores* is an
+adaptation of *Voces* to suit less Gongoresque tastes, and that it is not an
+especially skillful adaption.
+Jalón thus pays homage to Santiago by basing his villancico on the same text,
+but also shows his differences from his predecessor by using an "improved"
+version of the poem, and, one may imagine, a more modern musical style as well.
+
+Jalón's position at Seville was the culmination of a restlessly ambitious
+career.
+He had left his post at the Convento de la Encarnación in 1623 to be
+chapelmaster of the cathedrals of Burgos (1623--1634), Cuenca (1634--1642), and
+Toledo (1642--1643).
+[@Ezquerro:JalonLB]
+On November 10, 1643, he was appointed chapelmaster at the cathedral of Santiago
+de Compostela, but dropped everything a month later when he was invited to
+assist Santiago at Seville Cathedral.
+Jalón remained there until his death on April 6, 1659.
+
+Jalón was present in Seville for the last year of Santiago's life, from December
+1643 until Santiago died on October 5, 1644.
+It is easy to imagine that the two composers had close contact during that time,
+and in any case, Jalón could have had access to Santiago's music in the
+cathedral archive.
+Jalón's setting of *Cantores* was performed only two years after Santiago's
+death, and it is plausible that Jalón composed the piece deliberately in homage
+to his predecessor.
+The Christmas--Epiphany season of 1646--47 would likely have been Jalón's first
+opportunity to do something in Santiago's memory.
+He was hired as an emergency substitute only a month before the musically
+demanding feasts of the 1634--44 Christmas season, and it would seem likely that
+the music for that first Christmas season would have been already chosen by
+Santiago, or drawn from material Jalón had at hand and could put together
+quickly.
+Santiago died the following October, by which time the music for the 1644--45
+feast would likely have been planned or even composed.
+(For comparison, as will be shown in chapter 4, Miguel de Irízar in Segovia
+composed all his villancicos for Christmas 1689 after September of that year,
+based on poems available to him nine months previous.)
+In any case, the close interval of time between Santiago's death and Jalón
+setting of *Cantores* strengthens the argument that Jalón may have composed the
+piece as a deliberate homage.
+
+<!--- START Epiphany changes diss p 215 -->
+
+<!--- here: Padilla vs Jalón rivalry -->
+It is actually in Puebla that the sole surviving source of the text can be
+found, in a binder's collection of villancico imprints of the 1630s and 1640s
+from Seville.
+The volume is held in an anonyous private collection in Puebla, and according to
+Gustavo Mauleón Rodríguez, who is cataloging these holdings, this binder's
+collection was originally bound with another collection of Seville villancicos
+which is preserved in Puebla's Biblioteca Lafragua; both bear the firemark of
+Puebla's Convento de la Merced and appear to be two parts of one original
+volume.
+<!--- check with Mauleón; Lafragua source -->
+There are several correspondences between the villancico texts in the Lafragua
+collection and those used by Padilla in the 1650s.
+<!--- for example -->
+These connections suggest that Padilla himself was familiar with these pliegos.
+Padilla regularly used texts of peninsular imprints, such as his 1653 *A la
+jacara, jacarilla*, taken from a Madrid Royal Chapel imprint of a year earlier
+(E-Mn: VE/88/55).
+Padilla likely kept his own collection of imprints (if not this actual
+collection) as sources for composition, keeping current with the latest mainland
+trends.
+Thus it is highly probable that Padilla owned or had access to a copy of the text of
+Jalón's *Cantores de la capilla*.
+
+If Padilla knew Jalón's version, then he would probably have made a conscious
+choice *not* to set the latest version, but instead to use the earlier version
+set by Santiago.
+
+<!--- Padilla's musical pedigree, ego flos campi, diss. p. 221-222 -->
+
 
 
 
