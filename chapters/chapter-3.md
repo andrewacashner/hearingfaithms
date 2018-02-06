@@ -1514,7 +1514,6 @@ the singer rather than by "what is sung")
 
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
 
-<!--- START -->
 <!---
 (brief)
 
@@ -1525,6 +1524,166 @@ the singer rather than by "what is sung")
 - philological comparison with Jalón
 - biographical links
 -->
+
+The high level of ingenuity, both theological and musical, in this villancico
+makes *Voces, las de la capilla* one of Juan Gutiérrez de Padilla's
+master-works, in the early modern sense of a piece that proves the artisan's
+mastery of his craft.
+As such, the piece served a social function in addition to being on object of
+devotion.
+For Padilla's fellow musicians, chapelmasters, and the educated elite of Puebla,
+the piece demonstrated Padilla's skill and established his place in a tradition
+of composition.
+Evidence survives for two previous villancicos based on the same or similar
+poems, though the music for both is apparently lost.
+Padilla's setting is one link in a chain of homage and emulation, within a
+specific family of villancicos as well as within the broader subgenre of
+metamusical pieces studied in this part; 
+these pieces allowed Spanish composers to prove both their compositional craft
+and their acuity as literary and theological interpreters in a tradition of
+"music about music."
+
+The two earlier versions related to Padilla's 1657 piece are 
+
+1. the villancico *Cantores de la capilla*, performed for Epiphany at the
+   cathedral of Seville, January 6, 1647, probably set to music by Seville's
+   chapelmaster Luis Bernardo Jalón; and 
+2. an even earlier setting of *Voces, las de la capilla* by Francisco de
+   Santiago, Jalón's predecessor at Seville Cathedral, composed some time before
+   Santiago's death in 1644.
+
+For the 1647 *Cantores*, only the poetic text survives in a printed
+leaflet.[^Jalon-Cantores-pliego]
+For Santiago's setting, all that survives is the incipit of the text and a
+description of the voicing, in the catalog of the music collection of King João
+(John) IV of Portugal.
+[@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
+
+[^Jalon-Cantores-pliego]:
+*Villancicos qve se cantaron en la S. Iglesia Metropolytana de Seville, en los
+Maytines de los Santos Reyes.
+En este año de mil y seiscientos y quarenta y siete* (Sevilla, 1647), Puebla,
+private collection, courtesy of Gustavo Mauleón Rodríguez.
+<!--- ***** -->
+
+##### Version by Francisco de Santiago, before 1644
+
+To start with the earlier source, the Portuguese monarch possessed a collection
+of music that included hundred of villancico settings, many of them by Fray
+Francisco de Santiago.
+This Carmelite friar, born with the surname Veiga in Portugal, was chapelmaster
+at Seville from 1617 to 1643.
+[@Stevenson:SantiagoF; @Perez:DMEH-Santiago]
+The Seville chapter had commissioned him to filled in for Alonso Lobo during the
+elder chapelmaster's illness by composing the *chanzonetas* (villancicos) for
+Christmas 1616, and then he was appointed as Lobo's successor.
+Likewise, when Santiago himself was incapacitated by a paralyzing medical
+condition in 1643, the chapter hired Luis Bernardo Jalón as an interim director
+and then appointed him to succeed Santiago after his death in 1644.
+[@Ezquerro:JalonLB] <!--- + DMEH sv Sevilla? -->
+
+Santiago had maintained a lifelong association and correspondence with the Duke
+of Braganza, who after 1640 reigned as King João IV of Portugal.
+Santiago obtained permission from the Seville Cathedral chapter to visit Lisbon
+every five years (1625, 1630, 1635, and 1640).
+Whether Santiago wrote music specifically for the royal chapel in Lisbon, or
+simply brought John IV copies of his music from Seville, the Portuguese monarch
+acquired a collection of five hundred thirty-eight villancicos by Santiago, not
+to mention other musical genres.
+Among the "Christmas Villancicos of Fray Francisco de Santiago" in the catalog
+John had compiled and printed in 1649 appears the following title:
+
+> *Vozes las de la capilla. solo. Ya trechos las distancias. a 9*
+[@JohnIV:Catalog, caixão 26, no. 674]
+
+Unfortunately only this description remains; the music parts probably perished along
+with the rest of the collection in the fires that followed the Lisbon earthquake
+of 1755.
+No other piece with these incipits has been found in all the catalogs of
+villancico poetry imprints.
+The incipits match Padilla's text exactly, though Padilla sets the first section
+(*introducción*) "a 3" and the second (*estribillo*) "a 6." 
+
+<!--- FN to show that this is introduccion and estribillo, cf Anton Llorente in
+Sanchez Garza -->
+
+There are several ways that Padilla might have known Santiago's setting of
+*Voces* or the poem on which it was based.
+It is quite likely that the two chapelmasters knew each other personally from
+Padilla's early career in Andalucía.
+Padilla, baptized in Málaga in 1590, climbed his way rapidly up the ladder of
+prestigious positions in the region.
+[@Gembero:Padilla]
+He started as a choirboy at Málaga Cathedral, where he studied with chapelmaster
+Francisco Vásquez from about 1602--1608.
+Padilla's first position was as chapelmaster for the nearby cathedral of Ronda
+(1608--1612); then on August 13, 1612, he began as chapelmaster at the
+collegiate church of Jerez de la Frontera.
+After his teacher Vásquez died, Padilla competed for the position at Málaga but
+lost the *oposición* to the Portuguese composer Estêvão de Brito (1577--1641).
+[@Stevenson:BritoE]
+Padilla stayed at Jerez until he achieved a more coveted position,
+chapelmaster at the cathedral of Cádez, where he began March 17, 1616.
+He remained until 1622 when he emigrated to New Spain, somehow getting himself
+into a position where, like Santiago had done for Lobo and Jalón would do for
+Santiago, he was able to fill in for the chapelmaster of Puebla Cathedral
+(Gaspar Fernández) in his illness in 1628 and then succeed him in his position
+in 1629; he stayed there until his death in 1644, having groomed Juan García de
+Céspedes as his own successor.
+
+Padilla's years in Cádiz (1616--1622) overlap with Santiago's tenure in Seville
+(1617--1643), leaving about six years when the two chapelmasters could easily
+have interacted either thorugh correspondence or personally.
+The two port cities, about 121 km apart, were closely linked economically and
+socially.
+Both cities were among the first to print leaflets of villancico poems, and
+Padilla could have had access to the texts set by Santiago through this medium
+alone.
+[@BNE:VCs17C, s.v. *Cádiz* and *Sevilla*]
+These imprints circulated widely and enabled provincial churches to stay
+up-to-date with the latest trends; the most widely imitated models, judging from
+the evidence of poetry imprints for texts set multiple times, were the Royal
+Chapel in Madrid and the cathedral of Seville.
+<!---such as Sevilla imprints in Puebla -->
+Even in there was no personal connection between Padilla and Santiago, the
+Seville composer's position at the helm of the flagship music program in the
+Hispanic world (in fact, the mother church for all of the Indies), would have
+made him a prime target for emulation, homage, or competition.
+
+In fact, Santiago's appoiintment at Seville may have even precipitated Padilla's
+departure for the New World.
+The pinnacle of achievement for any Spanish composer, particularly one from
+Andalucía, would be the chapelmastership at Seville Cathedral.
+As Padilla built his early career, he must have had his eye on Seville, knowing
+that Alonso Lobo was again and that his position would likely become available
+in the next few years.
+But when Lobo's health finally failed and Seville Cathedral had to enlist a
+replacement before Christmas 1616, the chapter appointed the older and much more
+accomplished Francisco de Santiago without publicly advertising the position
+(meaning that there was no public *oposición*, as there had been in Málaga in
+1612). 
+Santiago was still young enough that Padilla could safely assume the Seville
+position would not again become available for decades.
+Padilla had just started his position in Cádez---not a lowly post---but the
+appointment of Santiago would have deprived him of any hopes of further
+advancement on the Spanish main. 
+If he had hoped to work for the king, Mateo Romero had been master of the Royal
+Chapel since 1598, and would remain so until 1633.
+Another esteemed Madrid position, chapelmaster at the royal Convento de la
+Encarnación, was given in 1620 to none other than Luis Bernardo Jalón.
+This may have been part of the reason why in about 1622, Padilla sought better
+opportunities in America.
+
+<!--- ANton Llorente and circumstantial evidence that Santiago's music was known
+in Puebla -->
+
+##### Version by Luis Bernardo Jalón, 1647
+
+<!--- connect Jalón and *Cantores* to Padilla via Puebla collection -->
+
+<!--- START -->
+
+
 
 <!--- *********************************************************************** -->
 <!--- *********************************************************************** -->
