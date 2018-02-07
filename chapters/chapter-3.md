@@ -2007,9 +2007,11 @@ The exhortation in the opening line means that the Puebla "chapel choir" is to
 set its time and tuning based on these higher forms of music, and that listeners
 are therefore invited to "pay attention" as well to the verbal and musical
 riddles presented to them.
-Far from being a one-off occasional piece or crowd-pleasing entertainment, the 
-complex poetic and musical structure provides an object for aesthetic
-reflection, even inviting detailed analysis.
+Far from being a one-off occasional piece or crowd-pleasing entertainment, and
+rather than being a simple didactic piece explaining doctrine, the complex
+poetic and musical structure provides an object for aesthetic reflection as a
+spiritual discipline, even inviting detailed analysis.
+<!--- dell'antonio -->
 
 But in order to contemplate the piece in this way, the listener must be equipped
 with both faith and knowledge: faith to seek the higher theological meaning
@@ -2030,9 +2032,90 @@ piece would still leave an overall impression on the less attentive and educated
 listener, connecting the voices of the chapel choir with the voices of
 the Christmas angels and the mystery of Christmas.
 
+In this way, the piece functions not only for intellectual contemplation but
+also makes an affective appeal to bodily, communal reaction and participation. 
+This function fits with the instructions in the Roman Catechism that the mystery
+of the Incarnation is more to be marvelled at than explained in words.
+Similarly, Fray Luis concludes his model Christmas sermon with a *peroratio*
+that invites his listeners to join their voices and hearts with the worshippers
+at Bethelehem:
 
+> But consider, that if the angels on that day sang and solemnized this mystery
+> with *Glorias* and praises, giving thanks [gracias] for the redemption that
+> came to us from heaven, even though they themselves were not the ones
+> redeemed, what should we do who are redeemed? 
+> If they thus give thanks for the grace [gracia] and mercy given to strangers,
+> what should those do who were redeemed and restored by it?
+[@LuisdeGranada:Xmas, para. 28; cf. @Bernard:Nativitate, 126B, Sermo IV,
+"Et ut noveritis quo in loco selemnitatits [...] in psalmis, coelestes illos
+principes praevenire conjunctos psallentibus, in medio juvencularum
+tympanistriarum."]
 
+The theology of Christ as the *Verbum infans* that underlies this villancico is
+central for understanding how Catholics believed sacred music to function.
+In the Catholic theological tradition of Christmas, Christ as the eternal Word
+of God became incarnate, not simply to communicate "words" from God, but to be
+in his body the medium of communication itself, as well as the message.
+The point of the Christmas liturgy, then, would not be simply to "hear about"
+God, but to encounter the incarnate Christ in his flesh, through the sacrament
+of the Eucharist.
+Lapide cites St. Cyril to say that "symbolically, the manger is the altar, on
+which Christ in the Mass by consecration is as though born and sacrificed"; and
+St. John Chrysostom to conclude, "That which the Magi saw in the manger, in a
+little hut, with much veneration and fear approached and adored, you perceive
+the same thing not in the manger, but on the altar."
+[@Lapide:Gospels19C, 672, on Lk. 2: 
+"Sic et S. Cyrillus in Caten. Symbolice præsepe est altare, in quo Christus in
+Missa per consecrationem quasi nascitur et immolatur.
+Unde S. Chyrs. in Catena: *Quod in præsepio videntes atque tugurio Magi, cum
+multa veneratione ac timore accesserunt et adorarunt: tu idipsum non in
+præsepio, sed in altari cernens, majorem istis brabaris exhibe pietatem*."]
+This is the Christmas version of the central theological concept for Roman
+Catholics, Christ's presence in the sacraments.
+As Pope St. Leo the Great epitomized the theology, "that which was plainly
+visible in our Savior, passed into the sacraments [or signs, or mysteries]."
+[@Leo:SermonesPL, 398, Sermo II de Ascensione Domini: 
+"Quod itaq[ue] redemptoris nostri conspicuum fuit, in sacramenta transiuit."]
 
+All the audiotry elements of the service, from the reading of Scripture to the
+singing of villancicos, could only point toward this physical sacramental
+encounter.
+But because of music's ability to work on the external sense of hearing and the
+internal faculties of the memory via the ethereal medium of the voice,
+devotional music could still play a special role for pious listeners---helping
+them experience intellectually and affectively something of the wonder and
+mystery of the Incarnation at Christmas.
+The primary audience of this cultivated subgenre of metamusicl villancico would
+likely have been the cathedral chapter, who from their privileged position
+within the architectural choir would have been best able to hear the verbal and
+musical conceits, who had the education to understand the theological
+background, and who participated fully in the liturgy by communing.
+<!--- source -->
+By contrast, since the laity in Puebla and across the Hispanic world would have
+been unlikely actually to receive the elements, the common parishioner's
+relationship to the *admirabile sacramentum* was primarily to look (*admirar*),
+to listen, and to adore.
+
+<!--- START diss line 2512 -->
+
+<!--- Puebla retable, Palafox Pastor de Nochebuena -->
+Padilla's 1657 villancico would have been performed facing a high altar retable
+on which the actual altar was flanked by an image of the Adoration of the
+Shepherds on the left and the Visitation of the Magi on the right.
+This "Altar of the Kings" was completed by Pedro García Ferrer and consecrated
+by bishop Juan de Palafox y Mendoza in 1649, thus places images of human
+encounters with the incarnate Christ at the closest visual proximity to the
+altar and central Eucharistic tabernacle.
+[@Gali:GarciaFerrer]
+<!--- place of tabernacle originally? -->
+Above these images, the eye is drawn upward to ascend into heaven along with
+the Virgin Mary, for Catholics the paragon of true faith and devotion, through a
+"celestial hierarchy" (to use the influential concept of Dionysius) into a realm
+of baby angels playing musical instruments like harp and organ, through a
+group of cherubim dancing in the round, to the Holy Trinity at the highest
+point.
+<!--- who was bishop in 1657? -->
+<!--- Palafox pastor de nochebuena diss p. 409 etc.+ article -->
 
 
 
