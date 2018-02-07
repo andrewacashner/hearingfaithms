@@ -1840,11 +1840,58 @@ setting of *Cantores* strengthens the argument that Jalón may have composed the
 piece as a deliberate homage.
 
 <!--- START Epiphany changes diss p 215 -->
+Some changes in Jalón's setting bear evidence of adaptation for use in the
+liturgy of Matins for Epiphany 1647 in Seville.
+Where *Voces* alludes to the presence of angels, animals, and shepherds at the
+manger, *Cantores* explicitly includes the "three Kings" as well in copla 3.
+The slightly greater emphasis on the heavens, and on the concept of time
+(musical and theological), might also be intended to connect with the visit of
+these mysterious astrologers from the East.
+But other aspects of the adaptation actually seem to make it *less* well suited
+for Epiphany, in particular the omission of the line "a la voz del padre oí."
+According to this piece's placement in the poetry imprint, as the second in a
+cycle of nine villancicos, *Cantores* would have been paired with this
+Responsory, drawn from the Gospel narratives of Christ's baptism (Mt. 3:13--17,
+Mk. 1:9--11, Lk. 3:21--22, Jn. 1:32):
 
-<!--- here: Padilla vs Jalón rivalry -->
-It is actually in Puebla that the sole surviving source of the text can be
-found, in a binder's collection of villancico imprints of the 1630s and 1640s
-from Seville.
+> *Respond.* In the form of a dove the Holy Spirit was seen, the voice of the
+> Father was heard: This is my beloved Son, in whom I am well pleased.  
+> *Versicle.* The heavens were opened above him, and the voice of the Father
+> intoned. This is my beloved Son.
+[@Catholic:Breviarium1631:
+"*Respond.* In columbæ specie Spiritus sanctus visus est, paterna vox audita
+est:
+\* Hic est Filius meus dilectus, in quo mihi bene complácui.
+*Versicle.* Cȩli aperti sunt super eum, & vox Patris intónuit. Hic est Filius."]
+
+This chant would match well with the line about hearing "the voice of the
+Father" in Padilla's *Voces*, when the piece was likely repeated with the other
+1657 Christmas villancicos for Epiphany in January 1658 (with the typical
+substitution of the villancico *de Reyes* for Epiphany instead of the *calenda*
+that began the Christmas cycle).
+But would be to the discredit of either the poet or composer of *Cantores de la
+capilla*, performed in conjunction with this specific Responsory, that such a
+key line, not only for the theology of the poem but for its place in the
+liturgy, should have been cut. 
+It seems likely, then, that this version of the text was not devised for this
+specific liturgical placement, just for the feast of Kings in general, and Jalón
+selected the arrangement in the Matins cycle based on fairly loose theological
+criteria.
+<!--- Responsory performance in Sevilla? -->
+The piece did not need to be a perfect fit liturgically in order to fulfill the
+dual function of paying homage to Santiago while also demonstrating Jalón's own
+position representing the new generation, the next step in the tradition at
+Seville.
+
+##### Establishing a Musical Pedigree
+<!--- already used this -->
+
+It is highly probable that Juan Gutiérrez de Padilla owned or had access to the
+text of *Cantores de la capilla* from Seville.
+The print with the text of *Cantores* is actually preserved only in a single
+source located in Puebla.
+It is part of a binder's collection of villancico imprints of the 1630s and
+1640s from Seville.
 The volume is held in an anonyous private collection in Puebla, and according to
 Gustavo Mauleón Rodríguez, who is cataloging these holdings, this binder's
 collection was originally bound with another collection of Seville villancicos
@@ -1862,14 +1909,130 @@ jacara, jacarilla*, taken from a Madrid Royal Chapel imprint of a year earlier
 Padilla likely kept his own collection of imprints (if not this actual
 collection) as sources for composition, keeping current with the latest mainland
 trends.
-Thus it is highly probable that Padilla owned or had access to a copy of the text of
-Jalón's *Cantores de la capilla*.
 
-If Padilla knew Jalón's version, then he would probably have made a conscious
-choice *not* to set the latest version, but instead to use the earlier version
-set by Santiago.
+If Jalón's villancico was a modernization of Santiago's, then, and the text was
+available to Padilla in New Spain through the imprint, why did Padilla choose to
+set Santiago's original text (or an older tradition similar to it) rather than
+the new one set by Jalón?
+One possibility is that Padilla specifically wanted to differentiate himself
+from Jalón and associate himself more directly with Santiago. 
+With his setting of *Voces, las de la capilla*, Padilla may have been trying to
+show that he, not Jalón, was the true successor to Santiago.
+Padilla was not able to capture the coveted position of Seville chapelmaster in
+1616, so he may have wanted to demonstrate that he was carrying on the great
+legacy of Santiago and his peers in the New World.
+The modifications in *Cantores de la capilla* suggest that Jalón represented a
+new generation and a new style, and his music was likely in a newer style than
+that of Padilla.
+<!--- any sources? -->
+In 1657, Padilla was sixty-seven years old; only three years later, on account
+of dangerously poor health, he had to write a "power of attorney" giving legal
+rights to Juan García de Céspedes, who (like Padilla had done for Fernández) had
+been serving as Padilla's assistant and would later succeed him.
+[@Mauleon:PadillaCivil, XXX]
+Padilla's setting of the older text may have represented the aging composer's
+attempt to demonstrate an affinity with the older generation.
 
-<!--- Padilla's musical pedigree, ego flos campi, diss. p. 221-222 -->
+This chain of homage may shed light on the origins and meaning of Padilla's most
+performed piece of Latin-texted music today, the *Missa "Ego flos campi"* for
+eight voices.
+[MEX-Pc: XXX/XXX; @Padilla:MissaEgoFlosCampi; recent recordings in
+@Mauleon:PadillaPalafox; @Skidmore:NewWorldCD; along with many recent
+performances.] 
+The piece has been assumed to be a parody mass bassed on a lost motet *Ego flos
+campi* by Padilla.
+But John IV's catalog lists another *Missa "Ego flos campi" a 8*---by Francisco de
+Santiago.
+Moreover, the catalog specifies that Santiago's mass was based on the motet *Ego
+flos campi a 8* by Nicolas Dupont, a Flemish composer in the Spanish Royal
+Chapel.
+[@JohnIV:Catalog, 417, caixão 34, no. 787: "Missas [...] Ego flos campi, a 8.
+*Ferta sobre hum Motette de Niculas du Pont*"; @JohnIV:Catalog, 381, caixão 32,
+no. 767: "Ego flos campi, a 8, Niculas du Pont. *De Nossa Senhora*."
+Based on this connection, Robert Stevenson speculated that Santiago, like his
+peer Diego de Pontac, studied with Nicolas Dupont during Santiago's time in
+Madrid; -@Stevenson:SantiagoF.]
+(Neither piece has been found.)
+For Santiago to use this mmusic by Dupont, who may have been one of his teachers
+in Madrid, was to connect himself to the august lineage of Hapsburg
+Franco-Flemish composers going back to Dufay and Ockeghem.
+It is possible, then, that Juan Gutiérrez de Padilla's *Missa "Ego flos campi"*
+is not based on his own motet, but on Santiago's mass of the same name, and that
+this represents another instance of Padilla establishing his musical pedigree.
+
+This type of homage was a customary way for a student to identify himself with a
+teacher or paragon, as we will see several more times in this study.
+In fact, a similar homage was payed to Padilla by his organist, Francisco
+Vidales.
+According to John Koegel, "The Puebla organist Francisco de Vidales used
+Padilla's *Exultate justi in Domino* as the model for his parody *Missa super
+Exultate*, and another connection between the two men is seen in Vidales's
+addition of a tenor part to Padilla's *O Domine Jesu Christe*."
+[@Koegel:Padilla]
+<!--- check actual sources -->
+Dianne Goldman has documented a similar chain of homage in several stages of
+reworking a Victoria motet at Mexico City Cathedral through the eighteenth
+century.^[cite Goldman stile antico article]
+
+#### Singing about Singing
+
+The metamusical villancico provided composers an ideal opportunity to establish
+their own position in a tradition of compositional and theological
+ingenuity---of musical theology.
+The next section will show another example of this, in eight known settings of
+villancicos from the same textual family by a network of interrelated composers
+across Spain and into the New World.
+
+For this study, Padilla's *Voces* serves as the starting point for a trajectory
+of "singing about singing" in seventeenth-century Spanish devotional music.
+The poem and music represent sounding music---including the "present" music in
+Puebla as well as the historical music of the angels and shepherds at
+Bethlehem---as *musica instrumentalis*, fully in accord with the Neoplatonic
+system known from Boethius and many other early modern sources.
+The musical performance invites listeners to contemplate the higher forms of
+music, and above all the theological "Music" of the incarnate Christ, bringing
+God and Man into consonance and forming in his own body and voice the perfect
+*musica humana*.
+
+In singing this villancico about singing, the Puebla chapel choir drew its
+listeners' attention to the fact that they were singing.
+The musicians, and so encouraged listeners to contemplate the higher levels of
+music.
+The listener would have the opportunity to listen for the voice of the sphers,
+the angels, and most importantly, of Christ himself through the voices of the
+chapel choir. 
+These higher forms of music would be audible only by faith, through the present
+cathedral music which was its echo.
+The exhortation in the opening line means that the Puebla "chapel choir" is to
+set its time and tuning based on these higher forms of music, and that listeners
+are therefore invited to "pay attention" as well to the verbal and musical
+riddles presented to them.
+Far from being a one-off occasional piece or crowd-pleasing entertainment, the 
+complex poetic and musical structure provides an object for aesthetic
+reflection, even inviting detailed analysis.
+
+But in order to contemplate the piece in this way, the listener must be equipped
+with both faith and knowledge: faith to seek the higher theological meaning
+behind the words and music, and knowledge to understand it.
+Obviously, Padilla's villancico is aimed at a sophisticated listening audience.
+The poem's double and triple conceits, some of them based on references to Latin
+Scriptural and liturgical texts, require extensive knowledge not only of
+theology and literature, but also of technical music theory.
+Likewise, many of Padilla's musical puns---such as singing *máxima* on a breve,
+the thirty-three notes of the respuesta, and the quotation of the *tonus
+peregrinus*---would probably be accessible only to the performers themselves, if
+even they were paying close enough attention.
+Given the realities of hurried rehearsal schedules and the practical mindset of
+many performers then and now, much of this artistry would remain hidden, known
+only to the composer himself.
+Because of its clear text declamation and distinct contrasts of styles, the
+piece would still leave an overall impression on the less attentive and educated
+listener, connecting the voices of the chapel choir with the voices of
+the Christmas angels and the mystery of Christmas.
+
+
+
+
 
 
 
