@@ -9,11 +9,13 @@ chapter 3: Christ as Singer and Song
 -->
 
 <!-- TODO
-- check Scriptural quotations: when to use Vulgate or own translation vs NRSV;
-  Greek vs. Latin
-- cite sermons so that ibid can work
-- Spanish quotes vs italics?
-- policy on date format?
+- Style questions
+    + check Scriptural quotations: when to use Vulgate or own translation vs NRSV;
+    + Greek vs. Latin
+    + Spanish quotes vs italics?
+    + policy on date format?
+- Code problems
+    + cite sermons so that ibid can work
 -->
 
 
@@ -124,7 +126,7 @@ flesh as an infant, a child too young to be able to speak.
 Any consideration of this complex piece should begin with a careful reading of
 the poetic text and listening to the musical setting (even better, singing or
 playing it).
-[@Cashner:WLSCM32, XXX]
+[@Cashner:WLSCM32, **XXX**]
 It will probably be readily apparent that this is a different type of
 villancico entirely from the comic villancicos more commonly heard in recent
 performances and recordings.
@@ -145,7 +147,7 @@ de Góngora, who played a similar role for Spanish literature on both sides of
 the Atlantic to that of Giambattista Marino in Italian letters, as the
 originator of a new aesthetic (referred to as *barroco* by Spanish literary
 scholars) that emphasized learned artifice and highly wraught dramatic effects.
-<!-- as opposed to ... -->
+^[ as opposed to ... ]
 Gongoresque poets like the author of *Voces* reveled in arcane plays
 on words, contorted Latinate syntax, and multiple levels of meanings.
 [@Gaylord:Poetry, 222--236; @Tenorio:Gongorismo; @Valbuena:Literatura, vol. 1,
@@ -203,16 +205,17 @@ Christ, as the New Adam, was born like a "pilgrim" on a journey in a
 borrowed stable.
 Explaining the Greek word *eskēnosen* in John 1:14,
 Lapide says "he set up a tent or tabernacle in us, that is, among us, for
-a short time, like a guest or pilgrim [*peregrinus*] in a foreign land," and
-this should :teach us to be pilgrims [*peregrinos*] on earth, though
-actually citizens of heaven."
+a short time, like a guest or pilgrim [*peregrinus*] in a foreign land." 
 [@Lapide:Gospels19C, 884:
 "Hoc est tentorium vel tabernaculum fixit in nobis, id est, inter nos, ad
 modicum tempus, quasi hospes et peregrinus in terra aliena: erat enim ipse
-civis, incola et dominus cœli ac paradisi [...]; 669, on Luke 2:5: "ut doceret
-nos in terra esse peregrinos, cives vero cœli, ut ab hoc exilio magnis virtutum
-passibus tendamis in cœlum, ceu patriam et civitatem nostram."]
-A contemporary musician, the composer and theorist Andrés Lorente, took up  the
+civis, incola et dominus cœli ac paradisi \[...\]."]
+This should teach us, he writes, to be pilgrims [*peregrinos*] on earth, though
+actually citizens of heaven."
+[@Lapide:Gospels19C, 669, on Luke 2:5: 
+"ut doceret nos in terra esse peregrinos, cives vero cœli, ut ab hoc exilio
+magnis virtutum passibus tendamis in cœlum, ceu patriam et civitatem nostram."]
+A contemporary musician, the composer and theorist Andrés Lorente, took up the
 "pilgrim song" trope, drawing on Vulgate Psalm 118:54, when he exhorted the
 aspiring musician to match the music of his compositions with "the
 spiritual Music of his person, cleansing his conscience, and rejoicing his soul
@@ -222,7 +225,7 @@ as songs for me in the place of my wanderings)."
 [@Lorente:Porque, 609:
 "la Musica espiritual de su persona, limpiando su conciencia, y alegrando su
 Anima con Musica diuina, para que pueda dezir con Dauid, *Cantabiles mihi*
-[...].]
+\[...\]."]
 Within this tradition, then, the villancico uses a chant tone to present
 Christ himself as the song given to sinful Man in his pilgrimage. 
 It is no surprise that in the musical setting, Padilla quotes the chant formula
@@ -251,7 +254,7 @@ This is a common practice in villancicos: a puzzling idea presented at the
 beginning of the piece is not fully explained until the end of the coplas,
 so that when the estribillo is then repeated, the listener can hear it with
 new understanding.
-<!-- formal relationships here, diss p. 145 XXX -->
+^[ formal relationships here, diss p. 145 **XXX** ]
 In many villancico poems, the relationship of estribillo and coplas is
 similar to that between the image and accompanying texts in contemporary
 emblem books (@Covarrubias:Emblemas).
@@ -287,7 +290,7 @@ The poet explicitly connects the king to "David the monarch," the paragon
 of Biblical musicians as both the traditional author of the psalms and as the
 founder of the first musical ensemble for worship in the ancient Hebrew
 temple.
-<!-- source -->
+^[ source ]
 Calling Jesus *infante* identifies this child as David's
 heir---that is, as the Messiah; and the phrase *a lo de* (in the manner or
 style of) suggests that this child will be no less exacting a musical taskmaster
@@ -305,13 +308,13 @@ and deliver his people,
 and through Isaiah the prophet he renewed this promise by saying that a child
 would be born upon whose shoulder would rest divine, eternal
 authority.
-<!-- cite Is. 22:22 but note context -->
+^[ cite Is. 22:22 but note context ]
 As Biblical interpreters of the time all agreed, the complete fulfillment of
 these prophecies, the culmination of all God's "centuries of heroic
 exploits" (l. 8) came not at Christ's birth, but at his death and
 resurrection, traditionally thirty-three years (and three months and three days)
 later.
-<!-- mention ``A que el juego'' -->
+^[ mention ``A que el juego'' ]
 In musical terms, the words of David and the prophets are just the lyrics;
 Christ's life is the song.
 The key of authority---*clave*---is the same word for clef; and it
@@ -323,12 +326,12 @@ This happens "years before the sign, 'dexterity in hope'."
 Since the poet has just referred to "the thirty-three" as a metonym for
 Christ's passion, the *divisa*---a sign of any kind but particularly a
 heraldic emblem or motto---may refer to the cross.
-<!-- source -->
+^[ source ]
  others who say the same
 The motto, *la destreza en la esperanza*, sounds like a gloss a phrase
 from the Roman historian Tacitus, *spes in virtute*, which was cried in
 the midst of a famous battle.
-<!-- source, details -->
+^[**XXX**  source, details ]
 The heraldic and chivalric imagery and language (*hazañas*,
 *destreza*) here continues the notion of Christ as a
 David-like hero; but in the musical context it also established Christ as a
@@ -336,7 +339,7 @@ musical virtuoso.
 The term *destreza* was commonly used in Spanish musical writing to
 denote virtousity and consummate craftsmanship; it could be used both for
 players and for composers.
-<!-- source -->
+^[**XXX**  source ]
 
 In the next lines we begin to hear this musician's song, and the theological and
 musical come too close to cleanly separate.
@@ -347,11 +350,11 @@ Gregorian *Gloria in excelsis* chants do; it also begins "with the
 sun," a reference both to Christ's birth traditionally at midnight ("at
 the half-measure of night", l. 15) and a symbol of his royalty, the same
 symbol used by Spain's own king, Philip IV.
-<!-- cite also Is. 60:1, connect Jn 1:14, Tit 2:11 -->
+^[**XXX**  cite also Is. 60:1, connect Jn 1:14, Tit 2:11 ]
 The reference to "glory" and "grace" here is part of a long
 theological tradition which we will explore later.
 
-<!-- or here -->
+^[**XXX**  or here ]
 
 Now the poet turns even more strongly from using music as a metaphor to
 describing actual music-making, as in the estribillo the text calls to mind the
@@ -367,18 +370,18 @@ The scene recalls many contemporary images of the Adoration of the Sheperds, in
 particular one by Francisco de Zurbarán painted in Cádiz only a few years after
 Padilla left it for the New World, and an engraving in a 1617 breviary
 that both poet and composer are likely to have seen.
-<!-- sources and dates -->
+^[**XXX**  sources and dates ]
 
 The phrase *grave, suave y sonoro* seems to have been a stock
 description of sacred music appropriate for liturgical worship.
 The same words are used to describe the music of Christ as a musician (in fact,
 as a musical instrument) in José de Cáseda's *Qué música divina* from
 a half-century later, as discussed in a later chapter.
-A bequest to Mexico City Cathedral in XXX used nearly identical
+A bequest to Mexico City Cathedral in **XXX** used nearly identical
 terms to describe the Latin Responsories that should be sung.
 Interestingly, in that case the term was used to specify Latin-texted music
 *as opposed to* villancicos.
-<!-- cite Goldman, check detail -->
+^[**XXX**  cite Goldman, check detail ]
 Here, within a villancico, the term is used to refer to a higher form of
 music-making, within the Neoplatonic tradition of using that which is lowly to
 point toward higher truths.
@@ -393,11 +396,11 @@ musical texture.
 here referring not only to the animals in the stable, but also to the whole
 scene as a picture of the Christian church, a symbolic connection going back to
 the first century.
-<!-- cite 1 Peter, Augustine -->
+^[**XXX**  cite 1 Peter, Augustine ]
 "Three by three" could be the nine ranks of angelic choirs, and
 "one by one" could refer to humans or to Christ himself (particularly his
 union of divine and human in a single body).
-<!-- ? cite 9-fold angel choir -->
+^[**XXX**  ? cite 9-fold angel choir ]
 
 Thus far the poet has taken us from listening to the chapel choir singing in the
 present, to the ancient temple choir of David and the voices of prophets through
@@ -418,7 +421,7 @@ speaker actually "heard the voice of the Father singing," that is,
 At this cue, the speaker says, he heard singing, not in *puntos de canto
 llano* (plainchant) but *puntos de llanto* (weeping); this connects
 Christ's cries at his birth with those at his death.
-<!-- cite -->
+^[**XXX**  cite ]
 The song is "as much to be seen (or admired) as to be
 heard"---because the song and the singer are one and the same.
 
@@ -455,9 +458,9 @@ everything in God is to descend" (ll. 32--33).
 Most discussions of the Incarnation in contemporary theological literature cited
 some version of the maxim attributed to St. Ambrose, "God became Man
 so that Man might become Divine."
-<!-- check source, cite -->
+^[**XXX**  check source, cite ]
 In Christ, God humbled himself so that he might raise up sinful humans to share
-in his glory (Philippians XXX).
+in his glory (Philippians **XXX**).
 This central theology of Christianity is represented in the poem through the
 musical concept of a contrapuntal voice exchange.
 
@@ -483,7 +486,7 @@ into actual *musica instrumentalis*?
 
 In any example of sung poetry, we may distinguish three aspects of text setting:
 text projection, depiction, and expression.
-<!-- cite Burkholder for the latter two -->
+^[**XXX**  cite Burkholder for the latter two ]
 In text projection, a composer projects the words clearly according to their
 prosody and grammatical structure, and sets them to memorable melodic and
 rhythmic patterns, so that listeners can hear and understand the words of the
@@ -502,13 +505,13 @@ This approach fits with an aesthetic of Tridentine clarity in presenting the
 text, as well as with traditions from Spanish popular and theatrical traditions
 of singing poetry, especially traditions of adapting stock melodic formulas for
 singing *romance* poetry.
-<!-- cite -->
+^[**XXX**  cite ]
 
 ##### Text Projection
 
 The formal structure of the musical setting is closely linked to that of the
 poem.
-[@Cashner:WLSCM32, XXX]
+[@Cashner:WLSCM32, **XXX**]
 The poem begins with an introductory section, which will be useful to label
 *introducción* as many poetry imprints of other villancicos do.
 The *introducción* consists of two six-line strophes, each followed by the
@@ -516,11 +519,11 @@ same *respuesta* or response of a four-line strophe.
 The placement of rests and repeat markings in the performing parts makes clear
 that the *respuesta* is sung after each of the six-line
 strophes.
-<!-- distinguish from other edition, performance -->
+^[**XXX**  distinguish from other edition, performance ]
 The whole *introducción* is in the poetic meter of *romance* in
 *-a -a*: this means that every line is eight syllables long, and that there
 is assonance in the last two vowels of the even-numbered lines.
-<!-- cite metrica -->
+^[**XXX**  cite metrica ]
 Thus the poem uses *-a -a* assonance in *canta*,
 *disonancias*, *monarca*, and so on.
 
@@ -528,7 +531,7 @@ Another way to think of *romance* poetry is more similar to traditional
 poetic forms in other languages, such as Old English and Germanic poetry---as
 sixteen-syllable lines, with a *caesura* in the middle and assonance at the
 end.
-<!-- cite crestomatia, romance publications, Old English, German exx -->
+^[**XXX**  cite crestomatia, romance publications, Old English, German exx ]
 In other words, the beginning of this villancico would probably have been
 arranged like this (partly because of narrow columns in the typographical
 layout):
@@ -611,7 +614,7 @@ These cadence points are in line with the prescriptions of contemporary
 theorists for modal counterpoint, while also punctuating the
 sections of the poem and making its grammatical and rhetorical structure clear
 to listeners.
-<!-- cte diss. 164 Cerone, Judd, Barnett -->
+^[**XXX**  cte diss. 164 Cerone, Judd, Barnett ]
 
 ##### Text Depiction
 
@@ -697,8 +700,9 @@ scene in a 1613 Roman Breviary and the Adoration of the Shepherds on the retable
 of Puebla Cathedral, includes a bound lamb next to the manger as a symbol of
 Christ's fate as the paschal lamb, much as "the thirty-three" and other
 references in this villancico connect Christ's birth to his sacrificial
-death.[@Catholic:Breviarium1631, 168]
-<!-- Puebla cathedral book or image in this book -->
+death.
+[@Catholic:Breviarium1631, 168]
+^[**XXX**  Puebla cathedral book or image in this book ]
 
 `(insert float 'figure 'Zurbaran-Jerez-Adoracion)`
 
@@ -708,7 +712,7 @@ with a new lilting rhythmic pattern.
 This creates a sense of arrival in a new *tiempo*, which then abruptly halts at
 the end of the phrase, *quien antes del tiempo fue* ("the one who was before
 time", mm. 63--65).
-As Christ is "the beginning and the end" (Rev. XXX), this halt is fitting.
+As Christ is "the beginning and the end" (Rev. **XXX**), this halt is fitting.
 Lorente says the term *tiempo* can denote the meter and the symbol that sets the
 meter.[@Lorente:Porque, bk. 2, 149]
 Thus, since Christ existed before all time theologically, Padilla puts this
@@ -785,7 +789,7 @@ the words "everything in God is to descend" to the music associated with "Man
 ascending" (mm. 124--126).
 The passage embodies the central theology of the Incarnation: through God's
 descent to become Man in Christ, Man may ascend to share in God's nature.
-<!-- patristic sources for this -->
+^[**XXX**  patristic sources for this ]
 
 Each of the two poetic coplas centers on a concept from music theory: the first
 plays with the notion of *peregrino tono* ("wandering song," or the plainchant
@@ -796,14 +800,14 @@ plainchant tone.
 The last psalm tone was known in Latin sources as the *tonus peregrinus* and in
 Spanish sources as *tono irregular* or *tono mixto*.
 Its final cadence is a rising minor third followed by a stepwise descent to the
-final (`(ref float 'figure 'Cerone-tonus-peregrinus)`). <!-- p. 354) -->
+final (`(ref float 'figure 'Cerone-tonus-peregrinus)`). ^[**XXX**  p. 354) ]
 In *cantus durus* this is D--F--E--D; if notated in the *cantus mollis*
 transposition of this villancico, the pitches would be G--B♭--A--G, which are
 exactly what the Altus I sings on these words (mm. 128--129).
 The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
 
-<!-- cautionary F# as "strange tone"? -->
+^[**XXX**  cautionary F# as "strange tone"? ]
 
 In the last phrase of this copla, when the poem speaks of Christ "going up the
 octave" or theologically "ascending on the eighth day", Padilla creates an
@@ -895,7 +899,6 @@ philological studies of post-Tridentine religious arts have not always paid
 enough attention to the insights of these fields.
 For an influential modern Catholic theology of the function of liturgical
 feasts, see @Taft:LiturgicalYear, 3--4, 12--23.
-<!-- ***** -->
 
 These tropes contributed to what might be called a Christmas imaginary, the
 contents of which one may see restated and endlessly varied not only in
@@ -953,7 +956,8 @@ only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin
 Mary," as stated in the Apostle's Creed, which in turn was the basis for
 catechesis.
 [@Catholic:Catechismus1614, 34: "Et in Iesum Christum Filium eius vnicum,
-Dominum nostrum"; 46, "Qui conceptus est de Spiritu sancto, natus ex Maria
+Dominum nostrum"; 
+@Catholic:Catechismus1614, 46, "Qui conceptus est de Spiritu sancto, natus ex Maria
 virgine."]
 The Roman Catechism explains this article by answering a classic theological
 question that appeared in many other commentaries, *Cur Deus incarnatus fuerit*
@@ -979,7 +983,7 @@ up to heaven. 'Therefore,' says St. Anselm, 'God was made man, in order that man
 might be made God.'"
 [@Lapide:Gospels19C, 670, on Lk. 2:7:
 "Depressit se in terram et carnem, ut nos eveheret in cœlum. *Ideo*, ait S.
-Anselm, *Deus factus est homo, ut homo fieret Deus*.]
+Anselm, *Deus factus est homo, ut homo fieret Deus*."]
 Lapide draws on Biblical and patristic sources to show that Christ's birth is
 integral to the Christian gospel of salvation through Christ's sacrifical death
 and resurrection.
@@ -1001,7 +1005,7 @@ the Son of God was made the son of a Virgin":
 [@Lapide:Gospels19C, 50, on Mt. 1:16, *natus est Jesus*:
 "q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
 Filius Virginis.
-Hoc, [...] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt et
+Hoc, \[...\] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt et
 stupent Angeli, Sanctique omnes.
 In eo enim Deus ostendit summam potentiam uniendo hominem Deo, limum Verbo,
 terram cœlo: ac summam sapientiam, ut qui divinitate pati et nos redimere non
@@ -1045,7 +1049,6 @@ faith and worship may be seen as integral and interrelated parts of religious
 life in Christianity.
 For critical discussion of the motto, with attentions to its actual origin and
 its changing meaning in recent scholarship, see @Irwin:LexOrandi.
-<!-- ***** -->
 
 Wonder at Christ's birth is one of the primary tropes of Christmas, and
 much Spanish devotional music seems designed primarily to cultivate this
@@ -1109,7 +1112,7 @@ MEX-Pc: AC 1633-12-30:
 "que a los maitines de nauidad deste año y de los venideros [...] se canten
 todas las liçiones yn totum sin dejar cossa alguna dellas y que la chansoneta
 sirba de Responsorio el qual se diga resado mientrass se estubiere cantando."
-<!-- full text in diss or appendix -->
+^[**XXX**  full text in diss or appendix ]
 
 The Responsory evokes the scenario of the Nativity, with the animals gathered
 around the manger, just as the villancico calls up the image of angels, beasts,
@@ -1122,7 +1125,7 @@ audible sacrament.
 Listeners in Puebla could not visit the manger in Bethlehem; they could only look
 at the retable paintings of the Adoration of the Shepherds and the Visitation of
 the Kings and imagine.
-<!-- chrysostom quote -->
+^[**XXX**  chrysostom quote ]
 But in the conception of this villancico, they could hear the "voices of the
 chapel choir" reverberating in the space and through those voices they could
 "hear the voice of the Father/ in tones of weeping"---that is, they could hear
@@ -1145,7 +1148,7 @@ invites worshippers to turn from vision toward hearing:
 > praises to God, saying, Glory be to God in the heights, and on the earth peace
 > to men of good will.
 [@LuisdeGranada:Xmas, para. 24]
-<!-- full text elsewhere or original text here with page -->
+^[**XXX**  full text elsewhere or original text here with page ]
 
 More important than these angelic voices to Fray Luis, however, is the voice of
 the newborn Christ himself.
@@ -1174,7 +1177,7 @@ He explicitly compares the voice of this incarnate Word with music:
 > but this cry is greater eloquence than that of Tully [Cicero], and even than
 > the music of the angels of heaven.
 [@LuisdeGranada:Xmas, para. 16:
-<!-- first portion ... -->
+^[**XXX**  first portion ... ]
 "donde la palabra de Dios enmudecida, tanto mas claramente hable, cuanto mas
 calladamente nos avisa.
 Mira, pues, hermano, si quieres ser verdadero filósofo no te apartes deste
@@ -1183,7 +1186,7 @@ elocuencia que la de Tulio, y aun que las músicas de los ángeles del cielo."]
 
 For this passage Fray Luis cites "a doctor," and in fact the whole passage is a
 paraphrase from St. Bernard of Clairvaux.
-<!-- saint titles? -->
+^[**XXX**  saint titles? ]
 The Latin key term behind the friar's phrase *la palabra de Dios enmudecida* is,
 in Bernard's fifth Christmas sermon, *Verbum infans*---the Word who is both
 "infant" and "unspeaking," since like the Spanish *infante* in Padilla's
@@ -1205,7 +1208,7 @@ jacet, ut caeteri consueverunt?
 Magnus plane mediator est, etiam in his omnibus, quae ad pacem sunt, non
 perfunctorie, sed efficaciter quaerens.
 Infans quidem est, sed Verbum infans, cujus ne ipsa quidem infantia tacet."]
-<!-- check all translations, especially Latiin -->
+^[**XXX**  check all translations, especially Latiin ]
 
 <!-- establish connection of these books to Spanish education and Puebla
 libraries -->
@@ -1216,7 +1219,7 @@ Christmas sermons.
 Augustine's editors even title one sermon *Verbum infans doctor humilitatis*---the
 infant Word, teacher of humility.
 [@Augustine:SermonesPL, 1004, heading for sermon 187.]
-<!-- him or his editor? which editor? -->
+^[**XXX**  him or his editor? which editor? ]
 In another, Augustine preaches,
 
 > [This day] is called the Nativity of the Lord, when the Wisdom of God
@@ -1243,7 +1246,7 @@ doctrina christiana*), Augustine is teaching the faithful to hear the words
 proclaimed in their midst (Scripture, preaching, liturgy) as signs pointing
 first to the angels' song in Bethlehem, and to hear and heed the angel's
 exhortation to the shepherds to seek out the "sign" of "a child wrapped in
-swaddling clothes and lying in a manger" (Luke 2:XXX).
+swaddling clothes and lying in a manger" (Luke 2:**XXX**).
 The Christ child they found was at this "infant" stage of life, not a speaker of
 divine words, but was the very Word himself---as Augustine says, "a voice of
 flesh."
@@ -1270,13 +1273,13 @@ listening
 
 Augustine uses the voice as an extended metaphor for understanding the actual
 process of Christ's Incarnation.
-<!-- which is why music can then be added on -->
+^[**XXX**  which is why music can then be added on ]
 Augustine uses the peculiar features of the voice to defend the doctrine that
 Christ was not "changed" into flesh, but "remained the Son of God" even "having
 been made the Son of Man."
 [@Augustine:SermonesPL, 1002, Sermo 187, In Natali Domini 4:
 "manentem Dei filium, factum hominis filium."]
-<!-- rest of quote -->
+^[**XXX**  rest of quote ]
 The Word of God existed from eternity, Augustine teaches, drawing on his
 learning in rhetoric and language (as also expressed in his treatise *De
 musica*).
@@ -1349,7 +1352,6 @@ and rhetoric, see the sermons *De verbis Domini* and the treatise *De doctrina
 christiana*.
 The theology of Christ as the Word is also exhaustively treated in Lapide's
 commentary on the first chapter of John, @Lapide:Gospels19C, 872--889.
-<!-- ***** -->
 
 The concept of the *Verbum infans*, then, is that Christ as an infant cannot
 speak words, but this is fitting since he himself is the Word.
@@ -1368,7 +1370,7 @@ order to make you God."
 "Quid fecit tantus Deus, in tantilla carne, jacens in præsepio?
 Audiamus ipsummet in præsepii cathedra, non verbo sed facto docentem et
 prædicantem:
-[...] Parvulus factus sum, os tuum et caro tua, factus sum homo, ut te Deum
+\[...\] Parvulus factus sum, os tuum et caro tua, factus sum homo, ut te Deum
 efficerem."]
 Lapide paraphrases St. Cyril on the Word in John's Gospel 1:3 ("through him [the
 Word] all things were made"):
@@ -1405,10 +1407,10 @@ He himself holds the *clave* (musical clef/key of authority); he himself is the
 sign of A"---the first note of a new song in which can be heard "the voice of
 the Father." (ll. 9, 11, 24, 27).
 This connects to a larger theological trope of the "new song," based on
-Revelations X:XX, numerous psalms, and other Scriptures.
-<!-- examples of new song trope -->
+Revelations **XXX**:**XXX**, numerous psalms, and other Scriptures.
+^[**XXX**  examples of new song trope ]
 
-<!-- FN Lapide on signum -->
+^[**XXX**  FN Lapide on signum ]
 
 The poem's "sign of *A (la, mi, re)*"---realized by Padilla through puns of
 solmization on these syllables---connects the concept of Christ as the song to
@@ -1436,7 +1438,7 @@ See also @Lapide:Apocalypse1627, on Rev. 1.]
 Augustine uses the first and last letters of the Greek alphabet to explain the
 doctrine of the two conceptions of Christ, namely, that the Son of God was
 begotten eternally of the Father, but born temporally of the Virgin.
-<!-- catechism on this -->
+^[**XXX**  catechism on this ]
 Christ's status as the Word had no beginning, but there was a temporal beginning
 to his life as a man.
 Thus in the villancico the *divisa* signifies the start of a new *tiempo* (l.
@@ -1464,20 +1466,20 @@ Covarrubias begins his Spanish dictionary with this definition of the letter A
 > female E [pronounced *eh*], in which man seems to enter into the wrld,
 > lamenting his first parents Adam and Eve.
 [@Covarrubias:Tesoro, s.v. *A*:
-"Primera letra en orden cerca de todas las naciones que usaron caracteres, [...]
-y esto por ser simplicissima en su prolacion. [...]
+"Primera letra en orden cerca de todas las naciones que usaron caracteres, \[...\]
+y esto por ser simplicissima en su prolacion. \[...\]
 Y assi es la primera que el hombre pronuncia en naciendo, saluo que el varon
 como tiene mas fuerça dize A, y la hembra E, en que parace entrar en el mundo,
 lamentandose de sus primeros padres Adan y Eva."
 On symbolic alphabets in early modern devotional music, see @Kendrick:Jeremiah,
-XXX.]
+**XXX**.]
 
 By this account, keeping in mind Fray Luis's description of Christ's newborn
 cries, the baby Jesus first cried out with the inarticulate vowel *A*,
 expressing in this sound his essenced as *alpha* and *omega*, as incarnate Word.
 Of course, A is also the first of the musical tones alphabetically, and may have
 been used as a common tuning pitch, as today.
-<!-- evidence -->
+^[**XXX**  evidence ]
 The sound of his voice in this context expressed Christ's identity as the son of
 Adam, while also serving as a tuning note, or intonation, for a new song to
 replace the "wandering song" given to "the first man" (l. 34--35).
@@ -1566,7 +1568,6 @@ description of the voicing, in the catalog of the music collection of King João
 Maytines de los Santos Reyes.
 En este año de mil y seiscientos y quarenta y siete* (Sevilla, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
-<!-- ***** -->
 
 ##### Version by Francisco de Santiago, before 1644
 
@@ -1582,7 +1583,7 @@ Christmas 1616, and then he was appointed as Lobo's successor.
 Likewise, when Santiago himself was incapacitated by a paralyzing medical
 condition in 1643, the chapter hired Luis Bernardo Jalón as an interim director
 and then appointed him to succeed Santiago after his death in 1644.
-[@Ezquerro:JalonLB] <!-- + DMEH sv Sevilla? -->
+[@Ezquerro:JalonLB] ^[**XXX**  + DMEH sv Sevilla? ]
 
 Santiago had maintained a lifelong association and correspondence with the Duke
 of Braganza, who after 1640 reigned as King João IV of Portugal.
@@ -1646,7 +1647,7 @@ These imprints circulated widely and enabled provincial churches to stay
 up-to-date with the latest trends; the most widely imitated models, judging from
 the evidence of poetry imprints for texts set multiple times, were the Royal
 Chapel in Madrid and the cathedral of Seville.
-<!--such as Sevilla imprints in Puebla -->
+^[**XXX** such as Sevilla imprints in Puebla ]
 Even in there was no personal connection between Padilla and Santiago, the
 Seville composer's position at the helm of the flagship music program in the
 Hispanic world (in fact, the mother church for all of the Indies), would have
@@ -1681,7 +1682,7 @@ in Puebla -->
 
 ##### Version by Luis Bernardo Jalón, 1647
 
-<!-- connect Jalón and *Cantores* to Padilla via Puebla collection -->
+^[**XXX**  connect Jalón and *Cantores* to Padilla via Puebla collection ]
 The next known villancico in this family is the 1647 poem *Cantores de la
 capilla*, performed in Seville, with music probably by Luis Bernardo Jalón.
 The text corresponds closely to the text of Padilla's *Voces, las de la
@@ -1712,7 +1713,7 @@ Padilla continues to use it in several pieces of the 1650s.
 The *linea de vuelta* was a holdover from the rather different structure of the
 courtly villancicos of the sixteenth century, such as those set by Juan del
 Encina.
-[@Navarro:Metrica, XXX]
+[@Navarro:Metrica, **XXX**]
 Both Padilla's *Voces* and the incipit for Santiago's *Voces* contain the *linea
 de vuelta*, "Y a trechos las distancias."
 *Cantores*, by contrast, has no *respuesta* and omits this line.
@@ -1732,7 +1733,7 @@ These metrical irregularities are confined to this first portion of the
 estribillo; after this the remainder is almost identical to *Voces*.
 Thus the first section appears "tacked on" to the more refined pre-existing
 material in the second section.
-<!-- line numbers; poem in text? -->
+^[**XXX**  line numbers; poem in text? ]
 
 In terms of theological and musical conceits, *Cantores* reads like an attempt
 to take the dense *conceptismo* of *Voces* and both simplify and explain it.
@@ -1839,7 +1840,7 @@ In any case, the close interval of time between Santiago's death and Jalón
 setting of *Cantores* strengthens the argument that Jalón may have composed the
 piece as a deliberate homage.
 
-<!-- START Epiphany changes diss p 215 -->
+^[**XXX**  START Epiphany changes diss p 215 ]
 Some changes in Jalón's setting bear evidence of adaptation for use in the
 liturgy of Matins for Epiphany 1647 in Seville.
 Where *Voces* alludes to the presence of angels, animals, and shepherds at the
@@ -1858,7 +1859,7 @@ Mk. 1:9--11, Lk. 3:21--22, Jn. 1:32):
 > Father was heard: This is my beloved Son, in whom I am well pleased.\
 > *Versicle.* The heavens were opened above him, and the voice of the Father
 > intoned. This is my beloved Son.
-[@Catholic:Breviarium1631, XXX:
+[@Catholic:Breviarium1631, **XXX**:
 "*Respond.* In columbæ specie Spiritus sanctus visus est, paterna vox audita
 est:
 \* Hic est Filius meus dilectus, in quo mihi bene complácui.
@@ -1877,14 +1878,14 @@ It seems likely, then, that this version of the text was not devised for this
 specific liturgical placement, just for the feast of Kings in general, and Jalón
 selected the arrangement in the Matins cycle based on fairly loose theological
 criteria.
-<!-- Responsory performance in Sevilla? -->
+^[**XXX**  Responsory performance in Sevilla? ]
 The piece did not need to be a perfect fit liturgically in order to fulfill the
 dual function of paying homage to Santiago while also demonstrating Jalón's own
 position representing the new generation, the next step in the tradition at
 Seville.
 
 ##### Establishing a Musical Pedigree
-<!-- already used this -->
+^[**XXX**  already used this ]
 
 It is highly probable that Juan Gutiérrez de Padilla owned or had access to the
 text of *Cantores de la capilla* from Seville.
@@ -1898,10 +1899,10 @@ collection was originally bound with another collection of Seville villancicos
 which is preserved in Puebla's Biblioteca Lafragua; both bear the firemark of
 Puebla's Convento de la Merced and appear to be two parts of one original
 volume.
-<!-- check with Mauleón; Lafragua source -->
+^[**XXX**  check with Mauleón; Lafragua source ]
 There are several correspondences between the villancico texts in the Lafragua
 collection and those used by Padilla in the 1650s.
-<!-- for example -->
+^[**XXX**  for example ]
 These connections suggest that Padilla himself was familiar with these pliegos.
 Padilla regularly used texts of peninsular imprints, such as his 1653 *A la
 jacara, jacarilla*, taken from a Madrid Royal Chapel imprint of a year earlier
@@ -1924,21 +1925,18 @@ legacy of Santiago and his peers in the New World.
 The modifications in *Cantores de la capilla* suggest that Jalón represented a
 new generation and a new style, and his music was likely in a newer style than
 that of Padilla.
-<!-- any sources? -->
+^[**XXX**  any sources? ]
 In 1657, Padilla was sixty-seven years old; only three years later, on account
 of dangerously poor health, he had to write a "power of attorney" giving legal
 rights to Juan García de Céspedes, who (like Padilla had done for Fernández) had
 been serving as Padilla's assistant and would later succeed him.
-[@Mauleon:PadillaCivil, XXX]
+[@Mauleon:PadillaCivil, **XXX**]
 Padilla's setting of the older text may have represented the aging composer's
 attempt to demonstrate an affinity with the older generation.
 
 This chain of homage may shed light on the origins and meaning of Padilla's most
 performed piece of Latin-texted music today, the *Missa "Ego flos campi"* for
-eight voices.
-[MEX-Pc: XXX/XXX; @Padilla:MissaEgoFlosCampi; recent recordings in
-@Mauleon:PadillaPalafox; @Skidmore:NewWorldCD; along with many recent
-performances.]
+eight voices.[^Padilla-Ego-flos-campi]
 The piece has been assumed to be a parody mass bassed on a lost motet *Ego flos
 campi* by Padilla.
 But John IV's catalog lists another *Missa "Ego flos campi" a 8*---by Francisco de
@@ -1953,12 +1951,17 @@ Based on this connection, Robert Stevenson speculated that Santiago, like his
 peer Diego de Pontac, studied with Nicolas Dupont during Santiago's time in
 Madrid; -@Stevenson:SantiagoF.]
 (Neither piece has been found.)
-For Santiago to use this mmusic by Dupont, who may have been one of his teachers
+For Santiago to use this music by Dupont, who may have been one of his teachers
 in Madrid, was to connect himself to the august lineage of Hapsburg
 Franco-Flemish composers going back to Dufay and Ockeghem.
 It is possible, then, that Juan Gutiérrez de Padilla's *Missa "Ego flos campi"*
 is not based on his own motet, but on Santiago's mass of the same name, and that
 this represents another instance of Padilla establishing his musical pedigree.
+
+[^Padilla-Ego-flos-campi]:
+MEX-Pc: **XXX**/**XXX**; @Padilla:MissaEgoFlosCampi; recent recordings in
+@Mauleon:PadillaPalafox; @Skidmore:NewWorldCD; along with many recent
+performances.
 
 This type of homage was a customary way for a student to identify himself with a
 teacher or paragon, as we will see several more times in this study.
@@ -1969,7 +1972,7 @@ Padilla's *Exultate justi in Domino* as the model for his parody *Missa super
 Exultate*, and another connection between the two men is seen in Vidales's
 addition of a tenor part to Padilla's *O Domine Jesu Christe*."
 [@Koegel:Padilla]
-<!-- check actual sources -->
+^[**XXX**  check actual sources ]
 Dianne Goldman has documented a similar chain of homage in several stages of
 reworking a Victoria motet at Mexico City Cathedral through the eighteenth
 century.^[cite Goldman stile antico article]
@@ -2011,7 +2014,7 @@ Far from being a one-off occasional piece or crowd-pleasing entertainment, and
 rather than being a simple didactic piece explaining doctrine, the complex
 poetic and musical structure provides an object for aesthetic reflection as a
 spiritual discipline, even inviting detailed analysis.
-<!-- dell'antonio -->
+^[**XXX**  dell'antonio ]
 
 But in order to contemplate the piece in this way, the listener must be equipped
 with both faith and knowledge: faith to seek the higher theological meaning
@@ -2047,7 +2050,7 @@ at Bethelehem:
 > If they thus give thanks for the grace [gracia] and mercy given to strangers,
 > what should those do who were redeemed and restored by it?
 [@LuisdeGranada:Xmas, para. 28; cf. @Bernard:Nativitate, 126B, Sermo IV,
-"Et ut noveritis quo in loco selemnitatits [...] in psalmis, coelestes illos
+"Et ut noveritis quo in loco selemnitatits \[...\] in psalmis, coelestes illos
 principes praevenire conjunctos psallentibus, in medio juvencularum
 tympanistriarum."]
 
@@ -2085,20 +2088,17 @@ internal faculties of the memory via the ethereal medium of the voice,
 devotional music could still play a special role for pious listeners---helping
 them experience intellectually and affectively something of the wonder and
 mystery of the Incarnation at Christmas.
-The primary audience of this cultivated subgenre of metamusicl villancico would
+The primary audience of this cultivated subgenre of metamusical villancico would
 likely have been the cathedral chapter, who from their privileged position
 within the architectural choir would have been best able to hear the verbal and
 musical conceits, who had the education to understand the theological
 background, and who participated fully in the liturgy by communing.
-<!-- source -->
+^[**XXX**  source ]
 By contrast, since the laity in Puebla and across the Hispanic world would have
 been unlikely actually to receive the elements, the common parishioner's
 relationship to the *admirabile sacramentum* was primarily to look (*admirar*),
 to listen, and to adore.
 
-<!-- START diss line 2512 -->
-
-<!-- Puebla retable, Palafox Pastor de Nochebuena -->
 Padilla's 1657 villancico would have been performed facing a high altar retable
 on which the actual altar was flanked by an image of the Adoration of the
 Shepherds on the left and the Visitation of the Magi on the right.
@@ -2107,21 +2107,61 @@ by bishop Juan de Palafox y Mendoza in 1649, thus places images of human
 encounters with the incarnate Christ at the closest visual proximity to the
 altar and central Eucharistic tabernacle.
 [@Gali:GarciaFerrer]
-<!-- place of tabernacle originally? -->
+^[**XXX**  place of tabernacle originally? ]
 Above these images, the eye is drawn upward to ascend into heaven along with
 the Virgin Mary, for Catholics the paragon of true faith and devotion, through a
 "celestial hierarchy" (to use the influential concept of Dionysius) into a realm
 of baby angels playing musical instruments like harp and organ, through a
 group of cherubim dancing in the round, to the Holy Trinity at the highest
 point.
-<!-- who was bishop in 1657? -->
-<!-- Palafox pastor de nochebuena diss p. 409 etc.+ article -->
+^[**XXX**  who was bishop in 1657? ]
+
+Like Palafox's own devotional book *El Pastor de Nochebuena*, these images
+invite worshippers to imagine themselves journeying with the shepherds and
+Gentiles to meet Christ in his lowly incarnation as an infant.
+[@Palafox:Nochebuena]
+In Catholic devotional culture of this time, the goal of contemplating Christ's
+birth was to cultivate faith in Christ, including both faith as belief and faith
+as action or faithfulness.
+Lapide holds up the shepherds to his readers as an example of faith: they heard
+the angel chorus and saw the sign of Christ in his manger, and then they went
+and told everyone, and as Luke XX:XX says, "everyone who heard it was amazed at
+what the shepherds said."
+Lapide says Christmas shepherds were chosen as the first outside Holy Family and
+the stable animals to see the newborn Christ because in their own humble poverty
+they would not be put off by Christ's lowly birth.
+For "however many might have approached the manger, and seen Christ, but only
+those could have believed in Christ, whose hearts God had effectively moved;
+while the others, taking offense at Christ's poverty, would have spurned him."
+[@Lapide:Gospels19C, 677, on Lk. 2: 
+"Hinc patet pastores multis narrase eq quæ de Christo nato ab angelo adierant et
+viderant: quare multos præsepe adiise, Christumque vidisse; sed eos solos in
+Christo credidisse, quorum Deus corda efficaciter tangebat, ceteros offensos
+paupertate Christi eum sprevisse."]
+The shepherds not only heard and saw, but believed because they freely received
+the gift of faith, as Lapide explains in his commentary on John 1:12 (with a
+polemical eye on his Calvinist compatriots in the Low Countries): 
+"God gives the power to become sons of God to those who freely receive Christ by
+faith and obedience, excluding those who do not with to receive him."
+[@Lapide:Gospels19C, 882: 
+"Hoc est enim quot ait hic St. Joanes, Deum dedisse potestatem filios Dei his
+qui libere Christum per fidem et obedientiam receperunt, exclusis iis, qui eum
+recipere noluerunt."]
+
+If the listeners were to imitate the shepherds, then, they would not only listen
+for the angelic choirs and look for Christ's presence sacramentally on the
+altar, but they would allow God to  move their hearts to receive him in
+faith---a faith that could motivate them to witness their faith to others, as
+the shepherds did.
+Christmas villancicos like Padilla's *Voces* and the related family of
+metamusical pieces discussed in the next section appealed to the hearing of
+worshippers on several levels, and opened the possibility for them to listen in
+faith for the voices of angels and the voice of Christ.
+Through compositional craft, the musical performance could also move listeners'
+hearts to wonder and adoration.
 
 
-
-
-<!-- *********************************************************************** -->
-<!-- *********************************************************************** -->
+<!-- ******************************************************************** -->
 
 ### Heavenly Dissonance and the "Newest Consonance" of Christ (Cererols)
 
@@ -2134,4 +2174,3 @@ point.
 #### Genealogy
 
 
-<!-- conclusions from diss padilla chapter: manger=altar etc. -->
