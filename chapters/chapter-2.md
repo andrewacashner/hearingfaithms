@@ -1,4 +1,4 @@
-<!--- 
+<!-- 
 Cashner, *Faith, Hearing, and the Power of Music*,
 chapter 2: Making Faith Appeal to Hearing 
 
@@ -15,8 +15,8 @@ additions from 9/16 version and new material (50pp)
 
 ## Making Faith Appeal to Hearing
 
-> I cannot comprehend you nor know your enigma,  
-> because I have listened to Faith without faith.  
+> I cannot comprehend you nor know your enigma,\
+> because I have listened to Faith without faith.\
 > --- "Judaism," in Calderón, *El nuevo palacio del Retiro*
 
 If faith came by hearing, as St. Paul wrote, then what kind of power did music
@@ -318,7 +318,7 @@ Manila.
 of the book as far as Manila, see @Irving:Colonial, 48--50. The book may be
 found in historical collections in Madrid, Barcelona, Mexico City, and Puebla
 (two copies).]
-<!--- Revise if discussing Kircher in ch 1 -->
+<!-- Revise if discussing Kircher in ch 1 -->
 Kircher discusses the power of music several times throughout his ten-part
 treatise, including a detailed analysis of "whether, why, and what kind of power
 music might have to move people's souls, and whether the stories are true that
@@ -388,7 +388,7 @@ turn moved the listener to feel the same affections.
 cognition, such as Lawrence Zbikowski's description of musical structures as
 "sonic analogues for internal dynamic processes"; @Zbikowski:Conceptualizing,
 XX.]
-<!--- check page and quote -->
+<!-- check page and quote -->
 Kircher explains:
 
 > Since harmony is nothing other than the concord, agreement, and mutually
@@ -450,7 +450,7 @@ inordinate love of things from one's own country, as Kircher describes it; and
 by what each person is accustomed to hearing, which is shaped by the traditions
 of each country. 
 [@Kircher:Musurgia, 543--544]
-<!---  translation in Strunk -->
+<!--  translation in Strunk -->
 
 Moreover, "just as different nations enjoy a different style of music, likewise
 within each nation, people of different temperaments appreciate different styles
@@ -536,7 +536,7 @@ sacraments, leaving them with only a subjective experience as assurance of
 salvation, and separating individual faith from the cultivation of a just
 society. 
 [@Catholic:Catechismus1614, ch. 4; @Schreiner:Certainty]
-<!--- + More -->
+<!-- + More -->
 
 But for Catholics the problem remained that some connection needed to be forged
 between individual people and the transcendent object of faith, namely God in
@@ -564,7 +564,7 @@ do."
 omnino à sensibus abstractam esse: cuius rei facultatem in hac vita naturaliter
 non habemus."]
 Faith thus means being empowered by God's grace to go beyond the senses, to
-reach "the assurance of things not seen" (Heb. XX). <!--- citation -->
+reach "the assurance of things not seen" (Heb. XX). <!-- citation -->
 
 But even as the catechism stresses that sensory experience is inadequate, and
 human beings are incapable of knowing God by their own lights, it still speaks
@@ -728,7 +728,7 @@ Christian faith, the process of cultural translation inevitably transformed it
 into something neither they nor their converts could necessarily predict.
 [@Bailey:Art; @Waterhouse:EarliestJapaneseContacts;
 @Castagna:JesuitsConversionBrazil]
-<!--- plus Fromont and others -->
+<!-- plus Fromont and others -->
 
 Half a century after the Aztec empire fell to the Spanish, the Franciscan
 Bernardino de Sahagún was trying to provide Mexica natives with suitable
@@ -744,7 +744,7 @@ impure," the bishops may have been motivated more by concern with such songs in
 non-European languages, not to mention other syncretic musical and ritual
 practices across the globe, than by any European church music.
 [@Candelaria:Psalmodia, 637--638]
-<!---  on Trent --> 
+<!--  on Trent --> 
 
 In the realm of visual art, even where Jesuits wrote to their superiors in Rome
 praising the natives' uncanny ability to copy European models, the actual
@@ -756,7 +756,7 @@ places like central Africa and south India today, the actual performance of
 music in mission churches and colonial cathedrals, even plainchant and polyphony
 imported directly from Europe, probably sounded quite different the practice of
 European chapels. 
-[@Kendrick:Jeremiah, XXX] <!--- page no, chapter 1-2 -->
+[@Kendrick:Jeremiah, XXX] <!-- page no, chapter 1-2 -->
 
 As the Church was adapting itself to native sensibilities, or being adapted by
 colonial subjects in ways the Church could not fully control, how was the church
@@ -842,14 +842,14 @@ inaugurate the Spanish monarch's new palace-retreat, the Buen Retiro.
 Like most *autos* this one was performed in the context of a whole day of
 liturgical and processional music, including numerous villancicos; and the drama
 includes texts to be sung (though the music is now lost).
-<!---  sources for Corpus Christi 1634 music, generally -->
+<!--  sources for Corpus Christi 1634 music, generally -->
 Literary scholars have considered Spanish Corpus Christi plays to be "dramas of
 conversion" with the primary goal of teaching doctrine; 
 and thus this literary and performative genre, 
 which was so closely tied to devotional music, 
 allows us to evaluate how auditory arts were used to propagate faith, and how
 that effort served the purposes of the Spanish state.
-<!---  specific source and context -->
+<!--  specific source and context -->
 The plays typically present allegorical characters whose conflicts dramatize
 theological debates in the scholastic tradition (as in Aquinas) of thesis,
 antithesis, and synthesis.
@@ -910,7 +910,7 @@ Dominique Reyre interprets the play as a straightforward medium for
 ritual that reinforced the king's power; but neither scholar accounts
 sufficiently for the high degree of uncertainty expressed on stage.
 [@Reyre:Retiro; @Greer:Retiro]
-<!---  compare inquisition trials? 
+<!--  compare inquisition trials? 
 return to "drama of conversion" concept -->
 How could an auditory art form like sacred drama, or the villancicos that
 were usually performed in conjunction with them, provide a medium for
@@ -990,7 +990,7 @@ community participants, for whom performing music with the body and hearing it
 were inextricably linked. 
 The musical efforts of the colonizing church concretely built social
 relationships through musical training.
-<!--- [@RamosKittrell] -->
+<!-- [@RamosKittrell] -->
 For this reason, we cannot fully understand the faith of early modern Catholics
 on the basis of verbal formulations alone; we need to see and hear how
 communities practiced their faith through coordinated action---such as in
@@ -1003,7 +1003,7 @@ editions), coming out of the Lutheran "new piety" movement of the seventeenth
 century, whose proponents (Martin Moller, Johann Arndt) were inspired by much of
 the same medieval devotional literature as their Catholic counterparts. 
 
-<!---  relevant citations; this is why music fueled confessional divides -->
+<!--  relevant citations; this is why music fueled confessional divides -->
 
 
 ### The Primacy of Hearing in Villancicos
@@ -1103,7 +1103,7 @@ In the earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
 Miguel de Irízar creates a musical competition in festival style by
 pitting his two four-voice choirs against each other in polychoral dialogue
 (`(ref float 'music 'Irizar-Si_los_sentidos)`).
-[@Cashner:WLSCM32. <!---  page nos of edition -->
+[@Cashner:WLSCM32. <!--  page nos of edition -->
 The score includes the heading, "Fiesta del SSantissimo de este año del 1674."]
 Polychoral dialogue, of course, is typical of large-scale villancicos, but
 Irízar has the choirs interrupt each other in ways that create not just a
@@ -1148,7 +1148,7 @@ opposing groups (as in between high and low registers on the keyboard).
 Typical of the style is the reiteration of 5/3 ("root position") chord voicings,
 with the bass moving by fourths and fifths, and the 3--3--2 syncopations on *no
 se den por sentidos los sentidos* as in mm. 31--33.
-<!---  specific points of comparison, with music example, to a batalla that
+<!--  specific points of comparison, with music example, to a batalla that
 could be tied to Segovia or Irízar's network? -->
 
 Irízar sets the coplas, by contrast, in a sober and deliberate style. 
@@ -1173,11 +1173,11 @@ But this setting fits more in the subgenre of *tono divino* or chamber
 villancico, a continuo song used in more intimate settings like Eucharistic
 devotion. 
 [See, for example, @Robledo:MadridTonos.]
-<!--- article in Knighton/Torrente on chamber vs. tutti villancicos? -->
+<!-- article in Knighton/Torrente on chamber vs. tutti villancicos? -->
 The style is similar to the "high Baroque" music of contemporary Italy, with a
 tonal harmonic language, a running bass part in the accompaniment, and a single
 affective manner throughout. 
-<!--- on "Italianization"? -->
+<!-- on "Italianization"? -->
 
 `(insert float 'music 'Carrion-Si_los_sentidos)`
 
@@ -1208,7 +1208,7 @@ The treatment of the senses in these villancicos reflects a common physiological
 model of sensation and perception, as educated Spaniards would have learned from
 the kind of scientific and theological treatises preserved from seminary and
 convent libraries in Spain and Mexico. 
-<!---  source on theological/philosophical education in Spanish Empire,
+<!--  source on theological/philosophical education in Spanish Empire,
 libraries --> 
 Spanish philosophers taught that vision, not hearing, was the first and highest
 of the five exterior senses; but hearing superseded the other
@@ -1218,7 +1218,7 @@ by an Augustinian friar in New Spain, Alphonsus à Veracruce.
 [@Veracruce:Phisica]
 Veracruce summarizes the traditional Catholic teaching, which drew on Aristotle
 as interpreted by Thomas Aquinas. 
-<!---  [@ Aristotle early modern] -->
+<!--  [@ Aristotle early modern] -->
 Veracruce's Latin treatise accords with Fray Luis de Granada's widely read
 Spanish *Introduction to the Creed* of 1583. 
 [@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
@@ -1244,7 +1244,7 @@ and exterior senses to produce different "passions" or "affects" (Fray Luis uses
 Based on a fundamental dichotomy like magnetism between attraction and
 repulsion, this "concupiscible" part of the soul experienced three primary pairs
 of passions: love and hate, desire and fear, joy and sadness. 
-<!---  secondary on physiology of sensation -->
+<!--  secondary on physiology of sensation -->
 
 `(insert float 'table 'senses-fray-luis)`
 
@@ -1359,7 +1359,7 @@ copies of his works in multiple archives, his works were performed all across
 the empire and likely served as models for provincial composers who wanted to
 stay current with trends in Madrid.
 He had actually preceded Irízar as chapelmaster at Segovia Cathedral in XXX
-YEARS. <!--- dates, cite sources on bio; complete works edition?? -->
+YEARS. <!-- dates, cite sources on bio; complete works edition?? -->
 Galán's text exhorts listeners to "hear the bird" and "see the voice."
 The visual language in this villancico evokes the common iconography of the
 Holy Spirit as a dove surrounded by golden rays, such as may be seen in the
@@ -1401,7 +1401,7 @@ rhythmic patterns, though only the musicians themselves would likely have
 recognized the dark--light symbolism in the notation. 
 
 `(insert float 'figure 'Galan-Oigan-coloratio)`
-<!--- cite Kendrick on darkness coloratio symbolism -->
+<!-- cite Kendrick on darkness coloratio symbolism -->
 
 In texture Galán plays with *qué equivocación* literally by setting these words
 to an equal-voiced fugato on a long ascending scalar figure (starting with the
@@ -1461,7 +1461,7 @@ hard of hearing.
 
 #### Laughing at the Deaf: Juan Gutiérrez de Padilla (Puebla, 1651)
 
-<!---  Add measure numbers for both after making editions and musical
+<!--  Add measure numbers for both after making editions and musical
 examples --> 
 
 In 1651, only two years after the reforming bishop Juan de Palafox y Mendoza had
@@ -1479,7 +1479,7 @@ is known to have been performed in the new space.
 Since Padilla was a member of the Oratorian society of San Felipe Neri, whose
 building in Puebla was consecrated in 1651, these villancicos may
 have been performed at the *oratorio* as well.
-<!--- ref to other chapters, Padilla-Puebla lit, Oratorians -->
+<!-- ref to other chapters, Padilla-Puebla lit, Oratorians -->
 [See also @Cashner:Cards; @Mauleon:PadillaPalafox.]
 In that venue, dramatic elements like costumes, gestures, and even choreography
 might have been more likely that in the cathedral; and the group of listeners
@@ -1524,13 +1524,13 @@ music.
 The poetry imprint is currently inaccessible in a private collection in Puebla. 
 Gustavo Mauleón Rodríguez, who alone has access to the collection, kindly shared
 with me a few pages of this imprint but not the ones including this poem.
-<!--- rewrite or get source -->
+<!-- rewrite or get source -->
 
 
 Playing with a conventional villancico type of a dialogue between a *docto* and
 a *simple*---a learned man and a simpleton---Padilla's villancico stages a
 parody of catechism instruction. 
-<!---  examples from catalog of this type, or from Leon Marchante -->
+<!--  examples from catalog of this type, or from Leon Marchante -->
 The friar's attempts to communicate with the "deaf" man fail, and this prompts
 the chorus to warn the congregation against spiritual deafness. 
 
@@ -1553,7 +1553,7 @@ categorized this piece as mode 11 or 12.
 [@Cerone:Melopeo, 873--882; @Judd:RenaissanceModalTheory;
 @Barnett:TonalOrganization17C] 
 Thus the friar appropriately sings an opening phrase that surely would have
-cadenced on F; but the deaf man responds with a phrase that cadences on C.  
+cadenced on F; but the deaf man responds with a phrase that cadences on C. 
 At one point the friar moves to a cadence on A, but the deaf man, responding
 that he can't hear out of that ear, cadences on D. The friar says he will try
 the other ear; as though trying to meet Toribio on his level, he moves to
@@ -1574,7 +1574,7 @@ Where Galán used musical coloration as a symbol of blindness, here Padilla woul
 seem to use the same symbol to point to a deficit in hearing.
 This phrase make a rhetorical *catabasis* as it descends in a leaping melodic
 sequence.
-<!--- source for catabasis and black notation -->
+<!-- source for catabasis and black notation -->
 
 When the rest of Chorus I joins in for the responsión, their repeated dotted
 rhythm suggests vivacious laughter and comic offbeat sobs on *sollozos*
@@ -1582,7 +1582,7 @@ rhythm suggests vivacious laughter and comic offbeat sobs on *sollozos*
 The catabasis figure is passed through all the voices in imitation, leading to a
 harmonic catabasis when the Tiple I adds E flat---shifting further away from the
 "natural" into the "weak" realm of flats. 
-<!--- [@chafe?] -->
+<!-- [@chafe?] -->
 The heavy syncopation in each voice creates rhythmic confusion that is not
 sorted out until the final cadential flourish on F, validating the friar's
 initial choice of mode. 
@@ -1608,8 +1608,8 @@ catechist as well
 The poetry imprint survives from the first performance by the Royal Chapel at
 Madrid's Convent of the Incarnation in 1671, where Ruiz was chapelmaster.
 [@1671-Madrid-Enc-Nav]
-<!--- sources on Ruiz, Encarnacion -->
-<!--- who was the audience for royal chapel performances here? -->
+<!-- sources on Ruiz, Encarnacion -->
+<!-- who was the audience for royal chapel performances here? -->
 Here the *sordo* is a hard-of-hearing man, "very learned in humane letters"---a
 doddering old university professor, or perhaps a street sage. 
 The piece mocks his impairment while contrasting true faith with the book
@@ -1655,7 +1655,7 @@ But the deaf man mishears every statement: he mistakes *sordo* for *gordo*
 [^Christmas-tropes]:
 See the next chapter for a discussion of such classic tropes of Christmas
 preaching in villancicos. 
-<!--- or some sources here -->
+<!-- or some sources here -->
 
 His supposed learning in the humanities leads only to confusion. 
 When the friar says *el portal es
@@ -1679,7 +1679,7 @@ He is an earthy, common character, keenly aware of the chill, as many older men 
 The deaf man even explicitly asks not to be mocked:
 since he cannot hear the nine choirs of Christmas angels, he asks them to "sing out
 loudly"---"as long as they don't say anything bad about me." 
-<!--- line numbers -->
+<!-- line numbers -->
 
 The deaf man's bumbling but endearing statements contrast strikingly with the
 friar's abstract theology and clichéd poetic language. 
@@ -1706,7 +1706,7 @@ phrase *los que no escuchan ni entienden el son*
 This pattern bears a close resemblance to dance forms known as *son* today
 ---most obviously, the Mexican *huarache* familiar from the song "America" in
 Leonard Bernstein's *West Side Story*.
-[@Grove, s. v. *huarache*] <!--- Bernstein sources -->
+[@Grove, s. v. *huarache*] <!-- Bernstein sources -->
 Just as in the contests of the senses, then, music is the paradigm of faithful
 hearing; those who can't pick up the tune, spiritually speaking, are the truly
 deaf.
@@ -1719,7 +1719,7 @@ At the same time as these caricatures of the deaf were performed, the Spanish
 churchman Juan Pablo Bonet was laying the foundations of modern deaf education.
 [Juan Pablo Bonet, *Reduction de las letras y Arte para enseñar a ablar a los
 mudos* (Madrid, 1620), cited and discussed in @Plann:DeafEducationSpain] 
-<!--- more -->
+<!-- more -->
 These villancicos, though, do not offer much hope for actual people with
 disabilities.
 While Calderón's Judaism heard Faith without faith, the deaf men in villancicos
@@ -1810,7 +1810,7 @@ Church's incompetent teachers?
 After all, the friars are caricatured just as much as the deaf men are.
 Padilla's piece was performed at the epicenter of religious reform in the New
 World, and Ruíz's piece was heard by the royal defender of the faith Charles II.
-<!--- really? -->
+<!-- really? -->
 The function of villancicos must be more complex than a one-way imposition of
 dogma.
 Few villancicos of the seventeenth century would satisfy Azevedo's call to teach

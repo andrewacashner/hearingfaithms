@@ -1,4 +1,4 @@
-<!--- 
+<!-- 
 Cashner, *Faith, Hearing, and the Power of Music*,
 chapter 1: Villancicos as Musical Theology
 
@@ -9,8 +9,8 @@ chapter 1: Villancicos as Musical Theology
 
 ## Villancicos as Musical Theology
 
-> Faith, then, comes through hearing,  
-> and hearing, by the word of Christ.  
+> Faith, then, comes through hearing,\
+> and hearing, by the word of Christ.\
 > --- St. Paul, Romans 10:17
 
 
@@ -26,7 +26,7 @@ common people alike.
 chronological order, @Rubio:Forma; @Laird:VC; @Torrente:PhD; @Tenorio:SorJuana;
 @CaberoPueyo:PhD; @Illari:Polychoral; @Knighton-Torrente:VCs; @Cashner:Cards;
 @Cashner:PhD.]
-<!--- and more; some of this intro is only needed when using this chapter for
+<!-- and more; some of this intro is only needed when using this chapter for
 book proposal -->
 
 With the Church's active patronage, villancicos became a central activity in
@@ -50,7 +50,7 @@ This book provides a necessary complement to these studies, by analyzing how
 people expressed and shaped beliefs about music through the medium of music
 itself.
 
-<!---
+<!--
 - Focus on musical performative texts; what that means
 - Pros and cons of doing so
 - Sources and methods
