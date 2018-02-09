@@ -1,4 +1,3 @@
-- Add 'langid' entries for foreign-language items in bibliography
 - You will have to make a separate bibliography chapter for the publisher (this
   may include more than what is cited anyway, primary sources, etc.); you could
   extract cited sources in single bib by using pandoc to generate .tex, running
