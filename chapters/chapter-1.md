@@ -9,25 +9,41 @@ chapter 1: Villancicos as Musical Theology
 
 ## Villancicos as Musical Theology
 
+> *ergo fides ex auditu*\
+> *auditus autem per verbum Christi*\
+
 > Faith, then, comes through hearing,\
 > and hearing, by the word of Christ.\
-> --- St. Paul, Romans 10:17
-
+> --- Romans 10:17
 
 St. Paul wrote to the Christian community in Rome, "How are they to believe if
 they have not heard?" since "faith comes through hearing, and hearing, by the
-Word of Christ" (Rom. 10:16--17). Sixteen centuries later, amid the ongoing
-reformations of the Western Church, Catholic Christians were seeking ever new
-ways to make faith audible. Poets and composers of the Spanish Empire expanded a
-genre of sung poetry in the vernacular---the villancico---into large-scale
-choral and instrumental performances that could appeal to the ears of elite and
-common people alike.
+Word of Christ" (Rom. 10:16--17).[^Romans-translation]
+Sixteen centuries later, amid the ongoing reformations of the Western Church,
+Catholic Christians were seeking ever new ways to make faith audible. Poets and
+composers of the Spanish Empire expanded a genre of sung poetry in the
+vernacular---the villancico---into large-scale choral and instrumental
+performances that could appeal to the ears of elite and common people alike.
 [The major studies of the villancico as a musical and poetic genre are, in
 chronological order, @Rubio:Forma; @Laird:VC; @Torrente:PhD; @Tenorio:SorJuana;
 @CaberoPueyo:PhD; @Illari:Polychoral; @Knighton-Torrente:VCs; @Cashner:Cards;
 @Cashner:PhD.]
 <!-- and more; some of this intro is only needed when using this chapter for
 book proposal -->
+
+[^Romans-translation]:
+This is my own translation from the Latin Vulgate used by Spanish Catholics, in
+the modern edition, @Weber:Vulgate.
+The original Greek is "ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥὴματοσ Χριστοῦ":
+@Aland:GNT4.
+The word *akoē* can mean "the faculty of hearing," "the act of hearing," "the
+organ with which one hears," or "that which is heard": @BDAG, s.v. ἀκοή.
+The New Revised Standard Version translates this "So faith comes from what is
+heard, and what is heard comes through the word of Christ."
+Early modern Catholic discussions of faith and hearing depend on the range of
+meanings of *auditus* in Latin (as in the underlying Greek), including both
+"hearing" and "what is heard."
+
 
 With the Church's active patronage, villancicos became a central activity in
 religious festivals throughout the year, particularly at Christmas, Corpus

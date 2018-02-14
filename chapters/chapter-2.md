@@ -2,22 +2,32 @@
 Cashner, *Faith, Hearing, and the Power of Music*,
 chapter 2: Making Faith Appeal to Hearing 
 
-2017-11-13 Converted from LaTeX to Markdown
-2016-01-27 Version for book proposal to Univ. California press
-2016-12-29 Compromise new book draft based on USCB with some
-additions from 9/16 version and new material (50pp)
-2016-10-13 Abridged version for USCB presentation (12pp)
-2016-09-16 First draft based on diss., expanded (60pp)
-2016-08-31 Revision for book begun
-2015-03-18 Dissertation ch. 2 defended> 
+2018-02-14      Complete draft used for UR Humanities Center work-in-progress
+                  session
+2017-11-13      Converted from LaTeX to Markdown, new revision in progress 
+
+2017-01-27      Version for book proposal to Univ. California press
+2016-12-29      Compromise new book draft based on USCB with some
+                  additions from 9/16 version and new material (50pp)
+
+2016-10-13      Abridged version for USCB presentation (12pp)
+2016-09-16      First draft based on diss., expanded (60pp)
+2016-08-31      Revision for book begun
+
+2015-03-18      Dissertation ch. 2 defended
+2014-06-30      Earliest version in computer
 -->
 
 
 ## Making Faith Appeal to Hearing
 
-> I cannot comprehend you nor know your enigma,\
+> *Yo no te alcanzo ni tu enigma sé,*\
+> *porque a la Fe he escuchado sin la fe.* 
+
+> I cannot comprehend you nor solve your puzzle,\
 > because I have listened to Faith without faith.\
 > --- "Judaism," in Calderón, *El nuevo palacio del Retiro*
+[@Calderon:Retiro, l. 1327] <!-- check -->
 
 If faith came by hearing, as St. Paul wrote, then what kind of power did music
 have to make faith appeal to hearing?
@@ -32,8 +42,8 @@ Villancicos on the subject of hearing and faith, I argue, provided a way for
 church leaders to make faith appeal to the hearing of a broad range of
 listeners.
 Villancicos thus fulfilled one of the central prerogatives of the Catholic
-teaching after Trent, to accommodate the sense of hearing even while training
-it. 
+teaching after the Council of Trent, to accommodate the sense of hearing even
+while training it. 
 
 At the same time, I argue, Spanish devotional music manifests widespread
 anxieties about how people could acquire the capacity to listen with faith.
@@ -41,22 +51,15 @@ Spaniards and their colonial subjects worried about how to listen faithfully,
 about the role of subjective experience and cultural conditioning, and about the
 possibility that some listeners might lack the capacity to hear music rightly.
 Understanding villancicos in their theological context, and interpreting
-villancicos as theological sources in themselves, reveals varied and sometimes
-conflicting beliefs about faith and hearing. 
+villancicos as theological sources in themselves, shows that Spanish Catholics
+held varied and sometimes conflicting beliefs about faith and hearing. 
 The discourse on faith and hearing in devotional poetry and music often raises
 as many questions as it answers; but this tension, I argue, is actually central
 to its ability to both accommodate the senses and train them. 
 
-If we listen closely to villancicos as historical sources for theological
-understanding, it becomes clear that they functioned as much more than tools for
-simplistic religious teaching or as banal, worldly entertainment.
-The villancicos we will engage with in this chapter provided listeners with
-opportunities to participate actively and thoughtfully in the challenging
-endeavor of faithful hearing.
-
 We will begin by discussing theological and literary sources that shaped and
-reflected widespread notions about faith, hearing, and music; and that reveal
-tensions in those understandings.
+reflected widespread notions about faith, hearing, and music, while also
+revealing tensions in those understandings.
 Then we will look at a group of related villancicos, never previously edited or
 studied, that present musical discourses on the links between faith and hearing,
 and manifest similar tensions. 
@@ -70,8 +73,8 @@ teaching, all the while poking fun at the futile efforts of some churchmen to
 make faith appeal to hearing.
 
 If we listen closely to villancicos as historical sources for theological
-understanding, it becomes clear that villancicos functioned as much more than
-vehicles for simplistic religious teaching or as banal, worldly entertainment.
+understanding, it becomes clear that they functioned as much more than tools for
+simplistic religious teaching or as banal, worldly entertainment.
 The villancicos in this chapter appeal to the ear in order to give listeners an
 opportunity to contemplate the challenges of faithful hearing. 
 
@@ -106,11 +109,11 @@ True faith was a conviction that manifested itself through ethical behavior in
 fidelity to God's will.
 
 For Catholics, then, faith encompassed beliefs, attitudes, and behaviors.
-Faith connected individuals experience with ethical action as part of the
+Faith connected individual experience with ethical action as part of the
 community of the Church. 
 A man of faith was a man of virtue (the root of *virtus* being *vir*), and thus
 faith was central to the Catholic Humanist goal of building a virtuous society.
-Christian disciples were charged not only to "hear" the Church's teaching and
+Christian disciples were required not only to "hear" the Church's teaching and
 believe it (this would be unformed faith); they also had to "listen" in the
 sense of obeying. 
 
@@ -167,7 +170,7 @@ All the Church's teachers should exert themselves to the end that
 
 > the faithful should know and love from the heart Jesus Christ, and him
 > crucified (1 Cor. 2:2); and indeed to persuade them so that they believe with
-> the faithfulness [*pietas*] of their inmost heart and with cultivated devotion
+> the faithfulness [*pietas*] of their inmost heart and with disciplined devotion
 > [*religio*], that there is no other name given to people under heaven, through
 > whom they can be saved (Acts 4:12), since Christ is the atonement for our sins
 > (1 John 2:2).
@@ -180,7 +183,7 @@ oporteat nos saluos fieri: siquidem ipse propitiatio est pro peccatis
 nostris."]
 
 Finally---contrary to Protestant teaching as Catholics understood it---since "in
-this we know that we know him, if he keep his commandments" (I John 2:3),
+this we know that we know him, if he keep his commandments" (1 John 2:3),
 teachers should model faithful living, "not in leisure" but "in applying
 diligent effort to justice, piety, faith, charity, mercy," having been redeemed
 "to do good works" (1 Tim. 2:12); so that "whether one sets out to believe or
@@ -243,12 +246,12 @@ peasants of Europe whose customs were still more pagan than Christian.
 60--63.]
 
 The Augustinian friar Antonio de Azevedo begins his 1589 *Catechism of the
-Mysteries of the Faith* by declaring from the outset that communicating the
-faith requires both trustworthy teachers and faithful listeners---a concept for
-which Azevedo uses music as a key metaphor.
+Mysteries of the Faith* by declaring that communicating the faith requires both
+trustworthy teachers and faithful listeners---a concept for which Azevedo uses
+music as a key metaphor.
 [@Azevedo:Catecismo]
 He begins with the image taken from Pliny of a pupil listening at the feet of a
-teacher who is holding harp. 
+teacher who is holding a harp. 
 The teacher is shown, Azevedo says,
 
 > with a musical instrument which gives pleasure to the ear, so that we should
@@ -274,9 +277,11 @@ dibuxa galanamente, qual a de ser el oiente de la Fe."]
 
 The teacher's task, then, is not only to make the faith heard, but to make it
 "appeal to the ear," just as Azevedo says music does.
-This task depended on both the teacher and the hearer, since as Azevedo
-says, there was a right way to listen.
-Simply accommodating the ear was not enough, then; the Roman Catechism speaks of
+(The Spanish word *oído* could mean both "hearing" and "ear," much like the
+Greek word *akoē* translated as "hearing" in Romans 10:17.)
+For Azevedo, proper teaching required a certain discipline from both the speaker
+and the hearer.
+Simply accommodating the ear was not enough, since the Roman Catechism speaks of
 the need to train the senses as well.
 With the threat of heresy all around, Catholic teachers did not want
 parishioners believing everything they heard.
@@ -395,10 +400,10 @@ Kircher explains:
 > corresponding proportion between dissimilar voices, this proportion, then, of
 > numbers, sets the air in motion; the motion, indeed, is to be varied by the
 > ratios of various intervals, ascending and descending; so that the spirits 
-> [i. e., *spiritus animales*], or the implanted internal air [...], should be
-> moved according to the proportions of the motion of the external air, so that
-> the spirits' motion are effected in various ways; and through this affections
-> can be engendered in the person.
+> [i.e., *spiritus animales*], or the implanted internal air [in the inner ear]
+> [...], should be moved according to the proportions of the motion of the
+> external air, so that the spirits' motion are effected in various ways; and
+> through this affections can be engendered in the person.
 [@Kircher:Musurgia, 552: "Cum harmonia nihil aliud sit, quam dissimilium vocum
 concordia, consensus, & undequaque correspondens proportio; proportio autem
 numerorum in motu aeris elucescat; motus verò pro varia interuallorum, ascensus,
@@ -433,16 +438,15 @@ obtinebitur: Prima est ipsa harmonia. Secunda, numerus, & proportio. Tertia,
 verborum in ipsa musica prouniciandorum vis, & efficacia, siue ipsa oratio.
 Quarta audientis dispositio, siue subiectum memoratarum rerum capax."]
 
-If there must be this kind of congruence between music and listener, then it
-makes sense that Kircher acknowledges that music affects different people in
-different ways. 
+Since there must be this kind of congruence between music and listener, Kircher
+acknowledges that music affects different people in different ways. 
 First, Kircher concedes that geographic and cultural factors influence music
 style and its effect, such that Italians and Germans are moved by different
 styles and therefore compose differently. 
-These national styles, he says, are the result of a national "genius" (that is,
-the special gift of that people), as well as environmental factors, such that
-Germans draw a grave style from living in a cold climate, contrasted with the
-more moderate style of Italians. 
+These styles, he says, are the result of a national "genius" (that is, the
+special gift of that people), as well as environmental factors, such that
+Germans developed a grave style from living in a cold climate, contrasted with
+the more moderate style of Italians. 
 People of the Orient who visit Rome, Kircher says, do not enjoy the highly
 delicate music of that city, and prefer their own strident, clangorous music.
 These differences of style and perception are caused by patriotism---the
@@ -474,17 +478,17 @@ Furthermore, Kircher suggests that not only humoral temperament but also trainin
 and intelligence are a factor in individual listening, since he includes the
 capacity of memory in his list of four conditions for effective music. 
 
-Despite Kircher's confidence in modern musicians' ability to make music music
-move people, the conditions he names may not have been as easy to fulfill as he
+Despite Kircher's confidence in modern musicians' ability to make music move
+people, the conditions he names may not have been as easy to fulfill as he
 suggests. 
 There must be congruence, first of all, between the structure of the music and
 subject of that music: the music must move in the same way as the affective
 movements it seeks to incite. 
 Harmonic ratios, metrical proportions, verbal rhetoric---all of these must
-align, but they were still not enough without the fourth condition, the
-disposition of the hearer. 
-The listener must have a humoral temperament that is moved in the desired way by
-the music. 
+align, but they still are enough without the fourth condition, the disposition
+of the hearer. 
+The listener must have a humoral temperament that is moved in the desired way
+by the music. 
 
 This means that the tension between accommodating hearing and training it is
 multiplied vastly by the addition of music. 
@@ -564,7 +568,7 @@ do."
 omnino à sensibus abstractam esse: cuius rei facultatem in hac vita naturaliter
 non habemus."]
 Faith thus means being empowered by God's grace to go beyond the senses, to
-reach "the assurance of things not seen" (Heb. XX). <!-- citation -->
+reach "the conviction of things not seen" (Heb. 11:1, NRSV).
 
 But even as the catechism stresses that sensory experience is inadequate, and
 human beings are incapable of knowing God by their own lights, it still speaks
@@ -585,8 +589,8 @@ demonstrates.
 Not every individual perception or experience was valid, but only those that
 accorded with the revelation already given through the Church. 
 Moreover, reacting against the perceived "fideism" of the Lutherans,
-who taught that good works were not necessary for salvation, Catholics
-emphasized that faith had to bear fruit in ethical action.
+who taught that a person's good works could not suffice for their salvation,
+Catholics emphasized that faith had to bear fruit in ethical action.
 
 As a result, Spanish theological writers cultivated disciplines for regulating
 spiritual experiences and submitting individual sensation to the Church's
@@ -623,7 +627,7 @@ Others, though, saw the use of music as a potential distraction or distortion.
 For example, Juan de la Cruz complains that even though churches would seem the
 ideal place for prayer, their decorations, ceremonies, and music so engage a
 person's senses that it can be impossible to worship God "in spirit and in
-truth" (John 4:23-24). 
+truth" (John 4:23--24). 
 [@JuandelaCruz:Subida, bk. 3, ch. 39--45, pp. 415--424]
 
 Juan warns that desiring "to feel some effect on oneself" in doing elaborate
@@ -645,7 +649,7 @@ uses the exact language of the Roman Catechism---but has no impact on the
 hearer's will to live faithfully:
 
 > How commonly we see that [...] if the preacher's life is better, greater is
-> the fruit that he gains though his style be low and his rhetoric scanty, and
+> the fruit that he gains, though his style be low and his rhetoric scanty, and
 > his teaching common, because the living spirit infuses him with ardor; but the
 > other preacher gets very little gain, no matter how much more elevated his
 > style and doctrine may be: because, though it is true that good style and
@@ -678,11 +682,11 @@ aquélla a hacer obras; porque, aunque hayan dicho maravillas, luego se olvidan,
 como no pegaron fuego en la voluntad."]
 
 This passage of warning comes at the end of Juan's encyclopedic treatment of
-contemplative practice and mystical experience, and it seems to deliberately
-echo the "love" chapter of 1 Corinthians in insisting that, as Juan says
-elsewhere, "a single work or act of the will done in charity is more precious
-before God than all the visions and revelations and communications from heaven
-that there can be." 
+contemplative practice and mystical experience, *The Ascent of Mount Carmel*.
+In concluding the work the monk seems to deliberately echo the "love" chapter of
+1 Corinthians in insisting that, as Juan says elsewhere, "a single work or act
+of the will done in charity is more precious before God than all the visions and
+revelations and communications from heaven that there can be." 
 [@JuandelaCruz:Subida, bk. 2, ch. 22, p. 306: 
 "[...] es más preciosa delante de Dios una obra o acto de voluntad hecho en
 caridad que cantas visiones y revelaciones y comunicaciones pueden tener del
@@ -698,7 +702,7 @@ Juan's *Ascent of Mount Carmel* was first published in 1618, though it was
 written some forty years earlier; his outlook reflects the hard ascetic extreme
 of Catholic Reformation attitudes toward music. 
 Kircher, on the other hand, writes with the confidence of the Jesuit order at
-the height of its global influence, when this order was still trying to engage
+the height of its global influence, when the Society was still trying to engage
 with any aspect of culture that they saw as advancing their mission. 
 Kircher is interested in music's power to convert---not only to persuade
 catechumens of the truth but to enable them to experience truth. 
@@ -797,7 +801,7 @@ friend who stayed home about European music:
 > yet appreciate how sweet and pleasant it is, whereas we, since we are now
 > accustomed to listening to it, feel that there is nothing more agreeable to
 > the ear. 
->
+
 > But if we care to avert our minds from what is customary, and to consider the
 > thing in itself, we find that European singing is in fact composed with
 > remarkable skill; it does not always keep to the same note for all voices, as
@@ -806,7 +810,7 @@ friend who stayed home about European music:
 > certain remarkable harmony [...] all of which, [...] together with the
 > sounds of the musical instruments, are wonderfully pleasing to the ear of the
 > listener [...]. 
->
+
 > With our singing, since there is no diversity in the notes, but one and the
 > same way of producing the voice, we don't yet have any art or discipline in
 > which the rules of harmony are contained; whereas the Europeans, with their
@@ -834,28 +838,30 @@ How, then, could the Church overcome such an impediment?
 Would music's power be lost on a person who simply lacked the proper disposition
 to hear the Word with faith? 
 These doubts were displayed vividly in a sacred drama performed before King
-Philip IV in 1634, *El nuevo palacio del Retiro* by court poet Pedro Calderón de
-la Barca.
+Philip IV, *El nuevo palacio del Retiro* by court poet Pedro Calderón de la
+Barca.
 [@Calderon:Retiro]
 This Corpus Christi mystery play (*auto sacramental*), was staged in 1634 to
 inaugurate the Spanish monarch's new palace-retreat, the Buen Retiro.
 Like most *autos* this one was performed in the context of a whole day of
-liturgical and processional music, including numerous villancicos; and the drama
-includes texts to be sung (though the music is now lost).
+liturgical and processional music, probably including numerous villancicos; and
+the drama includes texts to be sung, though the music is lost.
 <!--  sources for Corpus Christi 1634 music, generally -->
-Literary scholars have considered Spanish Corpus Christi plays to be "dramas of
-conversion" with the primary goal of teaching doctrine; 
-and thus this literary and performative genre, 
-which was so closely tied to devotional music, 
-allows us to evaluate how auditory arts were used to propagate faith, and how
-that effort served the purposes of the Spanish state.
-<!--  specific source and context -->
+Literary scholars have considered Spanish *autos sacramentales* to be "dramas of
+conversion" with the primary goal of teaching doctrine.[^drama-of-conversion]
+Thus this literary and performative genre, which was so closely tied to
+devotional music, allows us to evaluate how auditory arts were used to propagate
+faith, and how that effort served the purposes of the Spanish state.
 The plays typically present allegorical characters whose conflicts dramatize
 theological debates in the scholastic tradition (as in Aquinas) of thesis,
 antithesis, and synthesis.
-Calderón's play for the politically significant occasion glorifies the
-king---whose name *Felipe* cannot be said without saying *Fe* (faith)---as the
-defender of the Catholic faith, which centers on the doctrine of the Eucharist.
+
+[^drama-of-conversion]:
+**XXX** Cite Wardropper, Parker, McKendrick
+
+Calderón's play for the politically significant occasion glorifies the king as
+the defender of the true faith, since his name *Felipe* cannot be said without
+saying *Fe* (faith)---a faith that centers on the doctrine of the Eucharist.
 [@Calderon:Retiro, ll. XXX]
 Since the Eucharist defies normal sensation and must be perceived through faith,
 much of the play sets up debates about the relationship between faith and the
@@ -863,15 +869,15 @@ senses.
 By staging a contest of the senses before Faith (all personified as characters),
 Calderón promulgates the church's teaching that unless one possessed the
 divinely implanted virtue of faith to begin with, the senses could actually
-become obstacles to faith obstacles to faith.
+become obstacles to faith.
 
 If the King was the defender of the faith, then Judaism was its enemy, as
 dramatized by the long portion of the play that centers on Judaism's incapacity
 for faith.
-The allegorical character *Judaísmo* becomes a vivid representation of the
+The allegorical character *Judaísmo* becomes a chilling representation of the
 incapacity to acquire faith, *despite* the sense of hearing. 
 Judaism is forcefully excluded from the festivities celebrated within the play,
-which culminate with the consecration of the Eucharist. 
+which culminate in the consecration of the Eucharist. 
 Instead Judaism stands to the side and asks the character Faith to explain each
 event to him 
 (`(ref float 'poem 'Calderon-Retiro-Judaismo)`).
@@ -947,7 +953,7 @@ people might simply lack the capacity for hearing with faith.
 Religious ear training required individual discipline to avoid the danger of
 over-reliance on subjective sensory experience and to learn to discern the
 spiritual truth communicated through musical patterns.
-This training would also needs to discipline the whole community to overcome
+This training would also need to discipline the whole community to overcome
 misunderstandings based on cultural conditioning.
 
 Propagating faith, then, meant trying to establish not just individual
@@ -965,11 +971,11 @@ heavenly hierarchy.
 The virtue of man as Neoplatonic microcosm was reflected in the broader society
 and in turn depended on it.
 Spanish political thinkers conceived of the colonial project in terms of
-creating harmony in society.
-@Baker:Harmony, 22--31] 
+establishing harmony in society.
+[@Baker:Harmony, 22--31] 
 Most educated Spaniards were familiar with the medieval philosopher Boethius
 (either directly or through expositions of his ideas in contemporary music
-treates like that of Pedro Cerone) and his concept that there were three kinds
+treatises like that of Pedro Cerone) and his concept that there were three kinds
 of music: *musica instrumentalis*, sounding, playing music; *musica humana*, the
 harmony of the individual in body and soul, reason and passion, and the concord
 of human society; and *musica mundana*, the music of the celestial spheres.
@@ -990,7 +996,7 @@ community participants, for whom performing music with the body and hearing it
 were inextricably linked. 
 The musical efforts of the colonizing church concretely built social
 relationships through musical training.
-<!-- [@RamosKittrell] -->
+[@RamosKittrell:PlayingCathedral]
 For this reason, we cannot fully understand the faith of early modern Catholics
 on the basis of verbal formulations alone; we need to see and hear how
 communities practiced their faith through coordinated action---such as in
@@ -1026,8 +1032,8 @@ vernacular music like Italian oratorios and German Lutheran sacred concertos.
 How much of the poetic text could be perceived by listeners outside the walls of
 the cathedral choir or on the other side of convent partitions?
 Factors of acoustics, vocal performance practice, and instrumentation (such as
-the balance between singers and players), would all play into the answer, in
-addition to the problems of individual training already discussed.
+the balance between singers and players), would all come into play, in addition
+to the problems of individual training already discussed.
 Educated people who possessed the means and connections to acquire printed
 pamphlets of villancico poetry would doubtless have understood more in the
 moment of performance and in reflection on the text before or after.
@@ -1051,13 +1057,15 @@ devotional music could present a sophisticated discourse on sensation and faith,
 one that not only educated hearers about doctrine but actually challenged them
 to listen with new ears.
 The contest of the senses in Calderón's play is echoed in villancicos by
-successive chapelmasters at Segovia Cathedral in the later seventeenth century.
-In the 1670s, Miguel de Irízar set the villancico *si los sentidos queja forman
+successive chapelmasters at Segovia Cathedral.
+In the 1670s, Miguel de Irízar set the villancico *Si los sentidos queja forman
 del Pan divino*, later attributed to the Zaragozan poet Vicente Sánchez, for
 eight voices and instruments in grand polychoral style (E-SE: 18/19, 5/32).
+[@LopezCalo:Segovia]
 Irízar was born in 1634 and served at Segovia from 1671 until his death in 1684. 
 A few decades later Irízar's successor, Jerónimo de Carrión (1660--1721), set
 the same text as a solo continuo song (E-SE: 28/25).
+[@Cashner:WLSCM32, 133--152]
 
 The poem invites hearers to imagine the senses "filing a complaint"
 against the bread of the Eucharist because "what they sense is not by faith 
@@ -1085,14 +1093,15 @@ valuable because this economical composer drafted his music in makeshift
 notebooks stitched together from piles of his received letters, fitting up to
 twelve staves of music in the margins and unused sides of the paper.
 The letters reflect a correspondence with a broad peninsular network of
-musicians, often about exchanging villancico poetry (see chapter 4).
+musicians, often about exchanging villancico poetry (see chapter 5).
 [@LopezCalo:IrizarLetters1; @Olarte:Irizar; @Rodriguez:Networks]
-Irízar probably received this poem through correspondence with a colleague in
-Zaragoza.
+Irízar probably received this poem through such correspondence with a colleague
+in Zaragoza.
 Carrión likely knew (and probably performed) Irízar's setting from the
 archive, but the differences between his text and that of Irízar suggest that
 Carrión had a separate source for the Sánchez poem, one that was closer to the
 poem published in Sánchez's 1688 posthumous works.
+[@Sanchez:LiraPoetica, 171--172]
 
 [^Segovia-sources]: 
 The performing parts for Irízar's setting are in E-SE: 5/32 (in a copyist's
@@ -1103,11 +1112,11 @@ In the earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
 Miguel de Irízar creates a musical competition in festival style by
 pitting his two four-voice choirs against each other in polychoral dialogue
 (`(ref float 'music 'Irizar-Si_los_sentidos)`).
-[@Cashner:WLSCM32. <!--  page nos of edition -->
+[@Cashner:WLSCM32, 133--148. 
 The score includes the heading, "Fiesta del SSantissimo de este año del 1674."]
-Polychoral dialogue, of course, is typical of large-scale villancicos, but
-Irízar has the choirs interrupt each other in ways that create not just a
-dialogue, but a debate. 
+Polychoral dialogue is typical of large-scale villancicos, but Irízar has the
+choirs interrupt each other in ways that create not just a dialogue, but a
+debate. 
 Like a film editor creating a fight scene, Irízar builds intensity by cutting
 the text into shorter phrases to be tossed back and forth between the two
 choirs: *no se den por sentidos* becomes *no se den* and then *no, no*. 
@@ -1131,8 +1140,9 @@ values (*corcheas*) and exchange shorter phrases, so that the tempo feels faster
 Each choir's entrances become more emphatic, repeating tones in simple triads,
 and Irízar adds more offbeat accents and syncopations, particularly for *no se
 den por sentidos los sentidos* in mm. 32--53.
-The estribillo builds to a climactic *peroratio* with the voices breaking into
-imitative texture in descending melodic lines. 
+The estribillo builds to a climactic *peroratio* (the rousing conclusion of an
+oration) with the voices breaking into imitative texture in descending melodic
+lines. 
 
 The distinguishing stylistic characteristics of the setting suggest that Irízar
 is evoking a musical battle topic, a style one may find in *batallas* for organ
@@ -1146,16 +1156,20 @@ Battle pieces typically feature a slow, peaceful introduction followed by
 sections in contrasting meters and styles and a texture of dialogue between
 opposing groups (as in between high and low registers on the keyboard). 
 Typical of the style is the reiteration of 5/3 ("root position") chord voicings,
-with the bass moving by fourths and fifths, and the 3--3--2 syncopations on *no
-se den por sentidos los sentidos* as in mm. 31--33.
+with the bass moving by fourths and fifths, and the syncopated 3--3--2 groupings
+of *corcheas* (eighth notes) on *no se den por sentidos los sentidos* as in mm.
+31--33.
+[Compare, for example, the anonymous *Batalha* in P-BRad: Ms. 963, fol. 56;
+@Araujo:Batalla.] 
 <!--  specific points of comparison, with music example, to a batalla that
 could be tied to Segovia or Irízar's network? -->
 
 Irízar sets the coplas, by contrast, in a sober and deliberate style. 
 The melody moves more calmly in duple meter with melodic phrases that fit well
 with the rhetorical structure of the poetic strophes. 
-Irízar has the treble soloist sing the and fourth lines of each strophe in short
-phrases, where the latter phrase repeats the former, tranposed down a fifth. 
+Irízar has the treble soloist sing the third and fourth lines of each strophe in
+short paired phrases; each time the second phrase repeats the first, transposed
+down a fifth.
 This creates a feeling of a teacher saying "on the one one hand" and "on the
 other hand" that suits the general philosophical tone of the strophes and
 matches the specific poetic phrasing of these lines. 
@@ -1166,7 +1180,7 @@ Irízar's villancico seems to speak to a large crowd through bold, unsubtle
 gestures and sharp contrasts of bright colors. 
 By contrast, Jerónimo de Carrión's later setting of the same poem invites a more
 personal reflection (`(ref float 'music 'Carrion-Si_los_sentidos)`). 
-[@Cashner:WLSCM32]
+[@Cashner:WLSCM32, 149--152]
 Carrión was capable of the festival style, as in his *Qué destemplada armonía*
 (E-SE: 20/5), which almost takes on the dimensions of a *cantada*.
 But this setting fits more in the subgenre of *tono divino* or chamber
@@ -1189,8 +1203,8 @@ rhythmic contrasts between simultaneous voices.
 Carrión dramatizes *queja* (mm. 3--4) with a metrical disagreement between the
 two voices (normal ternary motion versus the voice's sesquialtera).
 The descending pattern of leaps for *porque lo que ellos sienten* perhaps
-suggests the confusion and tumult of the senses, and it creates a certain amount
-of rhythmic confusion as it moves between voices. 
+evokes the sense in tumult, and it creates a certain amount of rhythmic
+confusion as it moves between voices. 
 Carrión creates a climax through a series of phrases in close imitation between
 soloist and accompaniment in mm. 18--32 that leads the singer to the top of his
 register in mm. 35--37. 
@@ -1204,10 +1218,10 @@ individual listeners.
 
 #### Ranking the Senses in Early Modern Philosophy
 
-The treatment of the senses in these villancicos reflects a common physiological
-model of sensation and perception, as educated Spaniards would have learned from
-the kind of scientific and theological treatises preserved from seminary and
-convent libraries in Spain and Mexico. 
+The treatment of the senses in this villancico family reflects a common
+physiological model of sensation and perception, as educated Spaniards would
+have learned from the kind of scientific and theological treatises available to
+them in seminary and convent libraries in Spain and Mexico.[^seminary-libraries]
 <!--  source on theological/philosophical education in Spanish Empire,
 libraries --> 
 Spanish philosophers taught that vision, not hearing, was the first and highest
@@ -1219,9 +1233,18 @@ by an Augustinian friar in New Spain, Alphonsus à Veracruce.
 Veracruce summarizes the traditional Catholic teaching, which drew on Aristotle
 as interpreted by Thomas Aquinas. 
 <!--  [@ Aristotle early modern] -->
-Veracruce's Latin treatise accords with Fray Luis de Granada's widely read
-Spanish *Introduction to the Creed* of 1583. 
+Veracruce's Latin treatise accords with the Dominican friar Luis de Granada's
+widely read Spanish *Introduction to the Creed* of 1583. 
 [@LuisdeGranada:Simbolo; @LuisdeGranada-Balcells:SimboloPtI]
+
+[^seminary-libraries]:
+Some of these libraries are still preserved in their original location, such as
+the Monastery of the Escorial in Spain; others are now kept in the state
+libraries or form the core of smaller rare-book collections.
+For example, the Biblioteca Palafoxiana and Biblioteca José María Lafragua in
+Puebla include large holdings with *ex libris* markings and firemarks of
+Puebla's historic seminary libraries.
+
 
 As Fray Luis explains this widespread understanding of perception, the five
 exterior senses were linked to a set of interior senses or faculties, including
@@ -1249,8 +1272,9 @@ of passions: love and hate, desire and fear, joy and sadness.
 `(insert float 'table 'senses-fray-luis)`
 
 The act of sensation, then, involved the entire body and soul, in a
-pre-Cartesian holistic model; but the external senses differed in how they
-connected the external world to the internal faculties and passions. 
+holistic model that Descartes would later challenge.
+The external senses differed, though, in how they connected the external world
+to the internal faculties and passions. 
 The hierarchy of the senses was determined by the degree of mediation between
 the object of sensation and the person sensing. 
 The most base sense was taste, because the person actually had to physically
@@ -1306,7 +1330,7 @@ into a pleasing concord.
 Here Faith is not the object of sensation, but the subject, who delights in
 hearing the music of properly tuned senses. 
 
-If the poem speaks of Faith listening to the music of the senses, the musical
+While the poem speaks of Faith listening to the music of the senses, the musical
 settings allow humans to listen in as well.
 The musical discourse adds its own layer of meaning to the poetic discourse,
 both by helping listeners imagine the contest of the senses (each setting in its
@@ -1348,8 +1372,8 @@ paradox and enigma.
 [@DoetschKraus:Sinestesia explores connections between poetic "synthesis of the
 senses" in Spanish verse and the actual neurological phenomenon of synesthesia.]
 For example, sight and hearing are the principal objects in the anonymous
-fragment *Porque cuando las voces puedan pintarla* (If voices could only paint
-her) (E-Mn: M3881/44).
+Marian fragment *Porque cuando las voces puedan pintarla* (If voices could only
+paint her, E-Mn: M3881/44).
 
 Cristóbal Galán juxtaposes hearing and vision in a villancico
 for the Conception of Mary. 
@@ -1358,8 +1382,10 @@ Galán was master of the Royal Chapel from 1680 to 1684, and to judge from
 copies of his works in multiple archives, his works were performed all across
 the empire and likely served as models for provincial composers who wanted to
 stay current with trends in Madrid.
-He had actually preceded Irízar as chapelmaster at Segovia Cathedral in XXX
-YEARS. <!-- dates, cite sources on bio; complete works edition?? -->
+He had actually preceded Irízar as chapelmaster at Segovia Cathedral from 1664
+to 1667.
+[@Baron-Sage:GalanC]
+<!-- dates, cite sources on bio; complete works edition?? -->
 Galán's text exhorts listeners to "hear the bird" and "see the voice."
 The visual language in this villancico evokes the common iconography of the
 Holy Spirit as a dove surrounded by golden rays, such as may be seen in the
@@ -1370,8 +1396,8 @@ The image was painted on the ceiling of the monastery's Capilla del Cordero and
 when a new church building was added later, this image was incorporated as the
 central element atop the high altar.]
 
-The poem makes "confusion" of sight and hearing, which is projected partly
-through irregular poetic meter 
+The poem makes *equivocación* (confusion) of sight and hearing, which is
+projected partly through irregular poetic meter 
 (`(ref float 'poem 'Oigan_todos_del_ave-Galan)`).[^Galan-meter]
 In his musical setting for eleven voices in three choirs, Galán creates
 *equivocación* through rhythm, notation, and texture. 
@@ -1403,9 +1429,9 @@ recognized the dark--light symbolism in the notation.
 `(insert float 'figure 'Galan-Oigan-coloratio)`
 <!-- cite Kendrick on darkness coloratio symbolism -->
 
-In texture Galán plays with *qué equivocación* literally by setting these words
-to an equal-voiced fugato on a long ascending scalar figure (starting with the
-Tiple II's stepwise ascent A~4~--G~5~). 
+In texture Galán illustrates with *qué equivocación* literally by setting these words
+to a fugato for *equal* voices on a long ascending scalar figure (starting with
+the Tiple II's stepwise ascent A~4~--G~5~). 
 The sudden outburst of polyphonic texture in the midst of primarily homophonic
 polychoral dialogue could create a more affective sense of confusion as well. 
 As the estribillo continues, Galán increasingly mixes up the music for *Oigan
