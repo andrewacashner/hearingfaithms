@@ -13,4 +13,6 @@
     LibreOffice insert the TOC manually anyway; but publisher doesn't need it?
 - Create build directory with necessary structure of files, subdirectories for
   figures, etc. as publisher wants
+- Make floatref produce a list of floats in order, and then load the actual
+  float files in that order when producing the whole document
 
