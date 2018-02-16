@@ -2,8 +2,8 @@
 %% example
 
 \version "2.19"
-\include "../ly/villancico.ly"
-\include "../ly/example.ly"
+\include "villancico.ly"
+\include "example.ly"
 
 \include "music.ly"
 \include "lyrics.ly"

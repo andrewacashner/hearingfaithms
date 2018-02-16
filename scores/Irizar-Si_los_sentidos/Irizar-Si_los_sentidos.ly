@@ -5,6 +5,9 @@
 \include "villancico.ly"
 \include "example.ly"
 
+#(set-global-staff-size 13)
+\include "font-libertine.ly"
+
 %****************************************
 % MUSIC
 %****************************************
@@ -255,8 +258,6 @@ LyricsAII = \lyricmode {
 	>>
     \layout { 
         short-indent = 0\in
-        system-count = #2 
-        #(layout-set-staff-size 12)
         \context { 
           \Score 
           \omit BarNumber

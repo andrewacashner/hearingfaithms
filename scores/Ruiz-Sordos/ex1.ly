@@ -17,26 +17,24 @@ Solo = \MarkThisUp \markup \italic "Solo"
 MusicSIii = {
   \clef "treble"
   \MeterTriple
-  R1. | R1.
-
-  | r2 g''2\Solo g''1\color d''1\endcolor
-
-  | r2 e''2 f''1\color e''1\endcolor
-
+  | R1. 
+  | R1.
+  | r2 g''2\Solo g''2~\color
+  | g''2 d''1\endcolor
+  | r2 e''2 f''2~\color
+  | f''2 e''1\endcolor
   | d''1. 
   | c''1.
   | R1. | R1.
   | R1. | R1.
   | R1. | R1.
-
-  | r2 g''2 e''1\color f''1\endcolor
-
+  | r2 g''2 e''2~\color
+  | e''2 f''1\endcolor
   | d''1. 
   | r2 d''2 a'2 
   | b'2\color g'1 
-
-  | c''1 b'1 a'1\endcolor 
-
+  | c''1 b'2~
+  | b'2 a'1\endcolor 
   | g'1.
   | R1. | R1.
   | R1. | R1.
@@ -51,11 +49,10 @@ MusicBI = {
   | g1. 
   | R1. | R1.
   | R1. | R1. 
-
-  | r2 r2 c'1\color f'1\endcolor 
-
-  | e'2 d'2 c'1\color b1\endcolor 
-
+  | r2 r2 c'2~\color
+  | c'2 f'1\endcolor 
+  | e'2 d'2 c'2~\color
+  | c'2 b1\endcolor 
   | c'2 d'2 c'2
   | b1 b2 
   | a2 b2 a2
@@ -66,13 +63,11 @@ MusicBI = {
   | R1.
   | c'2 d'2 c'2 
   | b2 c'2 b2
-
-  | a1\color g1 g1\endcolor
-
+  | a1\color g2~
+  | g2 g1\endcolor
   | c'2 d'2 c'2 
-
-  | b1\color c'1\endcolor a1 
-
+  | b1\color c'2~
+  | c'2\endcolor a1 
   | g1.
 }
 
@@ -80,39 +75,33 @@ MusicAc = {
   \clef "bass"
   f2 f2 g2 
   | c1 d2
-  
-  | g1\color g1 g1 
-  
-  | c'2 c'2 f1 c1\endcolor
-
+  | g1\color g2~
+  | g2 g1 
+  | c'2 c'2 f2~
+  | f2 c1\endcolor
   | g1. 
-
-  | c'1\color c'1 f1\endcolor 
-  
+  | c'1\color c'2~
+  | c'2 f1\endcolor 
   | c'2 b2 c'2
   | f2\color g1\endcolor 
   | c'2 b2 a2 
   | g1. 
   | d1.
-
-  | g2\color g2 c'1 f1\endcolor
-
+  | g2\color g2 c'2~
+  | c'2 f1\endcolor
   | g1. 
   | d1. 
   | g1. 
-  
-  | c1\color g1 d1\endcolor 
-  
+  | c1\color g2~
+  | g2 d1\endcolor 
   | g1. 
   | c'2 b2 a2 
   | g1.
-
-  | d1\color g1 g1\endcolor
-  
+  | d1\color g2~
+  | g2 g1\endcolor
   | c1. 
-  
-  | g1\color c1 d1\endcolor 
-  
+  | g1\color c2~
+  | c2 d1\endcolor 
   | g1.
 }
 

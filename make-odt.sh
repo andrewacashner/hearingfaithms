@@ -22,8 +22,6 @@ cat $(cat floats.log) > floats.md.ref
 
 refchapters=("${chapters[@]/%/.ref}" "floats.md.ref")
 
-echo "About to process ${chapters[@]}"
-
 for file in "${refchapters[@]}"; do
     echo "Converting to ODT: $file..."
     outputname="$(basename $file .md.ref).odt"

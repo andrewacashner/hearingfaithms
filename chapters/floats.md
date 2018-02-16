@@ -1,3 +1,5 @@
 ## Floats {-}
 
 \singlespacing
+\clearpage
+

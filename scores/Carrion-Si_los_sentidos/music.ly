@@ -5,24 +5,20 @@ EstribilloSolo = {
   \clef "treble"
   \MeterTriple
 
-  a'2 b'2 c''2
+  |a'2 b'2 c''2
   | f'2\color e'1
-
-  | a'\breve gis'1\endcolor
-
+  | a'1.~
+  | a'2 gis'1\endcolor
   | b'2 c''2 d''2
-  
-  | cis''2. cis''4 d''1\color e''1\endcolor
-
+  | cis''2. cis''4 d''2~\color 
+  | d''2 e''1\endcolor
   | R1.
   | r2 c''2 g'2
   | a'2 f'2 g'2
-
-  | e'\breve\color d'1\endcolor
-
+  | e'1.~\color
+  | e'2 d'1\endcolor
   | r2 e'2 g'2
   | fis'2. g'4 a'2
-
   | a'2\color gis'1\endcolor
   | r2 a'2 c''2
   | b'2. c''4 d''2
@@ -50,11 +46,8 @@ EstribilloAcomp = {
   | f1.
   | e1. 
   | gis1.
-
   | a1\color d'2~
   | d'2\endcolor c'2 g2
-				% XXX manual tie to get correct coloration bracket placement
-
   | a2 f2 g2
   | e2 a2 e2
   | f2 d2 e2
@@ -83,18 +76,16 @@ EstribilloAcomp = {
 
 EstribilloFiguresAcomp = \figuremode {
   \MeterTriple
-  | s\breve.
-
+  | s1.
+  | s1.
   | s1.
   | <4>1.
-
-  | s\breve.
-
+  | s1.
+  | s1.
   | s1 <6>2
   | s1.
-
-  | s\breve.
-
+  | s1.
+  | s1.
   | s1 <6>2
   | s2 <6>2 s2
   | s1.
@@ -103,9 +94,8 @@ EstribilloFiguresAcomp = \figuremode {
   | s1.
   | s1.
   | s2 <_+>2 <6>2
-
-  | s\breve.
-
+  | s1.
+  | s1.
   | s1.
   | <_+>2 s1
   | s1.

@@ -17,88 +17,77 @@ MusicSIi = {
   \MeterTriple	
   R1. 
   | R1.
-
-  | r2 e''2 g''1\color fis''1\endcolor
-  
+  | r2 e''2 g''2~\color
+  | g''2 fis''1\endcolor
   | g''1. 
   | g''2 g''2 g''2
   | g''2 g''2 g''2 
-  
-  | a''1\color g''1 g''1\endcolor 
-  
+  | a''1\color g''2~
+  | g''2 g''1\endcolor 
   | g''1.
   | g''2 g''2 g''2 
   | g''2 g''2 g''2
-  
-  | a''1\color g''1 g''1\endcolor
-  
+  | a''1\color g''2~
+  | g''2 g''1\endcolor
   | g''1.~
   | g''1.
   \FinalBar
 }
 
 MusicSIii = {
-  r2 a'2 c''1\color b'1\endcolor
-  
+  | r2 a'2 c''2~\color
+  | c''2 b'1\endcolor
   | c''2 g'2 d''2~\color
   | d''2\endcolor d''2( c''2)
-
   | b'1. 
   | d''2 c''2 b'2 
   | c''2\color c''1 
-  
-  | c''1 c''1 b'2 b'2\endcolor 
-  
+  | c''1 c''2~
+  | c''2 b'2 b'2\endcolor 
   | c''1.
   | d''2 c''2 b'2 
   | c''2 c''2 c''2 
-
-  | c''1\color c''1 b'1\endcolor
-  
+  | c''1\color c''2~
+  | c''2 b'1\endcolor
   | c''1.~
   | c''1.
 }
 
 MusicAI = {
   
-    \MoveBarRestUp R1. 
   | \MoveBarRestUp R1. 
-
-  | r2 c''2 b'1\color a'1\endcolor
-  
+  | \MoveBarRestUp R1. 
+  | r2 c''2 b'2~\color
+  | b'2 a'1\endcolor
   | g'1.  
   | g'2 g'2 g'2
   | g'2 g'2 e'2 
-  
-  | f'1\color g'1 g'1\endcolor 
-  
+  | f'1\color g'2~
+  | g'2 g'1\endcolor 
   | e'1.
   | g'2 g'2 g'2 
   | g'2 g'2 e'2
-  
-  | f'1\color g'1 g'1\endcolor
-  
+  | f'1\color g'2~
+  | g'2 g'1\endcolor
   | e'1.~
   | e'1.
 }
 
 MusicBI = {
-  r2 f'2 e'1\color d'1\endcolor
-  
-  | c'2 c'2 g1\color d1\endcolor
-  
+  | r2 f'2 e'2~\color
+  | e'2 d'1\endcolor
+  | c'2 c'2 g2~\color 
+  | g2 d1\endcolor
   | g1. 
   | g2 g2 g2 
   | c'2 c'2 c'2 
-  
-  | f1\color c'1 g1\endcolor 
-  
+  | f1\color c'2~
+  | c'2 g1\endcolor 
   | c'1.
   | g2 g2 g2 
   | c'2 c'2 c'2
-  
-  | f1\color c'1 g1\endcolor
-  
+  | f1\color c'2~
+  | c'2 g1\endcolor
   | c'1.~
   | c'1.
 }
@@ -106,27 +95,25 @@ MusicBI = {
 %***
 
 MusicSII = {
-  c''2 r2 r2 r1.
-
+  | c''2 r2 r2 
+  | R1.
   | R1. | R1.
   | R1. 
   | d''2 d''2 d''2 
   | e''2 e''2 g''2 
-  
-  | f''1\color e''1 d''1\endcolor 
- 
+  | f''1\color e''2~
+  | e''2 d''1\endcolor 
   | e''2 r2 r2
   | d''2 d''2 d''2 
   | e''2 e''2 g''2 
-
-  | f''1\color e''1 d''1\endcolor
-
+  | f''1\color e''2~
+  | e''2 d''1\endcolor
   | e''1.~
   | e''1.
 }
 
 MusicAII = {
-  a'2 r2 r2 
+  | a'2 r2 r2 
   | R1. | R1.
   | R1. | R1.
   | d'2 e'2 f'2 
@@ -136,15 +123,15 @@ MusicAII = {
   | c'2 r2 r2
   | d'2 e'2 f'2 
   | e'2 e'2 e'2
-
-  | c'1 e'2( c'2)\color d'1\endcolor
-  
+  | c'1 e'2( 
+  | c'2)\color d'1\endcolor
   | c'1.~
   | c'1.
 }
 
 MusicTII = {
-  f'2 r2 r2 r1. 
+  | f'2 r2 r2 
+  | r1. 
   | R1. | R1. 
   | R1. 
   | b2 c'2 d'2 
@@ -161,18 +148,18 @@ MusicTII = {
 }
 
 MusicBII = {
-  f2 r2 r2 
+  | f2 r2 r2 
   | R1. | R1.
   | R1. | R1.
   | g2 g2 g2
   | c2 c2 c2 
-  | f1\color c1 g1\endcolor 
+  | f1\color c2~
+  | c2 g1\endcolor 
   | c1.  
   | g2 g2 g2 
   | c2 c2 c2 
-  
-  | f1\color c1 g1\endcolor
-  
+  | f1\color c2~
+  | c2 g1\endcolor
   | c1.~
   | c1.
 }
@@ -180,22 +167,20 @@ MusicBII = {
 %***
 
 MusicAc = {
-  f2\color f'2 e'1 d'1
-  
-  | c'2 c'2 g1 d1\endcolor
-  
+  | f2\color f'2 e'2~
+  | e'2 d'1
+  | c'2 c'2 g2~
+  | g2 d1\endcolor
   | g1. 
   | g1. 
   | c1. 
-  
-  | f1\color c1 g1\endcolor 
-
+  | f1\color c2~
+  | c2 g1\endcolor 
   | c1. 
   | g1. 
   | c1.
-
-  | f1\color c1 g1\endcolor
-
+  | f1\color c2~
+  | c2 g1\endcolor
   | c1.~
   | c1.
 }

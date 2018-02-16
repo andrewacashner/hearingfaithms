@@ -14,125 +14,148 @@
 %****************************************
 
 MusicEstribilloSI = \relative c'' {
-    \clef "treble"
-    \MeterTriple
-    \CantusMollis
-	r2 c2.\color c4 
-    | d2 c2.\endcolor c4 
-    | c1. 
-    | c2 d2. d4 
-	| e2 e2. e4 |
-    | f2 d2. d4 
-	| e2\color c1\endcolor 
-    | r2 d2 d 
-	| r2 f1\color 
-    | r2 e1 
-	| r2 f1\endcolor 
-    | r2 f f 
-	| r2 d1\color 
-    | r2 e1 
-	| r2 c1 
-    | r2 d1 
-	| r2 cis1 
-    | r2 d1\endcolor 
-
-	| r2 d2 d2. d4 d1\colorOne 
-
-	| d2 e2 e2. e4 d1\color 
-
-	| e2 c1\endcolor 
-    | c1. 
-	| c2 a2. a4 
-    | d2 e2. e4 
-	| f2 e2. d4 
-
-    | c2\color e2 e1 d1\endcolor 
-    
-    | r1. 
-	
-    | r2 f2\color f1 e1\endcolor 
-
-    | g1. 
-
-    | e2\color g2 g1 d1\endcolor 
-    
-    | f1. 
-	| c1. 
-    | es1. 
-	| bes2\color d1\endcolor 
-    | g,2 a( bes) 
-	| c2 c4( bes a g) 
-    | a1.\fermata 
-    \FinalBar	
+\clef "treble"
+\MeterTriple
+\CantusMollis
+| r2 c2.\color c4 
+| d2 c2.\endcolor c4 
+| c1. 
+| c2 d2. d4 
+| e2 e2. e4 
+| f2 d2. d4 
+| e2\color c1\endcolor 
+| r2 d2 d 
+| r2 f1\color 
+| r2 e1 
+| r2 f1\endcolor 
+| r2 f f 
+| r2 d1\color 
+| r2 e1 
+| r2 c1 
+| r2 d1 
+| r2 cis1 
+| r2 d1\endcolor 
+| r2 d2 d2~
+| d4 d4 d1\colorOne 
+| d2 e2 e2~
+| e4 e4 d1\color 
+| e2 c1\endcolor 
+| c1. 
+| c2 a2. a4 
+| d2 e2. e4 
+| f2 e2. d4 
+| c2\color e2 e2~
+| e2 d1\endcolor 
+| r1. 
+| r2 f2\color f2~
+| f2 e1\endcolor 
+| g1. 
+| e2\color g2 g2~
+| g2 d1\endcolor 
+| f1. 
+| c1. 
+| es1. 
+| bes2\color d1\endcolor 
+| g,2 a( bes) 
+| c2 c4( bes a g) 
+| a1.\fermata 
+\FinalBar	
 }
 
 
 MusicEstribilloAI = \relative c'' {
-      \clef "treble"
-      \CantusMollis
-      r2 a2. a4 bes2 g2. g4 
-	| a2 g2. g4 a2 f2. d4 
-	| g1 g2 r2 bes2. bes4 
-	| 
-	% m. 40
-	g2 a2. a4 f2 bes2. bes4 
-	| bes2\color a1\endcolor g1. 
-	| a\breve. 
-	| r2 g2 g r2 c1\color 
-	| r2 a1 r2 f1 
-	| 
-	% m. 45
-	r2 a2 a1 a\endcolor 
-	| r2 bes2 bes2. bes4 a1\colorOneUnder 
-	| bes2 c c2. c4 b1 
-	| c2 a a2. a4 g1\colorOneUnder 
-	| a2 c2. c4 bes2 a2. a4 
-	| 
-	% m. 50 
-	a2 c2. bes4 a2 c c~ 
-	| c2 a a bes2\color a1\endcolor 
-	| f1 f2 r2 c'2\color c~ 
-	| c2 g1. bes1\endcolor 
-	| bes1. r2 a2\color a~ 
-	| 
-	% m. 55
-	a2 g1 r2 g2 g~ 
-	| g2 f1 e2( f1~ 
-	| f2 e1)\endcolor f1.\fermata 
-	| }
+\clef "treble"
+\CantusMollis
+| r2 a2. a4 
+| bes2 g2. g4 
+| a2 g2. g4 
+| a2 f2. d4 
+| g1 g2 
+| r2 bes2. bes4 
+| g2 a2. a4 
+| f2 bes2. bes4 
+| bes2\color a1\endcolor 
+| g1. 
+| a1.~
+| a1.
+| r2 g2 g2
+| r2 c1\color 
+| r2 a1 
+| r2 f1 
+| r2 a2 a2~
+| a2 a1\endcolor 
+| r2 bes2 bes2~
+| bes4 bes4 a1\colorOneUnder 
+| bes2 c2 c2~
+| c4 c4 b1 
+| c2 a2 a2~
+| a4 a4 g1\colorOneUnder 
+| a2 c2. c4 
+| bes2 a2. a4 
+| a2 c2. bes4 
+| a2 c2 c2~ 
+| c2 a2 a2 
+| bes2\color a1\endcolor 
+| f1 f2 
+| r2 c'2\color c2~ 
+| c2 g1~
+| g2 bes1\endcolor 
+| bes1. 
+| r2 a2\color a2~ 
+| a2 g1 
+| r2 g2 g2~ 
+| g2 f1 
+| e2( f1~ 
+| f2 e1)\endcolor 
+| f1.\fermata 
+}
 
 MusicEstribilloBII = \relative c {
-  \clef "bass"
-  \CantusMollis
-	% m. 37 RESPONSION A 5, METER 6/2
-	R\breve. 
-	| r2 c'2.\colorOne c4 a2 bes2. bes4 
-	| c1. a2 d2. d4 
-	| 
-	% m. 40
-	c2 a2. a4 bes1. 
-	| g2 a a c\color bes1\endcolor 
-	| f2 a a r2 a1\color 
-	| r2 b1 r2 c1\endcolor 
-	| r2 f,2 f r2 d1\color 
-	| 
-	% m. 45
-	r2 a1 r2 d1\endcolor 
-	| R\breve. 
-	| r2 c2 c2. c4 g'1\colorOne 
-	| c,2 c'2 a2. f4 g1\colorOne 
-	| f1. r2 a a 
-	| 
-	% m. 50
-	f2 g g a g g 
-	| c2\color d d1 c 
-	| r2 f,2 f1 c 
-	| r2 c'2 c1 g1~ 
-	| g2 bes1. a1 
-	| r2 c2 c1 g1~ 
-	| g2 bes1. a1\endcolor 
-	| g1. f1.\fermata 
-	| }
+\clef "bass"
+\CantusMollis
+% m. 37 RESPONSION A 5, METER 6/2
+| R1.
+| R1.
+| r2 c'2.\colorOne c4 
+| a2 bes2. bes4 
+| c1. a2 d2. d4 
+| c2 a2. a4 
+| bes1. 
+| g2 a2 a2 
+| c2\color bes1\endcolor 
+| f2 a2 a2 
+| r2 a1\color 
+| r2 b1 
+| r2 c1\endcolor 
+| r2 f,2 f2 
+| r2 d1\color 
+| r2 a1 
+| r2 d1\endcolor 
+| R1.
+| R1.
+| r2 c2 c2~
+| c4 c4 g'1\colorOne 
+| c,2 c'2 a2~
+| a4 f4 g1\colorOne 
+| f1. 
+| r2 a2 a2 
+| f2 g2 g2 
+| a2 g2 g2 
+| c2\color d2 d2~
+| d2 c1
+| r2 f,2 f2~
+| f2 c1
+| r2 c'2 c2~
+| c2 g1~ 
+| g2 bes1~
+| bes2 a1 
+| r2 c2 c2~
+| c2 g1~ 
+| g2 bes1~
+| bes2 a1\endcolor 
+| g1. 
+| f1.\fermata 
+}
 
 
 %****************************************
@@ -220,6 +243,7 @@ LyricsEstribilloBII = \lyricmode {
 % SCORE
 \paper { 
     page-count = #1
+    system-system-spacing.padding = #4
 }
 \score {
   <<
@@ -250,7 +274,6 @@ LyricsEstribilloBII = \lyricmode {
     >>
   >>	
   \layout {
-    #(layout-set-staff-size 12)
     short-indent = 0\in
     \context { 
       \Score 

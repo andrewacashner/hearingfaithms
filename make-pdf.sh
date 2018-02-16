@@ -31,6 +31,7 @@ pandoc \
     --csl chicago-fullnote-bibliography.csl \
     -o pdf/all.pdf \
     config/pdf.yaml chapters/head.yaml \
+    chapters/copyright.md \
     "${chapters[@]/%/.ref}" \
     chapters/floats.md \
     "${floats[@]}"
