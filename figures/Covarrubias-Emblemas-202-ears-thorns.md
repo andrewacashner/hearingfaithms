@@ -2,5 +2,5 @@
 
 "Make a hedge around your ears with thorns," from Covarrubias, *Emblemas*, 202
 
-<!-- include graphics -->
+\includeWideGraphic{Covarrubias-Emblemas-202-ears-thorns}
 

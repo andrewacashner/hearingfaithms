@@ -3,6 +3,5 @@
 *Si los sentidos queja forman del Pan divino*, 
 attr. Vicente Sánchez, *Lyra Poética* (Zaragoza, 1688), 171--172
 
-\input{poem-examples/tex/Si_los_sentidos-Sanchez}
-\clearpage
+\includeFloatFile{poem-examples/tex/Si_los_sentidos-Sanchez}
 

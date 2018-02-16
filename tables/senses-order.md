@@ -11,3 +11,5 @@ Smell       Smell       Taste 1--2  Taste 1     Smell
 Taste       Taste       Smell       Smell       Taste
 Touch       *Hearing*   *Hearing*   *Hearing*   Touch
 
+\clearpage
+

@@ -21,3 +21,5 @@ Affective faculty   Movements of    Rest of body  Passions (Dualities):
                     interior senses               Joy & Sadness
 -----------------   ------------    ------------  --------------------
 
+\clearpage
+
