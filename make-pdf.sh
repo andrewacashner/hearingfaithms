@@ -1,8 +1,12 @@
 #! /usr/bin/env sh
 set -e
 
+chapters=("$@")
+
 echo "Resolving cross-references..."
-floatref chapters/chapter-*.md poem-examples/*.md > floats.log
+floatref "${chapters[@]}" figures/*.md music-examples/*.md poem-examples/*.md tables/*.md
+
+mapfile -t floats < floats.log
 
 echo "Converting to PDF..."
 pandoc \
@@ -14,14 +18,13 @@ pandoc \
     --bibliography master.bib \
     --csl chicago-fullnote-bibliography.csl \
     -o pdf/all.pdf \
-    config/pdf.yaml chapters/head.yaml chapters/chapter-*.md.ref \
-    poem-examples/*.md.ref
+    config/pdf.yaml chapters/head.yaml \
+    "${chapters[@]/%/.ref}" \
+    chapters/floats.md \
+    "${floats[@]}"
 
-#rm chapters/chapter-*.md.ref poem-examples/*.md.ref
+rm $(find -type f -name *.md.ref)
 echo "Created pdf/all.pdf"
 
 exit 0
 
-# To include all floats in floats.log,
-# mapfile floats < floats.log
-# then use this at end of pandoc invocation   "${floats[@]}"
