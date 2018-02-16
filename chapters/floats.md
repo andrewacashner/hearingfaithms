@@ -1,3 +1,3 @@
-# Floats {-}
+## Floats {-}
 
 \singlespacing

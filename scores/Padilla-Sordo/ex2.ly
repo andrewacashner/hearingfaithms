@@ -6,8 +6,8 @@
 % Responsión
 
 \version "2.19"
-\include "../ly/villancico.ly"
-\include "../ly/example.ly"
+\include "villancico.ly"
+\include "example.ly"
 
 %****************************************
 % MUSIC
@@ -218,7 +218,9 @@ LyricsEstribilloBII = \lyricmode {
 
 %****************************************************************************
 % SCORE
-
+\paper { 
+    page-count = #1
+}
 \score {
   <<
     \new Staff = "SI-II" 
@@ -248,6 +250,7 @@ LyricsEstribilloBII = \lyricmode {
     >>
   >>	
   \layout {
+    #(layout-set-staff-size 12)
     short-indent = 0\in
     \context { 
       \Score 

@@ -4,8 +4,8 @@
 % revised 2017-01-19
 
 \version "2.19"
-\include "../ly/villancico.ly"
-\include "../ly/example.ly"
+\include "villancico.ly"
+\include "example.ly"
 
 MoveBarRestUp = \once \override MultiMeasureRest.staff-position = #7
 
@@ -32,7 +32,8 @@ MusicSIi = {
   
   | a''1\color g''1 g''1\endcolor
   
-  | g''\breve. 
+  | g''1.~
+  | g''1.
   \FinalBar
 }
 
@@ -54,7 +55,8 @@ MusicSIii = {
 
   | c''1\color c''1 b'1\endcolor
   
-  | c''\breve.
+  | c''1.~
+  | c''1.
 }
 
 MusicAI = {
@@ -76,7 +78,8 @@ MusicAI = {
   
   | f'1\color g'1 g'1\endcolor
   
-  | e'\breve.
+  | e'1.~
+  | e'1.
 }
 
 MusicBI = {
@@ -96,7 +99,8 @@ MusicBI = {
   
   | f1\color c'1 g1\endcolor
   
-  | c'\breve.
+  | c'1.~
+  | c'1.
 }
 
 %***
@@ -117,7 +121,8 @@ MusicSII = {
 
   | f''1\color e''1 d''1\endcolor
 
-  | e''\breve.
+  | e''1.~
+  | e''1.
 }
 
 MusicAII = {
@@ -134,7 +139,8 @@ MusicAII = {
 
   | c'1 e'2( c'2)\color d'1\endcolor
   
-  | c'\breve.
+  | c'1.~
+  | c'1.
 }
 
 MusicTII = {
@@ -150,7 +156,8 @@ MusicTII = {
   | c'2 c'2 b2 
   | a1 c'2( 
   | g2)\color b1\endcolor
-  | g\breve.
+  | g1.~
+  | g1.
 }
 
 MusicBII = {
@@ -166,7 +173,8 @@ MusicBII = {
   
   | f1\color c1 g1\endcolor
   
-  | c\breve.
+  | c1.~
+  | c1.
 }
 
 %***
@@ -188,7 +196,8 @@ MusicAc = {
 
   | f1\color c1 g1\endcolor
 
-  | c\breve.
+  | c1.~
+  | c1.
 }
 
 
@@ -199,19 +208,19 @@ MusicAc = {
 LyricsSIii = \lyricmode {
   que sor -- dos son, que \EdLyrics{ sor -- dos son }
   los que no~es -- cu -- chan ni~en -- tien -- den el son,
-  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. }
+  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. __ }
 }
 
 LyricsBI = \lyricmode {
   que sor -- dos son, que \EdLyrics{ sor -- dos son }
   los que no~es -- cu -- chan ni~en -- tien -- den el son,
-  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. }
+  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. __ }
 }
 
 LyricsAII = \lyricmode {
   son,
   los que no~es -- cu -- chan ni~en -- tien -- den el son,
-  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. }
+  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. __ }
 
 }
 

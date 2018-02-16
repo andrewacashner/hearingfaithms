@@ -5,8 +5,8 @@
 % 2015-02-20
 
 \version "2.19"
-\include "../ly/villancico.ly"
-\include "../ly/example.ly"
+\include "villancico.ly"
+\include "example.ly"
 
 Solo = \MarkThisUp \markup \italic "Solo"
 

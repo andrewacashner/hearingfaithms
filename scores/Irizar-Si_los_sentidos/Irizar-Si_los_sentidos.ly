@@ -2,8 +2,8 @@
 % EXAMPLE FOR THEOLOGY CH, MM. 22--32
 
 \version "2.19"
-\include "../ly/villancico.ly"
-\include "../ly/example.ly"
+\include "villancico.ly"
+\include "example.ly"
 
 %****************************************
 % MUSIC
@@ -13,11 +13,11 @@ MusicSIi = \relative c'' {
     \MeterDuple
 	e2 d8 d d d |
 	d4 d4. d8 d4 |
-	e4 e r4 a,8 a|
+	e4 e r4 a,8 a| 
 
 	% m. 25
 	b4 c8 c bes4 bes8 a8~ |
-	a8 a8 a4 a2 |
+	a8 a8 a4 a2 | 
 	r2 cis4 cis8 cis |
 	cis4 d4 r2 |
 	r2 r4 cis4 |
@@ -201,6 +201,9 @@ LyricsAII = \lyricmode {
 % SCORE
 %****************************************
 
+\paper {
+  page-count = #1
+}
 \score {
 	<<
 		\new ChoirStaff = "ChI"
@@ -253,6 +256,7 @@ LyricsAII = \lyricmode {
     \layout { 
         short-indent = 0\in
         system-count = #2 
+        #(layout-set-staff-size 12)
         \context { 
           \Score 
           \omit BarNumber

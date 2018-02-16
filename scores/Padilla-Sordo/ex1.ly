@@ -6,8 +6,8 @@
 % INTRO
 
 \version "2.19"
-\include "../ly/villancico.ly"
-\include "../ly/example.ly"
+\include "villancico.ly"
+\include "example.ly"
 
 %****************************************
 % MUSIC
