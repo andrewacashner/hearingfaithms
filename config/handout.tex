@@ -1,0 +1,29 @@
+\setmainfont{Libertinus Serif}
+\setmathfont{Libertinus Math}
+
+\frenchspacing
+\raggedbottom
+
+\usepackage{fnpos} 
+
+\usepackage{poemtranslation}
+
+\newcommand{\speaker}[1]{\textsc{#1}\, }
+\newcommand{\Dots}{[\dots]}
+\newcommand{\add}[1]{[#1]}
+
+\usepackage{graphicx}
+\newcommand{\includeWideGraphic}[1]{%
+    \par\bigskip
+    \begin{center}
+    \includegraphics[width=\textwidth]{#1}%
+    \end{center}
+    \clearpage
+}
+\graphicspath{ {img/figures/} {img/music-examples/} }
+
+\newcommand{\includeFloatFile}[1]{%
+    \par\bigskip
+    \input{#1}
+    \clearpage
+}

@@ -1,22 +1,34 @@
-% Sanchez, Si los sentidos
-% expoem:Si_los_sentidos ESTRIBILLO
+% Si los sentidos queja forman del Pan Divino
+% Critical poetry edition
+% Newly TeXed and revised, 2016/04/05
 
-\def\srcC{Carrión} % Carrión
-\def\srcI{Irízar} % Irízar
-\def\tagline{\emph{no se den por sentidos los sentidos.}}
+\RenewDocumentCommand{\critnote}{ m o m }{#1}
+
+\def\srcC{C} % Carrión
+\def\srcI{I} % Irízar
 
 \begin{poemtranslation}
 \begin{original}
+
 \StanzaSection{6}[Estribillo]
 Si los sentidos queja &
 forman del Pan Divino, &
 porque los que ellos sienten &
 no es de Fe consentido, &
-hoy todos con la Fe sean oídos. &
-No se den por sentidos los sentidos.
+\critnote{hoy todos con la Fe}
+    {\variant{\srcC}{todos hoy con la fe}} sean oídos. &
+\critnote{No se den por sentidos los sentidos}
+    {\foreign{Darse por sentido}, idiom for taking offense at something}.
 \SectionBreak
 
+\def\tagline{\emph{no se den por sentidos los sentidos.}}
+
 \StanzaSection{7}[Coplas]
+
+\critnote{}[Coplas] 
+  {Irízar sets Sánchez coplas in the order 1, 7, 6, 4, 3, and 5; he omits 2.
+   Carrión sets 1, 3, 4, 6, 7; omits 2, 5.}
+
 1. Si en ellos va el no ver bien &
 los ojos de que se admiran, &
 pues mal verán lo que miran &
@@ -34,54 +46,13 @@ si en nubes rayos lucientes &
 están escondidos, &
 \tagline \&
 
-\end{original}
-
-\begin{translation}
-\StanzaSection{6}
-If the senses make &
-a complaint about the Divine Bread, &
-because what they sense &
-is not by faith consented, &
-today let them all with faith be heard. &
-Let the senses not consider themselves senses.
-\SectionBreak
-
-\def\tagline{\emph{let the senses not consider themselves senses.}}
-
-\StanzaSection{7}
-1. If in them there is no good seeing &
-from the eyes that admire, &
-since they shall see poorly what they see &
-if they do not look at what they see, &
-if their blindness is the one &
-who keeps them impaired, &
-\tagline \&
-
 \Stanza{7}
-2. Within transparent veils, &
-God Incarnate is not seen, &
-for the color has been changed, &
-and it is its accidents that do it. &
-If in the clouds flashing rays &
-are hidden, &
-\tagline \&
-
-\end{translation}
-\end{poemtranslation}
-
-
-% Si los sentidos COPLAS
-
-\def\srcC{Carrión} % Carrión
-\def\srcI{Irízar} % Irízar
-\def\tagline{\emph{no se den por sentidos los sentidos.}}
-
-
-\begin{poemtranslation}
-\begin{original}
-\Stanza{7}
-3. Toca el tacto pero yerra &
-que si en que es pan se equivoca, &
+3. Toca el tacto pero 
+  \critnote{yerra}
+  {\variant*{\srcI}{ierra}; \variant*{\srcC}{hierra};
+    probably variants of \gloss{erra}{errs, misses}.} &
+\critnote{que si}{\variant{\srcC}{pues}}
+  en que es pan se equivoca, &
 aunque todo un Cielo toca, &
 no toca en Cielo, ni en tierra, &
 toca misterio, y si encierra &
@@ -99,9 +70,10 @@ no ser admitidos, &
 
 \Stanza{7}
 5. Para que el Manjar alabe &
-lleve el gusto con afán &
-que al que sabe que no es pan &
-sabe a más de lo que sabe, &
+\critnote{lleve}{\variant{\srcI}{llegue}[arrive]} el gusto con afán &
+que \critnote{al que}{\variant{\srcI}{aunque}[even though]} 
+    sabe que no es pan &
+sabe \critnote{a más}{\variant{\srcI}{más}} de lo que sabe, &
 mas si en su esfera no cabe &
 y se hallan perdidos, &
 \tagline \&
@@ -110,8 +82,10 @@ y se hallan perdidos, &
 6. Si el olfato se le humilla &
 con Fe a entenderle la flor &
 le maravilla su olor &
-porque huele a maravilla &
-mas si para percibilla &
+\critnote{porque huele}
+{\variant*{\srcI}{por guele}; \variant{\srcC}{porque guele}} a maravilla &
+mas si para \critnote{percibilla}
+{\variant{\srcI}{a percebilla}[\sameas percibirla: notice, discern, recognize]} &
 no llegan rendidos, &
 \tagline \&
 
@@ -123,11 +97,41 @@ la Fe los ha de templar, &
 sino los puede ajustar &
 para ser oídos, &
 \tagline \&
+
 \end{original}
 
-\begin{translation}
 
-\def\tagline{\emph{let the senses not consider themselves senses.}}
+
+\begin{translation}
+\StanzaSection{6}
+If the senses make &
+a complaint about the Divine Bread, &
+because what they sense &
+is not by faith consented, &
+today let them all with faith be heard. &
+    \critnote{Let the senses not resent it}
+    {Or, Let the senses not be considered senses.}.
+\SectionBreak
+
+\def\tagline{\emph{let the senses not resent it.}}
+
+\StanzaSection{7}
+1. If in them the eyes that admire &
+cannot see well, &
+since they shall see poorly what they see &
+if they do not look at what they see, &
+if their blindness is what &
+keeps them impaired, &
+\tagline \&
+
+\Stanza{7}
+2. Within transparent veils, &
+God Incarnate is not seen, &
+for the color has been changed, &
+and its accidents are doing it. &
+If in the clouds flashing rays &
+are hidden, &
+\tagline \&
 
 \Stanza{7}
 3. Touch touches but it errs, &
@@ -138,12 +142,11 @@ it touches a mystery, and if it encloses &
 unheard portents, &
 \tagline \&
 
-
 \Stanza{7}
-4. It is not fair that taste &
+4. It is not fair that Taste &
 should have a vote on this Morsel, &
-for taste shall not enter in this food, &
-although the food might enter in taste: &
+for Taste shall not come into this, &
+though the Morsel may come into Taste, &
 but if it causes distaste &
 that the senses are not admitted, &
 \tagline \&
@@ -159,11 +162,12 @@ and the senses find themselves lost, &
 
 \Stanza{7}
 6. If smell humbles himself, &
-to understand the flower with Faith, &
-its aroma makes him marvel &
-because he smells a marvel &
+by Faith to understand the flower, &
+he wonders at its aroma &
+because \critnote{it smells wondrous}
+{Or, he smells in a wondrous/miraculous manner.}, &
 but if in order to perceive it &
-the senses do not come submitted, &
+the senses do not submit, &
 \tagline \&
 
 \Stanza{7}
@@ -174,5 +178,6 @@ all their five instruments, &
 moreover, Faith can adjust them &
 so that they may be heard; &
 \tagline \&
+
 \end{translation}
 \end{poemtranslation}
