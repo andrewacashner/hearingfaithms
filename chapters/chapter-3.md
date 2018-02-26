@@ -2,6 +2,9 @@
 Cashner, *Faith, Hearing, and the Power of Music*,
 chapter 3: Christ as Singer and Song
 
+2018-02-26      Begin revision 
+
+2018-02-08      Complete draft 
 2018-01-22      Work resumed after ch2 revision
 2017-12-14      Converted to Markdown
 2017-08-04      Work resumed in Rochester
