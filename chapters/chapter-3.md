@@ -26,50 +26,74 @@ chapter 3: Christ as Singer and Song
 
 ## Christ as Singer and Song
 
-The majority of villancicos that take music as their central conceit are based
-on themes of heavenly music.
-Within the Spanish literary tradition of *conceptismo*, in which, under a
-single governing conceit, a poem may be read in two or more ways simultaneously,
-these metamusical pieces create a parallel discourse on music and theology by
-playing on the rich symbolic heritage of musical words and concepts.
-In the terms of Boethius, these pieces use *musica instrumentalis* to point
-beyond themselves to higher forms of music---to the *musica humana*, the
-harmony of body and soul, and of human society; *musica mundana*, the
-harmony of the planetary and astral spheres; and even beyond the material world,
-to the music of the *cielo Empyreo*.
-In the Empyrean (English *Heaven* instead of *heavens* or sky), these
-pieces evoke the song of saints and angels, and even the mysterious harmonies of
-the Godhead: three persons in one Trinity, and the two natures of Christ as
-man and God.
+On Christmas Eve in 1657, as a cantor in Puebla Cathedral was intoning
+a Latin sermon of Pope St. Leo the Great---the first reading in the second
+Nocturne of the Matins liturgy---the musical chapel was preparing to raise their
+voices.
+Holding handwritten notebooks with their individual performing parts for this
+year's new cycle of villancicos, they looked to their chapelmaster, the priest
+Juan Gutiérrez de Padilla.
+When the chanting concluded with a descending cadence, Padilla made sure the
+chorus had the right starting pitches in their ears---did he sing an intonation,
+or did he or someone else play a chord or short improvised cadence on the organ?
+He raised his hand and indicated the downbeat, the start of the metrical
+*compás* or measure, and on one side of the double-choir ensemble, the three
+voice parts (possibly three individual singers) of Chorus I entered on the
+second beat, singing the word *Voces*.
+The boy *tiple* or treble, adolescent alto (or falsettist), and tenor all sang
+this word high in their registers, and the soft (*mollis*, weak, minor) harmony
+of the opening G chord hung mysteriously in the vaulted space between the
+columns of the new cathedral's architectural choir.
+Moving in the same rhythm, following the natural accents of the poetry, the
+voices declaimed these words like a solemn choral recitative:
 
-By tracing families and lineages of related villancicos on themes of heavenly
-music, part II allows us to see how the
-musical theology of villancicos developed over the course of the seventeenth
-century, and the shifting ways that poets, composers, and listeners understood
-the spiritual power of music to link hearing and faith.
-The pieces interpreted in these case studies all challenge hearers to listen for
-something more than human sounds; indeed, as these pieces reflect and reinforce
-a Neoplatonic theology of music, they invite devotees to listen for unhearable
-music, a music that defies human imagining, which creates harmony between the
-human community and the divine.
+> Voices of the chapel choir,\
+> keep count with what is sung,\
+> for the King is a musician,\
+> and takes note of even the most venial dissonances,\
+> after the manner of David the monarch,\
+> just as in the manner of Jesus the infant prince.
 
-Metamusical villancicos played a special role for Spanish composers as a kind of
-self-imposed *oposición* or proof piece.
-This type of piece offered them the opportunity to showcase their compositional
-craft and theological insight.
-By adapting poetry or music previously used by a teacher, predecessor, or rival,
-a composer could stake out his place in a tradition that was both artistic and
-theological.
-On the artistic level composers developed tropes for musical
-self-representation, vying with each other for the most overt, symbolically
-meaningful, and moving displays of musical artifice.
-As part of a theological tradition, the pieces on themes of heavenly music
-manifest changing ways of thinking about the relationship between earthly music
-and heavenly or divine music, in the midst of shifting early modern
-understandings of the cosmos, the human body, and society.
+The other choir remained silent for these lines, their notated parts instructing
+them to heed the other chorus's admonition to "keep count" of twenty-seven
+measures of rests until their entrance.
 
-This chapter analyzes and interprets two families of villancicos that represent
-Christ as both singer and song.
+Some of those closest to the voices had already seen the poem in the
+commemorative imprint; some of the seminary professors, perhaps, had even spent
+some time with their students puzzling over its complex wordplay.
+A few of them recognized the poem from an earlier, but slightly different,
+version they had seen in an imported print of villancicos from Seville.
+One of them may have even heard the Seville version in person.
+These educated worshippers listened closely to hear how the chapelmaster, now
+approaching his seventieth birthday and showing signs of age, would realize the
+poem's musical conceits in actual music.
+
+The rest of the crowd heard and understood less, but recognized the opening
+conceit of *voces*, and heard distinctly the phrase *que es músico el Rey* and
+the references to David and *Jesús infante*.
+As they looked past the choir to the newly decorated Altar of the Kings, filled
+with images of Christ's birth and of celestial music, and as they heard the
+solemn dialogue between choirs give way to more lively music, they worked to
+imagine what sort of music the choir was singing about---the music of King
+David with his lyre, the song of the Christmas angels, or the music they were
+hearing this night in the heart of New Spain?
+
+
+Thus begins a tour-de-force of music about music, in which the composer and his
+ensemble take a verbal discourse about music and turn it into a musical
+discourse about music.
+Moreover, even as this discourse is referring through music to the music that is
+currently being performed and heard, this discourse is not only about sounding
+music or *musica instrumentalis*.
+When the first chorus refers to "what is sung," they are not merely
+referring to this literal level of human performance.
+Instead, they point to *Jesús infante*---the child who is both
+the *infante* or heir of the musician-king David and who is also God made
+flesh as an infant, a child too young to be able to speak.
+
+The next two chapters analyze and interpret two families of villancicos that
+represent Christ as both singer and song, inviting hearers to listen for the
+harmonies between earthly, heavenly, and divine forms of music.
 The first is *Voces, las de la capilla*, set by Juan Gutiérrez de Padilla
 for Puebla Cathedral in 1657, which is connected to two other known settings of
 similar texts.
@@ -91,45 +115,62 @@ himself as the song being sung.
 Thus the pieces, I argue, connected faith and hearing by making Christ the Word
 audible through poetic and musical structures.
 
+Within the Spanish literary tradition of *conceptismo*, in which, under a
+single governing conceit, a poem may be read in two or more ways simultaneously,
+these metamusical pieces create a parallel discourse on music and theology by
+playing on the rich symbolic heritage of musical words and concepts.
+In the terms of Boethius, these pieces use *musica instrumentalis* to point
+beyond themselves to higher forms of music---to the *musica humana*, the
+harmony of body and soul, and of human society; *musica mundana*, the
+harmony of the planetary and astral spheres; and even beyond the material world,
+to the music of the *cielo Empyreo*.
+In the Empyrean (English *Heaven* instead of *heavens* or sky), these
+pieces evoke the song of saints and angels, and even the mysterious harmonies of
+the Godhead: three persons in one Trinity, and the two natures of Christ as
+man and God.
+
+By tracing families and lineages of related villancicos on themes of heavenly
+music, part II allows us to see how the musical theology of villancicos
+developed over the course of the seventeenth century, and the shifting ways that
+poets, composers, and listeners understood the spiritual power of music to link
+hearing and faith.
+The pieces interpreted in these case studies all challenge hearers to listen for
+something more than human sounds; indeed, as these pieces reflect and reinforce
+a Neoplatonic theology of music, they invite devotees to listen for unhearable
+music, a music that defies human imagining, which creates harmony between the
+human community and the divine.
+
+Metamusical villancicos played a special role for Spanish composers as a kind of
+self-imposed *oposición* or proof piece.
+This type of piece offered them the opportunity to showcase their compositional
+craft and theological insight.
+By adapting poetry or music previously used by a teacher, predecessor, or rival,
+a composer could stake out his place in a tradition that was both artistic and
+theological.
+On the artistic level composers developed tropes for musical
+self-representation, vying with each other for the most overt, symbolically
+meaningful, and moving displays of musical artifice.
+As part of a theological tradition, the pieces on themes of heavenly music
+manifest changing ways of thinking about the relationship between earthly music
+and heavenly or divine music, in the midst of shifting early modern
+understandings of the cosmos, the human body, and society.
+They advocate and embody a Neoplatonic listening practice in which music points
+beyond itself to a higher, unhearable music of heavenly truth.
+
+Because these pieces address the nature of musical hearing so explicitly, they
+also give us an opportunity to enter into the kind of listening practice these
+pieces incite.
+In doing so we will probably hear some things that the first audience missed,
+and vice versa; but we will certainly learn more about how literate Spanish
+subjects understood the role of music in the connection between hearing and
+faith than we could learn from any other kind of source. 
 
 ### "Voices of the Chapel Choir" and the "Unspeaking Word"
-(Gutiérrez de Padilla)
-
-In the setting of *Voces, las de la capilla* by Juan Gutiérrez de
-Padilla, the first of two choruses in the polychoral ensemble of Puebla
-Cathedral begins with this admonition:
-
-> Voices of the chapel choir,\
-> keep count with what is sung,\
-> for the King is a musician,\
-> and takes note of even the most venial dissonances,\
-> after the manner of David the monarch,\
-> just as in the manner of Jesus the infant prince.
-
-As the voices declaim these words together like a solemn choral recitative,
-breaking the chordal texture only for a mild dissonant suspension on the words
-"light dissonances," the other chorus is literally counting
-twenty-seven measures of rests until their entrance.
-
-Thus begins a tour-de-force of music about music, in which the composer and his
-ensemble take a verbal discourse about music and turn it into a musical
-discourse about music.
-Moreover, even as this discourse is referring through music to the music that is
-currently being performed and heard, this discourse is not only about sounding
-music or *musica instrumentalis*.
-
-When the first chorus refers to "what is sung," they are not merely
-referring to this literal level of human performance.
-Instead, they point to *Jesús infante*---the child who is both
-the *infante* or heir of the musician-king David and who is also God made
-flesh as an infant, a child too young to be able to speak.
-
-#### Christ as Music in the Poem
 
 Any consideration of this complex piece should begin with a careful reading of
-the poetic text and listening to the musical setting (even better, singing or
+the poetic text and listening to the musical setting (or if possible, singing or
 playing it).
-[@Cashner:WLSCM32, **XXX**]
+[@Cashner:WLSCM32, 37--38, 119--132; @Cashner:PhD, 133--203]
 It will probably be readily apparent that this is a different type of
 villancico entirely from the comic villancicos more commonly heard in recent
 performances and recordings.
@@ -137,8 +178,7 @@ The poem, whose author is unknown, is so elaborately contrived that it may seem
 completely unintelligible at the first encounter.
 There is, indeed, no simple way to approach the text: anywhere one starts one
 immediately becomes tangled in a thicket of ambiguous references and cryptic
-phrases, and it is not possible to understand the text fully without reading it
-as the distillation of tropes and doctrines developed through centuries of
+phrases, as the text tropes and doctrines developed through centuries of
 theological literature and liturgy.
 The piece demands a high level of intellectual engagement to tease out the
 intricate conceit, and may thus be compared with what Bernardo Illari describes
@@ -156,12 +196,11 @@ on words, contorted Latinate syntax, and multiple levels of meanings.
 [@Gaylord:Poetry, 222--236; @Tenorio:Gongorismo; @Valbuena:Literatura, vol. 1,
 1014--1061]
 
-To begin simply, though, this poem represents the tradition of Spanish
-*conceptismo*, in which the poet creates a sustained analogy between at
-least two different things such that the understanding of each one informs the
-other.
-Here the two elements are music---specifically choral singing---and the
-Incarnate Christ at his birth.
+This poem exemplifies the tradition of Spanish *conceptismo*, in which the poet
+creates a sustained analogy between at least two different things such that the
+understanding of each one informs the other.
+Here the two elements are music---specifically the voices of choral
+singing---and the Incarnate Christ at his birth.
 
 This may be easiest to see in the coplas.
 One can read these two strophes solely on the one plane referring to Christ's
@@ -193,29 +232,17 @@ of suffering.
 The two words *peregrino tono* would have called up for educated
 listeners a long tradition of using the chant *tonus peregrinus* to
 symbolize the expectant wandering of sinful humanity waiting for the coming of
-Christ, as Craig Wright has traced in medieval sources.
-In an allegorical commentary on the liturgy, which was disseminated in
-manuscript and print versions across the Hispanic world---including copies in
-Puebla---Guillelmus Durandus called the whole time from the fall of Adam to the
-birth of Christ, including the Israelites' wandering in the wilderness and
-Babylonian captivity, the *tempus peregrinationis*.
-[@Wright:Maze, 234]
-
-An interpreter contemporary to Padilla, Cornelius à Lapide, extends the
-"pilgrim" concept to the New Adam, Christ.
-In a commentary also available in Puebla and throughout the Spanish Empire that
-Christ, as the New Adam, was born like a "pilgrim" on a journey in a
-borrowed stable.
-Explaining the Greek word *eskēnosen* in John 1:14,
-Lapide says "he set up a tent or tabernacle in us, that is, among us, for
-a short time, like a guest or pilgrim [*peregrinus*] in a foreign land." 
-[@Lapide:Gospels19C, 884:
+Christ, as Craig Wright has traced in medieval sources like the allegorical
+commentary on the liturgy of Guillelmus Durandus, whose works were available in
+Puebla
+Cornelius à Lapide, extends the concept to the New Adam, Christ, who was born
+like a "pilgrim" [*peregrinus*] on a journey in a borrowed stable, "in order to
+teach us to be pilgrims on earth, though actually citizens of heaven."
+[@Lapide:Gospels19C, 884, on Jn 1:14:
 "Hoc est tentorium vel tabernaculum fixit in nobis, id est, inter nos, ad
 modicum tempus, quasi hospes et peregrinus in terra aliena: erat enim ipse
-civis, incola et dominus cœli ac paradisi \[...\]."]
-This should teach us, he writes, to be pilgrims [*peregrinos*] on earth, though
-actually citizens of heaven."
-[@Lapide:Gospels19C, 669, on Luke 2:5: 
+civis, incola et dominus cœli ac paradisi";
+@Lapide:Gospels19C, 669, on Lk 2:5: 
 "ut doceret nos in terra esse peregrinos, cives vero cœli, ut ab hoc exilio
 magnis virtutum passibus tendamis in cœlum, ceu patriam et civitatem nostram."]
 A contemporary musician, the composer and theorist Andrés Lorente, took up the
@@ -228,19 +255,15 @@ as songs for me in the place of my wanderings)."
 [@Lorente:Porque, 609:
 "la Musica espiritual de su persona, limpiando su conciencia, y alegrando su
 Anima con Musica diuina, para que pueda dezir con Dauid, *Cantabiles mihi*
-\[...\]."]
+[...]."]
+
 Within this tradition, then, the villancico uses a chant tone to present
 Christ himself as the song given to sinful Man in his pilgrimage. 
-It is no surprise that in the musical setting, Padilla quotes the chant formula
-literally, so that the symbol is present to the ear both in word and tone.
-
+In the musical setting, Padilla quotes the chant formula literally, so that the
+symbol is present to the ear both in word and tone.
 This rich interplay between the musical and theological sides of the
-conceit extends throughout the whole villancico, opening up so many possible
-points of reference and interpretations that it will not be possible here to go
-through them all in detail, as I have done elsewhere.
-[@Cashner:PhD, 133--203]
-Instead it may be most helpful to give a brief summary of the poem's
-representation of Christ as both singer and song.
+conceit extends throughout the whole villancico, opening up many possible
+points of reference and interpretations.
 
 The central conceit of the poem is to link the "voices of the chapel
 choir"---the actual sounding music being heard in the performance of the
@@ -250,32 +273,7 @@ The poem evokes the musical voices of human singers, angelic choirs, ancient
 prophets, and even the crying voice of the newborn Christ.
 The second copla encapsulates the whole conceit: Christ is a divine musical
 "composition," in which the divine chapelmaster "proves"
-his mastery at creating "consonances of a Man and God."[^estribillo-vs-emblems]
-
-[^estribillo-vs-emblems]:
-This is a common practice in villancicos: a puzzling idea presented at the
-beginning of the piece is not fully explained until the end of the coplas,
-so that when the estribillo is then repeated, the listener can hear it with
-new understanding.
-^[ formal relationships here, diss p. 145 **XXX** ]
-In many villancico poems, the relationship of estribillo and coplas is
-similar to that between the image and accompanying texts in contemporary
-emblem books (@Covarrubias:Emblemas).
-In the emblem book of Covarrubias, the emblem is often striking but cryptic,
-juxtaposing (for example) two well-known symbols in an unusual way, often
-with a Latin motto.
-On the facing page is a poem that expands on the ideas in the image, and on
-the reverse of that page is a prose explanation of both the poem and the
-image.
-In this villancico text, then, the estribillo's function is similar to the
-purpose of the emblem and poem as presenting attention-getting but enigmatic
-symbols, while the coplas share the more explanatory function of the emblem
-book's prose.
-Just as one would read the explanation and then turn back to consider the
-emblem again, now with a heightened sense of meaning, so too in the
-villancico, when the estribillo is repeated after the coplas, listeners have
-the opportunity to reconsider what they have heard in light of the coplas.
-
+his mastery at creating "consonances of a Man and God."
 
 The "chapel," it would seem, is performing before the king, like the
 Spanish *Capilla Real*; and this King, that is, God, "is a
