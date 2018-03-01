@@ -100,8 +100,8 @@ similar texts.
 The second is *Suspended, cielos, vuestro dulce canto*, one of the
 best-attested families of villancicos, with eight documented settings of variant
 poetic texts in the later seventeenth century; the one extant complete musical
-setting is by Joan Cererols, probably for the Escolania of Montserrat, around
-1660.
+setting is by Joan Cererols of the Abbey of Montserrat, around 1660.
+
 These villancicos for Christmas connect incarnation, voice, and creation, as
 they invite hearers to contemplate human music-making as a reflection of
 Christ's nature as the divine "Word made flesh" (Jn 1).
@@ -202,12 +202,9 @@ understanding of each one informs the other.
 Here the two elements are music---specifically the voices of choral
 singing---and the Incarnate Christ at his birth.
 
-This may be easiest to see in the coplas.
+The first of the two coplas provides a clear example of this technique.
 One can read these two strophes solely on the one plane referring to Christ's
 Incarnation and Passion, however elliptically.
-My published translation attempts to convey some of the ambiguity of the
-original; emphasizing one side of the conceit or other would lead to different
-translations, of course.
 In the first copla, the Christ-child gave a "wandering song" to the
 Man---referring to the first man, Adam, being cast out of Paradise.
 Christ "went up so high" in "sustained tones of
@@ -216,7 +213,6 @@ Christ "arose on the eighth" day---a traditional way of referring to the
 Sunday on the Resurrection---"in the triune."
 [See the entries for the numbers eight and three in @Bongo:NumerorumMysteria and
 @Ricciardo:CommentariaSymbolica.]
-
 Reading this copla according to the other side of the conceit, the Christ-child
 gave the *tonus peregrinus* chant formula to the Man, and, as a virtuoso
 singer, "he went up so high" that "in a cry of sharps," he
@@ -224,18 +220,14 @@ singer, "he went up so high" that "in a cry of sharps," he
 The poet has selected musical terms with double meanings that allow listeners
 with musical knowledge to think about theological concepts in a new way, and
 vice versa.
-For example, the sharp sign (*sustenido*) is used (as J. S. Bach would
-later use it) as an icon of the cross; and musically also seems to suggest the
-"strange" (another meaning of *peregrino*) quality of this song
-of suffering.
 
-The two words *peregrino tono* would have called up for educated
-listeners a long tradition of using the chant *tonus peregrinus* to
-symbolize the expectant wandering of sinful humanity waiting for the coming of
-Christ, as Craig Wright has traced in medieval sources like the allegorical
+For example, the words *peregrino tono* could have called up for educated
+listeners a tradition of using the chant *tonus peregrinus* to symbolize the
+expectant wandering of sinful humanity waiting for the coming of Christ.
+[This trope was developed through medieval sources like the allegorical
 commentary on the liturgy of Guillelmus Durandus, whose works were available in
-Puebla
-Cornelius à Lapide, extends the concept to the New Adam, Christ, who was born
+Puebla: @Wright:Maze, XXX.]
+Cornelius à Lapide extends the concept to the New Adam, Christ, who was born
 like a "pilgrim" [*peregrinus*] on a journey in a borrowed stable, "in order to
 teach us to be pilgrims on earth, though actually citizens of heaven."
 [@Lapide:Gospels19C, 884, on Jn 1:14:
@@ -245,8 +237,8 @@ civis, incola et dominus cœli ac paradisi";
 @Lapide:Gospels19C, 669, on Lk 2:5: 
 "ut doceret nos in terra esse peregrinos, cives vero cœli, ut ab hoc exilio
 magnis virtutum passibus tendamis in cœlum, ceu patriam et civitatem nostram."]
-A contemporary musician, the composer and theorist Andrés Lorente, took up the
-"pilgrim song" trope, drawing on Vulgate Psalm 118:54, when he exhorted the
+The contemporary composer and theorist Andrés Lorente takes up the
+"pilgrim song" trope, drawing on Vulgate Psalm 118:54, when he exhorts the
 aspiring musician to match the music of his compositions with "the
 spiritual Music of his person, cleansing his conscience, and rejoicing his soul
 with Divine Music, so that he may say with David, *Cantabiles mihi erant
@@ -254,16 +246,12 @@ iustificationes tuæ in loco peregrinationis meæ* (Your right precepts have ser
 as songs for me in the place of my wanderings)."
 [@Lorente:Porque, 609:
 "la Musica espiritual de su persona, limpiando su conciencia, y alegrando su
-Anima con Musica diuina, para que pueda dezir con Dauid, *Cantabiles mihi*
-[...]."]
-
+Anima con Musica diuina, para que pueda dezir con Dauid, *Cantabiles mihi erant
+iustificationes tuæ in loco peregrinationis meæ*."]
 Within this tradition, then, the villancico uses a chant tone to present
 Christ himself as the song given to sinful Man in his pilgrimage. 
 In the musical setting, Padilla quotes the chant formula literally, so that the
 symbol is present to the ear both in word and tone.
-This rich interplay between the musical and theological sides of the
-conceit extends throughout the whole villancico, opening up many possible
-points of reference and interpretations.
 
 The central conceit of the poem is to link the "voices of the chapel
 choir"---the actual sounding music being heard in the performance of the
@@ -274,7 +262,6 @@ prophets, and even the crying voice of the newborn Christ.
 The second copla encapsulates the whole conceit: Christ is a divine musical
 "composition," in which the divine chapelmaster "proves"
 his mastery at creating "consonances of a Man and God."
-
 The "chapel," it would seem, is performing before the king, like the
 Spanish *Capilla Real*; and this King, that is, God, "is a
 musician."
@@ -296,8 +283,16 @@ Calling Jesus *infante* identifies this child as David's
 heir---that is, as the Messiah; and the phrase *a lo de* (in the manner or
 style of) suggests that this child will be no less exacting a musical taskmaster
 than his ancestor.
-There is also a deeper meaning to the term *infante* here, to which we will
-return.
+
+It only becomes clear later in the poem that the word *infante* also points to
+another theological trope based on the double meaning of the Latin word *infans*
+as both infant and "unable to speak."
+In this tradition, the Christ-child is *Verbum infans*---the "unspeaking Word,"
+who does not need to speak because he himself *is* the Word.
+This villancico's conceit treats both the Word and the child in musical terms,
+so that Christ as the incarnate Word is a musical composition; and so
+that the child is depicted not as speaking but, through his cries, as
+singing---making Christ both singer and song.
 
 As the poem continues, it presents Christ as the theological fulfillment of the
 prophecies made to and through David, especially the psalms; in musical terms,
@@ -329,8 +324,8 @@ Christ's passion, the *divisa*---a sign of any kind but particularly a
 heraldic emblem or motto---may refer to the cross.
 ^[ source ]
  others who say the same
-The motto, *la destreza en la esperanza*, sounds like a gloss a phrase
-from the Roman historian Tacitus, *spes in virtute*, which was cried in
+The motto, *la destreza en la esperanza*, sounds like a gloss of a phrase from
+the Roman historian Tacitus, *spes in virtute*, which was cried in
 the midst of a famous battle.
 ^[**XXX**  source, details ]
 The heraldic and chivalric imagery and language (*hazañas*,
@@ -352,10 +347,10 @@ sun," a reference both to Christ's birth traditionally at midnight ("at
 the half-measure of night", l. 15) and a symbol of his royalty, the same
 symbol used by Spain's own king, Philip IV.
 ^[**XXX**  cite also Is. 60:1, connect Jn 1:14, Tit 2:11 ]
-The reference to "glory" and "grace" here is part of a long
-theological tradition which we will explore later.
-
-^[**XXX**  or here ]
+The linked terms "grace" and "glory" also refer to a theological tradition, to
+be discussed further below, that links the *Gloria* of the Christmas angels to
+the grace offered to humanity through Christ's Incarnation, and to the glory
+awaiting the redeemed when they join the angels in heaven.
 
 Now the poet turns even more strongly from using music as a metaphor to
 describing actual music-making, as in the estribillo the text calls to mind the
@@ -367,27 +362,6 @@ Incarnate in their midst.
 Like all poetry about music, this representation of music draws on the poet's
 experience of actual, contemporary music---thus the spheres sing "in one
 choir and the other," like Spain's polychoral ensembles.
-The scene recalls many contemporary images of the Adoration of the Sheperds, in
-particular one by Francisco de Zurbarán painted in Cádiz only a few years after
-Padilla left it for the New World, and an engraving in a 1617 breviary
-that both poet and composer are likely to have seen.
-^[**XXX**  sources and dates ]
-
-The phrase *grave, suave y sonoro* seems to have been a stock
-description of sacred music appropriate for liturgical worship.
-The same words are used to describe the music of Christ as a musician (in fact,
-as a musical instrument) in José de Cáseda's *Qué música divina* from
-a half-century later, as discussed in a later chapter.
-A bequest to Mexico City Cathedral in **XXX** used nearly identical
-terms to describe the Latin Responsories that should be sung.
-Interestingly, in that case the term was used to specify Latin-texted music
-*as opposed to* villancicos.
-^[**XXX**  cite Goldman, check detail ]
-Here, within a villancico, the term is used to refer to a higher form of
-music-making, within the Neoplatonic tradition of using that which is lowly to
-point toward higher truths.
-We will see that Padilla uses stylistic topics to match the reference to
-different types of music within the same piece.
 
 The numbers here ("three by three, two by two, one by one") have a wide
 range of possible symbolic meanings, while at the most literal level (the level
@@ -409,8 +383,8 @@ the centuries, and up to the moment when the angels led the song of Gloria at
 Christ's birth.
 But all these voices, the poem now says, have been "awaiting the
 opportune time, the one who was before all time" (ll. 24--25).
-Once again, the true music of Christmas is Christ himself, and thus the next
-lines represent the voice of the baby Jesus.
+The true music of Christmas is Christ himself, and thus the next lines represent
+the voice of the baby Jesus.
 The musical imagery here continues the conceit of the King as musician, a
 *padre* (father, priest) like most Spanish chapelmasters including Padilla,
 who either sounds the pitch *A (la, mi, re)* in Guidonian solmization with
@@ -431,37 +405,40 @@ re)*" as a symbol of Christ himself.
 The poem says the voices were all awaiting "the one who was
 before all time," an appositive phrase referring to Christ, whom the Nicene
 Creeds declares was "begotten of the father before all ages
-[*secula*].
+[*secula*]".
 [@Catholic:Catechismus1614, 42: "ex patre natum ante omnia secula."]
 The reference to Christ's eternal existence together with the letter A recalls
 Christ's description of himself in the Revelation to John as
 "*alpha* and *omega*"---the Vulgate simply puts the Greek
-letter A here.[^alpha-omega]
+letter α here.[^alpha-omega]
 This title indicates that Christ is "the beginning and the end,"
 "the one who is and who was and who is to come" (Rev. 1:8,
 21:6, 22:13).[^Rev1-8]
 The time symbolism works on a musical level as well, but the "sign of A"
 also suggests the musical pitch A.
+As will be argued below, the phoneme *a* (pronounced *ah*) also evokes the
+wordless cry of the baby Jesus as a form of music.
 
 [^alpha-omega]:
 This is an especially interesting choice since the Greek text of
-Rev. 1:8, actually spells out *alpha* (but not *omega*).
+Rev. 1:8 actually spells out *alpha* (but not *omega*).
 
 [^Rev1-8]:
 In both Greek and Latin, the phrase in Revelation 1:8 repeats exactly
 the words used for the name of God (the Hebrew tetragrammaton, *YHWH*) in
-the translations of Ex. 3:14 into those languages (Greek
-*hō ōn*, Latin *qui est*).
+the translations of Ex. 3:14 into those languages (Greek ὡ ων, Latin *qui est*).
 
 The final couplet epitomizes the theology of Incarnation through a play on
 rising and falling musical lines: "Everything in Man is to ascend/ and
 everything in God is to descend" (ll. 32--33).
-Most discussions of the Incarnation in contemporary theological literature cited
-some version of the maxim attributed to St. Ambrose, "God became Man
-so that Man might become Divine."
-^[**XXX**  check source, cite ]
-In Christ, God humbled himself so that he might raise up sinful humans to share
-in his glory (Philippians **XXX**).
+This is a musical version of a common summary of the Incarnation as an exchange
+between God and man.
+As Lapide puts it, Christ "lowered himself to the earth and flesh, in order to lift us
+up to heaven. 'Therefore,' says St. Anselm, 'God was made man, in order that man
+might be made God.'"
+[@Lapide:Gospels19C, 670, on Lk. 2:7:
+"Depressit se in terram et carnem, ut nos eveheret in cœlum. *Ideo*, ait S.
+Anselm, *Deus factus est homo, ut homo fieret Deus*."]
 This central theology of Christianity is represented in the poem through the
 musical concept of a contrapuntal voice exchange.
 
@@ -475,7 +452,7 @@ After long waiting, at the "opportune time," Christ was born into the
 world to begin a battle "in hope," a virtuoso performance fulfilled in
 his death and resurrection at "the thirty-three," upon the "sign"
 of the cross.
-Christ himself is the incranate Word, and his infant cries are the true
+Christ himself is the incarnate Word, and his infant cries are the true
 "sign of A," the "song" that sets the tone for all the other
 voices, "in one choir and another" of the Christmas manger, and at the
 Christmas liturgy in the present-day of the villancico's performance.
@@ -484,67 +461,43 @@ Christmas liturgy in the present-day of the villancico's performance.
 
 How, then, does the composer turn the musical-theological conceits of this poem
 into actual *musica instrumentalis*?
+First, Padilla makes sure that congregants can hear and understand the sounds
+and structures of the poem.
+He projects the words clearly according to their prosody and grammatical
+structure, and sets them to memorable melodic and rhythmic patterns.
+Second, he depicts the meaning of the words through musical symbols and figures
+that correspond to concepts and imagery in the text (i.e., "madrigalisms").
+Third, he uses different stylistic registers and topics (that is, allusions to
+other pre-existing styles of music) to further both projection and depiction, as
+well as to instill an affective experience in the listener that matches with the
+goals of the poem.
 
-In any example of sung poetry, we may distinguish three aspects of text setting:
-text projection, depiction, and expression.
-^[**XXX**  cite Burkholder for the latter two ]
-In text projection, a composer projects the words clearly according to their
-prosody and grammatical structure, and sets them to memorable melodic and
-rhythmic patterns, so that listeners can hear and understand the words of the
-poem.
-In text depiction, a composer uses musical techniques (in this period, often
-musical-rhetorical figures) to paint or represent the meaning of the text in a
-symbolic way, such as in madrigalisms.
-Text expression encompasses a variety of ways that a composer can communicate
-the feeling, mood, and meaning of the text to listeners, including the use of
-affective or other stylistic topics or anything that makes the listener feel and
-experience the meaning of the text.
-
-Padilla's setting of this poem is a tour-de-force of text depiction, but it
-also demonstrates careful attention to text projection.
+Padilla projects the formal structure of the poem through musical structures.
 This approach fits with an aesthetic of Tridentine clarity in presenting the
 text, as well as with traditions from Spanish popular and theatrical traditions
 of singing poetry, especially traditions of adapting stock melodic formulas for
 singing *romance* poetry.
 ^[**XXX**  cite ]
-
-##### Text Projection
-
-The formal structure of the musical setting is closely linked to that of the
-poem.
-[@Cashner:WLSCM32, **XXX**]
 The poem begins with an introductory section, which will be useful to label
 *introducción* as many poetry imprints of other villancicos do.
 The *introducción* consists of two six-line strophes, each followed by the
 same *respuesta* or response of a four-line strophe.
 The placement of rests and repeat markings in the performing parts makes clear
-that the *respuesta* is sung after each of the six-line
-strophes.
+that the *respuesta* is sung after each of the six-line strophes.
 ^[**XXX**  distinguish from other edition, performance ]
-The whole *introducción* is in the poetic meter of *romance* in
-*-a -a*: this means that every line is eight syllables long, and that there
-is assonance in the last two vowels of the even-numbered lines.
+An *estribillo* follows, which is repeated after the two *coplas*.
+
+Padilla's declamation in the *introducción* projects the poetic structure
+of *romance* closely.
+In *romance* poetry every line is eight syllables long, and there is assonance
+in the last two vowels of the even-numbered lines (here in *-a -a*).
 ^[**XXX**  cite metrica ]
-Thus the poem uses *-a -a* assonance in *canta*,
-*disonancias*, *monarca*, and so on.
-
-Another way to think of *romance* poetry is more similar to traditional
-poetic forms in other languages, such as Old English and Germanic poetry---as
-sixteen-syllable lines, with a *caesura* in the middle and assonance at the
-end.
+Though conventionally written in four-line strophes, this type of poetry could
+also be shown like the similar traditional forms in Old English and Germanic
+poetry---as sixteen-syllable lines, with a *caesura* in the middle and assonance
+at the end.
 ^[**XXX**  cite crestomatia, romance publications, Old English, German exx ]
-In other words, the beginning of this villancico would probably have been
-arranged like this (partly because of narrow columns in the typographical
-layout):
-
-> Voces, las de la capilla,\
-> cuenta con lo que se canta,\
-> que es músico el rey, y nota\
-> las más breves disonancias\
-> a lo de Jesús infante\
-> y a lo de David monarca.
-
-But it could also be arranged like this:
+Padilla sets the text as though it were arranged like this:
 
 -------------------------       ----------------------------
 Voces, las de la capilla,       cuenta con lo que se canta,
@@ -552,9 +505,8 @@ que es músico el rey, y nota    las más breves disonancias
 a lo de Jesús infante           y a lo de David monarca.
 --------------------------      ----------------------------
 
-Padilla sets the text as though it were arranged in the latter way: he pauses
-briefly where the *caesurae* would be, but punctuates the assonant lines
-with clear points of harmonic arrival.
+He has the singers pause briefly where the *caesurae* would be, but punctuates
+the assonant lines with clear points of harmonic arrival.
 He articulates the end of the strophes in the *introducción* with full
 cadences.
 
@@ -616,8 +568,6 @@ theorists for modal counterpoint, while also punctuating the
 sections of the poem and making its grammatical and rhetorical structure clear
 to listeners.
 ^[**XXX**  cte diss. 164 Cerone, Judd, Barnett ]
-
-##### Text Depiction
 
 It is on the level of text depiction---representing the meaning of the text
 through musical figures and symbols---that Padilla demonstrates his full mastery
@@ -706,6 +656,22 @@ death.
 ^[**XXX**  Puebla cathedral book or image in this book ]
 
 `(insert float 'figure 'Zurbaran-Jerez-Adoracion)`
+
+The phrase *grave, suave y sonoro* seems to have been a stock
+description of sacred music appropriate for liturgical worship.
+The same words are used to describe the music of Christ as a musician (in fact,
+as a musical instrument) in José de Cáseda's *Qué música divina* from
+a half-century later, as discussed in a later chapter.
+A bequest to Mexico City Cathedral in **XXX** used nearly identical
+terms to describe the Latin Responsories that should be sung.
+Interestingly, in that case the term was used to specify Latin-texted music
+*as opposed to* villancicos.
+^[**XXX**  cite Goldman, check detail ]
+Here, within a villancico, the term is used to refer to a higher form of
+music-making, within the Neoplatonic tradition of using that which is lowly to
+point toward higher truths.
+Thus Padilla uses stylistic topics to match the reference to
+different types of music within the same piece.
 
 At the phrase *y aguardan tiempo oportuno* ("and they await the opportune time,"
 m. 60), Padilla shifts meter signatures again, returning to ternary meter (CZ)
@@ -978,6 +944,7 @@ Hæc cùm attentè considerauerint, tum verò omnia mysteria, quæ hoc articulo
 continentur, humili ac fideli animo credant, & adorent: nec curiosè & quod sine
 periculo vix vnquam fieri potest, illa inuestigare, ac perscrutari velint."]
 
+<!-- repeated from above -->
 The exegete Cornelius à Lapide attributes a similar formulation to Anselm,
 writing that Christ "lowered himself to the earth and flesh, in order to lift us
 up to heaven. 'Therefore,' says St. Anselm, 'God was made man, in order that man
@@ -1024,6 +991,45 @@ Padilla's villancico text puts this in musical terms, speaking of Christ as
 is to descend, and everything in Man is to ascend."
 The musical setting even performs the concept through literal voice exchanges
 between the ascending and descending motives.
+
+The reference to "grace" and "glory" in the villancico's *introducción*
+references another common trope for explaining human salvation in Christmas
+preaching and exegesis, in which these terms mark the beginning and goal,
+respectively, of a life of faith.
+St. Paul writes in Romans 5:1--2, "For being justified by faith, we have peace
+with God through our Lord Jesus Christ, through whom we have access to this
+grace [*gratiam*] in which we stand, and we rejoice in the hope of the glory of
+God [*gloriamur in spe gloriae Dei*]."
+In a Christmas sermon, Augustine connects this passage to Ps. 84:12 ("Truth is
+come to earth, and justice looks out from heaven"), and finds both passages
+realized in the nativity story.
+For Augustine, grace is to glory in the Romans passage as earth is to heaven in
+the psalm verse.
+God's grace has come down to earth to bring humankind to heavenly glory; glory
+is announced by the *Gloria* of the angels in the heavens (*in excelsis*), to
+bring "peace to men of good will" on earth, by God's grace.
+[@Augustine:SermonesPL, 98, Sermo 185, In Natali Domini 2:
+"In hac igitur gratia gaudeamus, ut sit gloria nostra testimonium conscientiae
+nostrae: ubi non in nobis, sed in Domino gloriemur."]
+<!-- better quote? -->
+Lapide sees this grace and glory embodied in the Word of John 1:4, so that "in
+the word, as in the fount and first-born cause, was our supernatural life, for
+example grace and glory [*gratiæ et gloriæ*]."
+The terms correspond to the "two-fold" nature of man's "supernatural life": by
+grace being justified in order to serve God, and in glory consummated to enjoy
+God forever. 
+"Grace, therefore, is the seed of glory, and in turn glory is the consummation
+of grace." 
+[@Lapide:Gospels19C, 878, on Jn 1:4:
+"In verbo quasi in fonte et cause primiginia erat vita nostra supernaturalis,
+puta gratiæ et gloriæ, ideoque ut hanc vitam nobis impetraret, incarnatus est et
+factus homo, ut initio dixi.
+Supernaturalis enim vita est duplex: inchoata per gratiam, qua homo justus per
+fidem, spem et charitatem servit Deo, vivitque vitam supernaturalem, in Deum
+supernaturaliter credendo, sperando, eumque super omnia amando: altera vita
+supernaturalis est consummata per gloriam, qua Beati Deo fruntur, deliciantur et
+beantur in æternum."]
+
 
 These formulations not only explain God's action in becoming Incarnate for human
 salvation, but also model how the faithful should respond---worshiping and
@@ -2162,16 +2168,5 @@ Through compositional craft, the musical performance could also move listeners'
 hearts to wonder and adoration.
 
 
-<!-- ******************************************************************** -->
-
-### Heavenly Dissonance and the "Newest Consonance" of Christ (Cererols)
-
-#### Poem
-
-#### Music
-
-#### Theology, Cosmology; Symbolism of dissonance
-
-#### Genealogy
 
 

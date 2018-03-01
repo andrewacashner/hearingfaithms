@@ -11,6 +11,9 @@
 #    to PDF with pandoc
 # 4. Clean up .ref and .log files produced by floatref
 
+# TODO 
+# allow to specify name of output file with getopt
+
 set -e
 
 chapters=("$@")
