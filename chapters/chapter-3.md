@@ -400,22 +400,19 @@ Christ's cries at his birth with those at his death.
 The song is "as much to be seen (or admired) as to be
 heard"---because the song and the singer are one and the same.
 
-This interpretation depends on reading "the sign of *A (la, mi,
-re)*" as a symbol of Christ himself.
-The poem says the voices were all awaiting "the one who was
-before all time," an appositive phrase referring to Christ, whom the Nicene
-Creeds declares was "begotten of the father before all ages
-[*secula*]".
+This interpretation depends on reading "the sign of *A (la, mi, re)*" as a
+symbol of Christ himself.
+The poem says the voices were all awaiting "the one who was before all time," an
+appositive phrase referring to Christ, whom the Nicene Creeds declares was
+"begotten of the father before all ages [*secula*]".
 [@Catholic:Catechismus1614, 42: "ex patre natum ante omnia secula."]
 The reference to Christ's eternal existence together with the letter A recalls
-Christ's description of himself in the Revelation to John as
-"*alpha* and *omega*"---the Vulgate simply puts the Greek
-letter α here.[^alpha-omega]
-This title indicates that Christ is "the beginning and the end,"
-"the one who is and who was and who is to come" (Rev. 1:8,
-21:6, 22:13).[^Rev1-8]
-The time symbolism works on a musical level as well, but the "sign of A"
-also suggests the musical pitch A.
+Christ's description of himself in the Revelation to John as "*alpha* and
+*omega*"---the Vulgate simply puts the Greek letter α here.[^alpha-omega]
+This title indicates that Christ is "the beginning and the end," "the one who is
+and who was and who is to come" (Rev. 1:8, 21:6, 22:13).[^Rev1-8]
+The time symbolism works on a musical level as well, but the "sign of A" also
+suggests the musical pitch A.
 As will be argued below, the phoneme *a* (pronounced *ah*) also evokes the
 wordless cry of the baby Jesus as a form of music.
 
@@ -448,19 +445,26 @@ singing while also listening for "what is sung" on a higher level.
 The piece connects Christ and David as musician-kings, with Christ as the song
 that puts the prophetic "lyrics" of David and other Scriptural authors to
 music.
-After long waiting, at the "opportune time," Christ was born into the
-world to begin a battle "in hope," a virtuoso performance fulfilled in
-his death and resurrection at "the thirty-three," upon the "sign"
-of the cross.
-Christ himself is the incarnate Word, and his infant cries are the true
-"sign of A," the "song" that sets the tone for all the other
-voices, "in one choir and another" of the Christmas manger, and at the
-Christmas liturgy in the present-day of the villancico's performance.
+After long waiting, at the "opportune time," Christ was born into the world to
+begin a battle "in hope," a virtuoso performance fulfilled in his death and
+resurrection at "the thirty-three," upon the "sign" of the cross.
+Christ himself is the incarnate Word, and his infant cries are the true "sign of
+A," the "song" that sets the tone for all the other voices, "in one choir and
+another" of the Christmas manger, and at the Christmas liturgy in the
+present-day of the villancico's performance.
 
 #### Music about Music in the Voices of Puebla's Chapel Choir
 
-How, then, does the composer turn the musical-theological conceits of this poem
-into actual *musica instrumentalis*?
+The poem sets up a kind of chain of echoes, where what God spoke through the
+voices of David and the other prophets reverberates in the song of the angels at
+the first Christmas and especially the voice of the Christ-child; and where all
+this resounds through the actual "voices of the chapel choir" in the present
+day.
+When Juan Gutiérrez de Padilla "puts notes to his lyrics," he uses his
+compositional ingenuity, and calls upon the virtuosity of his performers, to
+turn a series of poetic conceits *about* music into actual sounding music that
+worshippers could hear.
+
 First, Padilla makes sure that congregants can hear and understand the sounds
 and structures of the poem.
 He projects the words clearly according to their prosody and grammatical
@@ -499,11 +503,11 @@ at the end.
 ^[**XXX**  cite crestomatia, romance publications, Old English, German exx ]
 Padilla sets the text as though it were arranged like this:
 
--------------------------       ----------------------------
+-----------------------------   ----------------------------
 Voces, las de la capilla,       cuenta con lo que se canta,
 que es músico el rey, y nota    las más breves disonancias
 a lo de Jesús infante           y a lo de David monarca.
---------------------------      ----------------------------
+-----------------------------   ----------------------------
 
 He has the singers pause briefly where the *caesurae* would be, but punctuates
 the assonant lines with clear points of harmonic arrival.
@@ -767,14 +771,16 @@ plainchant tone.
 The last psalm tone was known in Latin sources as the *tonus peregrinus* and in
 Spanish sources as *tono irregular* or *tono mixto*.
 Its final cadence is a rising minor third followed by a stepwise descent to the
-final (`(ref float 'figure 'Cerone-tonus-peregrinus)`). ^[**XXX**  p. 354) ]
+final (`(ref float 'figure 'Cerone-tonus-peregrinus)`).
+^[**XXX**  p. 354) ]
 In *cantus durus* this is D--F--E--D; if notated in the *cantus mollis*
 transposition of this villancico, the pitches would be G--B♭--A--G, which are
 exactly what the Altus I sings on these words (mm. 128--129).
 The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
-
 ^[**XXX**  cautionary F# as "strange tone"? ]
+
+`(insert float 'figure 'Cerone-tonus-peregrinus)`
 
 In the last phrase of this copla, when the poem speaks of Christ "going up the
 octave" or theologically "ascending on the eighth day", Padilla creates an
@@ -797,9 +803,9 @@ for one while singing the value of the other?
 The Altus echoes with a blackened semibreve (mm. 154--155), which in this
 context is a long note made shorter, getting at the same concept a different
 way.
-At a more arcane level, the whole first phrase of this coplas (mm. 147--156) is
-ten compases long, which is precisely equal to the length of a true maxima
-(eight measures in C3) plus a breve (two measures).
+At a more arcane level, the whole first phrase of this copla (mm. 147--156) is
+ten measures (*compases*) long, which is precisely equal to the length of a true
+maxima (eight measures in C3) plus a breve (two measures).
 
 Padilla's setting as a whole is intimately connected to the sound and meaning of
 the poetry.
@@ -811,19 +817,6 @@ symbols and even adding some musical puzzles of his own.
 <!-- *********************************************************************** -->
 
 #### Theology of Christ as *Verbum infans*
-
-<!--
-
-- this piece comes from a deeper background of theology of Incarnation & voice
-  related to Christmas; manifests tropes of Christmas - devotion to Christ *as*
-  something rather than teaching that Christ *is* something
-  + Liturgical context: admirabile sacramentum etc
-  + Christmas preaching, exegesis
-    - Verbum infans
-    - (Grace & glory)
-    - Alpha & O
-
--->
 
 The villancico *Voces, las de la capilla* embodies the central tropes of
 Christmas devotion in early modern Catholicism, while extending these traditions
