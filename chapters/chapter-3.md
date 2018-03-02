@@ -818,20 +818,18 @@ symbols and even adding some musical puzzles of his own.
 
 #### Theology of Christ as *Verbum infans*
 
-The villancico *Voces, las de la capilla* embodies the central tropes of
-Christmas devotion in early modern Catholicism, while extending these traditions
-by expressing them through the language and techniques of music.
-In other words, the feast of Christmas centered on devotion to incarnation of
-Christ as a child, the "Word made flesh"; this piece of devotional music
-presents a poetic and musical discourse on Christ's incarnation by conceiving of
-"the Word" in musical terms and then representing that concept in actual music.
-Padilla's piece presents a new twist on a trope that extends back to Bernard of
-Clairvaux and further to Augustine---that of Christ as *Verbum infans*, "the
-unspeaking/infant Word."
+By inviting hearers to listen for the voice of *Jesús infante*, Padilla's piece
+presents a new twist on a trope that extends back to Bernard of Clairvaux and
+further to Augustine---that of Christ as *Verbum infans*, "the unspeaking/infant
+Word."
 This trope continued to be turned and refined through the sixteenth and
 seventeenth centuries, and can be found in Christmas sermons and exegetical
 commentaries on the Gospel infancy narratives that were widely available in
 Padilla's day and that would have been familiar to a university-educated priest.
+The feast of Christmas centered on devotion to the incarnation of Christ as a
+child, the "Word made flesh"; this piece of devotional music presents a poetic
+and musical discourse on Christ's incarnation by conceiving of "the Word" in
+musical terms and then representing that concept in actual music.
 
 The festival of Christmas had first developed from regionally varying annual
 celebrations of Christ's birth and beginnings, and solidified as a formal
@@ -903,13 +901,6 @@ Padilla's villancico was performed in the midst of these Scriptures and
 patristic preaching, as well as contemporary preaching in the vernacular; it
 should be understood as amplifying, extending, and even playing with the
 Christmas tropes in those other sources.
-
-<!-- catechism, cur Deus incarnatus, foundation of Christmas belief and
-devotion (Christ "is" and Christ "as"; God's action in Incarnation and our
-response in wonder and adoration)
-then right to Verbum infans as bridge between the theological concept and
-possibility of musical conceit
--->
 
 The foundation of the Christmas feast was devotion to "Jesus Christ, [God's]
 only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin
@@ -1065,9 +1056,8 @@ admire [*admirar*],/ as much to admire as to hear."
 [@Gaylord:Poetry, 227]
 
 <!-- admirabile sacramentum; tan de admirar; Gaylord on admiratio diss l. 1510
-
  - liturgy, Leo
- - Fray Luis
+ - Fray Luis: diss p 193
 -->
 
 In this case the term *admirar* has a more specific association, with the
@@ -1131,12 +1121,6 @@ chapel choir" reverberating in the space and through those voices they could
 "hear the voice of the Father/ in tones of weeping"---that is, they could hear
 the Christ the Word himself not merely speaking, but singing, through all the
 other voices from the choirboys up to the angels.
-
-<!-- grace and glory, specific lexical connections between villancico and
-liturgy from diss
-
-Leo
--->
 
 In a widely disseminated model sermon for Christmas, Fray Luis de Granada
 invites worshippers to turn from vision toward hearing:
@@ -1251,26 +1235,6 @@ The Christ child they found was at this "infant" stage of life, not a speaker of
 divine words, but was the very Word himself---as Augustine says, "a voice of
 flesh."
 
-
-<!--
-- more on Augustine's concept of voice, Word, signification; to get at voice as
-  embodied presence, perhaps even to sacramental hearing
-- link to present-day worship; match to concept of voces
-
-- also match scenario of "unspeaking Word" holding forth in his chair of
-philosophy as magister to opening image of Voces with divine chapelmaster
-listening
-  + Lapide, stable is turned into highest heaven, diss l. 1877
-- link incarnation to sacrament; find him in the Eucharist as in Chrysostom
-  quote, l. 2475
-
-- also link encounter with Christ to devotion and life as in closing quote about
-  imitating shepherd, l. 2496 (or save for section or chapter conclusion)
-- bring in Palafox, Pastor de nochebuena for this (diss last ch, xJAMS article)
-
-- TIE BACK to the villancico text and music
--->
-
 Augustine uses the voice as an extended metaphor for understanding the actual
 process of Christ's Incarnation.
 ^[**XXX**  which is why music can then be added on ]
@@ -1325,9 +1289,6 @@ Non cum ipsa vox in silentio cogitatur, quae vel graecae est, vel latinae, vel
 linguae alterius cujuslibet: sed cum ante omnem linguarum diversitatem res ipsa
 quae dicenda est, adhuc in cubili cordis quodam modo nuda est intelligenti, quae
 ut inde procedat loquentis voce vestitur."]
-
-<!-- diss l. 1909 summarize incarnation and voice and bring back to
-villancico -->
 
 Augustine is reflecting on language as a way to understand how Christ can be in
 his body the form of communication between God and
@@ -1517,17 +1478,6 @@ the singer rather than by "what is sung")
 <!-- *********************************************************************** -->
 
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
-
-<!--
-(brief)
-
-- this piece is part of a tradition of related pieces, a villancico family
-- Padilla is situating himself in a pedigree of compositional craft and
-  theological learning, connecting himself to Santiago; differentiating himself
-  from Jalón
-- philological comparison with Jalón
-- biographical links
--->
 
 The high level of ingenuity, both theological and musical, in this villancico
 makes *Voces, las de la capilla* one of Juan Gutiérrez de Padilla's
