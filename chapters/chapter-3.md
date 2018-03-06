@@ -1538,21 +1538,20 @@ These pieces allowed Spanish composers to prove both their compositional craft
 and their acuity as literary and theological interpreters in a tradition of
 "music about music."
 
-The two earlier versions related to Padilla's 1657 piece are
+The two earlier versions related to Padilla's 1657 piece are these:
 
-1. the villancico *Cantores de la capilla*, performed for Epiphany at the
+1. The villancico *Cantores de la capilla*, performed for Epiphany at the
    cathedral of Seville, January 6, 1647, probably set to music by Seville's
-   chapelmaster Luis Bernardo Jalón; and
-2. an even earlier setting of *Voces, las de la capilla* by Francisco de
-   Santiago, Jalón's predecessor at Seville Cathedral, composed some time before
-   Santiago's death in 1644.
+   chapelmaster Luis Bernardo Jalón.
+   Only the poetic text survives in a printed leaflet (the single exemplar is
+   preserved in a binder's collection in Puebla).[^Jalon-Cantores-pliego]
 
-For the 1647 *Cantores*, only the poetic text survives in a printed
-leaflet.[^Jalon-Cantores-pliego]
-For Santiago's setting, all that survives is the incipit of the text and a
-description of the voicing, in the catalog of the music collection of King João
-(John) IV of Portugal.
-[@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
+2. An even earlier setting of *Voces, las de la capilla* by Francisco de
+   Santiago, Jalón's predecessor at Seville Cathedral, composed some time before
+   Santiago's death in 1644. 
+   All that survives is the incipit of the text and a description of the
+   voicing, in the catalog of the music collection of King João (John) IV of
+   Portugal.[@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
 
 [^Jalon-Cantores-pliego]:
 *Villancicos qve se cantaron en la S. Iglesia Metropolytana de Seville, en los
@@ -1560,9 +1559,22 @@ Maytines de los Santos Reyes.
 En este año de mil y seiscientos y quarenta y siete* (Sevilla, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
 
-The Carmelite friar Francisco de Santiago was born with the surname Veiga in
-Portugal and served as chapelmaster at Seville from 1617 (succeeding Alonso
-Lobo) to 1643 (succeeded by Luis Bernardo Jalón).
+Although the text of *Cantores* predates that of Padilla's *Voces* by ten years,
+Padilla's text may actually preserve an earlier stage of the textual tradition.
+A stronger philological argument can be made that Jalón's *Cantores de
+la capilla* is actually an adaptation of *Voces, las de la capilla* than for the
+reverse situation.
+Upon close comparison *Cantores* appears to be a somewhat garbled attempt to
+simplify the arcane, Góngora-influenced poetry of *Voces* to make it suit the
+tastes of a younger generation that favored greater clarity and conventionality.
+
+##### Version by Francisco de Santiago, before 1634
+
+The earliest known version of this textual tradition is the setting was set by
+Francisco de Santiago.
+The Carmelite friar was born with the surname Veiga in Portugal and served as
+chapelmaster at Seville from 1617 (succeeding Alonso Lobo) to 1643 (succeeded by
+Luis Bernardo Jalón).
 [@Stevenson:SantiagoF; @Perez:DMEH-Santiago]
 <!-- XXX DMEH sv Sevilla? -->
 Santiago had maintained a lifelong association and correspondence with the Duke
@@ -1638,9 +1650,30 @@ opportunities in America.
 <!-- ANton Llorente and circumstantial evidence that Santiago's music was known
 in Puebla -->
 
+##### Version by Luis Bernardo Jalón, 1647
+
 The next known villancico in this family is the 1647 poem *Cantores de la
 capilla*, performed in Seville, with music probably by Luis Bernardo Jalón.
-^[XXX  connect Jalón and *Cantores* to Padilla via Puebla collection ]
+Jalón's position at Seville was the culmination of a restlessly ambitious
+career.
+[@Ezquerro:JalonLB]
+He had left his post at the Convento de la Encarnación in 1623 to be
+chapelmaster of the cathedrals of Burgos (1623--1634), Cuenca (1634--1642), and
+Toledo (1642--1643).
+On November 10, 1643, he was appointed chapelmaster at the cathedral of Santiago
+de Compostela, but dropped everything a month later when he was invited to
+assist the ailing Santiago at Seville Cathedral for the Christmas season of
+1634--44.
+Jalón succeeded Santiago after his death in October 1634 and remained at Seville
+until his own death on April 6, 1659.
+It is easy to imagine that the two composers had close contact during that time,
+and in any case, Jalón could have had access to Santiago's music in the
+cathedral archive.
+Jalón's setting of *Cantores* was performed only two years after Santiago's
+death (considering Epiphany 1647 as part of the 1646--47 liturgical season), and
+it is plausible that Jalón composed the piece deliberately in homage to his
+predecessor.
+
 The text corresponds closely to the text of Padilla's *Voces, las de la
 capilla*.
 The first four lines of both poems are the same, except that Jalón's text has
@@ -1649,49 +1682,9 @@ The first four lines of both poems are the same, except that Jalón's text has
 Most of the last half of the estribillo in the Jalón print is the same as that
 set by Padilla, including the identical closing couplet.
 Jalón's fourth copla is identical to the end of Padilla's *introducción*.
-But there are important differences as well: many of the musical conceits seem
-to be more simple in *Cantores*; some of them make less technical sense; and
-there are differences in metrical structure, with *Cantores* generally being
-less tightly organized and patterned that *Voces*.
 
-Although the text of *Cantores* predates that of Padilla's *Voces*,
-the citation of a *Voces* setting by Santiago from even earlier combines with
-philological evidence to suggest that *Voces* actually preserves an earlier
-version of this textual family.
-Upon close comparison *Cantores* appears to be a somewhat garbled attempt to
-simplify the arcanely Gongoresque *Voces* to make it suit the tastes of a
-younger generation that favored greater clarity and conventionality.
-
-<!-- XXX START -->
-In terms of structure and meter, *Voces* is more intricately patterned than
-*Cantores*: it features a *respuesta* section and a *linea de vuelta* joining the
-last line of the coplas to the beginning of the estribillo.
-The *respuesta* was more commonly used in villancicos before 1640, though
-Padilla continues to use it in several pieces of the 1650s.
-The *linea de vuelta* was a holdover from the rather different structure of the
-courtly villancicos of the sixteenth century, such as those set by Juan del
-Encina.
-[@Navarro:Metrica, XXX]
-Both Padilla's *Voces* and the incipit for Santiago's *Voces* contain the *linea
-de vuelta*, "Y a trechos las distancias."
-*Cantores*, by contrast, has no *respuesta* and omits this line.
-The estribillo of Padilla's *Voces* begins with the *linea de vuelta*, followed
-by a series of fully rhymed verse pairs, all in eight-syllable lines.
-The half-line "uno a uno" forms a bracket with the other half-line "O qué
-canto," marking off this section of paired verses from the closing quatrain, a
-*redondilla abrazada*.
-By contrast, the estribillo of *Cantores* begins with two lines with neither
-assonance nor rhyme, followed by a line that rhymes with nothing and can only
-scan as eight syllables if *que* and *lleva* are elided; the fourth line can
-only be read as ten syllables.
-The next four lines group in pairs with full rhymes, alternating lines of six
-and eleven syllables.
-These metrical irregularities are confined to this first portion of the
-estribillo; after this the remainder is almost identical to *Voces*.
-Thus the first section appears "tacked on" to the more refined pre-existing
-material in the second section.
-^[XXX  line numbers; poem in text? ]
-
+But there are important differences as well that suggest different aesthetic
+goals.
 In terms of theological and musical conceits, *Cantores* reads like an attempt
 to take the dense *conceptismo* of *Voces* and both simplify and explain it.
 The connection of Christ's voice ("the sign of A") and the "voices of the chapel
@@ -1727,79 +1720,37 @@ The new poet has retained the technical terms and other key words used in the
 first version of the poem, but has attempted to explain the metaphors, sometimes
 in ways that change the meaning from the first poem.
 
-A good example of this procedure is the way the poet has retained the word
-*destreza* in the first portion of the text.
-In *Voces*, the poet follows a mention of "the thirty-three" with these lines:
-"Años antes la divisa/ la destreza en la esperanza."
-The poet of *Cantores* replaces those lines with these:
+In terms of structure and meter, *Voces* is more intricately patterned than
+*Cantores*: it features a *respuesta* section and a *linea de vuelta* joining the
+last line of the coplas to the beginning of the estribillo.
+The *respuesta* was more commonly used in villancicos before 1640, though
+Padilla continues to use it in several pieces of the 1650s.
+The *linea de vuelta* was a holdover from the rather different structure of the
+courtly villancicos of the sixteenth century, such as those set by Juan del
+Encina.
+[@Navarro:Metrica, XXX]
+Both Padilla's *Voces* and the incipit for Santiago's *Voces* contain the *linea
+de vuelta*, "Y a trechos las distancias."
+*Cantores*, by contrast, has no *respuesta* and omits this line.
+The estribillo of Padilla's *Voces* begins with the *linea de vuelta*, followed
+by a series of fully rhymed verse pairs, all in eight-syllable lines.
+The half-line "uno a uno" forms a bracket with the other half-line "O qué
+canto," marking off this section of paired verses from the closing quatrain, a
+*redondilla abrazada*.
+By contrast, the estribillo of *Cantores* begins with two lines with neither
+assonance nor rhyme, followed by a line that rhymes with nothing and can only
+scan as eight syllables if *que* and *lleva* are elided; the fourth line can
+only be read as ten syllables.
+The next four lines group in pairs with full rhymes, alternating lines of six
+and eleven syllables.
+These metrical irregularities are confined to this first portion of the
+estribillo; after this the remainder is almost identical to *Voces*.
+Thus the first section appears "tacked on" to the more refined pre-existing
+material in the second section.
+^[XXX  line numbers; poem in text? ]
 
-> Una clave con tres tiempos\
-> pone con destreza tanta,\
-> que el pasado y el futuro\
-> al compás presente iguala.
-
-> He places a clef with three times [meters]\
-> with such dexterity\
-> that in this meter he makes\
-> the past and the future equal the present.
-
-This poet retains a numerological reference based on three, and connects it to
-the idea of a "sign" and "destreza" so that the sign clearly indicates a
-metrical symbol (ternary meter), and *destreza* now indicates the divine
-baby-musician's compositional skill.
-The poet does not use *destreza* as a *divisa* or motto as it is in *Voces*,
-possibly taken from Tacitus's *spes in virtute*.
-All the connotations of swordsmanship and heroic combat (which link to the
-Matins reading from Leo the Great) are absent, along with any specific reference
-to Christ's future struggle in the Passion.
-The term's meaning is reduced to a simply musical one, and the rich theological
-associations in *Voces* are lost.
-
-These differences are consistent with the explanation that *Cantores* is an
-adaptation of *Voces* to suit less Gongoresque tastes, and that it is not an
-especially skillful adaption.
-Jalón thus pays homage to Santiago by basing his villancico on the same text,
-but also shows his differences from his predecessor by using an "improved"
-version of the poem, and, one may imagine, a more modern musical style as well.
-
-Jalón's position at Seville was the culmination of a restlessly ambitious
-career.
-He had left his post at the Convento de la Encarnación in 1623 to be
-chapelmaster of the cathedrals of Burgos (1623--1634), Cuenca (1634--1642), and
-Toledo (1642--1643).
-[@Ezquerro:JalonLB]
-On November 10, 1643, he was appointed chapelmaster at the cathedral of Santiago
-de Compostela, but dropped everything a month later when he was invited to
-assist Santiago at Seville Cathedral.
-Jalón remained there until his death on April 6, 1659.
-
-Jalón was present in Seville for the last year of Santiago's life, from December
-1643 until Santiago died on October 5, 1644.
-It is easy to imagine that the two composers had close contact during that time,
-and in any case, Jalón could have had access to Santiago's music in the
-cathedral archive.
-Jalón's setting of *Cantores* was performed only two years after Santiago's
-death, and it is plausible that Jalón composed the piece deliberately in homage
-to his predecessor.
-The Christmas--Epiphany season of 1646--47 would likely have been Jalón's first
-opportunity to do something in Santiago's memory.
-He was hired as an emergency substitute only a month before the musically
-demanding feasts of the 1634--44 Christmas season, and it would seem likely that
-the music for that first Christmas season would have been already chosen by
-Santiago, or drawn from material Jalón had at hand and could put together
-quickly.
-Santiago died the following October, by which time the music for the 1644--45
-feast would likely have been planned or even composed.
-(For comparison, as will be shown in chapter 4, Miguel de Irízar in Segovia
-composed all his villancicos for Christmas 1689 after September of that year,
-based on poems available to him nine months previous.)
-In any case, the close interval of time between Santiago's death and Jalón
-setting of *Cantores* strengthens the argument that Jalón may have composed the
-piece as a deliberate homage.
-
-^[XXX  START Epiphany changes diss p 215 ]
 Some changes in Jalón's setting bear evidence of adaptation for use in the
-liturgy of Matins for Epiphany 1647 in Seville.
+liturgy of Matins for Epiphany in Seville.
 Where *Voces* alludes to the presence of angels, animals, and shepherds at the
 manger, *Cantores* explicitly includes the "three Kings" as well in copla 3.
 The slightly greater emphasis on the heavens, and on the concept of time
@@ -1808,30 +1759,21 @@ these mysterious astrologers from the East.
 But other aspects of the adaptation actually seem to make it *less* well suited
 for Epiphany, in particular the omission of the line "a la voz del padre oí."
 According to this piece's placement in the poetry imprint, as the second in a
-cycle of nine villancicos, *Cantores* would have been paired with this
-Responsory, drawn from the Gospel narratives of Christ's baptism (Mt. 3:13--17,
-Mk. 1:9--11, Lk. 3:21--22, Jn. 1:32):
-
-> *Respond.* In the form of a dove the Holy Spirit was seen, the voice of the
-> Father was heard: This is my beloved Son, in whom I am well pleased.\
-> *Versicle.* The heavens were opened above him, and the voice of the Father
-> intoned. This is my beloved Son.
+cycle of nine villancicos, *Cantores* would have been paired with a 
+Responsory, drawn from the Gospel narratives of Christ's baptism, with the
+Versicle, "The heavens were opened above him, and the voice of the Father
+intoned." and the Respond, "This is my beloved Son."
 [@Catholic:Breviarium1631, XXX:
 "*Respond.* In columbæ specie Spiritus sanctus visus est, paterna vox audita
 est:
 \* Hic est Filius meus dilectus, in quo mihi bene complácui.
 *Versicle.* Cȩli aperti sunt super eum, & vox Patris intónuit. Hic est Filius."]
-
-
 This chant would match well with the line about hearing "the voice of the
 Father" in Padilla's *Voces*, when the piece was likely repeated with the other
-1657 Christmas villancicos for Epiphany in January 1658 (with the typical
-substitution of the villancico *de Reyes* for Epiphany instead of the *calenda*
-that began the Christmas cycle).
-But would be to the discredit of either the poet or composer of *Cantores de la
-capilla*, performed in conjunction with this specific Responsory, that such a
-key line, not only for the theology of the poem but for its place in the
-liturgy, should have been cut.
+1657 Christmas villancicos for Epiphany in January 1658.
+It seems to make little sense that the compositor of this text should add some
+explicit Three Kings references but omit this line that fit so well with that
+feast's liturgy.
 It seems likely, then, that this version of the text was not devised for this
 specific liturgical placement, just for the feast of Kings in general, and Jalón
 selected the arrangement in the Matins cycle based on fairly loose theological
@@ -1843,12 +1785,33 @@ position representing the new generation, the next step in the tradition at
 Seville.
 
 ##### Establishing a Musical Pedigree
-^[XXX  already used this ]
 
-It is highly probable that Juan Gutiérrez de Padilla owned or had access to the
-text of *Cantores de la capilla* from Seville.
-The print with the text of *Cantores* is actually preserved only in a single
-source located in Puebla.
+The differences between the texts set by Jalón and Padilla are consistent with
+the explanation that *Cantores* is an adaptation of *Voces* to suit less
+Gongoresque tastes, and that it is not an especially skillful adaption.
+Since Santiago's villancico from before 1634 has the same incipits as Padilla's
+1657 setting, and since Jalón was Santiago's successor at Seville and composed
+his *Cantores* setting only two Christmas--Epiphany seasons after Santiago's
+death, it seems plausible that both Jalón and Padilla knew Santiago's earlier
+version (or at least knew of its text) and deliberately chose to set their
+particular versions in order to situate themselves differently in relation to
+the earlier master.
+Jalón pays homage to Santiago by basing his villancico on the same text,
+but also shows his differences from his predecessor by using an "improved"
+version of the poem, and, one may imagine, a more modern musical style as well.
+
+Padilla almost certainly knew of Jalón's version from the poetry imprint, since
+the single extant source of *Cantores* survives in Puebla in a binder's
+collection that includes other texts with correspondences to Padilla's
+villancicos.[^Puebla-Seville-Binders-collection]
+Padilla regularly used texts of peninsular imprints, such as his 1653 *A la
+jacara, jacarilla*, taken from a Madrid Royal Chapel imprint of a year earlier
+(E-Mn: VE/88/55).
+Padilla likely kept his own collection of imprints (if not this actual
+collection) as sources for composition, keeping current with the latest mainland
+trends.
+
+[^Puebla-Seville-Binders-collection]:
 It is part of a binder's collection of villancico imprints of the 1630s and
 1640s from Seville.
 The volume is held in an anonyous private collection in Puebla, and according to
@@ -1857,17 +1820,6 @@ collection was originally bound with another collection of Seville villancicos
 which is preserved in Puebla's Biblioteca Lafragua; both bear the firemark of
 Puebla's Convento de la Merced and appear to be two parts of one original
 volume.
-^[XXX  check with Mauleón; Lafragua source ]
-There are several correspondences between the villancico texts in the Lafragua
-collection and those used by Padilla in the 1650s.
-^[XXX  for example ]
-These connections suggest that Padilla himself was familiar with these pliegos.
-Padilla regularly used texts of peninsular imprints, such as his 1653 *A la
-jacara, jacarilla*, taken from a Madrid Royal Chapel imprint of a year earlier
-(E-Mn: VE/88/55).
-Padilla likely kept his own collection of imprints (if not this actual
-collection) as sources for composition, keeping current with the latest mainland
-trends.
 
 If Jalón's villancico was a modernization of Santiago's, then, and the text was
 available to Padilla in New Spain through the imprint, why did Padilla choose to
@@ -1924,13 +1876,12 @@ performances.
 This type of homage was a customary way for a student to identify himself with a
 teacher or paragon, as we will see several more times in this study.
 In fact, a similar homage was payed to Padilla by his organist, Francisco
-Vidales.
-According to John Koegel, "The Puebla organist Francisco de Vidales used
+Vidales, who wrote a parody mass based on a motet by Padilla.
+[@Koegel:Padilla: 
+"The Puebla organist Francisco de Vidales used
 Padilla's *Exultate justi in Domino* as the model for his parody *Missa super
 Exultate*, and another connection between the two men is seen in Vidales's
-addition of a tenor part to Padilla's *O Domine Jesu Christe*."
-[@Koegel:Padilla]
-^[XXX  check actual sources ]
+addition of a tenor part to Padilla's *O Domine Jesu Christe*." XXX]
 Dianne Goldman has documented a similar chain of homage in several stages of
 reworking a Victoria motet at Mexico City Cathedral through the eighteenth
 century.^[cite Goldman stile antico article]
