@@ -1528,7 +1528,7 @@ the singer rather than by "what is sung")
 
 
 <!-- *********************************************************************** -->
-
+\newpage
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
 
 The high level of ingenuity, both theological and musical, in this villancico
@@ -1643,7 +1643,7 @@ Seville composer's position at the helm of the flagship music program in the
 Hispanic world (in fact, the mother church for all of the Indies), would have
 made him a prime target for emulation, homage, or competition.
 
-In fact, Santiago's appoiintment at Seville may have even precipitated Padilla's
+In fact, Santiago's appointment at Seville may have even precipitated Padilla's
 departure for the New World.
 Santiago was hired at Seville without any public competition for the position,
 which would have been the pinnacle of achievement for any Spanish composer,
@@ -1675,8 +1675,6 @@ On November 10, 1643, he was appointed chapelmaster at the cathedral of Santiago
 de Compostela, but dropped everything a month later when he was invited to
 assist the ailing Santiago at Seville Cathedral for the Christmas season of
 1634--44.
-Jalón succeeded Santiago after his death in October 1634 and remained at Seville
-until his own death on April 6, 1659.
 It is easy to imagine that the two composers had close contact during that time,
 and in any case, Jalón could have had access to Santiago's music in the
 cathedral archive.
@@ -1795,7 +1793,7 @@ dual function of paying homage to Santiago while also demonstrating Jalón's own
 position representing the new generation, the next step in the tradition at
 Seville.
 
-##### Establishing a Musical Pedigree
+##### Demonstrating Musical Kinship
 
 The differences between the texts set by Jalón and Padilla are consistent with
 the explanation that *Cantores* is an adaptation of *Voces* to suit less
@@ -1840,21 +1838,6 @@ One possibility is that Padilla specifically wanted to differentiate himself
 from Jalón and associate himself more directly with Santiago.
 With his setting of *Voces, las de la capilla*, Padilla may have been trying to
 show that he, not Jalón, was the true successor to Santiago.
-Padilla was not able to capture the coveted position of Seville chapelmaster in
-1616, so he may have wanted to demonstrate that he was carrying on the great
-legacy of Santiago and his peers in the New World.
-The modifications in *Cantores de la capilla* suggest that Jalón represented a
-new generation and a new style, and his music was likely in a newer style than
-that of Padilla.
-^[XXX  any sources? ]
-In 1657, Padilla was sixty-seven years old; only three years later, on account
-of dangerously poor health, he had to write a "power of attorney" giving legal
-rights to Juan García de Céspedes, who (like Padilla had done for Fernández) had
-been serving as Padilla's assistant and would later succeed him.
-[@Mauleon:PadillaCivil, XXX]
-Padilla's setting of the older text may have represented the aging composer's
-attempt to demonstrate an affinity with the older generation.
-<!-- XXX trim, reduce repetition above -->
 
 Santiago, Padilla, and Jalón were not only part of a professional network; their
 relationships with other chapelmasters may be best understood in terms of
@@ -1864,6 +1847,11 @@ of celibacy; but in many cases they established genealogical lineages through
 their musical relationships.
 All of these men learned their craft through apprenticeship, and all of them
 passed on their learning in the same way once they became the *maestros*.
+The links between these men and their elders began in boyhood: Padilla, for one,
+fulfilled a common requirement of housing and educating his choirboys in his own
+home. 
+(More research is needed into likely high prevalence and impact of sexual abuse
+in this environment.)
 
 In Padilla's case, he served first as as choirboy at Málaga Cathedral and then
 apprentice to the local chapelmaster Francisco Vásquez (ca. 1602--1608).
@@ -1896,7 +1884,7 @@ themselves or by the cathedral chapters, surely with the older master's
 approval, since all these composers had at least a year to orient and train
 their successors.
 But musicians could also voluntarily demonstrate kinship even when they were not
-made direct heirs.
+made direct heirs. 
 Padilla competed in the *oposición* for his Málaga teacher Vásquez's position
 but was bested by the Portuguese composer Estêvão de Brito (1577--1641).
 [@Stevenson:BritoE]
@@ -1907,17 +1895,26 @@ affiliation to Padilla by writing a parody mass based on a motet by Padilla.
 Padilla's *Exultate justi in Domino* as the model for his parody *Missa super
 Exultate*, and another connection between the two men is seen in Vidales's
 addition of a tenor part to Padilla's *O Domine Jesu Christe*." XXX]
-The links between these men and their elders began in boyhood: Padilla, for one,
-fulfilled a common requirement of housing and educating his choirboys in his own
-home. 
-(We should not ignore here the high likelihood in such a setting of
-relationships that today would be considered sexual abuse.)
+Dianne Goldman has documented a similar chain of homage in several stages of
+reworking a Victoria motet at Mexico City Cathedral through the eighteenth
+century.^[cite Goldman stile antico article]
+Homage composition of this kind was a widespread way for composers to
+demonstrate both real and aspirational kinship with a mentor, teacher, or
+paragon.
 
-<!-- START -->
+It makes sense, then, that Jalón would adapt a text set by Santiago in a way
+that presented him as Santiago's heir, acknowledging influence while also
+setting himself apart.
+The modifications in *Cantores de la capilla* suggest that Jalón represented a
+new generation and a new style, and his music was likely in a newer style.
+For the sixty-seven-year-old Padilla, who long ago had not been able to capture
+the coveted position of Seville chapelmaster in 1616, setting the older text (in
+any case one closer to that set by Santiago) may have established Padilla's
+affinity for the older generation and its style.
 
-This chain of homage may shed light on the origins and meaning of Padilla's most
-performed piece of Latin-texted music today, the *Missa "Ego flos campi"* for
-eight voices.[^Padilla-Ego-flos-campi]
+This practice of affiliating oneself through musical homage may shed light on
+the origins and meaning of Padilla's most performed piece of Latin-texted music
+today, the *Missa "Ego flos campi"* for eight voices.[^Padilla-Ego-flos-campi]
 The piece has been assumed to be a parody mass bassed on a lost motet *Ego flos
 campi* by Padilla.
 But John IV's catalog lists another *Missa "Ego flos campi" a 8*---by Francisco de
@@ -1945,18 +1942,6 @@ MEX-Pc: XXX/XXX; @Padilla:MissaEgoFlosCampi; recent recordings in
 @Mauleon:PadillaPalafox; @Skidmore:NewWorldCD; along with many recent
 performances.
 
-This type of homage was a customary way for a student to identify himself with a
-teacher or paragon, as we will see several more times in this study.
-In fact, a similar homage was payed to Padilla by his organist, Francisco
-Vidales, who wrote a parody mass based on a motet by Padilla.
-[@Koegel:Padilla: 
-"The Puebla organist Francisco de Vidales used
-Padilla's *Exultate justi in Domino* as the model for his parody *Missa super
-Exultate*, and another connection between the two men is seen in Vidales's
-addition of a tenor part to Padilla's *O Domine Jesu Christe*." XXX]
-Dianne Goldman has documented a similar chain of homage in several stages of
-reworking a Victoria motet at Mexico City Cathedral through the eighteenth
-century.^[cite Goldman stile antico article]
 
 #### Singing about Singing
 
