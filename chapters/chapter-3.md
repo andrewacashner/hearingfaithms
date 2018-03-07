@@ -1528,7 +1528,6 @@ the singer rather than by "what is sung")
 
 
 <!-- *********************************************************************** -->
-\newpage
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
 
 The high level of ingenuity, both theological and musical, in this villancico
