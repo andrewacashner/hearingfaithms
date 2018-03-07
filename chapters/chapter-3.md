@@ -232,7 +232,7 @@ expectant wandering of sinful humanity waiting for the coming of Christ.
 commentary on the liturgy of Guillelmus Durandus, whose works were available in
 Puebla: @Wright:Maze, XXX.]
 Cornelius à Lapide extends the concept to the New Adam, Christ, who was born
-like a "pilgrim" [*peregrinus*] on a journey in a borrowed stable, "in order to
+like a "pilgrim" \[*peregrinus*\] on a journey in a borrowed stable, "in order to
 teach us to be pilgrims on earth, though actually citizens of heaven."
 [@Lapide:Gospels19C, 884, on Jn 1:14:
 "Hoc est tentorium vel tabernaculum fixit in nobis, id est, inter nos, ad
@@ -408,7 +408,7 @@ This interpretation depends on reading "the sign of *A (la, mi, re)*" as a
 symbol of Christ himself.
 The poem says the voices were all awaiting "the one who was before all time," an
 appositive phrase referring to Christ, whom the Nicene Creeds declares was
-"begotten of the father before all ages [*secula*]".
+"begotten of the father before all ages \[*secula*\]".
 [@Catholic:Catechismus1614, 42: "ex patre natum ante omnia secula."]
 The reference to Christ's eternal existence together with the letter A recalls
 Christ's description of himself in the Revelation to John as "*alpha* and
@@ -597,10 +597,9 @@ On the repeat of this section, it is easy to imagine that an experienced trble
 singing about "the trills of the dawn" in mm. 25--27 would have
 improvised a trill on the suspension at this cadence.
 [See Cerone's isntructions for improvisng ornaments at cadences,
-@Cerone:Melopeo, 545--546.]
-In the *respuesta*, where Chorus II sings about awaiting "the
-thirty-three," Padilla writes precisely thirty-three pitches for both of the
-sung vocal parts.
+-@Cerone:Melopeo, 545--546.] 
+In the *respuesta*, where Chorus II sings about awaiting "the thirty-three,"
+Padilla writes precisely thirty-three pitches for both of the sung vocal parts.
 
 Where the poem says that the whole world was "waiting" for "the
 sign"---that is, the Incarnate Christ---in Padilla's setting, that sign comes
@@ -889,6 +888,14 @@ Though oral tradition was probably still the most important force in cultivating
 the Christmas imaginary in early modern Spain, printed theological literature
 disseminated and reinforced these tropes in Padilla's day and makes them
 accessible today.
+The large number of compendia of patristic commentaries on Scripture and model
+sermons preserved from Puebla's seminary and convent libraries provide evidence
+for the high level of interest, and serious degree of learning, of New Spanish
+clergy 
+(`(ref float 'table 'puebla-compendia)`).
+
+`(insert float 'table 'puebla-compendia)`
+
 The Christmas liturgy provided the foundation for the theology behind this
 trope, through the way the ritual texts framed the interpretation of
 Scripture within the Church's exegetical traditions.
@@ -897,9 +904,8 @@ and the theology of incarnation became classic Christmas *loci theologici*
 through the mutually reinforcing practices of, first, reading and singing these
 passages in the developing Christmas liturgy, and, second, interpreting these
 passages in preaching and commentaries.
-[On patristic exegesis and its relationship to later interpretve traditions, see
-@Kannengiesser:PatristicExegesis; @McKim:BiblicalInterpreters;
-@Thompson:ReadingwDead.]
+[On patristic exegesis and its influence, see @Kannengiesser:PatristicExegesis;
+@McKim:BiblicalInterpreters; @Thompson:ReadingwDead.]
 For example, the tradition of beginning the series of psalms in the Christmas
 Matins liturgy with Psalm 2 was influenced by the interpretation of that psalm
 as a Messianic prophecy in patristic exegesis---such as the sermons of Pope St.
@@ -908,7 +914,7 @@ in Matins as the lessons of the second and third Nocturnes.
 Moreover, the Scripture's placement in this liturgical context in turn
 reinforced the Messianic interpretation.
 
-The foundation of the Christmas feast was devotion to "Jesus Christ, [God's]
+The foundation of the Christmas feast was devotion to "Jesus Christ, \[God's\]
 only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin
 Mary," as stated in the Apostle's Creed, which in turn was the basis for
 catechesis.
@@ -920,7 +926,7 @@ The Roman Catechism explains this article by answering a classic theological
 question that appeared in many other commentaries, *Cur Deus incarnatus fuerit*
 (Why God became incarnate).
 The catechism instructs pastors to teach the "admirable mystery of the concept"
-by having "the faithful repeat by memory [...] that he [Christ] is God, who took
+by having "the faithful repeat by memory \[...\] that he \[Christ\] is God, who took
 on human flesh, and thereby was truly 'made man'---which cannot be grasped by
 our mind, nor explained through words: that he should wish to become a human,
 to the end that we humans should be reborn as children of God."
@@ -955,7 +961,7 @@ the Son of God was made the son of a Virgin":
 [@Lapide:Gospels19C, 50, on Mt. 1:16:
 "q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
 Filius Virginis.
-Hoc, [...] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt et
+Hoc, \[...\] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt et
 stupent Angeli, Sanctique omnes.
 In eo enim Deus ostendit summam potentiam uniendo hominem Deo, limum Verbo,
 terram cœlo: ac summam sapientiam, ut qui divinitate pati et nos redimere non
@@ -978,8 +984,8 @@ preaching and exegesis, in which these terms mark the beginning and goal,
 respectively, of a life of faith.
 St. Paul writes in Romans 5:1--2, "For being justified by faith, we have peace
 with God through our Lord Jesus Christ, through whom we have access to this
-grace [*gratiam*] in which we stand, and we rejoice in the hope of the glory of
-God [*gloriamur in spe gloriae Dei*]."
+grace \[*gratiam*\] in which we stand, and we rejoice in the hope of the glory of
+God \[*gloriamur in spe gloriae Dei*\]."
 In a Christmas sermon, Augustine connects this passage to Ps. 84:12 ("Truth is
 come to earth, and justice looks out from heaven"), and finds both passages
 realized in the nativity story.
@@ -994,7 +1000,7 @@ nostrae: ubi non in nobis, sed in Domino gloriemur."]
 <!-- better quote? -->
 Lapide sees this grace and glory embodied in the Word of John 1:4, so that "in
 the word, as in the fount and first-born cause, was our supernatural life, for
-example grace and glory [*gratiæ et gloriæ*]."
+example grace and glory \[*gratiæ et gloriæ*\]."
 The terms correspond to the "two-fold" nature of man's "supernatural life": by
 grace being justified in order to serve God, and in glory consummated to enjoy
 God forever. 
@@ -1048,7 +1054,7 @@ The villancico aims less to instruct than to amaze, just as Mary Gaylord
 has said that the goal of elaborate Spanish poetry is "to produce effects of
 astonishment and awe conveyed by the Latin term *admiratio*"---and indeed
 Padilla's piece asks listeners to imagine a song that is "as much to hear as to
-admire [*admirar*],/ as much to admire as to hear."
+admire \[*admirar*\],/ as much to admire as to hear."
 [@Gaylord:Poetry, 227]
 
 <!-- admirabile sacramentum; tan de admirar; Gaylord on admiratio diss l. 1510
@@ -1096,7 +1102,7 @@ may have actually deepend the hidden connections between the two.
 
 [^Puebla-Matins-AC]:
 MEX-Pc: AC 1633-12-30:
-"que a los maitines de nauidad deste año y de los venideros [...] se canten
+"que a los maitines de nauidad deste año y de los venideros \[...\] se canten
 todas las liçiones yn totum sin dejar cossa alguna dellas y que la chansoneta
 sirba de Responsorio el qual se diga resado mientrass se estubiere cantando."
 ^[XXX  full text in diss or appendix ]
@@ -1127,9 +1133,9 @@ para sentir que para decir."
 ^[XXX  full text elsewhere or original text here with page ]
 This reference comes after he exhorts worshippers to marvel at the lowliness of Christ's birth:
 
-> Come and see the Son of God, not in the bosom of the Father [Jn 1], but in
+> Come and see the Son of God, not in the bosom of the Father \[Jn 1\], but in
 > the arms of the Mother; not above choirs of angels, but among filthy animals;
-> not seated at the right hand of the Majesty on high [Heb. 1], but
+> not seated at the right hand of the Majesty on high \[Heb 1\], but
 > reclining in a stable for beasts; not thundering and casting lightning in
 > Heaven, but crying and trembling from cold in a stable.
 > What theme, then, can cause any greater wonder?
@@ -1138,9 +1144,9 @@ This reference comes after he exhorts worshippers to marvel at the lowliness of 
 Paraphrasing St. Cyprian, he goes on: 
 
 > I do not wonder at the figure of the world, nor the firmness of the earth
-> [...]; I marvel to see how the word of God could take on flesh. [...] 
+> \[...\]; I marvel to see how the word of God could take on flesh. \[...\] 
 > In this mystery the greatness of the shock steals away all my senses, and with
-> the prophet [Hab. 3] it makes me cry out: Lord, I heard your words, and I
+> the prophet \[Hab. 3\] it makes me cry out: Lord, I heard your words, and I
 > feared: I considered your works, and I was struck numb.
 > With good reason, indeed, you are amazed, Prophet: for what thing could
 > surprise anyone more, than that to which the Evangelist here refers in a few
@@ -1159,11 +1165,15 @@ Paraphrasing St. Cyprian, he goes on:
 
 Fray Luis is not only preaching about wonder; his preaching itself becomes an
 act of devotion in contemplating the Incarnation as the union of opposites.
-Just as Padilla's second copla says that God "made a composition from on high [*alto*], and of the maxima and breve," Fray Luis says, "Who is this so high and so low, so great and so small? [...] What high-and-low things [*qué altibajos*] are these that the wisdom of God joined together as one?"
+Just as Padilla's second copla says that God "made a composition from on high
+\[*alto*\], and of the maxima and breve," Fray Luis says, "Who is this so high
+and so low, so great and so small? \[...\] What high-and-low things \[*qué
+altibajos*\] are these that the wisdom of God joined together as one?" 
 [@LuisdeGranada:Xmas, para. 24]
 The response he models to this "mystery" is to be "struck numb," to "worship
-with wonder [*admiración*] in silence."
-In a similar passage, Lapide goes even further to speak of being "stupefied" and "struck deaf" [*attonitus*] at the sight of Christ in the manger.
+with wonder \[*admiración*\] in silence."
+In a similar passage, Lapide goes even further to speak of being "stupefied" and
+"struck deaf" \[*attonitus*\] at the sight of Christ in the manger.
 [@Lapide:Gospels19C, 672, on Lk 2:7:
 "Christus enim in præsepio, hoc est Jesu homo, Verbum infans, est amor, æque ac
 stupor omnium angelorium ac fidelium, quod omnes stupent et stupebunt per omnem
@@ -1175,7 +1185,8 @@ etc."]
 
 ##### Listening to the Christ-Child's Voice
 
-Fray Luis seeks to inspire worshippers not only to picture the stable visually, but also to turn from sight toward hearing:
+Fray Luis seeks to inspire worshippers not only to picture the stable visually,
+but also to turn from sight toward hearing:
 
 > After the devout sight of the manger we open our ears to hear the music of the
 > angels, of whom the Evangelist says, that when one of them had finished giving
@@ -1190,7 +1201,7 @@ the newborn Christ himself, "weeping and trembling with cold in the stable."
 [@LuisdeGranada:Xmas, para. 9]
 Fray Luis follows the exegetical tradition of reading Wisdom 7 as a Messianic
 prophecy, such that King Solomon's words about himself may be applied to his
-royal descendent, Christ: "I too am a mortal man like others, [...] and the
+royal descendent, Christ: "I too am a mortal man like others, \[...\] and the
 first sound [*voz*] that I made was crying like other children, because not one
 of the kings had any different origin in their birth."
 [@LuisdeGranada:Xmas, para. 9; cf. @Lapide:Gospels19C, 670, on Lk. 2:7]
@@ -1264,7 +1275,7 @@ In another, Augustine preaches,
 Verbum sine verbis vocem carnis emisit.
 Illa tamen occulta divinitas, et Magis coelo teste significate, et pastoribus
 angelica voce nuntiata est.
-Hanc igitur anniversaria solemnitate celebramus diem [...]."]
+Hanc igitur anniversaria solemnitate celebramus diem \[...\]."]
 
 In true Neoplatonic fashion, Augustine builds a chain of signification from the
 highest level of being---the Godhead and its incarnation as the
@@ -1367,17 +1378,17 @@ This all amounts to an extended exegesis of the opening of the New Testament
 letter to the Hebrews, which contrasts God's communications to humanity
 through prophetic words with his final communication in the person of Jesus:
 "Long ago God spoke to our ancestors in many and various ways by the prophets,
-but in these last days he has spoken to us by a Son [...]. He is the reflection
+but in these last days he has spoken to us by a Son \[...\]. He is the reflection
 of God's glory and the exact imprint of God's very being, and he sustains all
 things by his powerful word" (Heb. 1:1--3, NRSV).
 Lapide connects Word and Incarnation thus: "We hear God teaching and preaching
-from the chair [*cathedra*] of this manger, not by a word but by a deed: [...]
+from the chair [*cathedra*] of this manger, not by a word but by a deed: \[...\]
 I have been made a little one, of your bone and your flesh, I am made man, in
 order to make you God."
 [@Lapide:Gospels19C, 673, on Lk. 2:
 "Quid fecit tantus Deus, in tantilla carne, jacens in præsepio?
 Audiamus ipsummet in præsepii cathedra, non verbo sed facto docentem et
-prædicantem: [...] 
+prædicantem: \[...\] 
 Parvulus factus sum, os tuum et caro tua, factus sum homo, ut te Deum
 efficerem."]
 Lapide paraphrases St. Cyril on the Word in John's Gospel 1:3 ("through him [the
@@ -1462,14 +1473,14 @@ Covarrubias begins his Spanish dictionary with this definition of the letter A
 (pronounced like *ah* in Spanish):
 
 > The first letter in order according to all the nations that used characters,
-> [...] and this because of its being so very simple in its pronunciation
-> [*prolación*]. [...] And thus it is the first thing that man pronounces in
+> \[...\] and this because of its being so very simple in its pronunciation
+> \[*prolación*\]. \[...\] And thus it is the first thing that man pronounces in
 > being born, except that the male (since he has more strength) says A, and the
-> female E [pronounced *eh*], in which man seems to enter into the wrld,
+> female E \[pronounced *eh*\], in which man seems to enter into the wrld,
 > lamenting his first parents Adam and Eve.
 [@Covarrubias:Tesoro, s.v. *A*:
-"Primera letra en orden cerca de todas las naciones que usaron caracteres, [...]
-y esto por ser simplicissima en su prolacion. [...]
+"Primera letra en orden cerca de todas las naciones que usaron caracteres, \[...\]
+y esto por ser simplicissima en su prolacion. \[...\]
 Y assi es la primera que el hombre pronuncia en naciendo, saluo que el varon
 como tiene mas fuerça dize A, y la hembra E, en que parace entrar en el mundo,
 lamentandose de sus primeros padres Adan y Eva."
@@ -1843,6 +1854,66 @@ been serving as Padilla's assistant and would later succeed him.
 [@Mauleon:PadillaCivil, XXX]
 Padilla's setting of the older text may have represented the aging composer's
 attempt to demonstrate an affinity with the older generation.
+<!-- XXX trim, reduce repetition above -->
+
+Santiago, Padilla, and Jalón were not only part of a professional network; their
+relationships with other chapelmasters may be best understood in terms of
+kinship.
+Most Hispanic chapelmasters were priests or men of religious orders, under vows
+of celibacy; but in many cases they established genealogical lineages through
+their musical relationships.
+All of these men learned their craft through apprenticeship, and all of them
+passed on their learning in the same way once they became the *maestros*.
+
+In Padilla's case, he served first as as choirboy at Málaga Cathedral and then
+apprentice to the local chapelmaster Francisco Vásquez (ca. 1602--1608).
+[@Gembero:Padilla]
+In 1628, after he had settled in New Spain, Padilla was selected to assist the
+ailing chapelmaster of Puebla Cathedral, Gaspar Fernández.
+He composed the villancicos for Corpus Christi in that year, probably both as a
+way to fill in for Fernández and to prove his own mastery.
+[@Cashner:Cards]
+He then succeeded Fernández after he died.
+<!-- Fernández born in Guatemala, not Portugal -->
+When Padilla's health began to fail in 1660, he signed a "power of attorney"
+document giving legal rights to Juan García de Céspedes, a member of the Puebla
+ensemble whose name appears throughout Padilla's partbooks.
+García then succeeded Padilla after his death in 1664.
+[@Mauleon:PadillaCivil, XXX]
+
+The Seville chapelmasters established a kinship-like lineage in the same way.
+Francisco de Santiago first served as assistant in Alonso Lobo during his old
+age in 1616. 
+[@Stevenson:SantiagoF]
+Santiago composed the *chanzonetas* (villancicos) for Christmas that year, and
+then succeeded Lobo after his death in 1617.
+When Santiago's time came and he was debilitated by a paralyzing medical
+condition, the chapter called on Luis Bernardo Jalón to provide the music for
+Christmas 1643, and Jalón inherited Santiago's position the following year.
+
+In these cases the lines of succession were established either by the composers
+themselves or by the cathedral chapters, surely with the older master's
+approval, since all these composers had at least a year to orient and train
+their successors.
+But musicians could also voluntarily demonstrate kinship even when they were not
+made direct heirs.
+Padilla competed in the *oposición* for his Málaga teacher Vásquez's position
+but was bested by the Portuguese composer Estêvão de Brito (1577--1641).
+[@Stevenson:BritoE]
+Francisco Vidales, organist in Padilla's Puebla chapel, demonstrated his
+affiliation to Padilla by writing a parody mass based on a motet by Padilla.
+[@Koegel:Padilla: 
+"The Puebla organist Francisco de Vidales used
+Padilla's *Exultate justi in Domino* as the model for his parody *Missa super
+Exultate*, and another connection between the two men is seen in Vidales's
+addition of a tenor part to Padilla's *O Domine Jesu Christe*." XXX]
+The links between these men and their elders began in boyhood: Padilla, for one,
+fulfilled a common requirement of housing and educating his choirboys in his own
+home. 
+(We should not ignore here the high likelihood in such a setting of
+relationships that today would be considered sexual abuse.)
+
+<!-- START -->
 
 This chain of homage may shed light on the origins and meaning of Padilla's most
 performed piece of Latin-texted music today, the *Missa "Ego flos campi"* for
@@ -1854,9 +1925,10 @@ Santiago.
 Moreover, the catalog specifies that Santiago's mass was based on the motet *Ego
 flos campi a 8* by Nicolas Dupont, a Flemish composer in the Spanish Royal
 Chapel.
-[@JohnIV:Catalog, 417, caixão 34, no. 787: "Missas [...] Ego flos campi, a 8.
-*Ferta sobre hum Motette de Niculas du Pont*"; @JohnIV:Catalog, 381, caixão 32,
-no. 767: "Ego flos campi, a 8, Niculas du Pont. *De Nossa Senhora*."
+[@JohnIV:Catalog, 417, caixão 34, no. 787: 
+"Missas \[...\] Ego flos campi, a 8. *Ferta sobre hum Motette de Niculas du
+Pont*"; @JohnIV:Catalog, 381, caixão 32, no. 767: "Ego flos campi, a 8, Niculas
+du Pont. *De Nossa Senhora*."
 Based on this connection, Robert Stevenson speculated that Santiago, like his
 peer Diego de Pontac, studied with Nicolas Dupont during Santiago's time in
 Madrid; -@Stevenson:SantiagoF.]
@@ -1953,14 +2025,14 @@ that invites his listeners to join their voices and hearts with the worshippers
 at Bethelehem:
 
 > But consider, that if the angels on that day sang and solemnized this mystery
-> with *Glorias* and praises, giving thanks [gracias] for the redemption that
-> came to us from heaven, even though they themselves were not the ones
+> with *Glorias* and praises, giving thanks \[*gracias*\] for the redemption
+> that came to us from heaven, even though they themselves were not the ones
 > redeemed, what should we do who are redeemed?
-> If they thus give thanks for the grace [gracia] and mercy given to strangers,
-> what should those do who were redeemed and restored by
+> If they thus give thanks for the grace \[*gracia*\] and mercy given to
+> strangers, what should those do who were redeemed and restored by
 > it?
-[@LuisdeGranada:Xmas, para. 28; cf. @Bernard:Nativitate, 126B, Sermo IV,
-"Et ut noveritis quo in loco solemnitatitis [...] in psalmis, coelestes illos
+[@LuisdeGranada:Xmas, para. 28; cf. @Bernard:Nativitate, 126B, Sermo IV, "Et ut
+noveritis quo in loco solemnitatitis \[...\] in psalmis, coelestes illos
 principes praevenire conjunctos psallentibus, in medio juvencularum
 tympanistriarum."]
 
@@ -1986,7 +2058,7 @@ præsepio, sed in altari cernens, majorem istis brabaris exhibe pietatem*."]
 This is the Christmas version of the central theological concept for Roman
 Catholics, Christ's presence in the sacraments.
 As Pope St. Leo the Great epitomized the theology, "that which was plainly
-visible in our Savior, passed into the sacraments [or signs, or mysteries]."
+visible in our Savior, passed into the sacraments \[or signs, or mysteries\]."
 [@Leo:SermonesPL, 398, Sermo II de Ascensione Domini:
 "Quod itaque redemptoris nostri conspicuum fuit, in sacramenta transiuit."]
 
