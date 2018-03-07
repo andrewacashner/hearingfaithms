@@ -891,8 +891,7 @@ accessible today.
 The large number of compendia of patristic commentaries on Scripture and model
 sermons preserved from Puebla's seminary and convent libraries provide evidence
 for the high level of interest, and serious degree of learning, of New Spanish
-clergy 
-(`(ref float 'table 'puebla-compendia)`).
+clergy (`(ref float 'table 'puebla-compendia)`).
 
 `(insert float 'table 'puebla-compendia)`
 
@@ -1213,7 +1212,7 @@ He explicitly compares the voice of this incarnate Word with music:
 
 > Oh fortunate house!
 > Oh stable, more precious than all the royal palaces, where God sat upon the
-> chair [*cátedra*] of the philosophy of heaven, where the word of God, though
+> chair \[*cátedra*\] of the philosophy of heaven, where the word of God, though
 > made mute, speaks so much more clearly, all the more silently it admonishes
 > us!
 > Look, then, brother, if you wish to be a true philosopher, do not remove
@@ -1221,7 +1220,7 @@ He explicitly compares the voice of this incarnate Word with music:
 > but this cry is greater eloquence than that of Tully [Cicero], and even than
 > the music of the angels of heaven.
 [@LuisdeGranada:Xmas, para. 16:
-(XXX  first portion)
+\[XXX first portion\]
 "donde la palabra de Dios enmudecida, tanto mas claramente hable, cuanto mas
 calladamente nos avisa.
 Mira, pues, hermano, si quieres ser verdadero filósofo no te apartes deste
@@ -1238,11 +1237,11 @@ Bernard expresses the trope in this way:
 
 > But what kind of mediator is this, you ask, who is born in a stable, placed in
 > a manger, wrapped in cloths like all others, cries like all others, in sum,
-> who lies unspeaking as an infant [*infans*], just as others are accustomed to
+> who lies unspeaking as an infant \[*infans*\], just as others are accustomed to
 > do?
 > A great mediator he is indeed, even in this seeking all the things that are
 > for peace, not just going through the motions but working effectively.
-> He is an infant, but he is the infant Word [*Verbum infans*], and not even in
+> He is an infant, but he is the infant Word \[*Verbum infans*\], and not even in
 > his infancy does he keep silent.
 [@Bernard:Nativitate, 128A, Sermo V:
 "Sed qualis mediator est, inquies, qui in stabulo nascitur, in praesepio
@@ -1264,8 +1263,8 @@ infant Word, teacher of humility.
 ^[XXX  him or his editor? which editor? ]
 In another, Augustine preaches,
 
-> [This day] is called the Nativity of the Lord, when the Wisdom of God
-> manifested itself unspeaking [or, as an infant], and the Word of God without
+> \[This day\] is called the Nativity of the Lord, when the Wisdom of God
+> manifested itself unspeaking \[or, as an infant\], and the Word of God without
 > words sent forth a voice of flesh.
 > That divinity which was thus hidden, was both signified to the Magi by the
 > witness of Heaven, and announced to the shepherds by an angelic voice.
@@ -1306,8 +1305,8 @@ The Word of God existed from eternity, Augustine teaches, drawing on his
 learning in rhetoric and language (as also expressed in his treatise *De
 musica*).
 In its eternal state it "was not varied by punctuation marks whether short or
-long [*nec morulis brevibus longisque*, a concept echoed in Padilla's *máxima y
-breve*], nor drawn together by the voice, nor ended by silence."
+long \[*nec morulis brevibus longisque*, a concept echoed in Padilla's *máxima y
+breve*\], nor drawn together by the voice, nor ended by silence."
 [@Augustine:SermonesPL, 1001, Sermo 187, In Natali Domini 4:
 "Quanto magis Verbum Dei, per quod facta sunt omnia, et quod in se manens
 innovat omnia; quod nec locis concluditur; nec temporibus tenditur, nec morulis
@@ -1321,17 +1320,17 @@ enter into their minds as an idea.
 This is because for Augustine, a word first exists as pure thought before it is
 spoken, but when uttered is "clothed in the voice":
 
-> A word [*verbum*; or, thought] that we carry in the heart, when joined with a
-> voice [*vox*; or, speech, spoken word], we bring forth to the ear, is not
+> A word \[*verbum*; or, thought\] that we carry in the heart, when joined with a
+> voice \[*vox*; or, speech, spoken word\], we bring forth to the ear, is not
 > changed into the voice, but the whole word is assumed into the voice in which
 > it proceeds, so that internally the idea the word makes intelligible remains,
 > while externally the voice produces the sound that is heard.
 > This word, then, brings forth in sound, what previously resounded in silence.
-> The word, upon being made a voice [or, upon being spoken], is not changed into
+> The word, upon being made a voice \[or, upon being spoken\], is not changed into
 > the voice itself, but rather, remaining in the mind's light, and having
-> assumed the voice [or speech] of flesh, it proceeds to the hearer, and does
+> assumed the voice \[or speech\] of flesh, it proceeds to the hearer, and does
 > not leave the thinker.
-> The word in silence is not thought by means of this voice [spoken word],
+> The word in silence is not thought by means of this voice \[spoken word\],
 > whether it is Greek or Latin or whatever other tongue: but rather, the thing
 > itself which is to be said, before all other differentiations of tongues, is
 > understood in some naked manner in the chambers of the heart, from whence it
@@ -1382,7 +1381,7 @@ but in these last days he has spoken to us by a Son \[...\]. He is the reflectio
 of God's glory and the exact imprint of God's very being, and he sustains all
 things by his powerful word" (Heb. 1:1--3, NRSV).
 Lapide connects Word and Incarnation thus: "We hear God teaching and preaching
-from the chair [*cathedra*] of this manger, not by a word but by a deed: \[...\]
+from the chair \[*cathedra*\] of this manger, not by a word but by a deed: \[...\]
 I have been made a little one, of your bone and your flesh, I am made man, in
 order to make you God."
 [@Lapide:Gospels19C, 673, on Lk. 2:
@@ -1391,13 +1390,13 @@ Audiamus ipsummet in præsepii cathedra, non verbo sed facto docentem et
 prædicantem: \[...\] 
 Parvulus factus sum, os tuum et caro tua, factus sum homo, ut te Deum
 efficerem."]
-Lapide paraphrases St. Cyril on the Word in John's Gospel 1:3 ("through him [the
-Word] all things were made"):
+Lapide paraphrases St. Cyril on the Word in John's Gospel 1:3 ("through him \[the
+Word\] all things were made"):
 
-> An artisan [*artifex*] makes all of the works of his craft [*opera artis*]
-> according to the idea, knowledge [wisdom], concept, or "word" [thought] that
-> is in his mind: all of these comparisons are appropriate for the divine Word,
-> or Son, who is Wisdom begotten, not made; and by consequence it is also
+> An artisan \[*artifex*\] makes all of the works of his craft \[*opera artis*\]
+> according to the idea, knowledge \[wisdom\], concept, or "word" \[thought\]
+> that is in his mind: all of these comparisons are appropriate for the divine
+> Word, or Son, who is Wisdom begotten, not made; and by consequence it is also
 > appropriate to say that by him all things were made."
 [@Lapide:Gospels19C, 877, on Jn. 1:3:
 "Artifex enim omnia opera artis suæ facit per ideam, sapientiam, conceptum, sive
@@ -1482,7 +1481,7 @@ Covarrubias begins his Spanish dictionary with this definition of the letter A
 "Primera letra en orden cerca de todas las naciones que usaron caracteres, \[...\]
 y esto por ser simplicissima en su prolacion. \[...\]
 Y assi es la primera que el hombre pronuncia en naciendo, saluo que el varon
-como tiene mas fuerça dize A, y la hembra E, en que parace entrar en el mundo,
+como tiene mas fuerça dize A, y la hembra E, en que parece entrar en el mundo,
 lamentandose de sus primeros padres Adan y Eva."
 On symbolic alphabets in early modern devotional music, see @Kendrick:Jeremiah,
 XXX.]
@@ -1522,10 +1521,36 @@ Through the voices of the Puebla chapel choir, the faithful could listen for the
 unhearable higher music of Christmas, which ultimately meant encountering Christ
 himself.
 
-<!-- FN (Augustine uses the same phrase in Latin when he confesses being distracted by
-the singer rather than by "what is sung")
+It is probably no accident that the phrase *lo que se canta* in the opening
+sentence of the poem corresponds literally to a phrase used by Augustine in the
+famous passage about listening to music in the *Confessions*.
+Augustine confesses that he sins when "it happens to me that the song moves me
+more than what is is sung."
+[@Augustine:ConfessionesPL, 10:33 XXX:
+"Tamen, cum mihi accidit ut me amplius cantus, quam res quae canitur, moveat;
+poenaliter me peccare confiteor, et tunc mallem non audire cantantem."]
+Though it is plausible to translate the passage as referring to "the song,
+rather than the words that are sung" (as in Strunk XXX), Augustine twice in this
+passage uses the same words contrasting *cantus* (song) with *res quae canitur*,
+literally "the thing that is sung."
+This choice of words connects to Augustine's theology of signs in *De doctrina
+christiana*, in which everything in the world is either a *res* (thing, object)
+or a *signum* (sign) that points to a *res*.
+The "song," then, would be the sign that points to "what is sung"---a concept
+that need not be limited to the words of the song, but should be understood
+within the context of Augustine's Christian Neoplatonism, as referring to a
+higher reality as the object of the song. 
+Augustine is confessing that he failed to rise in contemplation from the created
+world to its Creator, that is, because of his sensual appetites he failed to
+discern the sensory world (the song that he hears) as a sign pointing to the
+ultimate *res* or being to which all lesser things owe their existence, the Holy
+Trinity.
+In the villancico,  
+<!-- START
+what is sung refers to the voices that are all signs of Christ who is himself
+the sign
 -->
-
+In 
 
 <!-- *********************************************************************** -->
 #### Establishing a Pedigree in a Lineage of Metamusical Composition
