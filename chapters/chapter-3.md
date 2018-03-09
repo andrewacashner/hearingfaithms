@@ -171,8 +171,8 @@ faith than we could learn from any other kind of source.
 ### "Voices of the Chapel Choir" and the "Unspeaking Word"
 
 Any consideration of this complex piece should begin with a careful reading of
-the poetic text and listening to the musical setting (or if possible, singing or
-playing it).
+the poetic text and listening to the musical setting, or if possible, singing or
+playing it (`(ref float 'poem 'Voces-Padilla)`).
 [@Cashner:WLSCM32, 37--38, 119--132; @Cashner:PhD, 133--203]
 It will probably be readily apparent that this is a different type of
 villancico entirely from the comic villancicos more commonly heard in recent
@@ -187,6 +187,8 @@ The piece demands a high level of intellectual engagement to tease out the
 intricate conceit, and may thus be compared with what Bernardo Illari describes
 as "enigma" villancicos.
 [@Illari:Polychoral, vol. 2, 304--308]
+
+`(insert float 'poem 'Voces-Padilla)`
 
 Part of its difficulty comes from the widespread influence of the poetry of Luis
 de Góngora, who played a similar role for Spanish literature on both sides of
@@ -1684,7 +1686,8 @@ in Puebla -->
 #### Version by Luis Bernardo Jalón, 1647
 
 The next known villancico in this family is the 1647 poem *Cantores de la
-capilla*, performed in Seville, with music probably by Luis Bernardo Jalón.
+capilla*, performed in Seville, with music probably by Luis Bernardo Jalón 
+(`(ref float 'poem 'Cantores-Jalon)`).
 Jalón's position at Seville was the culmination of a restlessly ambitious
 career.
 [@Ezquerro:JalonLB]
@@ -1702,6 +1705,8 @@ Jalón's setting of *Cantores* was performed only two years after Santiago's
 death (considering Epiphany 1647 as part of the 1646--47 liturgical season), and
 it is plausible that Jalón composed the piece deliberately in homage to his
 predecessor.
+
+`(insert float 'poem 'Cantores-Jalon)`
 
 The text corresponds closely to the text of Padilla's *Voces, las de la
 capilla*.

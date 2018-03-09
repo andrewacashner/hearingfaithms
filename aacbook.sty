@@ -1,0 +1,68 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{aacbook}[2018/03/09 Andrew Cashner's book package, to be
+called from header of Pandoc for Markdown conversion]
+
+% undo the wrong changes made by mathspec
+\let\RequirePackage\original@RequirePackage
+
+\RequirePackage{xparse}
+
+\RequirePackage{fontspec}
+\setmainfont{Libertinus Serif}
+\setmathfont{Libertinus Math}
+
+\RequirePackage[normalem]{ulem}
+
+\frenchspacing
+\raggedbottom
+
+\markright{DRAFT---Please do not circulate}
+\pagestyle{myheadings}
+
+\RequirePackage{setspace}
+\doublespacing
+
+\RequirePackage[document]{ragged2e}
+\setlength{\RaggedRightParindent}{0.5in}
+\setlength{\parskip}{0pt plus 0.1pt}
+
+\RequirePackage[none]{hyphenat}
+
+\RenewDocumentEnvironment{quote}{}
+    {\list{}{\leftmargin=0.5in \rightmargin=0.5in}%
+    \item\relax}
+    {\endlist}
+
+\RequirePackage{endnotes}
+
+\RenewDocumentCommand{\enoteformat}{}{%
+    \setlength{\parindent}{0.5in}%
+    \@theenmark.\ }
+
+\let\footnote\endnote
+\AtEndDocument{\clearpage\doublespacing\theendnotes}
+
+\RequirePackage{semantic-markup}
+\RequirePackage{poemtranslation}
+\RenewDocumentCommand{\critnote}{ m o m }{#1}
+
+\RequirePackage{graphicx}
+\NewDocumentCommand{\includeWideGraphic}{ m }{%
+    \par\bigskip
+    \begin{center}
+    \includegraphics[width=\textwidth]{#1}%
+    \end{center}
+    \clearpage
+}
+\graphicspath{ {img/figures/} {img/music-examples/} }
+
+\NewDocumentCommand{\includeFloatFile}{ m }{%
+    \par\bigskip
+    \input{#1}
+    \clearpage
+}
+
+% DRAFT MODE
+% \renewcommand{\includeWideGraphic}[1]{}
+
+\endinput

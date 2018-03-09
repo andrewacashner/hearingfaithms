@@ -29,7 +29,6 @@ pandoc \
     --latex-engine xelatex \
     --top-level-division part \
     --table-of-contents \
-    --include-in-header config/ms.tex \
     --bibliography master.bib \
     --csl chicago-fullnote-bibliography.csl \
     -o pdf/all.pdf \

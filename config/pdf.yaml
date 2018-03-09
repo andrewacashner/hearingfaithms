@@ -1,7 +1,8 @@
 ---
-documentclass:  book
-classoption:    '12pt, oneside'
-geometry:       margin=1in
-suppress-bibliography: true
+documentclass:          book
+classoption:           '12pt, oneside'
+geometry:               margin=1in
+header-includes:        \usepackage{aacbook}
+suppress-bibliography:  true
 ...
 
