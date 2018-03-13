@@ -172,7 +172,7 @@ faith than we could learn from any other kind of source.
 
 Any consideration of this complex piece should begin with a careful reading of
 the poetic text and listening to the musical setting, or if possible, singing or
-playing it (`(ref float 'poem 'Voces-Padilla)`).
+playing it (poem example `ref:poem:Voces-Padilla`).
 [@Cashner:WLSCM32, 37--38, 119--132; @Cashner:PhD, 133--203]
 It will probably be readily apparent that this is a different type of
 villancico entirely from the comic villancicos more commonly heard in recent
@@ -188,7 +188,7 @@ intricate conceit, and may thus be compared with what Bernardo Illari describes
 as "enigma" villancicos.
 [@Illari:Polychoral, vol. 2, 304--308]
 
-`(insert float 'poem 'Voces-Padilla)`
+(insert poem example `ref:poem:Voces-Padilla`)
 
 Part of its difficulty comes from the widespread influence of the poetry of Luis
 de Góngora, who played a similar role for Spanish literature on both sides of
@@ -620,7 +620,7 @@ Padilla sets the numbers in the poem literally: three performers for
 *tres a tres*, two for *dos a dos*, and one for *uno a uno*.
 
 The style of this section, contrasting with that of the introduction, is like
-that of a madrigal (`(ref float 'music 'Padilla-Voces-madrigal)`).
+that of a madrigal (music example `ref:music:Padilla-Voces-madrigal`).
 The madrigal *As Vesta Was from Latmos Hill Descending* by Thomas Weelkes (1601)
 uses the same technique to depict similar words, possibly reflecting a common
 Italian model.[^Weelkes]
@@ -636,7 +636,7 @@ Weelkes's madrigal was published in Thomas Morley's *The Triumphes of Oriana*
 (London, 1601), but there is little evidence that English music circulated in
 Spain or its colonies.
 
-`(insert float 'music 'Padilla-Voces-madrigal)`
+(insert music example `music:Padilla-Voces-madrigal`)
 
 Padilla's musical scene matches contemporary Nativity images that portray
 music-making around the manger.
