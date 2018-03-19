@@ -16,29 +16,31 @@
 
 set -e
 
+if [[ $# -eq 0 ]]; then
+    echo "No input file specified."
+    exit 1
+fi
+
 chapters=("$@")
 
 # Start fresh
-if [ -f xref.aux ]; then
+if [[ -f xref.aux ]]; then
     rm xref.aux
 fi
-
-if [ ! -f input.ent ]; then
+if [[ ! -f input.ent ]]; then
     touch input.ent
 fi
 
 echo "Resolving cross-references in chapters..."
-cat "${chapters[@]}" chapters/floats.md  | xref > tmp-chapters.md
+cat "${chapters[@]}" chapters/floats.md  | xref > tmp.md
 
 echo "Resolving cross-references in float files..."
-cat xref.aux | 
-    xref-list | 
-    egrep '^fig|^music|^poem|^table' | 
-    sed -E -f scripts/dirnames.sed > tmp-floats.log
+cat xref.aux | ./scripts/label2dir.sh > tmp.log
+mapfile -t floats < tmp.log
 
 # Process float files in the order of the labels from xref.aux
-mapfile -t floats < tmp-floats.log
-cat "${floats[@]}" | xref > tmp-floats.md
+cat "${floats[@]}" | xref >> tmp.md
+
 
 echo "Converting to PDF..."
 pandoc \
@@ -51,12 +53,11 @@ pandoc \
     -o pdf/all.pdf \
     config/pdf.yaml chapters/head.yaml \
     chapters/copyright.md \
-    tmp-chapters.md \
-    tmp-floats.md
+    tmp.md
 
 echo "Output to pdf/all.pdf"
 
-rm input.ent xref.aux tmp-chapters.md tmp-floats.md tmp-floats.log
+rm input.ent xref.aux tmp.md tmp.log
 
 exit 0
 
