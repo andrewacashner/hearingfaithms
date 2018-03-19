@@ -6,8 +6,10 @@ chapter 1: Villancicos as Musical Theology
 -->
 
 # Listening for Faith
+`label:part:faith`
 
 ## Villancicos as Musical Theology
+`label:ch:intro`
 
 > *ergo fides ex auditu*\
 > *auditus autem per verbum Christi*\

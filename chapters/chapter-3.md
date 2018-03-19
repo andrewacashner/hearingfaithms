@@ -27,8 +27,10 @@ chapter 3: Christ as Singer and Song
 
 
 # Listening for Unhearable Music
+`label:part:unhearable-music`
 
 ## Christ as Singer and Song
+`label:ch:Padilla-Voces`
 
 On Christmas Eve in 1657, as a cantor in Puebla Cathedral was intoning
 a Latin sermon of Pope St. Leo the Great---the first reading in the second
@@ -133,10 +135,10 @@ the Godhead: three persons in one Trinity, and the two natures of Christ as
 man and God.
 
 By tracing families and lineages of related villancicos on themes of heavenly
-music, part II allows us to see how the musical theology of villancicos
-developed over the course of the seventeenth century, and the shifting ways that
-poets, composers, and listeners understood the spiritual power of music to link
-hearing and faith.
+music, part `ref:part:unhearable-music` allows us to see how the musical
+theology of villancicos developed over the course of the seventeenth century,
+and the shifting ways that poets, composers, and listeners understood the
+spiritual power of music to link hearing and faith.
 The pieces interpreted in these case studies all challenge hearers to listen for
 something more than human sounds; indeed, as these pieces reflect and reinforce
 a Neoplatonic theology of music, they invite devotees to listen for unhearable
@@ -189,6 +191,7 @@ as "enigma" villancicos.
 [@Illari:Polychoral, vol. 2, 304--308]
 
 (insert poem example `ref:poem:Voces-Padilla`)
+`label:poem:Voces-Padilla`
 
 Part of its difficulty comes from the widespread influence of the poetry of Luis
 de Góngora, who played a similar role for Spanish literature on both sides of
@@ -637,6 +640,7 @@ Weelkes's madrigal was published in Thomas Morley's *The Triumphes of Oriana*
 Spain or its colonies.
 
 (insert music example `ref:music:Padilla-Voces-madrigal`)
+`label:music:Padilla-Voces-madrigal`
 
 Padilla's musical scene matches contemporary Nativity images that portray
 music-making around the manger.
@@ -648,8 +652,8 @@ In heaven above, angels sing to the accompaniment of the harp, while below,
 another angelic consort joins the company of worshippers in the stable, and they
 sing to the accompaniment of the lute.
 In Spain the harp was associated with both heavenly music and earthly church
-music (see chapter 5), and the lute, with musical genres performed outside of
-church, such as the madrigal.
+music (see chapter `ref:ch:Zaragoza`), and the lute, with musical genres
+performed outside of church, such as the madrigal.
 Villancicos crossed both domains, and therefore could incorporate references to
 both styles within them---much as Zurbarán's painting incorporates aspects of
 genre painting, the representation of earthy details from everyday life, into a
@@ -669,12 +673,13 @@ death.
 ^[XXX  Puebla cathedral book or image in this book ]
 
 (insert figure `ref:fig:Zurbaran-Jerez-Adoracion`)
+`label:fig:Zurbaran-Jerez-Adoracion`
 
 The phrase *grave, suave y sonoro* seems to have been a stock
 description of sacred music appropriate for liturgical worship.
 The same words are used to describe the music of Christ as a musician (in fact,
 as a musical instrument) in José de Cáseda's *Qué música divina* from
-a half-century later, as discussed in a later chapter.
+a half-century later, as discussed in chapter `ref:ch:Zaragoza`.
 A bequest to Mexico City Cathedral in XXX used nearly identical
 terms to describe the Latin Responsories that should be sung.
 Interestingly, in that case the term was used to specify Latin-texted music
@@ -718,6 +723,7 @@ word *mi* by literally "putting their eyes on *mi*, with Tiple and Tenor on A
 (*mi* in the soft hexachord) and Altus on E (*mi* in the natural hexachord).
 
 (insert figure `ref:fig:Padilla-Voces-alamire`)
+`label:fig:Padilla-Voces-alamire`
 
 Guidonian solmization was still a fundamental part of Spanish theory treatises
 through the eighteenth century, and were used frequently enough that they came
@@ -759,6 +765,7 @@ descending fourths (mm. 100--103), then thirds (mm. 108--112), and finally
 seconds (mm. 118--122) (figure `ref:fig:Padilla-Voces-TI-bajar`).
 
 (insert figure `ref:fig:Padilla-Voces-TI-bajar`)
+`label:fig:Padilla-Voces-TI-bajar`
 
 When Padilla juxtaposes these ideas in the full polychoral texture, listeners
 can hear the fusion of both rising and falling melodic lines, and two different
@@ -790,6 +797,7 @@ in the Tenor I and Tiple I on F--E--D, the *durus* version.
 ^[XXX  cautionary F# as "strange tone"? ]
 
 (insert figure `ref:fig:Cerone-tonus-peregrinus`)
+`label:fig:Cerone-tonus-peregrinus`
 
 In the last phrase of this copla, when the poem speaks of Christ "going up the
 octave" or theologically "ascending on the eighth day", Padilla creates an
@@ -902,6 +910,7 @@ for the high level of interest, and serious degree of learning, of New Spanish
 clergy (table `ref:table:puebla-compendia`).
 
 (insert table `ref:table:puebla-compendia`)
+`label:table:puebla-compendia`
 
 The Christmas liturgy provided the foundation for the theology behind this
 trope, through the way the ritual texts framed the interpretation of
@@ -1707,6 +1716,7 @@ it is plausible that Jalón composed the piece deliberately in homage to his
 predecessor.
 
 (insert poem example `ref:poem:Cantores-Jalon`)
+`label:poem:Cantores-Jalon`
 
 The text corresponds closely to the text of Padilla's *Voces, las de la
 capilla*.

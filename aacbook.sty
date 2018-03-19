@@ -46,6 +46,8 @@ called from header of Pandoc for Markdown conversion]
 \RequirePackage{poemtranslation}
 \RenewDocumentCommand{\critnote}{ m o m }{#1}
 
+\NewDocumentCommand{\speaker}{ m }{\textsc{#1}: }
+
 \RequirePackage{graphicx}
 \NewDocumentCommand{\includeWideGraphic}{ m }{%
     \par\bigskip

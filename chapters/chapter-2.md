@@ -20,6 +20,7 @@ chapter 2: Making Faith Appeal to Hearing
 
 
 ## Making Faith Appeal to Hearing
+`label:ch:faith-hearing`
 
 > *Yo no te alcanzo ni tu enigma sé,*\
 > *porque a la Fe he escuchado sin la fe.* 
@@ -885,6 +886,7 @@ In fact he is unable to believe what Faith has said, because, as he says in an
 increasingly embittered refrain, "I have listened to Faith without Faith." 
 
 (insert poem example `ref:poem:Calderon-Retiro-Judaismo`)
+`label:poem:Calderon-Retiro-Judaismo`
 
 Judaism's eloquent confession of unbelief is immediately drowned out by music,
 as clarion fanfares announce a royal procession. 
@@ -906,6 +908,7 @@ In response, Faith crowns Hearing precisely because of his *desconfianza*---a
 term that can mean humility as well as lack of confidence and even mistrust.
 
 (insert poem example `ref:poem:Calderon-Retiro-Hearing`)
+`label:poem:Calderon-Retiro-Hearing`
 
 What would it mean, then, for hearing to be the favored sense of faith not just
 because of its humility, but because of its actual weakness? 
@@ -1078,8 +1081,10 @@ in Calderón's play: Sight comes first, followed by Touch; next are Taste and
 Smell, and Hearing comes last and wins the day (table `ref:table:senses-order`).
 
 (insert poem example `ref:poem:Si_los_sentidos-Sanchez`)
+`label:poem:Si_los_sentidos-Sanchez`
 
 (insert table `ref:table:senses-order`)
+`label:table:senses-order`
 
 The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this
 contest of the senses in sound. 
@@ -1090,7 +1095,8 @@ valuable because this economical composer drafted his music in makeshift
 notebooks stitched together from piles of his received letters, fitting up to
 twelve staves of music in the margins and unused sides of the paper.
 The letters reflect a correspondence with a broad peninsular network of
-musicians, often about exchanging villancico poetry (see chapter 5).
+musicians, often about exchanging villancico poetry (see chapter
+`ref:ch:Segovia`).
 [@LopezCalo:IrizarLetters1; @Olarte:Irizar; @Rodriguez:Networks]
 Irízar probably received this poem through such correspondence with a colleague
 in Zaragoza.
@@ -1119,6 +1125,7 @@ the text into shorter phrases to be tossed back and forth between the two
 choirs: *no se den por sentidos* becomes *no se den* and then *no, no*. 
 
 (insert music example `ref:music:Irizar-Si_los_sentidos`)
+`label:music:Irizar-Si_los_sentidos`
 
 Irízar creates a steadily increasing sense of excitement through shifts of
 rhythmic motion and style. 
@@ -1191,6 +1198,7 @@ affective manner throughout.
 <!-- on "Italianization"? -->
 
 (insert music example `ref:music:Carrion-Si_los_sentidos`)
+`label:music:Carrion-Si_los_sentidos`
 
 The dialogue and rivalry of the poetic text is embodied now not through
 polychoral effects but through motivic exchanges between voice and
@@ -1267,6 +1275,7 @@ of passions: love and hate, desire and fear, joy and sadness.
 <!--  secondary on physiology of sensation -->
 
 (insert table `ref:table:senses-fray-luis`)
+`label:table:senses-fray-luis`
 
 The act of sensation, then, involved the entire body and soul, in a
 holistic model that Descartes would later challenge.
@@ -1354,7 +1363,7 @@ listeners should not trust their senses alone.
 Some villancico poets and composers go further than stating that senses can be
 deceitful; they use paradox to deliberately confuse the senses for pious
 purposes. 
-We have already seen in the previous chapter that many villancicos feature
+We have already seen in chapter `ref:ch:intro` that many villancicos feature
 auditory "special effects" like echoes, voices imitating instruments, and voices
 imitating birdsong. 
 Such pieces might be compared to the contemporary rise of *trompe l'oeil*
@@ -1409,6 +1418,7 @@ and line groupings in this arrangement could be scanned as
 10, 6 10, 8 7 6, 6, 6 10, 10.
 
 (insert poem example `ref:poem:Oigan_todos_del_ave-Galan`)
+`label:poem:Oigan_todos_del_ave-Galan`
 
 To notate these rhythms, Galán must use white notes for the regular ternary
 motion in Chorus I, but blackened noteheads (mensural coloration) to indicate
@@ -1425,6 +1435,7 @@ recognized the dark--light symbolism in the notation.
 [@Kendrick:Jeremiah, 36]
 
 (insert figure `ref:fig:Galan-Oigan-coloratio`)
+`label:fig:Galan-Oigan-coloratio`
 <!-- cite Kendrick on darkness coloratio symbolism -->
 
 In texture Galán illustrates with *qué equivocación* literally by setting these words
@@ -1515,6 +1526,7 @@ Padilla's comic "deaf" villancico explicitly plays with the challenges of
 hearing the faith and making it heard.
 
 (insert poem example `ref:poem:Oyeme_Toribio-Padilla`)
+`label:poem:Oyeme_Toribio-Padilla`
 
 Padilla sets the anonymous poem as a dialogue between two soloists, each
 accompanied by a bass reed instrument (Padilla calls the texture of soloist and
@@ -1564,6 +1576,7 @@ The two men interrupt each other and cannot follow each other's train of
 thought.
 
 (insert music example `ref:music:Padilla-Sordo-intro`)
+`label:music:Padilla-Sordo-intro`
 
 Padilla illustrates the men's disagreement by having them fail to concur on
 where to cadence. 
@@ -1609,6 +1622,7 @@ sorted out until the final cadential flourish on F, validating the friar's
 initial choice of mode. 
 
 (insert music example `ref:music:Padilla-Sordo-responsion`)
+`label:music:Padilla-Sordo-responsion`
 
 Padilla uses his characteristic mixture of sophisticated musical technique,
 high-minded theology, and low caricature to exploit the deaf for the amusement
@@ -1642,6 +1656,7 @@ But the biggest laughs come at the expense of the friar, as the deaf man
 mishears his rote teaching formulas in increasingly absurd ways.
 
 (insert poem example `ref:poem:Pues_la_fiesta-Ruiz`)
+`label:poem:Pues_la_fiesta-Ruiz`
 
 The piece begins with soloist and chorus gleefully crying "On with the deaf
 man!" rather like a bunch of high-school bullies, telling everyone to speak up
@@ -1658,6 +1673,7 @@ singer to bawl the phrases in a coarse tone of voice, so that ironically, a
 character who cannot hear is marked for the audience by the sound he makes.
 
 (insert music example `ref:music:Ruiz-Sordos-dialogue`)
+`label:music:Ruiz-Sordos-dialogue`
 
 Unlike in Padilla's villancico, here the deaf man has a lesson of his own to
 teach. 
@@ -1677,8 +1693,8 @@ But the deaf man mishears every statement: he mistakes *sordo* for *gordo*
 (chubby), and hears *profeta* (prophet) as *estafeta* (mailman). 
 
 [^Christmas-tropes]:
-See the next chapter for a discussion of such classic tropes of Christmas
-preaching in villancicos. 
+See chapter `ref:ch:Padilla-Voces` for a discussion of such classic tropes of
+Christmas preaching in villancicos. 
 <!-- or some sources here -->
 
 His supposed learning in the humanities leads only to confusion. 
@@ -1736,6 +1752,7 @@ hearing; those who can't pick up the tune, spiritually speaking, are the truly
 deaf.
 
 (insert music example `ref:music:Ruiz-Sordos-son`)
+`label:music:Ruiz-Sordos-son`)
 
 Where did this theology of hearing leave actual people with hearing
 disabilities?
@@ -1925,6 +1942,7 @@ take refuge in Christ and his crown."
 quisieres tu persona,/ Amparate de Christo, y su corona."]
 
 (insert figure `ref:fig:Covarrubias-Emblemas-202-ears-thorns`)
+`label:fig:Covarrubias-Emblemas-202-ears-thorns`
 
 Spanish devotional music of the seventeenth century appealed to the ears of
 diverse people at different levels; but it challenged all of them to "temper"
