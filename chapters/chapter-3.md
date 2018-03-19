@@ -636,14 +636,14 @@ Weelkes's madrigal was published in Thomas Morley's *The Triumphes of Oriana*
 (London, 1601), but there is little evidence that English music circulated in
 Spain or its colonies.
 
-(insert music example `music:Padilla-Voces-madrigal`)
+(insert music example `ref:music:Padilla-Voces-madrigal`)
 
 Padilla's musical scene matches contemporary Nativity images that portray
 music-making around the manger.
 Padilla's Andalusian compatriot Francisco de Zurbarán depicted two levels of
 music in his *Adoration of the Shepherds*, painted for the high altar of the
 Carthusian monastery of Jerez de la Frontera in 1638--1639
-(`(ref float 'figure 'Zurbaran-Jerez-Adoracion)`).
+(figure `ref:fig:Zurbaran-Jerez-Adoracion`).
 In heaven above, angels sing to the accompaniment of the harp, while below,
 another angelic consort joins the company of worshippers in the stable, and they
 sing to the accompaniment of the lute.
@@ -668,7 +668,7 @@ death.
 [@Catholic:Breviarium1631, 168]
 ^[XXX  Puebla cathedral book or image in this book ]
 
-`(insert float 'figure 'Zurbaran-Jerez-Adoracion)`
+(insert figure `ref:fig:Zurbaran-Jerez-Adoracion`)
 
 The phrase *grave, suave y sonoro* seems to have been a stock
 description of sacred music appropriate for liturgical worship.
@@ -704,7 +704,7 @@ los ojos en mi* (upon the sign of *A (la, mi, re)*, with eyes set on
 me/*mi*).
 Likewise, Padilla's metamusical conceits play on the musical terms in the most
 literal sense, realizing the solmization syllables in several ways at the same
-time (`(ref float 'figure 'Padilla-Voces-alamire)`).
+time (figure `ref:fig:Padilla-Voces-alamire`).
 Both Altus I and Tenor I sing the word *a* on the pitch *A (la, mi, re)* (m.
 67).
 On the words *la mi re* (mm. 68--69), the Tiple I sings the pitches D--C♯--D: in
@@ -717,7 +717,7 @@ At the end of this phrase (m. 72), the performers of all three voices sing the
 word *mi* by literally "putting their eyes on *mi*, with Tiple and Tenor on A
 (*mi* in the soft hexachord) and Altus on E (*mi* in the natural hexachord).
 
-`(insert float 'figure 'Padilla-Voces-alamire)`
+(insert figure `ref:fig:Padilla-Voces-alamire`)
 
 Guidonian solmization was still a fundamental part of Spanish theory treatises
 through the eighteenth century, and were used frequently enough that they came
@@ -756,9 +756,9 @@ downwards---*catabasis*---in emphatic duple rhythm with blackened semibreves,
 including passing through added E flats (Chorus I, mm. 100--104).
 The Tenor I has the highest number of blackened notes, singing a sequence of
 descending fourths (mm. 100--103), then thirds (mm. 108--112), and finally
-seconds (mm. 118--122) (`(ref float 'figure 'Padilla-Voces-TI-bajar)`).
+seconds (mm. 118--122) (figure `ref:fig:Padilla-Voces-TI-bajar`).
 
-`(insert float 'figure 'Padilla-Voces-TI-bajar)`
+(insert figure `ref:fig:Padilla-Voces-TI-bajar`)
 
 When Padilla juxtaposes these ideas in the full polychoral texture, listeners
 can hear the fusion of both rising and falling melodic lines, and two different
@@ -780,7 +780,7 @@ plainchant tone.
 The last psalm tone was known in Latin sources as the *tonus peregrinus* and in
 Spanish sources as *tono irregular* or *tono mixto*.
 Its final cadence is a rising minor third followed by a stepwise descent to the
-final (`(ref float 'figure 'Cerone-tonus-peregrinus)`).
+final (figure `ref:fig:Cerone-tonus-peregrinus`).
 ^[XXX  p. 354) ]
 In *cantus durus* this is D--F--E--D; if notated in the *cantus mollis*
 transposition of this villancico, the pitches would be G--B♭--A--G, which are
@@ -789,7 +789,7 @@ The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
 ^[XXX  cautionary F# as "strange tone"? ]
 
-`(insert float 'figure 'Cerone-tonus-peregrinus)`
+(insert figure `ref:fig:Cerone-tonus-peregrinus`)
 
 In the last phrase of this copla, when the poem speaks of Christ "going up the
 octave" or theologically "ascending on the eighth day", Padilla creates an
@@ -899,9 +899,9 @@ accessible today.
 The large number of compendia of patristic commentaries on Scripture and model
 sermons preserved from Puebla's seminary and convent libraries provide evidence
 for the high level of interest, and serious degree of learning, of New Spanish
-clergy (`(ref float 'table 'puebla-compendia)`).
+clergy (table `ref:table:puebla-compendia`).
 
-`(insert float 'table 'puebla-compendia)`
+(insert table `ref:table:puebla-compendia`)
 
 The Christmas liturgy provided the foundation for the theology behind this
 trope, through the way the ritual texts framed the interpretation of
@@ -1687,7 +1687,7 @@ in Puebla -->
 
 The next known villancico in this family is the 1647 poem *Cantores de la
 capilla*, performed in Seville, with music probably by Luis Bernardo Jalón 
-(`(ref float 'poem 'Cantores-Jalon)`).
+(poem example `ref:poem:Cantores-Jalon`).
 Jalón's position at Seville was the culmination of a restlessly ambitious
 career.
 [@Ezquerro:JalonLB]
@@ -1706,7 +1706,7 @@ death (considering Epiphany 1647 as part of the 1646--47 liturgical season), and
 it is plausible that Jalón composed the piece deliberately in homage to his
 predecessor.
 
-`(insert float 'poem 'Cantores-Jalon)`
+(insert poem example `ref:poem:Cantores-Jalon`)
 
 The text corresponds closely to the text of Padilla's *Voces, las de la
 capilla*.

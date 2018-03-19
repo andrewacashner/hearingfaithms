@@ -18,21 +18,10 @@ set -e
 
 chapters=("$@")
 
-# Start fresh
-if [ -f xref.aux ]; then
-    rm xref.aux
-fi
-
 echo "Resolving cross-references..."
-cat "${chapters[@]}" \
-    figures/*.md music-examples/*.md poem-examples/*.md tables/*.md | \
-    xref > tmp.md
+floatref "${chapters[@]}" figures/*.md music-examples/*.md poem-examples/*.md tables/*.md
 
-echo "Making list of float files..."
-cat xref.aux | xref-list | \ 
-    grep -E 'fig|music|poem|table' | \
-    sed -E -f dirnames.sed | \
-    mapfile -t floats 
+mapfile -t floats < floats.log
 
 echo "Converting to PDF..."
 pandoc \
@@ -45,13 +34,13 @@ pandoc \
     -o pdf/all.pdf \
     config/pdf.yaml chapters/head.yaml \
     chapters/copyright.md \
-    tmp.md
+    "${chapters[@]/%/.ref}" \
     chapters/floats.md \
     "${floats[@]}"
 
 echo "Output to pdf/all.pdf"
 
-rm xref.aux tmp.md
+rm $(find ./ -type f -name "*.md.ref") floats.log
 
 exit 0
 

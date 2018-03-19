@@ -1,4 +1,5 @@
-### `(ref float 'poem 'Calderon-Retiro-Hearing)`
+### Poem example `ref:poem:Calderon-Retiro-Hearing`
+`label:poem:Calderon-Retiro-Hearing`
 
 Calderón, *El nuevo palacio*, ll. 593--602: Faith crowns Hearing
 

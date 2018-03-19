@@ -878,14 +878,13 @@ incapacity to acquire faith, *despite* the sense of hearing.
 Judaism is forcefully excluded from the festivities celebrated within the play,
 which culminate in the consecration of the Eucharist. 
 Instead Judaism stands to the side and asks the character Faith to explain each
-event to him 
-(`(ref float 'poem 'Calderon-Retiro-Judaismo)`).
+event to him (poem example `ref:poem:Calderon-Retiro-Judaismo`).
 But despite trying to connect Faith's message with what he knows of the Hebrew
 Scriptures, Judaism cannot accept any of these explanations. 
 In fact he is unable to believe what Faith has said, because, as he says in an
 increasingly embittered refrain, "I have listened to Faith without Faith." 
 
-`(insert float 'poem 'Calderon-Retiro-Judaismo)`
+(insert poem example `ref:poem:Calderon-Retiro-Judaismo`)
 
 Judaism's eloquent confession of unbelief is immediately drowned out by music,
 as clarion fanfares announce a royal procession. 
@@ -896,8 +895,8 @@ The feeling of doubt about the senses, however, pervades the entire play.
 
 Two other sections of the play dramatize a contest of the senses, in which
 Hearing prevails---but only after confessing to his own incertitude. 
-Each personified sense competes for a laurel prize awarded by Faith 
-(`(ref float 'poem 'Calderon-Retiro-Hearing)`). 
+Each personified sense competes for a laurel prize awarded by Faith (poem
+example `ref:poem:Calderon-Retiro-Hearing`). 
 Each sense in turn boasts of his powers, but Faith rejects each one. 
 Hearing is the last sense to present himself, and in contrast to the other
 senses, he speaks of his weakness, and how easily he can be fooled by echoes or
@@ -906,7 +905,7 @@ Since he cannot trust his own powers, he must rely on faith.
 In response, Faith crowns Hearing precisely because of his *desconfianza*---a
 term that can mean humility as well as lack of confidence and even mistrust.
 
-`(insert float 'poem 'Calderon-Retiro-Hearing)`
+(insert poem example `ref:poem:Calderon-Retiro-Hearing`)
 
 What would it mean, then, for hearing to be the favored sense of faith not just
 because of its humility, but because of its actual weakness? 
@@ -1068,20 +1067,19 @@ the same text as a solo continuo song (E-SE: 28/25).
 
 The poem invites hearers to imagine the senses "filing a complaint"
 against the bread of the Eucharist because "what they sense is not by faith 
-consented" (*porque lo que ellos sienten no es de fe consentido*, 
-`(ref float 'poem 'Si_los_sentidos-Sanchez)`).
+consented" (*porque lo que ellos sienten no es de fe consentido*, poem example
+`ref:poem:Si_los_sentidos-Sanchez`).
 [@Sanchez:LiraPoetica, 171--172]
 In a motto that is repeated after each copla, the poem admonishes, "let the
 senses not resent it" (*no se den por sentidos los sentidos*)---playing on the
 word for *sense* in several ways.
 Each of the coplas treats a different sense, following nearly the same order as
 in Calderón's play: Sight comes first, followed by Touch; next are Taste and
-Smell, and Hearing comes last and wins the day 
-(`(ref float 'table 'senses-order)`).
+Smell, and Hearing comes last and wins the day (table `ref:table:senses-order`).
 
-`(insert float 'poem 'Si_los_sentidos-Sanchez)`
+(insert poem example `ref:poem:Si_los_sentidos-Sanchez`)
 
-`(insert float 'table 'senses-order)`
+(insert table `ref:table:senses-order`)
 
 The two surviving settings of *Si los sentidos* by Irízar and Carrión stage this
 contest of the senses in sound. 
@@ -1110,7 +1108,7 @@ Carrión's performing parts are in E-SE: 28/25.
 In the earlier setting, for Corpus Christi 1674 at Segovia Cathedral,
 Miguel de Irízar creates a musical competition in festival style by
 pitting his two four-voice choirs against each other in polychoral dialogue
-(`(ref float 'music 'Irizar-Si_los_sentidos)`).
+(music example `ref:music:Irizar-Si_los_sentidos`).
 [@Cashner:WLSCM32, 133--148. 
 The score includes the heading, "Fiesta del SSantissimo de este año del 1674."]
 Polychoral dialogue is typical of large-scale villancicos, but Irízar has the
@@ -1120,7 +1118,7 @@ Like a film editor creating a fight scene, Irízar builds intensity by cutting
 the text into shorter phrases to be tossed back and forth between the two
 choirs: *no se den por sentidos* becomes *no se den* and then *no, no*. 
 
-`(insert float 'music 'Irizar-Si_los_sentidos)`
+(insert music example `ref:music:Irizar-Si_los_sentidos`)
 
 Irízar creates a steadily increasing sense of excitement through shifts of
 rhythmic motion and style. 
@@ -1178,7 +1176,7 @@ delight, while the coplas provide more of an opportunity to teach.
 Irízar's villancico seems to speak to a large crowd through bold, unsubtle
 gestures and sharp contrasts of bright colors. 
 By contrast, Jerónimo de Carrión's later setting of the same poem invites a more
-personal reflection (`(ref float 'music 'Carrion-Si_los_sentidos)`). 
+personal reflection (music example `ref:music:Carrion-Si_los_sentidos`). 
 [@Cashner:WLSCM32, 149--152]
 Carrión was capable of the festival style, as in his *Qué destemplada armonía*
 (E-SE: 20/5), which almost takes on the dimensions of a *cantada*.
@@ -1192,7 +1190,7 @@ tonal harmonic language, a running bass part in the accompaniment, and a single
 affective manner throughout. 
 <!-- on "Italianization"? -->
 
-`(insert float 'music 'Carrion-Si_los_sentidos)`
+(insert music example `ref:music:Carrion-Si_los_sentidos`)
 
 The dialogue and rivalry of the poetic text is embodied now not through
 polychoral effects but through motivic exchanges between voice and
@@ -1248,7 +1246,7 @@ Puebla's historic seminary libraries.
 As Fray Luis explains this widespread understanding of perception, the five
 exterior senses were linked to a set of interior senses or faculties, including
 the affective faculty, in which the sensory stimuli interacted with the balance
-of bodily humors (`(ref float 'table 'senses-fray-luis)`).
+of bodily humors (table `ref:table:senses-fray-luis`).
 [@LuisdeGranada-Balcells:SimboloPtI, ch. 27--35, pp. 439--494]
 The five exterior senses mediated between the outside world and the interior
 senses by means of the ethereal *spiritus animales*, which were something like
@@ -1268,7 +1266,7 @@ repulsion, this "concupiscible" part of the soul experienced three primary pairs
 of passions: love and hate, desire and fear, joy and sadness. 
 <!--  secondary on physiology of sensation -->
 
-`(insert float 'table 'senses-fray-luis)`
+(insert table `ref:table:senses-fray-luis`)
 
 The act of sensation, then, involved the entire body and soul, in a
 holistic model that Descartes would later challenge.
@@ -1396,8 +1394,8 @@ when a new church building was added later, this image was incorporated as the
 central element atop the high altar.]
 
 The poem makes *equivocación* (confusion) of sight and hearing, which is
-projected partly through irregular poetic meter 
-(`(ref float 'poem 'Oigan_todos_del_ave-Galan)`).[^Galan-meter]
+projected partly through irregular poetic meter (poem example
+`ref:poem:Oigan_todos_del_ave-Galan`).[^Galan-meter] 
 In his musical setting for eleven voices in three choirs, Galán creates
 *equivocación* through rhythm, notation, and texture. 
 Galán juxtaposes the three voices of Chorus I against the other two choirs by
@@ -1410,15 +1408,15 @@ The division into lines is speculative, but the syllable counts
 and line groupings in this arrangement could be scanned as 
 10, 6 10, 8 7 6, 6, 6 10, 10.
 
-`(insert float 'poem 'Oigan_todos_del_ave-Galan)`
+(insert poem example `ref:poem:Oigan_todos_del_ave-Galan`)
 
 To notate these rhythms, Galán must use white notes for the regular ternary
 motion in Chorus I, but blackened noteheads (mensural coloration) to indicate
 the hemiola pattern in the other choirs. 
 But when each voice in Chorus I sings the synesthetic phrase "the light is heard
 to shine," Galán turns the lights out---on the page at least---by giving each
-voice a passage in all black-note sesquialtera 
-(`(ref float 'figure 'Galan-Oigan-coloratio)`).
+voice a passage in all black-note sesquialtera (figure
+`ref:fig:Galan-Oigan-coloratio`).
 They return to white notation again for the following phrase, "while the voice
 is seen in purity." 
 Any attentive listener could hear these juxtapositions and abrupt shifts in
@@ -1426,7 +1424,7 @@ rhythmic patterns, though only the musicians themselves would likely have
 recognized the dark--light symbolism in the notation.
 [@Kendrick:Jeremiah, 36]
 
-`(insert float 'figure 'Galan-Oigan-coloratio)`
+(insert figure `ref:fig:Galan-Oigan-coloratio`)
 <!-- cite Kendrick on darkness coloratio symbolism -->
 
 In texture Galán illustrates with *qué equivocación* literally by setting these words
@@ -1495,8 +1493,7 @@ cathedral's chapelmaster included a "villancico of the deaf" among the
 villancicos for Christmas Matins.
 In a piece that begins *Óyeme, Toribio* and is labeled *sordo* in the partbooks, 
 Juan Gutiérrez de Padilla created a comic dialogue between a religious teacher
-and a "deaf" man named Toribio 
-(`(ref float 'poem 'Oyeme_Toribio-Padilla)`).
+and a "deaf" man named Toribio (poem example `ref:poem:Oyeme_Toribio-Padilla`).
 [MEX-Pc: Leg. 1/2; @Stanford:Catalog; @Puebla:Microfilm]
 This villancico is part of Juan Gutiérrez de Padilla's earliest surviving complete
 cycle of Christmas villancicos, and the first extant musical compositions that
@@ -1517,7 +1514,7 @@ residents could hear the Word through Scripture, liturgy, preaching, and music.
 Padilla's comic "deaf" villancico explicitly plays with the challenges of
 hearing the faith and making it heard.
 
-`(insert float 'poem 'Oyeme_Toribio-Padilla)`
+(insert poem example `ref:poem:Oyeme_Toribio-Padilla`)
 
 Padilla sets the anonymous poem as a dialogue between two soloists, each
 accompanied by a bass reed instrument (Padilla calls the texture of soloist and
@@ -1559,14 +1556,14 @@ the chorus to warn the congregation against spiritual deafness.
 
 Padilla dramatizes the two characters' unsuccessful attempts to communicate
 through disjunctions of rhythm and mode 
-(`(ref float 'music 'Padilla-Sordo-intro)`).
+(music example `ref:music:Padilla-Sordo-intro`).
 Rhythmically, Padilla gives the friar relatively refined and elegant musical
 speech, while the deaf man's speech is halting and clumsy, as in the offbeat
 figure on *¿Eh? ¿eh? que no te oigo* (Huh? huh? I can't hear you).
 The two men interrupt each other and cannot follow each other's train of
 thought.
 
-`(insert float 'music 'Padilla-Sordo-intro)`
+(insert music example `ref:music:Padilla-Sordo-intro`)
 
 Padilla illustrates the men's disagreement by having them fail to concur on
 where to cadence. 
@@ -1602,7 +1599,7 @@ descends in a leaping melodic sequence.
 
 When the rest of Chorus I joins in for the responsión, their repeated dotted
 rhythm suggests vivacious laughter and comic offbeat sobs on *sollozos*
-(`(ref float 'music 'Padilla-Sordo-responsion)`). 
+(music example `ref:music:Padilla-Sordo-responsion`). 
 The catabasis figure is passed through all the voices in imitation, leading to a
 harmonic catabasis when the Tiple I adds E flat---shifting further away from the
 "natural" into the "weak" realm of flats. 
@@ -1611,12 +1608,16 @@ The heavy syncopation in each voice creates rhythmic confusion that is not
 sorted out until the final cadential flourish on F, validating the friar's
 initial choice of mode. 
 
-`(insert float 'music 'Padilla-Sordo-responsion)`
+(insert music example `ref:music:Padilla-Sordo-responsion`)
 
-Padilla uses his characteristic mixture of sophisticated musical technique, high-minded theology, and low caricature to exploit the deaf for the amusement of the hearing, making them into a warning against spiritual deafness.
+Padilla uses his characteristic mixture of sophisticated musical technique,
+high-minded theology, and low caricature to exploit the deaf for the amusement
+of the hearing, making them into a warning against spiritual deafness.
 The "deaf men" that will make Mary weep are all people whose ears have
 been stopped by sin and cannot hear the divine Word of Christ with faith. 
-This concept recalls the definition of *sordo* in the 1611 Spanish dictionary of Sebastián de Covarrubias, who defines the *sordo*, not as one who is *unable* to hear, but rather as "he who does not hear."
+This concept recalls the definition of *sordo* in the 1611 Spanish dictionary of
+Sebastián de Covarrubias, who defines the *sordo*, not as one who is *unable* to
+hear, but rather as "he who does not hear." 
 He adds, "There is no worse kind of deaf man than the one who is unwilling to
 hear." 
 [@Covarrubias:Tesoro, s. v. *sordo*: "SORDO, Lat. surdus, el que no oye. No ay
@@ -1627,8 +1628,7 @@ peor sordo que le que no quiere oyr."]
 
 The last example, the *Villancico de los sordos* by Matías Ruiz (E-E: Mús.
 83-12), invites more sympathy for the deaf and extends its parody to the
-catechist as well 
-(`(ref float 'poem 'Pues_la_fiesta-Ruiz)`). 
+catechist as well (poem example `ref:poem:Pues_la_fiesta-Ruiz`). 
 The poetry imprint survives from the first performance by the Royal Chapel at
 Madrid's Convent of the Incarnation in 1671, where Ruiz was chapelmaster.
 [@1671-Madrid-Enc-Nav; @Grove:Ruiz]
@@ -1641,7 +1641,7 @@ learning of this would-be humanistic scholar.
 But the biggest laughs come at the expense of the friar, as the deaf man
 mishears his rote teaching formulas in increasingly absurd ways.
 
-`(insert float 'poem 'Pues_la_fiesta-Ruiz)`
+(insert poem example `ref:poem:Pues_la_fiesta-Ruiz`)
 
 The piece begins with soloist and chorus gleefully crying "On with the deaf
 man!" rather like a bunch of high-school bullies, telling everyone to speak up
@@ -1650,14 +1650,14 @@ When the catechist and the *sordo* enter, Ruiz illustrates their inability to
 understand each other with contrasting styles. 
 The deaf man's musical speech is abrupt, uncouth, and loud, fitting with the
 friar's mockery of the deaf man's unmodulated voice 
-(`(ref float 'music 'Ruiz-Sordos-dialogue)`). 
+(music example `ref:music:Ruiz-Sordos-dialogue`). 
 The deaf man bursts on the scene with a scale from the top of his register to
 the bottom (F~4~ to G~3~). 
 The descent across the registers or *passaggi* of the voice would encourage the
 singer to bawl the phrases in a coarse tone of voice, so that ironically, a
 character who cannot hear is marked for the audience by the sound he makes.
 
-`(insert float 'music 'Ruiz-Sordos-dialogue)`
+(insert music example `ref:music:Ruiz-Sordos-dialogue`)
 
 Unlike in Padilla's villancico, here the deaf man has a lesson of his own to
 teach. 
@@ -1726,7 +1726,7 @@ as a kind of dance.
 Indeed, this villancico features a distinctive harmonic and rhythmic pattern
 with alternating ternary and sesquialtera groupings, which are most clear on the
 phrase *los que no escuchan ni entienden el son*
-(`(ref float 'music 'Ruiz-Sordos-son)`).
+(music example `ref:music:Ruiz-Sordos-son`).
 This pattern bears a close resemblance to dance forms known as *son*
 today---most obviously, the Mexican *huarache* familiar from the song "America"
 in Leonard Bernstein's *West Side Story*.
@@ -1735,7 +1735,7 @@ Just as in the contests of the senses, then, music is the paradigm of faithful
 hearing; those who can't pick up the tune, spiritually speaking, are the truly
 deaf.
 
-`(insert float 'music 'Ruiz-Sordos-son)`
+(insert music example `ref:music:Ruiz-Sordos-son`)
 
 Where did this theology of hearing leave actual people with hearing
 disabilities?
@@ -1906,7 +1906,7 @@ aural-skills course would meet the more pressing demand for spiritual discipline
 in listening.
 A moral emblem from 1610 by dictionary author Sebastián de Covarrubias shows two
 fragile human ears, protected from the four winds by a crown of thorns
-(`(ref float 'figure 'Covarrubias-Emblemas-202-ears-thorns)`). 
+(figure `ref:fig:Covarrubias-Emblemas-202-ears-thorns`). 
 Its Latin motto, from Ecclesiasticus 28:28, reads, "Make a hedge around your
 hears with thorns."
 [@Covarrubias:Emblemas, 202: "SEPI AVRES TVAS SPINIS."]
@@ -1924,7 +1924,7 @@ take refuge in Christ and his crown."
 [@Covarrubias:Emblemas, 202: "En esta vida, que es vna milica,/ Si asegurar
 quisieres tu persona,/ Amparate de Christo, y su corona."]
 
-`(insert float 'figure 'Covarrubias-Emblemas-202-ears-thorns)`
+(insert figure `ref:fig:Covarrubias-Emblemas-202-ears-thorns`)
 
 Spanish devotional music of the seventeenth century appealed to the ears of
 diverse people at different levels; but it challenged all of them to "temper"

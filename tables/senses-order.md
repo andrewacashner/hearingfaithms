@@ -1,4 +1,5 @@
-### `(ref float 'table 'senses-order)`
+### Table `ref:table:senses-order`
+`label:table:senses-order`
 
 Order of the senses in versions of *Si los sentidos*, correlated with
 Calderón, *El nuevo palacio del Retiro*, and Veracruce, *Phisica, speculatio*
