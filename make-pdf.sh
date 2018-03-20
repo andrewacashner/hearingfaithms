@@ -23,6 +23,20 @@ fi
 
 chapters=("$@")
 
+function mypandoc() {
+    infile="$1"
+    outfile="$2"
+    pandoc \
+    --filter pandoc-citeproc \
+    --latex-engine xelatex \
+    --top-level-division part \
+    --table-of-contents \
+    --bibliography master.bib \
+    --csl chicago-fullnote-bibliography.csl \
+    -o "$outfile" \
+    "$infile"
+}
+
 # Start fresh
 if [[ -f xref.aux ]]; then
     rm xref.aux
@@ -35,27 +49,19 @@ echo "Resolving cross-references in chapters..."
 cat "${chapters[@]}" chapters/floats.md  | xref > tmp.md
 
 echo "Resolving cross-references in float files..."
-cat xref.aux | ./scripts/label2dir.sh > tmp.log
+xref-list xref.aux config/xref-labels.scm > tmp.log
 mapfile -t floats < tmp.log
 
 # Process float files in the order of the labels from xref.aux
 cat "${floats[@]}" | xref >> tmp.md
 
-
 echo "Converting to PDF..."
-pandoc \
-    --filter pandoc-citeproc \
-    --latex-engine xelatex \
-    --top-level-division part \
-    --table-of-contents \
-    --bibliography master.bib \
-    --csl chicago-fullnote-bibliography.csl \
-    -o pdf/all.pdf \
-    config/pdf.yaml chapters/head.yaml \
-    chapters/copyright.md \
-    tmp.md
-
-echo "Output to pdf/all.pdf"
+pandoc_infile=(config/pdf.yaml chapters/head.yaml chapters/copyright.md tmp.md)
+pandoc_outfile="pdf/all.pdf"
+echo "${pandoc_infile[@]}"
+mypandoc "${pandoc_infile[@]}" "$pandoc_outfile" && 
+    echo "Output to $pandoc_outfile"
+# Doesn't work, why?
 
 rm input.ent xref.aux tmp.md tmp.log
 

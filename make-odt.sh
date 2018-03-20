@@ -13,31 +13,56 @@
 
 set -e
 
+if [[ $# -eq 0 ]]; then
+    echo "No input file specified."
+    exit 1
+fi
+
 chapters=("$@")
 
-echo "Resolving cross-references..."
-floatref "${chapters[@]}" figures/*.md music-examples/*.md poem-examples/*.md tables/*.md
-
-cat $(cat floats.log) > floats.md.ref
-
-refchapters=("${chapters[@]/%/.ref}" "floats.md.ref")
-
-for file in "${refchapters[@]}"; do
-    echo "Converting to ODT: $file..."
-    outputname="$(basename $file .md.ref).odt"
-    echo "Output to $outputname..."
+function mypandoc() {
+    infile="$1"
+    outfile="$2"
     pandoc \
         --filter pandoc-citeproc \
         --smart \
         --reference-odt config/vcbook.odt \
         --bibliography master.bib \
         --csl chicago-fullnote-bibliography.csl \
-        -o odt/"$outputname" \
-        config/odt.yaml chapters/head.yaml \
-        "$file"
+        -o "$outfile" \
+        "$infile"
+}
+
+# Start fresh
+if [[ -f xref.aux ]]; then
+    rm xref.aux
+fi
+if [[ ! -f input.ent ]]; then
+    touch input.ent
+fi
+
+echo "Resolving cross-references and converting to ODT..."
+for file in "${chapters[@]}"; do
+    cat "$file" | xref > tmp.md 
+    pandoc_outfile="odt/$(basename $file .md).odt"
+    mypandoc tmp.md "$pandoc_outfile" && 
+        echo "Converted $file to $outfile"
 done
 
-rm $(find ./ -type f -name "*.md.ref") floats.log
+echo "Resolving cross-references in float files..."
+xref-list xref.aux config/xref-labels.scm > tmp.log
+mapfile -t floats < tmp.log
+
+# Process float files in the order of the labels from xref.aux
+cat "${floats[@]}" | xref > tmp.md # replace previous tmp.md
+
+echo "Converting float files to single ODT doc..."
+pandoc_infile=(config/odt.yaml chapters/head.yaml chapters/copyright.md tmp.md)
+pandoc_outfile="odt/floats.odt"
+mypandoc "${pandoc_infile[@]}" "$pandoc_outfile" && 
+    echo "Output to $pandoc_outfile"
+
+rm input.ent xref.aux tmp.md tmp.log
 
 exit 0
 
