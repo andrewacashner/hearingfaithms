@@ -1,4 +1,4 @@
-## Copyright and Contact Information {-}
+### Copyright and Contact Information {-}
 
  Copyright © 2018 Andrew A. Cashner.  All rights reserved.
 

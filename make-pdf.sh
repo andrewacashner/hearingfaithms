@@ -4,13 +4,6 @@
 
 # Print the book to a single PDF file
 
-# 1. Get list of chapters to include from command line argument
-# 2. Preprocess these chapters plus all floats with floatref to resolve
-#    cross-references
-# 3. Convert preprocessed chapter and float files, plus configuration files 
-#    to PDF with pandoc
-# 4. Clean up .ref and .log files produced by floatref
-
 # TODO 
 # allow to specify name of output file with getopt
 
@@ -27,14 +20,14 @@ function mypandoc() {
     infile="$1"
     outfile="$2"
     pandoc \
-    --filter pandoc-citeproc \
-    --latex-engine xelatex \
-    --top-level-division part \
-    --table-of-contents \
-    --bibliography master.bib \
-    --csl chicago-fullnote-bibliography.csl \
-    -o "$outfile" \
-    "$infile"
+        --filter pandoc-citeproc \
+        --latex-engine xelatex \
+        --top-level-division part \
+        --table-of-contents \
+        --bibliography master.bib \
+        --csl chicago-fullnote-bibliography.csl \
+        -o "$outfile" \
+        "$infile"
 }
 
 # Start fresh
@@ -46,22 +39,20 @@ if [[ ! -f input.ent ]]; then
 fi
 
 echo "Resolving cross-references in chapters..."
-cat "${chapters[@]}" chapters/floats.md  | xref > tmp.md
+cat config/pdf.yaml chapters/head.yaml chapters/copyright.md > tmp.md
+cat "${chapters[@]}" chapters/floats.md  | xref >> tmp.md
 
 echo "Resolving cross-references in float files..."
 xref-list xref.aux config/xref-labels.scm > tmp.log
 mapfile -t floats < tmp.log
 
 # Process float files in the order of the labels from xref.aux
-cat "${floats[@]}" | xref >> tmp.md
+cat "${floats[@]}" | xref >> tmp.md # append
 
 echo "Converting to PDF..."
-pandoc_infile=(config/pdf.yaml chapters/head.yaml chapters/copyright.md tmp.md)
-pandoc_outfile="pdf/all.pdf"
-echo "${pandoc_infile[@]}"
-mypandoc "${pandoc_infile[@]}" "$pandoc_outfile" && 
-    echo "Output to $pandoc_outfile"
-# Doesn't work, why?
+mypandoc tmp.md pdf/all.pdf
+
+echo "Output to pdf/all.pdf"
 
 rm input.ent xref.aux tmp.md tmp.log
 
