@@ -1,11 +1,7 @@
 #! /usr/bin/env sh
-# make-pdf.sh
-# Andrew A. Cashner, 2018/02/16
+# make-odt.sh
 
-# Print the book to a single PDF file
-
-# TODO 
-# allow to specify name of output file with getopt
+# Convert each chapter of the book to a separate ODT file
 
 set -e
 
@@ -16,14 +12,13 @@ fi
 
 chapters=("$@")
 
-function mypandoc() {
+function pandoc_odt() {
     infile="$1"
     outfile="$2"
     pandoc \
         --filter pandoc-citeproc \
-        --latex-engine xelatex \
-        --top-level-division part \
-        --table-of-contents \
+        --smart \
+        --reference-odt config/vcbook.odt \
         --bibliography master.bib \
         --csl chicago-fullnote-bibliography.csl \
         -o "$outfile" \
@@ -38,23 +33,29 @@ if [[ ! -f input.ent ]]; then
     touch input.ent
 fi
 
-echo "Resolving cross-references in chapters..."
-cat config/pdf.yaml chapters/head.yaml chapters/copyright.md > tmp.md
-cat "${chapters[@]}" chapters/floats.md  | xref >> tmp.md
+echo "Resolving cross-references and converting to ODT..."
+for file in "${chapters[@]}"; do
+    cat config/odt.yaml chapters/head.yaml chapters/copyright.md > tmp.md 
+    cat "$file" | xref >> tmp.md 
+    pandoc_outfile="odt/$(basename $file .md).odt"
+    pandoc_odt tmp.md "$pandoc_outfile" 
+    echo "Converted $file to $outfile"
+done
 
 echo "Resolving cross-references in float files..."
 xref-list xref.aux config/xref-labels.scm > tmp.log
 mapfile -t floats < tmp.log
 
 # Process float files in the order of the labels from xref.aux
+cat config/odt.yaml chapters/head.yaml chapters/copyright.md > tmp.md # replace
 cat "${floats[@]}" | xref >> tmp.md # append
 
-echo "Converting to PDF..."
-mypandoc tmp.md pdf/all.pdf
-
-echo "Output to pdf/all.pdf"
+echo "Converting float files to single ODT doc..."
+pandoc_odt tmp.md odt/floats.odt
+echo "Output to odt/floats.odt"
 
 rm input.ent xref.aux tmp.md tmp.log
 
 exit 0
+
 
