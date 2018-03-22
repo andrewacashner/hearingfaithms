@@ -1,0 +1,36 @@
+\begin{tikzpicture}
+    \graph [grow down sep=4em, branch right sep=0.5em,
+    edge quotes={outer sep=1pt, font={\itshape\footnotesize}}] { %     \Malaga -!- \Vasquez; 
+    \Puebla -!- {
+        \Fernandez <-[bend right, dashed] { 
+             \Padilla [> "1628 Corpus Christi" ] <-[bend right, dashed] { 
+                 \Vidales [> "Missa super exultate" ], 
+                 \Garcia [> "1662--64 Christmas" ] 
+            };
+        };
+        \Fernandez ->[-LaTeX] {
+            \Padilla -> \Vidales;
+            \Padilla ->[-LaTeX] \Garcia; 
+        };
+    };
+    \Vasquez -> \Padilla; 
+    \Vasquez <-[bend right, dashed] \Padilla [> "1613 oposición"];
+    \Sevilla -!- {
+        \Lobo ->[-LaTeX] \Santiago ->[-LaTeX] \Jalon; 
+        \Lobo <-[bend right, dashed] 
+            \Santiago [> "1628 Christmas" ] <-[bend right, dashed] 
+            \Jalon [> "%
+            \begin{tabular}{@{}ll} 
+            1643--44 & Christmas\\ 
+            1647 & Cantores de la capilla 
+            \end{tabular}%
+            " ];
+    };
+    \Madrid -!- \Dupont; 
+    \Dupont <-[bend right, dashed] 
+        \Santiago [> "Pre-1644 Missa Ego flos campi"];
+    \Padilla ->[bend right, dashed] 
+        \Santiago [> "1657 Voces, las de la capilla"];
+};
+\end{tikzpicture}
+
