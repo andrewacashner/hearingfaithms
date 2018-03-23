@@ -2,11 +2,9 @@
 \usepackage{fontspec}
 \setmainfont{Libertinus Serif}
 \usepackage[margin=1in]{geometry}
-% Add labels to arrows
 \usepackage{tikz}
-%\usetikzlibrary{graphs}
-%\usetikzlibrary{quotes}
 \usetikzlibrary{arrows.meta}
+\usetikzlibrary{positioning}
 
 \def\Fernandez{Fernández}
 \def\Padilla{Gutiérrez de Padilla}
@@ -17,30 +15,42 @@
 \def\Lobo{Lobo}
 \def\Dupont{Dupont}
 \def\Jalon{Jalón}
-\def\Puebla{Puebla Cathedral}
-\def\Sevilla{Seville Cathedral}
-\def\Malaga{Málaga Cathedral}
-\def\Madrid{Madrid Royal Chapel}
+\newcommand{\place}[1]{%
+    {\scshape
+    \begin{tabular}{c}
+    #1
+    \end{tabular}}%
+}
+\newcommand{\opus}[1]{%
+    {\scriptsize\itshape\vbox{\hsize=4em\parindent=0pt\raggedright #1\centering}}%
+}
 
-\newcommand{\student}[2]{\draw[->] (#1) -- (#2)}
-\newcommand{\successor}[2]{\draw[-LaTeX] (#1) -- (#2)}
-\newcommand{\homage}[2]{\draw[dashed, <-] (#1)[left=10mm] -- (#2)}
+
+\def\Puebla{\place{Puebla\\ Cathedral}}
+\def\Sevilla{\place{Seville\\ Cathedral}}
+\def\Malaga{\place{Málaga\\ Cathedral}}
+\def\Madrid{\place{Madrid\\ Royal Chapel}}
+
+\def\student #1 #2;{\draw[->] (#1) edge (#2);}
+\def\successor #1 #2;{\draw[-LaTeX] (#1) edge (#2);}
+\def\homage #1 #2 #3;{\draw[densely dashed, <-] (#1) edge[bend right] 
+    node[fill=white,midway] {\opus{#3}}
+    (#2);}
 
 \begin{document}
-\begin{tikzpicture}[level distance=4em,
-                    sibling distance=12em,
+\begin{tikzpicture}[sibling distance=12em,
                     level 1/.style={
                         level distance=0pt,
                         font=\scshape, 
                         edge from parent/.style={draw=none}
                     },
                     level 2/.style={
-                        level distance=2em,
+                        level distance=4em,
                         font=\mdseries,
                         edge from parent/.style={draw=none}
                     },
                     level 3/.style={
-                        level distance=4em,
+                        level distance=12em
                     }]
     \node (root) {}
         child { node (m0) {\Malaga} 
@@ -49,8 +59,8 @@
         child { node (p0) {\Puebla}
             child { node (p1) {\Fernandez} 
                 child { node (p2) {\Padilla} 
-                    child { node (p3a) {\Vidales} }
-                    child { node (p3b) {\Garcia} }
+                    child { node[anchor=south east] (p3a) {\Vidales} }
+                    child { node[anchor=east] (p3b) {\Garcia} }
                 }
             }
         }
@@ -65,25 +75,23 @@
             child { node (rc1) {\Dupont} }
             };
 
-    \student{m1}{p2};
-    \homage{m1}{p2};
+    \student    m1 p2;
+    \homage     m1 p2 {1613 oposición};
 
-    \successor{p1}{p2};
-    \homage{p1}{p2};
+    \successor  p1 p2;
+    \homage     p1 p2 {1628 Corpus Christi};
 
-    \homage{p2}{p3a};
+    \successor  p2 p3b;
+    \homage     p2 p3a {Missa super `Exultate'};
+    \homage     p2 p3b {1660--64 Christmas?};
 
-    \successor{p2}{p3b};
-    \homage{p2}{p3a};
-
-    \successor{s1}{s2};
-    \homage{s1}{s2};
-    \successor{s2}{s3};
-    \homage{s2}{s3};
-    \student{rc1}{s2};
-    \homage{rc1}{s2};
+    \successor  s1 s2;
+    \homage     s1 s2 {1616 Christmas};
+    \successor  s2 s3;
+    \homage     s2 s3 {1643--44 Christmas; \textbf{1647 Cantores de la capilla}};
+    \homage     rc1 s2 {Missa `Ego flos campi'};
     
-    \homage{s2}{p2};
+    \homage     s2 p2 {1657 Voces, las de la capilla; Missa `Ego flos campi'?};
 \end{tikzpicture}
 \end{document}
 
