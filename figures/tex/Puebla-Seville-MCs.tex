@@ -22,7 +22,7 @@
     }%
 }
 \def\job#1#2{%
-    \hbox{\hbox to 6em{#1}#2\hss}\par
+    #1\hfil#2\par
 }
 \def\Fernandez{%
     \chapelmaster
@@ -46,7 +46,8 @@
 % \def\Jalon{Jalón}
 
 \begin{document}
-\begin{tikzpicture}
+\begin{tikzpicture}[every node/.style={draw},
+    level distance=8em]
     \node (root) {}
         child { node (p1) {\Fernandez} 
             child { node (p2) {\Padilla} 
