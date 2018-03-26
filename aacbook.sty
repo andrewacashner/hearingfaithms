@@ -7,8 +7,8 @@ called from header of Pandoc for Markdown conversion]
 
 \RequirePackage{xparse}
 
-\RequirePackage{standalone}
 \RequirePackage{tikz}
+\usetikzlibrary{quotes}
 
 \RequirePackage{fontspec}
 \setmainfont{Libertinus Serif}
@@ -30,6 +30,7 @@ called from header of Pandoc for Markdown conversion]
 \setlength{\parskip}{0pt plus 0.1pt}
 
 \RequirePackage[none]{hyphenat}
+\RequirePackage{tabulary}
 
 \RenewDocumentEnvironment{quote}{}
     {\list{}{\leftmargin=0.5in \rightmargin=0.5in}%

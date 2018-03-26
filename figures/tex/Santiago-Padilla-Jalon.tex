@@ -1,33 +1,18 @@
-\documentclass{article}
-
-\usepackage{fontspec}
-\setmainfont{Libertinus Serif}
-\usepackage[margin=1in]{geometry}
-
-\usepackage{tikz}
-\usetikzlibrary{arrows.meta}
-\usetikzlibrary{positioning}
-\usetikzlibrary{quotes}
-
-\input plaincenter
-\parindent=0pt
-
-\def\person#1#2#3#4#5{%
-    \vbox{\hsize=0.33\hsize
-        \begcenter
-            {\parskip=1ex
-            #1\par
-            {\it #2}\par
-            #3\par
-            \vskip 1ex}
-            {\small
-            #4\par
-            #5}
-        \endcenter
-    }%
+\newcommand{\person}[5]{%
+    \begin{tabulary}{0.33\textwidth}{C}
+        \textsc{#1}\\[1ex]
+        \emph{#2}\\[1ex]
+        #3\\[1ex]
+        #4\\
+        #5
+    \end{tabulary}%
 }
 
-\def\Santiago{%
+\newcommand{\relation}[1]{%
+    \parbox{8em}{\noindent\emph{#1}\centering}%
+}
+
+\newcommand{\Santiago}{%
     \person
     {Fray Francisco de Santiago}
     {Voces, las de la capilla} 
@@ -36,7 +21,7 @@
     {Lisbon, lost collection of João IV}%
 }
 
-\def\Padilla{%
+\newcommand{\Padilla}{%
     \person
     {Juan Gutiérrez de Padilla}
     {Voces, las de la capilla}
@@ -45,7 +30,7 @@
     {Puebla Cathedral archive}%
 }
 
-\def\Jalon{%
+\newcommand{\Jalon}{%
     \person
     {Luis Bernardo Jalón}
     {Cantores de la capilla}
@@ -54,26 +39,19 @@
     {Sole exemplar in Puebla}%
 }
 
-\def\relation#1{%
-    \vbox{\hsize=8em 
-        \begcenter
-        \small\it #1
-        \endcenter
-    }%
-}
-
-\def\SantiagoToPadilla{%
+\newcommand{\SantiagoToPadilla}{%
     \relation{Santiago MC Seville while Padilla MC Cádiz, 1616--22}%
 }
-\def\SantiagoToJalon{%
+\newcommand{\SantiagoToJalon}{%
     \relation{Jalón assists then succeeds Santiago as Seville MC after death,
     1644}%
 }
-\def\JalonToPadilla{%
+\newcommand{\JalonToPadilla}{%
     \relation{Jalón text known in Puebla through imprint}%
 }
 
-\begin{document}
+{\footnotesize
+\parindent=0pt
 \begin{tikzpicture}[level distance=18em, 
                     sibling distance=30em,
                     every node/.style={draw},
@@ -87,4 +65,5 @@
     \draw[-] (s)  edge ["\SantiagoToJalon"    midway] (j);
     \draw[-] (j)  edge ["\JalonToPadilla"     midway] (p);
 \end{tikzpicture}
-\end{document}
+}
+

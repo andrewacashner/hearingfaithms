@@ -1601,6 +1601,8 @@ Maytines de los Santos Reyes.
 En este año de mil y seiscientos y quarenta y siete* (Sevilla, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
 
+The origins, sources, and relationships between the three known settings are
+summarized in figure `ref:fig:Santiago-Padilla-Jalon`.
 Although the text of *Cantores* predates that of Padilla's *Voces* by ten years,
 Padilla's text may actually preserve an earlier stage of the textual tradition.
 A stronger philological argument can be made that Jalón's *Cantores de
@@ -1609,6 +1611,9 @@ reverse situation.
 Upon close comparison *Cantores* appears to be a somewhat garbled attempt to
 simplify the arcane, Góngora-influenced poetry of *Voces* to make it suit the
 tastes of a younger generation that favored greater clarity and conventionality.
+
+(include figure `ref:fig:Santiago-Padilla-Jalon`)
+`label:fig:Santiago-Padilla-Jalon`
 
 #### Version by Francisco de Santiago, before 1634
 
@@ -1887,6 +1892,13 @@ fulfilled a common requirement of housing and educating his choirboys in his own
 home. 
 (More research is needed into likely high prevalence and impact of sexual abuse
 in this environment.)
+Chapelmasters were linked to their predecessors by a common practice of
+assisting the incumbent in his final years, before succeeding to the position.
+Parallel lines of succession with such interim assistantships in Puebla and
+Sevilla are shown in table `ref:table:Puebla-Seville-MCs`.
+
+(insert table `ref:table:Puebla-Seville-MCs`)
+`label:table:Puebla-Seville-MCs`
 
 In Padilla's case, he served first as as choirboy at Málaga Cathedral and then
 apprentice to the local chapelmaster Francisco Vásquez (ca. 1602--1608).
@@ -1920,6 +1932,9 @@ approval, since all these composers had at least a year to orient and train
 their successors.
 But musicians could also voluntarily demonstrate kinship even when they were not
 made direct heirs. 
+Younger musicians could deliberately affiliate themselves with teachers and
+paragons through composing musical homages: table `ref:table:Padilla-homages`
+shows likely homage compositions related to Padilla's *Voces*.
 Padilla competed in the *oposición* for his Málaga teacher Vásquez's position
 but was bested by the Portuguese composer Estêvão de Brito (1577--1641).
 [@Stevenson:BritoE]
@@ -1936,6 +1951,9 @@ century.^[cite Goldman stile antico article]
 Homage composition of this kind was a widespread way for composers to
 demonstrate both real and aspirational kinship with a mentor, teacher, or
 paragon.
+
+(insert table `ref:table:Padilla-homages`)
+`label:table:Padilla-homages`
 
 It makes sense, then, that Jalón would adapt a text set by Santiago in a way
 that presented him as Santiago's heir, acknowledging influence while also
