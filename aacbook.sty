@@ -64,7 +64,11 @@ called from header of Pandoc for Markdown conversion]
 
 \NewDocumentCommand{\includeFloatFile}{ m }{%
     \par\bigskip
+    \begingroup
+    \setlength{\RaggedRightParindent}{0pt}
+    \setlength{\parindent}{0pt}
     \input{#1}
+    \endgroup
     \clearpage
 }
 

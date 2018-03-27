@@ -1580,7 +1580,8 @@ These pieces allowed Spanish composers to prove both their compositional craft
 and their acuity as literary and theological interpreters in a tradition of
 "music about music."
 
-The two earlier versions related to Padilla's 1657 piece are these:
+The two earlier versions related to Padilla's 1657 piece are these (see table
+`ref:table:Voces-Cantores-settings`).
 
 1. The villancico *Cantores de la capilla*, performed for Epiphany at the
    cathedral of Seville, January 6, 1647, probably set to music by Seville's
@@ -1601,8 +1602,6 @@ Maytines de los Santos Reyes.
 En este año de mil y seiscientos y quarenta y siete* (Sevilla, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
 
-The origins, sources, and relationships between the three known settings are
-summarized in figure `ref:fig:Santiago-Padilla-Jalon`.
 Although the text of *Cantores* predates that of Padilla's *Voces* by ten years,
 Padilla's text may actually preserve an earlier stage of the textual tradition.
 A stronger philological argument can be made that Jalón's *Cantores de
@@ -1612,8 +1611,8 @@ Upon close comparison *Cantores* appears to be a somewhat garbled attempt to
 simplify the arcane, Góngora-influenced poetry of *Voces* to make it suit the
 tastes of a younger generation that favored greater clarity and conventionality.
 
-(include figure `ref:fig:Santiago-Padilla-Jalon`)
-`label:fig:Santiago-Padilla-Jalon`
+(include table  `ref:table:Voces-Cantores-settings`
+`label:table:Voces-Cantores-settings`
 
 #### Version by Francisco de Santiago, before 1634
 
@@ -1838,6 +1837,8 @@ Seville.
 The differences between the texts set by Jalón and Padilla are consistent with
 the explanation that *Cantores* is an adaptation of *Voces* to suit less
 Gongoresque tastes, and that it is not an especially skillful adaption.
+The relationships between the three settings are summarized in table
+`ref:table:Voces-connections`.
 Since Santiago's villancico from before 1634 has the same incipits as Padilla's
 1657 setting, and since Jalón was Santiago's successor at Seville and composed
 his *Cantores* setting only two Christmas--Epiphany seasons after Santiago's
@@ -1848,6 +1849,9 @@ the earlier master.
 Jalón pays homage to Santiago by basing his villancico on the same text,
 but also shows his differences from his predecessor by using an "improved"
 version of the poem, and, one may imagine, a more modern musical style as well.
+
+(insert table `ref:table:Voces-connections`)
+`label:table:Voces-connections`
 
 Padilla almost certainly knew of Jalón's version from the poetry imprint, since
 the single extant source of *Cantores* survives in Puebla in a binder's
