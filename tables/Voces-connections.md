@@ -2,5 +2,5 @@
 
 Connections between composers and settings of the \emph{Voces} villancico family
 
-\includeFloatFile{tables/tex/Voces-connections}
+\includeWideGraphic{img/tables/Voces-connections}
 

@@ -3,5 +3,5 @@
 Selected compendia of patristic exegesis and model sermons preserved from
 colonial libraries in Puebla
 
-\includeFloatFile{tables/tex/puebla-compendia}
+\includeWideGraphic{img/tables/puebla-compendia}
 
