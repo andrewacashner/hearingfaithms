@@ -51,7 +51,8 @@ this word high in their registers, and the soft (*mollis*, weak, minor) harmony
 of the opening G chord hung mysteriously in the vaulted space between the
 columns of the new cathedral's architectural choir.
 Moving in the same rhythm, following the natural accents of the poetry, the
-voices declaimed these words like a solemn choral recitative:
+voices declaimed these words like a solemn choral recitative (music example
+`ref:music:Padilla-Voces-opening`).
 
 > Voices of the chapel choir,\
 > keep count with what is sung,\
@@ -63,6 +64,9 @@ voices declaimed these words like a solemn choral recitative:
 The other choir remained silent for these lines, their notated parts instructing
 them to heed the other chorus's admonition to "keep count" of twenty-seven
 measures of rests until their entrance.
+
+(insert music example `ref:music:Padilla-Voces-opening`)
+`label:music:Padilla-Voces-opening`
 
 Some of those closest to the voices had already seen the poem in the
 commemorative imprint; some of the seminary professors, perhaps, had even spent
