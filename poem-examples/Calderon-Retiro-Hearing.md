@@ -2,5 +2,5 @@
 
 Calderón, *El nuevo palacio*, ll. 593--602: Faith crowns Hearing
 
-\includeFloatFile{poem-examples/tex/Calderon-Retiro-Hearing}
+\includepdf{img/poem-examples/Calderon-Retiro-Hearing}
 

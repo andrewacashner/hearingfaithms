@@ -2,5 +2,5 @@
 
 Calderón, *El nuevo palacio del Retiro*, ll. 1303--1336: Judaism rejects faith
 
-\includeFloatFile{poem-examples/tex/Calderon-Retiro-Judaismo}
+\includepdf{img/poem-examples/Calderon-Retiro-Judaismo}
 

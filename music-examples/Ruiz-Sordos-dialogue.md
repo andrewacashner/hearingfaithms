@@ -4,5 +4,5 @@ Matías Ruiz, *Pues la fiesta del niño es (Villancico de los sordos)* (E-E: Mú
 83-12), estribillo, mm. 41--55
 <!--- mm. -->
 
-\includeWideGraphic{Ruiz-Sordos-dialogue}
+\includeWideGraphic{img/music-examples/Ruiz-Sordos-dialogue}
 

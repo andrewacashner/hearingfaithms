@@ -4,5 +4,5 @@ Juan Gutiérrez de Padilla, *Óyeme, Toribio (El sordo)*, introducción, mm. 1--
 extant parts (missing Tenor I, Bassus I)
 <!--- mm., sign. -->
 
-\includeWideGraphic{Padilla-Sordo-intro}
+\includeWideGraphic{img/music-examples/Padilla-Sordo-intro}
 

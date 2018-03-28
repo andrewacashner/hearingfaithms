@@ -7,14 +7,9 @@ called from header of Pandoc for Markdown conversion]
 
 \RequirePackage{xparse}
 
-\RequirePackage{tikz}
-\usetikzlibrary{quotes}
-
 \RequirePackage{fontspec}
 \setmainfont{Libertinus Serif}
 \setmathfont{Libertinus Math}
-
-\RequirePackage[normalem]{ulem}
 
 \frenchspacing
 \raggedbottom
@@ -30,7 +25,6 @@ called from header of Pandoc for Markdown conversion]
 \setlength{\parskip}{0pt plus 0.1pt}
 
 \RequirePackage[none]{hyphenat}
-\RequirePackage{tabulary}
 
 \RenewDocumentEnvironment{quote}{}
     {\list{}{\leftmargin=0.5in \rightmargin=0.5in}%
@@ -46,21 +40,27 @@ called from header of Pandoc for Markdown conversion]
 \let\footnote\endnote
 \AtEndDocument{\clearpage\doublespacing\theendnotes}
 
-\RequirePackage{semantic-markup}
-\RequirePackage{poemtranslation}
-\RenewDocumentCommand{\critnote}{ m o m }{#1}
-
-\NewDocumentCommand{\speaker}{ m }{\textsc{#1}: }
-
 \RequirePackage{graphicx}
-\NewDocumentCommand{\includeWideGraphic}{ m }{%
+\NewDocumentCommand{\includeRawGraphic}{ o m }{%
     \par\bigskip
     \begin{center}
-    \includegraphics[width=\textwidth]{#1}%
+        \IfValueTF{#1}
+        {\includegraphics[#1]{#2}}
+        {\includegraphics{#2}}
     \end{center}
     \clearpage
 }
-\graphicspath{ {img/figures/} {img/music-examples/} }
+
+\NewDocumentCommand{\includeWideGraphic}{ m }{%
+    \includeRawGraphic[width=\textwidth]{#1}%
+}
+
+
+\RequirePackage{pdfpages}
+\includepdfset{%
+    pages=-,
+    noautoscale
+}
 
 \NewDocumentCommand{\includeFloatFile}{ m }{%
     \par\bigskip
