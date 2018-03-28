@@ -1,3 +1,11 @@
+%% Carrión, Si los sentidos, E-SE: 28/25
+%% example
+
+\version "2.19"
+\include "villancico.ly"
+\include "example.ly"
+
+
 %% CARRION, SI LOS SENTIDOS
 %% MUSIC
 
@@ -104,4 +112,43 @@ EstribilloFiguresAcomp = \figuremode {
   | s2 <6>1
 
 }
+
+%% CARRION, SI LOS SENTIDOS
+%% LYRICS
+
+LyricsEstribilloSolo = \lyricmode {
+  Si los sen -- ti -- dos
+  que -- ja for -- man del Pan Di -- vi -- no,
+  por -- que lo que~e -- llos sien -- ten 
+  no~es de Fe con -- sen -- ti -- do,
+  \EdLyrics { no~es de Fe con -- sen -- ti -- do, }
+  to -- dos hoy con la Fe se -- an o -- í -- dos,
+  to -- dos hoy con la Fe se -- an o -- í -- dos.
+}
+
+\score {
+  <<
+    \new Staff
+    <<
+      \InstrumentName "SOLO" ""
+      \new Voice = "Solo" {\EstribilloSolo }
+      \new Lyrics \lyricsto "Solo" { \LyricsEstribilloSolo }
+    >>
+    \new Staff
+    <<
+      \InstrumentName "ACOMP." ""
+      \new Voice = "Acomp" { \EstribilloAcomp }
+      \new FiguredBass { \EstribilloFiguresAcomp }
+    >>
+  >>
+  \layout {
+    short-indent = 0\in
+    \context { 
+      \Score 
+      \omit BarNumber
+    }
+  }
+}
+
+
 
