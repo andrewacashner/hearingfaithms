@@ -1,6 +1,5 @@
 % Padilla, Voces, estribillo beginning
 
-% TODO set measure numbers, fix page spacing
 \version "2.19"
 \include "villancico.ly"
 \include "example.ly"
@@ -13,6 +12,7 @@ MusicSI = {
 %  | R1 
 %  | \ShowThisEmptyStaff R1
 %  | R1
+  \set Score.currentBarNumber = #48
   | r2 r4 d''4 
   | c''8 c''8 c''8 d''8 e''4 f''8 f''8 
 
@@ -248,9 +248,6 @@ LyricsTII = \lyricmode {
 }
 
 %****************
-\paper {
-  page-count = 1
-}
 \score {
   <<
     \new ChoirStaff = "ChI"
@@ -296,8 +293,25 @@ LyricsTII = \lyricmode {
       >>
     >>
   >>
+  \layout {
+    \ShowFirstBarNumber
+
+    \context {
+      \ChoirStaff
+      \override StaffGrouper.staffgroup-staff-spacing = 
+        #'((basic-distance . 15)
+           (minimum-distance . 14))
+
+    }
+  }
 }
 
+\paper {
+  page-count = 1
+  system-system-spacing =
+    #'((basic-distance . 15)
+       (minimum-distance . 12))
+}
 
 
 

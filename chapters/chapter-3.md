@@ -713,7 +713,7 @@ los ojos en mi* (upon the sign of *A (la, mi, re)*, with eyes set on
 me/*mi*).
 Likewise, Padilla's metamusical conceits play on the musical terms in the most
 literal sense, realizing the solmization syllables in several ways at the same
-time (figure `ref:fig:Padilla-Voces-alamire`).
+time (music example `ref:music:Padilla-Voces-alamire`).
 Both Altus I and Tenor I sing the word *a* on the pitch *A (la, mi, re)* (m.
 67).
 On the words *la mi re* (mm. 68--69), the Tiple I sings the pitches D--C♯--D: in
@@ -726,8 +726,8 @@ At the end of this phrase (m. 72), the performers of all three voices sing the
 word *mi* by literally "putting their eyes on *mi*, with Tiple and Tenor on A
 (*mi* in the soft hexachord) and Altus on E (*mi* in the natural hexachord).
 
-(insert figure `ref:fig:Padilla-Voces-alamire`)
-`label:fig:Padilla-Voces-alamire`
+(insert music example `ref:music:Padilla-Voces-alamire`)
+`label:music:Padilla-Voces-alamire`
 
 Guidonian solmization was still a fundamental part of Spanish theory treatises
 through the eighteenth century, and were used frequently enough that they came
