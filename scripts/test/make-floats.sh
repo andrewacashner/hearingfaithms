@@ -32,6 +32,7 @@ function move_to_img() {
     echo "*** Created new image file img/$dir/$outfile ***"
 }
 
+
 function move_uncropped_to_img() {
     infile="$(basename $1)"
     outdir="$2"
@@ -55,21 +56,21 @@ function move_cropped_to_img() {
 
 # Compile and move files of specific types
 function make_tables() {
-    for infile in tables/tex/*.tex; do
+    for infile in tables/src/*.tex; do
         tex_compile "$infile"
         move_cropped_to_img "$infile" tables
     done
 }
 
 function make_poem_examples() {
-    for infile in poem-examples/tex/*.tex; do
+    for infile in poem-examples/src/*.tex; do
         tex_compile "$infile"
         move_uncropped_to_img "$infile" poem-examples
     done
 }
 
 function make_music_examples() {
-    for infile in music-examples/ly/*.ly; do
+    for infile in music-examples/src/*.ly; do
         lily_compile "$infile"
         move_cropped_to_img "$infile" music-examples
     done
