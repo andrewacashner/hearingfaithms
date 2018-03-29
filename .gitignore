@@ -38,5 +38,4 @@ pdf/
 *.zip
 
 !config/vcbook.odt
-!img/*/*.jpg
-!img/*/*.pdf
+!img/figures/*.*
