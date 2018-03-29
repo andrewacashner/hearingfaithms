@@ -60,7 +60,7 @@
   (lambda (texfile)
     "FN tex-compile texfile
     Use latexmk to compile TEXFILE in aux directory"
-    (system (format #f "latexmk -outdir=aux -pdfxe ~a" texfile))))
+    (system (format #f "latexmk -outdir=aux -pdfxe -silent ~a" texfile))))
 
 (define lily-compile
   (lambda (lyfile)
@@ -140,7 +140,7 @@
                  (begin
                    (tex-compile filepath)
                    (move-uncropped-to-img filepath type))]
-                [(eq? type 'ly) 
+                [(eq? type 'music-examples) 
                  (begin
                    (lily-compile filepath)
                    (move-cropped-to-img filepath type))]))

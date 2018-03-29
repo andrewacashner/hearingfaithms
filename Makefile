@@ -2,19 +2,15 @@ SHELL = /bin/sh
 
 $(guile (load "./scripts/make-floats.scm"))
 
-float_inputs = $(shell find ./*/src/* -type f \( -name "*.tex" -o -name "*.ly" \))
-float_outputs = $(shell find ./img/*/ -type f -name "*.pdf")
+float_inputs := $(wildcard ./*/src/*.*)
 
-
-all : $(float_outputs)
-
-floats : $(float_outputs)
-
-$(float_outputs) : $(float_inputs)
+floats : $(float_inputs)
 	$(guile (make-all-floats))
 
-clean : 
-	rm aux/*
+all : floats
 
-.PHONY : floats
+clean : 
+	rm aux/*.*
+
+.PHONY : all
 
