@@ -6,52 +6,9 @@
 ;;   poem-examples, music-examples)
 
 (use-modules
+  (shell filenames) ;; custom script in ~/scm
   (ice-9 format)
   (ice-9 ftw))
-
-;; UTILITIES FOR MODIFYING FILENAMES
-
-(define get-ext 
-  (lambda (name) 
-    "FN get-ext name
-    INPUT:   (1) filename string
-    RETURNS: if NAME ends with .*, return .* extension;
-             otherwise return NAME"
-    (let* ([i (string-rindex name #\.)]
-           [i2 (if (eq? #f i) 0 i)])
-      (substring name i2 (string-length name)))))
-
-(define compare-ext 
-  (lambda (name ext) 
-    "FN compare-ext name ext
-    INPUT:   (1) filename string, 
-             (2) extension string (e.g., \".txt\")
-    RETURNS: #t if FILENAME ends with EXT, otherwise #f"
-    (let ([ext-a (get-ext name)]
-          [ext-b ext])
-      (if (eq? #f ext-a)
-          #f 
-          (string=? ext-a ext-b))) ))
-
-(define strip-extension
-  (lambda (filename)
-    "FN strip-extension filename
-    INPUT:   (1) filename string
-    RETURNS: (1) substring  of FILENAME up to concluding .* extension;
-             if no extension, return whole FILENAME"
-    (let* ([ext-index (string-rindex filename #\.)]
-           [ext-index2 (if (eq? #f ext-index) 
-                           (string-length filename)
-                           ext-index)])
-      (substring filename 0 ext-index2))))
-        
-(define swap-extension
-  (lambda (filename ext)
-    "FN swap-extension filename ext
-    INPUT:   (1) filename string and extension string (e.g., \".txt\")
-    RETURNS: (1) string consisting of FILENAME + EXT"
-    (string-append (strip-extension filename) ext)))
-
 
 ;; SCRIPTS FOR COMPILING TEX AND LY FILES
 ;; Move results to aux/
@@ -66,7 +23,7 @@
   (lambda (lyfile)
     "FN lily-compile lyfile
     Use lilypond to compile LYFILE and move to aux directory"
-    (let* ([pdf-file (swap-extension lyfile ".pdf")]
+    (let* ([pdf-file (swap-ext lyfile ".pdf")]
            [outfile-base (basename pdf-file)]
            [outfile-final (format #f "aux/~a" outfile-base)])
       (begin 
@@ -96,7 +53,7 @@
     RETURNS: (1) Results of move-to-img, 
                  to move PDF compiled from INFILE to DIR"
     (let* ([infile2 (basename infile)] 
-           [pdf-file (swap-extension infile2 ".pdf")])
+           [pdf-file (swap-ext infile2 ".pdf")])
       (move-to-img pdf-file pdf-file dir))))
 
 (define move-cropped-to-img
@@ -106,11 +63,11 @@
     RETURNS: (1) Crops image and does move-to-img 
                  to move cropped image from aux/ to img/DIR/"
     (let* ([infile2 (basename infile)]
-           [pdf-file (swap-extension infile2 ".pdf")]
+           [pdf-file (swap-ext infile2 ".pdf")]
            [pdf-crop-infile (format #f "aux/~a" pdf-file)]
            ;; remove -crop addition that pdfcrop will generate
            [pdf-crop-outfile (format #f "~a-crop.pdf" 
-                                     (strip-extension infile2))])
+                                     (strip-ext infile2))])
       (begin
         (system* "pdfcrop" pdf-crop-infile)
         (move-to-img pdf-crop-outfile pdf-file dir)))))
