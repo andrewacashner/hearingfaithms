@@ -7,13 +7,44 @@
 
 % TODO do single-note brackets & labels using invisible voice with hidden notes?
 %      put Analysis Label in appropriate ~/ly place
+
+color={}
+endcolor={}
+
 AnalysisLabel =
 #(define-scheme-function 
    (str) (markup?)
      #{ \once \override HorizontalBracketText.text = \markup \italic $str #})
 
-color={}
-endcolor={}
+% TODO fix dot position
+AnnotateNote = 
+#(define-music-function
+   (dir label note) (ly:dir? markup? ly:music?)
+   #{ 
+     << 
+       { $note }
+       \\
+       {
+           \once \hide Voice.NoteHead
+           \once \hide Voice.Stem
+           \once \hide Voice.Dots
+         
+           \once \override HorizontalBracket.direction = #dir
+           \AnalysisLabel $label
+          
+           <>\startGroup
+           \shiftDurations 1 0 { $note }
+           
+           \once \hide Voice.NoteHead
+           \once \hide Voice.Stem
+           \once \hide Voice.Dots
+           
+           \shiftDurations 1 0 { $note }
+           <>\stopGroup
+       }
+     >>
+    #})
+
 
 MusicSI = {
   \clef "treble"
@@ -29,7 +60,7 @@ MusicSI = {
   % m. 70
   | a'2\endcolor bes'2 a'2 
   | g'2 g'2 g'2 
-  | a'1. 
+  | \AnnotateNote #UP "[mol] mi" { a'1. }  
  
 }
 
@@ -46,7 +77,7 @@ MusicAI = {
   % m. 70
   | fis'2\endcolor g'2 f'?2 
   | e'2 d'2 d'2
-  | e'2 f'2 f'2 
+  | \AnnotateNote #DOWN "[nat] mi" { e'2 } f'2 f'2 
  
 }
 
