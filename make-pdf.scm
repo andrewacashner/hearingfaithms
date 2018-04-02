@@ -25,11 +25,12 @@
     "chapters/head.yaml"
     "chapters/copyright.md"))
 
-; (define make-crossrefs
-;   (lambda (chapter-ls)
-;     (let* ([infiles (append pdf-header-inputs 
-;                             chapter-ls
-;                            '("chapters/floats.md"))])
-;       (do-xref infiles))))
+;; (define make-crossrefs
+;;   (lambda (chapter-ls)
+;;     (let* ([infiles (append pdf-header-inputs 
+;;                             chapter-ls
+;;                            '("chapters/floats.md"))]
+;;            [text (file-ls->string infiles)])
+;;       (do-xref '((open-input-string text))))))
 
 
