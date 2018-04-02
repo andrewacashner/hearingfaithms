@@ -1,5 +1,6 @@
 (use-modules
   (ice-9 format)
+  (xref xref)
   (shell filenames)
   (shell readwrite))
 
@@ -24,4 +25,11 @@
     "chapters/head.yaml"
     "chapters/copyright.md"))
 
-;(let ([header (join-file-ls pdf-header-inputs)]))
+; (define make-crossrefs
+;   (lambda (chapter-ls)
+;     (let* ([infiles (append pdf-header-inputs 
+;                             chapter-ls
+;                            '("chapters/floats.md"))])
+;       (do-xref infiles))))
+
+
