@@ -275,20 +275,21 @@ LyricsTII = \lyricmode {
     <<
       \new Staff = "ATII" 
       <<
-        \InstrumentName 
-        \TwoLineName "A. II" "T. II"
-        ""
+        \InstrumentName \TwoLineName "A. II" "T. II" ""
+        \ShowChoirStaffBracket
         \new Voice = "AII" { \voiceOne \MusicAII }
         \new Voice = "TII" { \DrawColorBracketsUnder \voiceTwo \MusicTII }
         \new Lyrics \with { alignAboveContext = #"ATII" }
             \lyricsto "AII" { \LyricsAII }
         \new Lyrics \lyricsto "TII" { \LyricsTII }
       >>
+    >>
+    \new ChoirStaff = "Ac"
+    <<
       \new Staff = "BI" 
       <<
-        \InstrumentName 
-        \TwoLineName "B. I" "[instr.]"
-        ""
+        \InstrumentName \TwoLineName "B. I" "[instr.]" ""
+        \ShowChoirStaffBracket
         \new Voice = "BI" { \MusicBI }
       >>
     >>

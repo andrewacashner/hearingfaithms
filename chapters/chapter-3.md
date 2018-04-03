@@ -774,13 +774,17 @@ seconds (mm. 118--122) (figure `ref:fig:Padilla-Voces-TI-bajar`).
 When Padilla juxtaposes these ideas in the full polychoral texture, listeners
 can hear the fusion of both rising and falling melodic lines, and two different
 rhythmic systems---the duple-compound *sesquialtera* rhythm of "Man ascending"
-and the triple-simple rhythm of "God descending."
+and the triple-simple rhythm of "God descending" (music example
+`ref:music:Padilla-Voces-subir_bajar`).
 In the final cadence, the Altus I combines the two gestures at once by singing
 the words "everything in God is to descend" to the music associated with "Man
 ascending" (mm. 124--126).
 The passage embodies the central theology of the Incarnation: through God's
 descent to become Man in Christ, Man may ascend to share in God's nature.
 ^[XXX  patristic sources for this ]
+
+(insert music example `ref:music:Padilla-Voces-subir_bajar`)
+`label:music:Padilla-Voces-subir_bajar`
 
 Each of the two poetic coplas centers on a concept from music theory: the first
 plays with the notion of *peregrino tono* ("wandering song," or the plainchant
@@ -795,10 +799,15 @@ final (figure `ref:fig:Cerone-tonus-peregrinus`).
 ^[XXX  p. 354) ]
 In *cantus durus* this is D--F--E--D; if notated in the *cantus mollis*
 transposition of this villancico, the pitches would be G--B♭--A--G, which are
-exactly what the Altus I sings on these words (mm. 128--129).
+exactly what the Altus I sings on these words (mm. 128--129, music example
+`ref:music:Padilla-Voces-peregrino_tono`).
+<!-- or medial cadence, match with example -->
 The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
 ^[XXX  cautionary F# as "strange tone"? ]
+
+(insert music example `ref:music:Padilla-Voces-peregrino_tono`)
+`label:music:Padilla-Voces-peregrino_tono`
 
 (insert figure `ref:fig:Cerone-tonus-peregrinus`)
 `label:fig:Cerone-tonus-peregrinus`
@@ -818,7 +827,8 @@ chapelmaster's "composition."
 Padilla presents the basic concept of long versus short note values through the
 lengthened note on *máxima* in the Tenor (mm. 153--154) over a long held note
 in the Bassus (mm. 154--155).
-Ironically, each of these long notes is actually a breve.
+Ironically, each of these long notes is actually a breve (music example
+`ref:music:Padilla-Voces-maxima`).
 How better to express the unity between these opposites than by vocalizing the name
 for one while singing the value of the other?
 The Altus echoes with a blackened semibreve (mm. 154--155), which in this
@@ -827,6 +837,9 @@ way.
 At a more arcane level, the whole first phrase of this copla (mm. 147--156) is
 ten measures (*compases*) long, which is precisely equal to the length of a true
 maxima (eight measures in C3) plus a breve (two measures).
+
+(insert music example `ref:music:Padilla-Voces-maxima`)
+`label:music:Padilla-Voces-maxima`
 
 Padilla's setting as a whole is intimately connected to the sound and meaning of
 the poetry.
