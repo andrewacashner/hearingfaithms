@@ -3,5 +3,5 @@
 Padilla's *Voces* and younger composers' self-affiliation through homage to
 senior composers in their network
 
-\includeRawGraphic{img/tables/Padilla-homages}
+\includeRawGraphic{Padilla-homages}
 

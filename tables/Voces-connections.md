@@ -2,5 +2,5 @@
 
 Connections between composers and settings of the \emph{Voces} villancico family
 
-\includeRawGraphic{img/tables/Voces-connections}
+\includeRawGraphic{Voces-connections}
 

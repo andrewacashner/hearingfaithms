@@ -7,9 +7,15 @@ called from header of Pandoc for Markdown conversion]
 
 \RequirePackage{xparse}
 
+%*******************************************
+% FONT
+
 \RequirePackage{fontspec}
 \setmainfont{Libertinus Serif}
 \setmathfont{Libertinus Math}
+
+%*******************************************
+% SPACING, PAGE STYLE
 
 \frenchspacing
 \raggedbottom
@@ -31,6 +37,9 @@ called from header of Pandoc for Markdown conversion]
     \item\relax}
     {\endlist}
 
+%*******************************************
+% ENDNOTES
+
 \RequirePackage{endnotes}
 
 \RenewDocumentCommand{\enoteformat}{}{%
@@ -40,7 +49,14 @@ called from header of Pandoc for Markdown conversion]
 \let\footnote\endnote
 \AtEndDocument{\clearpage\doublespacing\theendnotes}
 
+%*****************************************
+% INCLUDE GRAPHICS AND PDFS FOR FLOATS
+
 \RequirePackage{graphicx}
+\graphicspath{  {img/figures/} 
+                {img/music-examples/}
+                {img/tables/} }
+
 \NewDocumentCommand{\includeRawGraphic}{ o m }{%
     \par\bigskip
     \begin{center}
@@ -61,16 +77,19 @@ called from header of Pandoc for Markdown conversion]
     pages=-,
     noautoscale
 }
-
-\NewDocumentCommand{\includeFloatFile}{ m }{%
-    \par\bigskip
-    \begingroup
-    \setlength{\RaggedRightParindent}{0pt}
-    \setlength{\parindent}{0pt}
-    \input{#1}
-    \endgroup
-    \clearpage
+\NewDocumentCommand{\includePoemPDF}{ m }{%
+    \includepdf{img/poem-examples/#1}%
 }
+
+% \NewDocumentCommand{\includeFloatFile}{ m }{%
+%     \par\bigskip
+%     \begingroup
+%     \setlength{\RaggedRightParindent}{0pt}
+%     \setlength{\parindent}{0pt}
+%     \input{#1}
+%     \endgroup
+%     \clearpage
+% }
 
 % DRAFT MODE
 % \renewcommand{\includeWideGraphic}[1]{}

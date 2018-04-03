@@ -4,4 +4,5 @@
 collection; Correspondences to *Voces, las de la capilla* (poem example
 `ref:poem:Voces-Padilla`) underlined
 
-\includepdf{img/poem-examples/Cantores-Jalon}
+\includePoemPDF{Cantores-Jalon}
+

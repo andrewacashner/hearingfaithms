@@ -4,5 +4,5 @@ Gutiérrez de Padilla, *Voces, las de la capilla*, estribillo (mm. 106--126):
 Contrasting motives and rhythmic patterns for "Man ascending" and "God
 descending"
 
-\includeWideGraphic{img/music-examples/Padilla-Voces-subir_bajar}
+\includeWideGraphic{Padilla-Voces-subir_bajar}
 

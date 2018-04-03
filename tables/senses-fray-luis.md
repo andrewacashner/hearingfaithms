@@ -3,5 +3,5 @@
 The senses and faculties of the sensible soul (*ánima sensitiva*),
 according to Fray Luis de Granada
 
-\includeRawGraphic{img/tables/senses-fray-luis}
+\includeRawGraphic{senses-fray-luis}
 

@@ -795,7 +795,7 @@ plainchant tone.
 The last psalm tone was known in Latin sources as the *tonus peregrinus* and in
 Spanish sources as *tono irregular* or *tono mixto*.
 Its final cadence is a rising minor third followed by a stepwise descent to the
-final (figure `ref:fig:Cerone-tonus-peregrinus`).
+final (figure `ref:fig:Cerone-tonus_peregrinus`).
 ^[XXX  p. 354) ]
 In *cantus durus* this is D--F--E--D; if notated in the *cantus mollis*
 transposition of this villancico, the pitches would be G--B♭--A--G, which are
@@ -806,11 +806,11 @@ The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
 ^[XXX  cautionary F# as "strange tone"? ]
 
+(insert figure `ref:fig:Cerone-tonus_peregrinus`)
+`label:fig:Cerone-tonus_peregrinus`
+
 (insert music example `ref:music:Padilla-Voces-peregrino_tono`)
 `label:music:Padilla-Voces-peregrino_tono`
-
-(insert figure `ref:fig:Cerone-tonus-peregrinus`)
-`label:fig:Cerone-tonus-peregrinus`
 
 In the last phrase of this copla, when the poem speaks of Christ "going up the
 octave" or theologically "ascending on the eighth day", Padilla creates an
@@ -2142,7 +2142,8 @@ to listen, and to adore.
 
 Padilla's 1657 villancico would have been performed facing a high altar retable
 on which the actual altar was flanked by an image of the Adoration of the
-Shepherds on the left and the Visitation of the Magi on the right.
+Shepherds on the left and the Visitation of the Magi on the right (figure
+`ref:fig:Puebla-Ferrer-Retablo`).
 This "Altar of the Kings" was completed by Pedro García Ferrer and consecrated
 by bishop Juan de Palafox y Mendoza in 1649, thus places images of human
 encounters with the incarnate Christ at the closest visual proximity to the
@@ -2154,8 +2155,14 @@ the Virgin Mary, for Catholics the paragon of true faith and devotion, through a
 "celestial hierarchy" (to use the influential concept of Dionysius) into a realm
 of baby angels playing musical instruments like harp and organ, through a
 group of cherubim dancing in the round, to the Holy Trinity at the highest
-point.
+point (figure `ref:fig:Puebla-Ferrer-BMV`).
 ^[XXX  who was bishop in 1657? ]
+
+(insert figure `ref:fig:Puebla-Ferrer-Retablo`)
+`label:fig:Puebla-Ferrer-Retablo`
+
+(insert figure `ref:fig:Puebla-Ferrer-BMV`)
+`label:fig:Puebla-Ferrer-BMV`
 
 Like Palafox's own devotional book *El Pastor de Nochebuena*, these images
 invite worshippers to imagine themselves journeying with the shepherds and
@@ -2164,10 +2171,12 @@ Gentiles to meet Christ in his lowly incarnation as an infant.
 In Catholic devotional culture of this time, the goal of contemplating Christ's
 birth was to cultivate faith in Christ, including both faith as belief and faith
 as action or faithfulness.
-Lapide holds up the shepherds to his readers as an example of faith: they heard
-the angel chorus and saw the sign of Christ in his manger, and then they went
-and told everyone, and as Luke 2:29, "they went forth praising and glorifying
-God for everything they had seen and heard."
+Lapide, who had Ferrer paint his image as one of the shepherds on the Puebla
+retable (figure `ref:fig:Puebla-Ferrer-Pastores`), holds up the shepherds to
+his readers as an example of faith: they heard the angel chorus and saw the sign
+of Christ in his manger, and then they went and told everyone, and as Luke 2:29,
+"they went forth praising and glorifying God for everything they had seen and
+heard."
 Lapide says Christmas shepherds were chosen as the first outside Holy Family and
 the stable animals to see the newborn Christ because in their own humble poverty
 they would not be put off by Christ's lowly birth.
@@ -2188,6 +2197,9 @@ faith and obedience, excluding those who do not with to receive him."
 "Hoc est enim quot ait hic St. Joanes, Deum dedisse potestatem filios Dei his
 qui libere Christum per fidem et obedientiam receperunt, exclusis iis, qui eum
 recipere noluerunt."]
+
+(insert figure `ref:fig:Puebla-Ferrer-Pastores`)
+`label:fig:Puebla-Ferrer-Pastores`
 
 If the listeners were to imitate the shepherds, then, they would not only listen
 for the angelic choirs and look for Christ's presence sacramentally on the
