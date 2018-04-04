@@ -2,7 +2,8 @@
 Cashner, *Faith, Hearing, and the Power of Music*,
 chapter 3: Christ as Singer and Song
 
-2018-02-26      Begin revision 
+2018-04-04      Begin revision 2 after making floats
+2018-02-26      Begin revision 1
 
 2018-02-08      Complete draft 
 2018-01-22      Work resumed after ch2 revision
@@ -32,24 +33,40 @@ chapter 3: Christ as Singer and Song
 ## Christ as Singer and Song
 `label:ch:Padilla-Voces`
 
-On Christmas Eve in 1657, as a cantor in Puebla Cathedral was intoning
-a Latin sermon of Pope St. Leo the Great---the first reading in the second
-Nocturne of the Matins liturgy---the musical chapel was preparing to raise their
-voices.
+On Christmas Eve 1657 in colonial Puebla, the cathedral's tower bells had been
+ringing for an hour when the first voices of the Christmas liturgy were sounded
+at 11 p.m.  
+The cathedral chapter was joined by other clerics, professors, landowners with
+their slaves, and common worshippers of every caste, *indios*, *mestizos*,
+*mulatos*, and *criollos*.  
+In a space glowing with luminaries, the community gathered before the massive
+high-altar retable with its images of the shepherds and kings adoring Christ,
+and the Blessed Virgin being welcomed into heaven by angelic musicians and
+dancers.
+Whether they came out of habit or obligation, or in sincere devotion, there was
+little else for them to do but listen.
+Fortunately the chapter had ensured that its chapelmaster, Juan Gutiérrez de
+Padilla,  had prepared yet another sumptuous banquet of music, including chant
+and Latin-texted polyphony both old and new.
+The main attraction for many listeners, though, was the new set of villancicos.
+
+As a cantor in Puebla Cathedral was intoning a Latin sermon of Pope St. Leo the
+Great---the first reading in the second Nocturne of Matins---the musical chapel
+was preparing to raise their own voices.
 Holding handwritten notebooks with their individual performing parts for this
-year's new cycle of villancicos, they looked to their chapelmaster, the priest
-Juan Gutiérrez de Padilla.
+year's new cycle of villancicos, they looked to Father Padilla for their cue.
 When the chanting concluded with a descending cadence, Padilla made sure the
-chorus had the right starting pitches in their ears---did he sing an intonation,
-or did he or someone else play a chord or short improvised cadence on the organ?
+chorus had the right starting pitches in their ears: he may have sung an
+intonation, or had someone play a chord or short improvised cadence on the
+organ.
 He raised his hand and indicated the downbeat, the start of the metrical
 *compás* or measure, and on one side of the double-choir ensemble, the three
 voice parts (possibly three individual singers) of Chorus I entered on the
 second beat, singing the word *Voces*.
-The boy *tiple* or treble, adolescent alto (or falsettist), and tenor all sang
-this word high in their registers, and the soft (*mollis*, weak, minor) harmony
-of the opening G chord hung mysteriously in the vaulted space between the
-columns of the new cathedral's architectural choir.
+The boy *tiple* or treble, adolescent alto, and tenor all sang this word high in
+their registers, and the soft (*mollis*, weak, minor) harmony of the opening G
+chord hung mysteriously in the vaulted space between the columns of the new
+cathedral's architectural choir.
 Moving in the same rhythm, following the natural accents of the poetry, the
 voices declaimed these words like a solemn choral recitative (music example
 `ref:music:Padilla-Voces-opening`).
