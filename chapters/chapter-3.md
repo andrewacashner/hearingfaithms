@@ -35,18 +35,15 @@ chapter 3: Christ as Singer and Song
 
 On Christmas Eve 1657 in colonial Puebla, the cathedral's tower bells had been
 ringing for an hour when the first voices of the Christmas liturgy were sounded
-at 11 p.m.  
-The cathedral chapter was joined by other clerics, professors, landowners with
-their slaves, and common worshippers of every caste, *indios*, *mestizos*,
-*mulatos*, and *criollos*.  
-In a space glowing with luminaries, the community gathered before the massive
-high-altar retable with its images of the shepherds and kings adoring Christ,
-and the Blessed Virgin being welcomed into heaven by angelic musicians and
-dancers.
+at 11 p.m.
+Having heard the summons, the cathedral chapter was joined by other clerics,
+professors, landowners with their slaves, and common worshippers of every caste,
+*indios*, *mestizos*, *mulatos*, and *criollos*, in a space glowing with
+luminaries.
 Whether they came out of habit or obligation, or in sincere devotion, there was
 little else for them to do but listen.
 Fortunately the chapter had ensured that its chapelmaster, Juan Gutiérrez de
-Padilla,  had prepared yet another sumptuous banquet of music, including chant
+Padilla, had prepared yet another sumptuous banquet of music, including chant
 and Latin-texted polyphony both old and new.
 The main attraction for many listeners, though, was the new set of villancicos.
 
@@ -63,13 +60,13 @@ He raised his hand and indicated the downbeat, the start of the metrical
 *compás* or measure, and on one side of the double-choir ensemble, the three
 voice parts (possibly three individual singers) of Chorus I entered on the
 second beat, singing the word *Voces*.
-The boy *tiple* or treble, adolescent alto, and tenor all sang this word high in
-their registers, and the soft (*mollis*, weak, minor) harmony of the opening G
-chord hung mysteriously in the vaulted space between the columns of the new
-cathedral's architectural choir.
+The boy treble, adolescent alto, and tenor all sang this word high in their
+registers, and the soft (*mollis*) harmony of the opening G minor chord hung
+mysteriously in the vaulted space between the columns of the new cathedral's
+architectural choir.
 Moving in the same rhythm, following the natural accents of the poetry, the
-voices declaimed these words like a solemn choral recitative (music example
-`ref:music:Padilla-Voces-opening`).
+voices declaimed this text like a solemn choral recitative (music example
+`ref:music:Padilla-Voces-opening`):
 
 > Voices of the chapel choir,\
 > keep count with what is sung,\
@@ -78,22 +75,23 @@ voices declaimed these words like a solemn choral recitative (music example
 > after the manner of David the monarch,\
 > just as in the manner of Jesus the infant prince.
 
-The other choir remained silent for these lines, their notated parts instructing
-them to heed the other chorus's admonition to "keep count" of twenty-seven
-measures of rests until their entrance.
+\noindent
+The other choir remained silent for these lines, as their notated parts
+instructed them to heed the other chorus's admonition and "keep count" of
+twenty-seven measures of rests until their entrance.
 
 (insert music example `ref:music:Padilla-Voces-opening`)
 `label:music:Padilla-Voces-opening`
 
-Some of those closest to the voices had already seen the poem in the
-commemorative imprint; some of the seminary professors, perhaps, had even spent
+Some of those closest to the voices had already seen the poem in the published
+commemorative pamphlet; some of the seminary professors, perhaps, had even spent
 some time with their students puzzling over its complex wordplay.
 A few of them recognized the poem from an earlier, but slightly different,
 version they had seen in an imported print of villancicos from Seville.
 One of them may have even heard the Seville version in person.
 These educated worshippers listened closely to hear how the chapelmaster, now
-approaching his seventieth birthday and showing signs of age, would realize the
-poem's musical conceits in actual music.
+approaching his seventieth birthday and showing signs of age, would demonstrate
+his mastery by realizing the poem's musical conceits in actual music.
 
 The rest of the crowd heard and understood less, but recognized the opening
 conceit of *voces*, and heard distinctly the phrase *que es músico el Rey* and
@@ -108,14 +106,14 @@ hearing this night in the heart of New Spain?
 Thus begins a tour-de-force of music about music, in which the composer and his
 ensemble take a verbal discourse about music and turn it into a musical
 discourse about music.
-Moreover, even as this discourse is referring through music to the music that is
-currently being performed and heard, this discourse is not only about sounding
-music or *musica instrumentalis*.
-When the first chorus refers to "what is sung," they are not merely
-referring to this literal level of human performance.
-Instead, they point to *Jesús infante*---the child who is both
-the *infante* or heir of the musician-king David and who is also God made
-flesh as an infant, a child too young to be able to speak.
+This kind of discourse uses musical means to communicate something about music
+itself---and here the subject is not only that made by human performance
+(*musica instrumentalis*).
+When the first chorus refers to "what is sung," they are not merely referring to
+this literal level of human performance.
+Instead, they point to *Jesús infante*---the child who is both the *infante* or
+heir of the musician-king David and who is also God made flesh as an infant, a
+child too young to be able to speak.
 
 The next two chapters analyze and interpret two families of villancicos that
 represent Christ as both singer and song, inviting hearers to listen for the
@@ -132,14 +130,14 @@ These villancicos for Christmas connect incarnation, voice, and creation, as
 they invite hearers to contemplate human music-making as a reflection of
 Christ's nature as the divine "Word made flesh" (Jn 1).
 Both textual traditions build on a patristic trope of Christ as
-*Verbum infans*---the infant, or unspeaking Word, who does not need to
-speak because God is already communicating himself to humankind through the
-Christ-child's incarnate body.
+*Verbum infans*---the infant, or unspeaking Word.
+Christ the Word does not need to speak because God is already communicating
+himself to humankind through the Christ-child's incarnate body.
 The villancicos set by Padilla and Cererols turn this into musical theology by
 imagining the baby Jesus not speaking, but singing; and by considering Christ
 himself as the song being sung.
-Thus the pieces, I argue, connected faith and hearing by making Christ the Word
-audible through poetic and musical structures.
+Thus the pieces connected faith and hearing by making Christ the Word audible
+through poetic and musical structures.
 
 Within the Spanish literary tradition of *conceptismo*, in which, under a
 single governing conceit, a poem may be read in two or more ways simultaneously,
@@ -182,14 +180,6 @@ and heavenly or divine music, in the midst of shifting early modern
 understandings of the cosmos, the human body, and society.
 They advocate and embody a Neoplatonic listening practice in which music points
 beyond itself to a higher, unhearable music of heavenly truth.
-
-Because these pieces address the nature of musical hearing so explicitly, they
-also give us an opportunity to enter into the kind of listening practice these
-pieces incite.
-In doing so we will probably hear some things that the first audience missed,
-and vice versa; but we will certainly learn more about how literate Spanish
-subjects understood the role of music in the connection between hearing and
-faith than we could learn from any other kind of source. 
 
 ### "Voices of the Chapel Choir" and the "Unspeaking Word"
 
