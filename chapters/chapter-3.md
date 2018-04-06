@@ -183,34 +183,26 @@ beyond itself to a higher, unhearable music of heavenly truth.
 
 ### "Voices of the Chapel Choir" and the "Unspeaking Word"
 
-Any consideration of this complex piece should begin with a careful reading of
-the poetic text and listening to the musical setting, or if possible, singing or
-playing it (poem example `ref:poem:Voces-Padilla`).
-[@Cashner:WLSCM32, 37--38, 119--132; @Cashner:PhD, 133--203]
-It will probably be readily apparent that this is a different type of
-villancico entirely from the comic villancicos more commonly heard in recent
-performances and recordings.
 The poem, whose author is unknown, is so elaborately contrived that it may seem
-completely unintelligible at the first encounter.
+completely unintelligible at the first encounter (poem example
+`ref:poem:Voces-Padilla`).
+[@Cashner:WLSCM32, 37--38, 119--132; @Cashner:PhD, 133--203]
 There is, indeed, no simple way to approach the text: anywhere one starts one
 immediately becomes tangled in a thicket of ambiguous references and cryptic
-phrases, as the text tropes and doctrines developed through centuries of
+phrases, as the text alludes to tropes developed through centuries of
 theological literature and liturgy.
+
 The piece demands a high level of intellectual engagement to tease out the
 intricate conceit, and may thus be compared with what Bernardo Illari describes
 as "enigma" villancicos.
 [@Illari:Polychoral, vol. 2, 304--308]
-
-(insert poem example `ref:poem:Voces-Padilla`)
-`label:poem:Voces-Padilla`
-
 Part of its difficulty comes from the widespread influence of the poetry of Luis
 de Góngora, who played a similar role for Spanish literature on both sides of
 the Atlantic to that of Giambattista Marino in Italian letters, as the
 originator of a new aesthetic (referred to as *barroco* by Spanish literary
 scholars) that emphasized learned artifice and highly wraught dramatic effects.
 ^[ as opposed to ... ]
-Gongoresque poets like the author of *Voces* reveled in arcane plays
+Poets writing after the manner of Góngora reveled in arcane plays
 on words, contorted Latinate syntax, and multiple levels of meanings.
 [@Gaylord:Poetry, 222--236; @Tenorio:Gongorismo; @Valbuena:Literatura, vol. 1,
 1014--1061]
@@ -220,6 +212,9 @@ creates a sustained analogy between at least two different things such that the
 understanding of each one informs the other.
 Here the two elements are music---specifically the voices of choral
 singing---and the Incarnate Christ at his birth.
+
+(insert poem example `ref:poem:Voces-Padilla`)
+`label:poem:Voces-Padilla`
 
 The first of the two coplas provides a clear example of this technique.
 One can read these two strophes solely on the one plane referring to Christ's
