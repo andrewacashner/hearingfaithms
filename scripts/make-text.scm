@@ -16,9 +16,9 @@
 
 
 (use-modules 
+  (xref reflabels)
+  (xref listfiles)
   (shell readwrite)
-  (xref xref)
-  (xref xref-list)
   (ice-9 popen))
 
 (define pandoc-pdf-opts "\
@@ -30,7 +30,7 @@
 --csl chicago-fullnote-bibliography.csl \
 ")
 
-(define pandoc-str
+(define pandoc-cmd
   (lambda (outfile)
     (format #f "pandoc ~a -o ~a" pandoc-pdf-opts outfile)))
 
@@ -41,30 +41,30 @@
            [headers     '("config/pdf.yaml" "chapters/head.yaml")]
            [backmatter  '("chapters/floats.md")]
 
-           [config-file "config/xref-labels.scm"]
-           [config      (call-with-input-file config-file read)]
-           ; need input.ent or latexmk won't work
+           [config      "config/xref-labels.scm"]
+           [config      (call-with-input-file config read)]
 
+           ; need input.ent or latexmk won't work
            [endnotefile "input.ent"]
            [endnotes    (call-with-output-file 
                           endnotefile
                           (lambda (port) (write '() port)))]
 
            [files       (append headers chapters backmatter)]
-           [infile      (file-ls->string files)]
+           [text        (file-ls->string files)]
 
-           [labels      (list-labels infile '())]
+           [labels      (list-labels text '())]
 
            [floatfiles  (labels->files labels config)]
            [float-text  (file-ls->string floatfiles)]
 
-           [text        (string-append infile float-text)]
-           [text-refs   (replace-refs text labels)]
-           [text-labels (replace-labels text-refs)]
+           [text        (string-append text float-text)]
+           [text        (replace-refs text labels)]
+           [text        (replace-labels text)]
 
-           [pandoc-cmd  (pandoc-str outfile)]
+           [pandoc-cmd  (pandoc-cmd outfile)]
            [pandoc-port (open-output-pipe pandoc-cmd)]
-           [do-pandoc   (display text-labels pandoc-port)])
+           [pandoc-cmd  (display text pandoc-port)])
 
       (begin
         (close-pipe pandoc-port)
