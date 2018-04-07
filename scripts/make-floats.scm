@@ -116,7 +116,7 @@
     RETURNS: Result of make-all-floats make-floats for each pair in Float-types" 
     (let loop ([ls Float-types])
       (if (null? ls)
-          (exit 0)
+          #f
           (begin
             (let* ([pair (car ls)]
                    [dir (car pair)]
