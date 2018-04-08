@@ -8,8 +8,9 @@ text_inputs := $(wildcard ./chapters/chapter-*.md)
 
 floats := $(wildcard ./img/*/*.*)
 pdf = "pdf/all.pdf"
+odt = := $(wildcard ./odt/*.odt)
 
-all : floats pdf clean
+all : floats text clean
 
 .PHONY : all
 
@@ -19,8 +20,15 @@ floats : $(float_inputs)
 pdf : $(text_inputs)
 	$(guile (make-all-pdf))
 
+odt : $(text_inputs)
+	$(guile (make-all-odt))
+
+text : $(text_inputs)
+	$(guile (make-all))
+
 clean : 
-	rm aux/*.*
+	rm -i odt/*.odt pdf/*.pdf
+	rm aux/*.* 
 
 
 
