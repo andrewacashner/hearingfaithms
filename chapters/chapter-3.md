@@ -187,11 +187,6 @@ The poem, whose author is unknown, is so elaborately contrived that it may seem
 completely unintelligible at the first encounter (poem example
 `ref:poem:Voces-Padilla`).
 [@Cashner:WLSCM32, 37--38, 119--132; @Cashner:PhD, 133--203]
-There is, indeed, no simple way to approach the text: anywhere one starts one
-immediately becomes tangled in a thicket of ambiguous references and cryptic
-phrases, as the text alludes to tropes developed through centuries of
-theological literature and liturgy.
-
 The piece demands a high level of intellectual engagement to tease out the
 intricate conceit, and may thus be compared with what Bernardo Illari describes
 as "enigma" villancicos.
@@ -220,9 +215,9 @@ The first of the two coplas provides a clear example of this technique.
 One can read these two strophes solely on the one plane referring to Christ's
 Incarnation and Passion, however elliptically.
 In the first copla, the Christ-child gave a "wandering song" to the
-Man---referring to the first man, Adam, being cast out of Paradise.
-Christ "went up so high" in "sustained tones of
-weeping"---suffering on the cross for human redemption.
+Man---referring to the first man, Adam, being cast out of Paradise.  Christ
+"went up so high" in "sustained tones of weeping"---suffering on the cross for
+human redemption.
 Christ "arose on the eighth" day---a traditional way of referring to the
 Sunday on the Resurrection---"in the triune."
 [See the entries for the numbers eight and three in @Bongo:NumerorumMysteria and
@@ -630,20 +625,26 @@ Padilla sets the numbers in the poem literally: three performers for
 
 The style of this section, contrasting with that of the introduction, is like
 that of a madrigal (music example `ref:music:Padilla-Voces-madrigal`).
-The madrigal *As Vesta Was from Latmos Hill Descending* by Thomas Weelkes (1601)
-uses the same technique to depict similar words, possibly reflecting a common
-Italian model.[^Weelkes]
+The madrigal *As Vesta Was from Latmos Hill Descending* by Thomas Weelkes
+(published in *The Triumphes of Oriana* in 1601) uses the same technique to
+depict similar words.
+Weelkes's music, and that of other English madrigalists, was included along with
+all the major sources of Italian madrigals in the collection of King João IV in
+Lisbon, and it therefore seems plausible that this repertoire was known
+more broadly in Iberia.
+As we will argue below, Padilla's villancico text appears to be based on an
+earlier piece performed in Lisbon and part of the same collection.
+A Lisbon origin for the text is only one of several explanations for how the
+poet of the original version, as well as the composers, might have known the
+Weelkes villancico specifically.
+<!-- XX check -->
+
 This section, then, is "music about music" in yet another sense, as Padilla refers
 to other genres and styles of music within one villancico.
 As the poem depicts the actual singing performed at the firs Christmas, Padilla
 uses a style that evokes and embodies convivial group singing.
 The angels, planets, shepherds, and animals around the créche are represented
 not only as singing in the abstract---they are singing a madrigal.
-
-[^Weelkes]:
-Weelkes's madrigal was published in Thomas Morley's *The Triumphes of Oriana*
-(London, 1601), but there is little evidence that English music circulated in
-Spain or its colonies.
 
 (insert music example `ref:music:Padilla-Voces-madrigal`)
 `label:music:Padilla-Voces-madrigal`
@@ -1602,25 +1603,31 @@ and their acuity as literary and theological interpreters in a tradition of
 The two earlier versions related to Padilla's 1657 piece are these (see table
 `ref:table:Voces-Cantores-settings`).
 
-1. The villancico *Cantores de la capilla*, performed for Epiphany at the
-   cathedral of Seville, January 6, 1647, probably set to music by Seville's
-   chapelmaster Luis Bernardo Jalón.
-   Only the poetic text survives in a printed leaflet (the single exemplar is
-   preserved in a binder's collection in Puebla).[^Jalon-Cantores-pliego]
+1. *Voces, las de la capilla*, two prior sources:
+    - Text only in poetry imprint from a performance by the Portuguese Royal
+      Chapel in Lisbon, Christmas 1642[^Lisbon-1642-pliego]
+    - Entry for a musical setting of a Christmas villancico with the same
+      incipits by Fray Francisco de Santiago (d. 1644) in the 1649 catalog of
+      King João (John) IV of Portugal (text incipits only)
+      [@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
+2. *Cantores de la capilla*, performed for Epiphany at the cathedral of Seville,
+   January 6, 1647, probably set to music by Seville's chapelmaster Luis
+   Bernardo Jalón.
+    - Text only in poetry imprint from Seville 1647; single exemplar is
+   preserved in a binder's collection in Puebla.[^Jalon-Cantores-pliego]
 
-2. An even earlier setting of *Voces, las de la capilla* by Francisco de
-   Santiago, Jalón's predecessor at Seville Cathedral, composed some time before
-   Santiago's death in 1644. 
-   All that survives is the incipit of the text and a description of the
-   voicing, in the catalog of the music collection of King João (John) IV of
-   Portugal.[@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
+[^Lisbon-1642-pliego]:
+*Villancicos qve se cantarão na real capella do muyto alto, & poderoso Rey Dom
+Ioamo IIII. nosso senhor. Nas matina da noite do Natal da era de 1642* (Lisbon,
+1642), P:Ln RES-189-3-P (no. 2)
 
 [^Jalon-Cantores-pliego]:
 *Villancicos qve se cantaron en la S. Iglesia Metropolytana de Seville, en los
 Maytines de los Santos Reyes.
-En este año de mil y seiscientos y quarenta y siete* (Sevilla, 1647), Puebla,
+En este año de mil y seiscientos y quarenta y siete* (Seville, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
 
+<!-- XXX REWRITE
 Although the text of *Cantores* predates that of Padilla's *Voces* by ten years,
 Padilla's text may actually preserve an earlier stage of the textual tradition.
 A stronger philological argument can be made that Jalón's *Cantores de
@@ -1632,6 +1639,8 @@ tastes of a younger generation that favored greater clarity and conventionality.
 
 (include table  `ref:table:Voces-Cantores-settings`
 `label:table:Voces-Cantores-settings`
+
+-->
 
 #### Version by Francisco de Santiago, before 1634
 

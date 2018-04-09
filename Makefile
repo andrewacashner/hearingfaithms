@@ -3,31 +3,26 @@ SHELL = /bin/sh
 $(guile (load "./scripts/make-floats.scm"))
 $(guile (load "./scripts/make-text.scm"))
 
-float_inputs := $(wildcard ./*/src/*.*)
+# INPUT dependencies
 text_inputs := $(wildcard ./chapters/chapter-*.md)
+float_inputs := $(wildcard ./*/src/*.*)
 
-floats := $(wildcard ./img/*/*.*)
+# OUTPUT targets
 pdf = "pdf/all.pdf"
-odt = := $(wildcard ./odt/*.odt)
+floats := $(wildcard ./img/*/*.*)
 
-all : floats text clean
+# BUILD rules
 
-.PHONY : all
+# Match inputs to PDF target, but make PDF and ODT
+pdf : $(text_inputs)
+	$(guile (make-all))
+	@echo Converted to full-book PDF and single-chapter ODTs
 
 floats : $(float_inputs)
 	$(guile (make-all-floats))
-
-pdf : $(text_inputs)
-	$(guile (make-all-pdf))
-
-odt : $(text_inputs)
-	$(guile (make-all-odt))
-
-text : $(text_inputs)
-	$(guile (make-all))
+	@echo Created float files
 
 clean : 
-	rm -i odt/*.odt pdf/*.pdf
 	rm aux/*.* 
 
 
