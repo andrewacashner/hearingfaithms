@@ -403,14 +403,12 @@ supernaturalis est consummata per gloriam, qua Beati Deo fruntur, deliciantur et
 beantur in æternum."
 Cf. @Augustine:SermonesPL, 98, Sermo 185, In Natali Domini 2.]
 
-<!-- START -->
 Now the poet turns even more strongly from using music as a metaphor to
-describing actual music-making, as in the estribillo the text calls to mind the
-whole creation of humans, animals (*hombres y brutos*, l. 20; also
-the reference to birdsong in l. 16),
-heavenly spheres (*las distancias*, a technical term in both astronomy
-and music), all joining with the angels in the chorus to praise God made
-Incarnate in their midst.
+describing actual music-making.
+The estribillo brings together the whole creation of humans, animals (*hombres y
+brutos*, l. 20; also the reference to birdsong in l. 16), heavenly spheres (*las
+distancias*, a technical term in both astronomy and music), all joining with the
+angels in the chorus to praise God made Incarnate in their midst.
 Like all poetry about music, this representation of music draws on the poet's
 experience of actual, contemporary music---thus the spheres sing "in one
 choir and the other," like Spain's polychoral ensembles.
@@ -429,28 +427,29 @@ the first century.
 union of divine and human in a single body).
 ^[XXX  ? cite 9-fold angel choir ]
 
-Thus far the poet has taken us from listening to the chapel choir singing in the
-present, to the ancient temple choir of David and the voices of prophets through
-the centuries, and up to the moment when the angels led the song of Gloria at
-Christ's birth.
+Thus far the poet has directed the listener's (reader's) ear from attending to
+the chapel choir singing in the present, to the ancient temple choir of David
+and the voices of prophets through the centuries, and up to the moment when the
+angels led the song of Gloria at Christ's birth.
 But all these voices, the poem now says, have been "awaiting the
 opportune time, the one who was before all time" (ll. 24--25).
 The true music of Christmas is Christ himself, and thus the next lines represent
 the voice of the baby Jesus.
 The musical imagery here continues the conceit of the King as musician, a
-*padre* (father, priest) like most Spanish chapelmasters including Padilla,
-who either sounds the pitch *A (la, mi, re)* in Guidonian solmization with
+*padre* (father, priest) like most Spanish chapelmasters including Padilla.
+He either sounds the pitch *A (la, mi, re)* in Guidonian solmization with
 his voice as a tuning note (the same one used today), or sings an intonation on
 that note as a cantor would do.
 Another translation of the contorted syntax here might suggest that the poetic
 speaker actually "heard the voice of the Father singing," that is,
 *through* the voice of the child.
-At this cue, the speaker says, he heard singing, not in *puntos de canto
-llano* (plainchant) but *puntos de llanto* (weeping); this connects
-Christ's cries at his birth with those at his death.
-^[XXX  cite ]
-The song is "as much to be seen (or admired) as to be
-heard"---because the song and the singer are one and the same.
+This could also be a reference to the heavenly voice heard at Christ's baptism
+(Mt. XXX).
+At this cue, the speaker says, he heard singing (or a song *cantar*), not in
+*puntos de canto llano* (plainchant) but *puntos de llanto* (weeping).
+This connects Christ's cries at his birth with those at his death (Mk. XXX).
+The song is "as much to be seen (or admired) as to be heard"---because the song
+and the singer are one and the same.
 
 This interpretation depends on reading "the sign of *A (la, mi, re)*" as a
 symbol of Christ himself.
@@ -482,9 +481,9 @@ rising and falling musical lines: "Everything in Man is to ascend/ and
 everything in God is to descend" (ll. 32--33).
 This is a musical version of a common summary of the Incarnation as an exchange
 between God and man.
-As Lapide puts it, Christ "lowered himself to the earth and flesh, in order to lift us
-up to heaven. 'Therefore,' says St. Anselm, 'God was made man, in order that man
-might be made God.'"
+As Lapide puts it, Christ "lowered himself to the earth and flesh, in order to
+lift us up to heaven. 'Therefore,' says St. Anselm, 'God was made man, in order
+that man might be made God.'"
 [@Lapide:Gospels19C, 670, on Lk. 2:7:
 "Depressit se in terram et carnem, ut nos eveheret in cœlum. *Ideo*, ait S.
 Anselm, *Deus factus est homo, ut homo fieret Deus*."]
