@@ -911,9 +911,12 @@ musical terms and then representing that concept in actual music.
 
 #### The Christmas Imaginary
 
-The festival of Christmas had first developed from regionally varying annual
-celebrations of Christ's birth and beginnings, and solidified as a formal
-observance among the church communities of fourth-century Rome.
+The Puebla congregation heard this piece in the context of the festival of
+Christmas, and its theological trope of the *Verbum infans* is best understood
+as an expression of the devotional attitudes that characterized this feast.
+Christmas had first developed from regionally varying annual celebrations of
+Christ's birth and beginnings, and solidified as a formal observance among the
+church communities of fourth-century Rome.
 [@Talley:LiturgicalYear, 85--140; @Bradshaw:EarlyWorship, 86--89;
 @Roll:OriginsChristmas]
 The customary readings and chants from Scripture developed alongside the other
@@ -967,8 +970,8 @@ disseminated and reinforced these tropes in Padilla's day and makes them
 accessible today.
 The large number of compendia of patristic commentaries on Scripture and model
 sermons preserved from Puebla's seminary and convent libraries provide evidence
-for the high level of interest, and serious degree of learning, of New Spanish
-clergy (table `ref:table:puebla-compendia`).
+for the high level of learning among New Spanish clergy and documents their
+spiritual formation (table `ref:table:puebla-compendia`).
 
 (insert table `ref:table:puebla-compendia`)
 `label:table:puebla-compendia`
@@ -1093,9 +1096,9 @@ Padilla's setting of *Voces, las de la capilla* evokes wonder not only in the
 words in the virtuoso composition and performance of the music as well.
 The villancico aims less to instruct than to amaze, just as Mary Gaylord
 has said that the goal of elaborate Spanish poetry is "to produce effects of
-astonishment and awe conveyed by the Latin term *admiratio*"---and indeed
-Padilla's piece asks listeners to imagine a song that is "as much to hear as to
-admire \[*admirar*\],/ as much to admire as to hear."
+astonishment and awe conveyed by the Latin term *admiratio*."
+Indeed, Padilla's piece asks listeners to imagine a song that is "as much to
+hear as to admire \[*admirar*\],/ as much to admire as to hear."
 [@Gaylord:Poetry, 227]
 
 In this case the term *admirar* has a more specific association, with the
@@ -1158,10 +1161,12 @@ the Kings and imagine.
 ^[XXX  chrysostom quote ]
 But in the conception of this villancico, they could hear the "voices of the
 chapel choir" reverberating in the space and through those voices they could
-"hear the voice of the Father/ in tones of weeping"---that is, they could hear
-the Christ the Word himself not merely speaking, but singing, through all the
-other voices from the choirboys up to the angels.
+"hear the voice of the Father/ singing in tones of weeping"---that is, they
+could hear the Christ the Word himself not merely speaking, but singing, through
+all the other voices from the choirboys up to the angels.
 
+Wonder at the sight and sound of the newborn Christ-child was a central theme in
+contemporary and patristic Christmas preaching.
 In a model sermon for Christmas (originally written in Portuguese for the Lisbon
 court but widely circulated in a Spanish translation), Fray Luis de Granada
 alludes to the same responsory in a similar way: "Oh venerable misterio, mas
@@ -1222,8 +1227,8 @@ etc."]
 
 #### Listening to the Christ-Child's Voice
 
-Fray Luis seeks to inspire worshippers not only to picture the stable visually,
-but also to turn from sight toward hearing:
+In addition to picturing the stable visually, Fray Luis exhorts worshippers to
+turn from sight toward hearing:
 
 > After the devout sight of the manger we open our ears to hear the music of the
 > angels, of whom the Evangelist says, that when one of them had finished giving
@@ -1380,7 +1385,8 @@ procedit ad audientem, et non deserti cogitantem.
 Non cum ipsa vox in silentio cogitatur, quae vel graecae est, vel latinae, vel
 linguae alterius cujuslibet: sed cum ante omnem linguarum diversitatem res ipsa
 quae dicenda est, adhuc in cubili cordis quodam modo nuda est intelligenti, quae
-ut inde procedat loquentis voce vestitur."]
+ut inde procedat loquentis voce vestitur." XXX cf passage in De doctrina
+Christiana I]
 
 Augustine is reflecting on language as a way to understand how Christ can be in
 his body the form of communication between God and
@@ -1421,7 +1427,7 @@ christiana*, in which everything in the world is either a *res* (thing, object)
 or a *signum* (sign) that points to a *res*.
 The "song," then, would be the sign that points to "what is sung"---a concept
 that need not be limited to the words of the song, but should be understood
-within the context of Augustine's Christian Neoplatonism, as referring to a
+within the context of Augustine's Christian Neoplatonism, referring to a
 higher reality as the object of the song. 
 Augustine is confessing that he failed to rise in contemplation from the created
 world to its Creator, that is, because of his sensual appetites he failed to
@@ -1498,8 +1504,8 @@ Augustine connects the concept of the Word in Jn. 1 to Christ's statement in the
 Revelation to John, "I am *alpha* and *omega*, first and last, beginning and
 end" (Rev. 22:13).
 "And just as no letter comes before *alpha*," Augustine preaches, nothing
-precedes Christ or follows after him, "for he is God"---in the villancico's
-terms, "the one who is before time" (l. 24).
+precedes Christ or follows after him, "for he is God."
+In the villancico's terms, "the one who is before time" (l. 24).
 [@Augustine:Opera1555, vol. 10, 118r, In Natali Domini 2:
 "Si fides assit, aperta est ratio qua Christus nunc minor, nunc aequalis patri
 sacris voluminibus asseratur, sicut ipse de se dicit, Ego primus & novissimus.
@@ -1565,8 +1571,9 @@ This was not just an *admirabile sacramentum* as in the Responsory, but an
 audible sacrament as well---the sign of the bodily presence of the divine
 entering into their ears through sounds that were more like music than speech.
 
-It would not be possible to realize such a concept in any more fitting way than
-through a musical performance.
+Musical performance provided an apt medium to realize this concept, as the
+singing and playing gave material form to the concepts of the poetry and
+illustrated those concepts through the artifice of the music.
 Augustine, Fray Luis, and Lapide all connect the present-day liturgy of
 Christmas to the historical music of the angels at Christmas and ultimately to
 Christ himself as the divine Word, *Verbum infans*.
@@ -1581,6 +1588,8 @@ solmization, rhythm, stylistic allusion, and contrapuntal devices.
 Through the voices of the Puebla chapel choir, the faithful could listen for the
 unhearable higher music of Christmas, which ultimately meant encountering Christ
 himself.
+
+<!-- START -->
 
 <!-- *********************************************************************** -->
 ### Establishing a Pedigree in a Lineage of Metamusical Composition
