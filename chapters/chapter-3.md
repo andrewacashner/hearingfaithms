@@ -1613,7 +1613,7 @@ and their acuity as literary and theological interpreters in a tradition of
 "music about music."
 
 The two earlier versions related to Padilla's 1657 piece are these (see table
-`ref:table:Voces-Cantores-settings`).
+`ref:table:Voces-Cantores-settings`):
 
 1. *Voces, las de la capilla*, two prior sources:
     - Text only in poetry imprint from a performance by the Portuguese Royal
@@ -1639,6 +1639,40 @@ Maytines de los Santos Reyes.
 En este año de mil y seiscientos y quarenta y siete* (Seville, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
 
+It is not known yet whether the 1642 Lisbon imprint presents the text of the
+same villancico by Francisco de Santiago recorded in the 1649 catalog.
+Santiago, a Carmelite friar, was born with the surname Veiga in Portugal and
+served as chapelmaster at Seville from 1617 (succeeding Alonso Lobo) to 1643
+(succeeded by Luis Bernardo Jalón).
+[@Stevenson:SantiagoF; @Perez:DMEH-Santiago]
+<!-- XXX DMEH sv Sevilla? -->
+Santiago had maintained a lifelong association and correspondence with the Duke
+of Braganza, who after 1640 reigned as King João IV of Portugal.
+Santiago obtained permission from the Seville Cathedral chapter to visit Lisbon
+every five years (1625, 1630, 1635, and 1640).
+In the year of Santiago's last visit to Lisbon, 1640, the royal chapel had
+performed another villancico that appears under Santiago's name in the 1649
+catalog, *Anton Llorente y Bartolo*. 
+Whether Santiago wrote specifically for the royal chapel in Lisbon, or
+simply brought John IV copies of his music from Seville, the Portuguese monarch
+acquired a collection of five hundred thirty-eight villancicos by Santiago, not
+to mention other musical genres.
+Among the "Christmas Villancicos of Fray Francisco de Santiago" in the catalog
+John had compiled and printed in 1649 appears the following entry:
+"Vozes las de la capilla. solo. Ya trechos las distancias. a 9." 
+[@JohnIV:Catalog, caixão 26, no. 674]
+Unfortunately only this description remains; the music parts probably perished along
+with the rest of the collection in the fires that followed the Lisbon earthquake
+of 1755.
+
+The catalog lists another villancico by Santiago, *Anton Llorente y Bartolo*,
+which likely corresponds to the piece performed by the royal chapel in the year
+of Santiago's last visit to Lisbon, 1640.
+
+<!-- connect Anton Llorente to Puebla -->
+
+<!-- analyze 1642 pliego text -->
+
 <!-- XXX REWRITE
 Although the text of *Cantores* predates that of Padilla's *Voces* by ten years,
 Padilla's text may actually preserve an earlier stage of the textual tradition.
@@ -1653,41 +1687,6 @@ tastes of a younger generation that favored greater clarity and conventionality.
 `label:table:Voces-Cantores-settings`
 
 -->
-
-#### Version by Francisco de Santiago, before 1634
-
-The earliest known version of this textual tradition is the setting was set by
-Francisco de Santiago.
-The Carmelite friar was born with the surname Veiga in Portugal and served as
-chapelmaster at Seville from 1617 (succeeding Alonso Lobo) to 1643 (succeeded by
-Luis Bernardo Jalón).
-[@Stevenson:SantiagoF; @Perez:DMEH-Santiago]
-<!-- XXX DMEH sv Sevilla? -->
-Santiago had maintained a lifelong association and correspondence with the Duke
-of Braganza, who after 1640 reigned as King João IV of Portugal.
-Santiago obtained permission from the Seville Cathedral chapter to visit Lisbon
-every five years (1625, 1630, 1635, and 1640).
-Whether Santiago wrote music specifically for the royal chapel in Lisbon, or
-simply brought John IV copies of his music from Seville, the Portuguese monarch
-acquired a collection of five hundred thirty-eight villancicos by Santiago, not
-to mention other musical genres.
-Among the "Christmas Villancicos of Fray Francisco de Santiago" in the catalog
-John had compiled and printed in 1649 appears the following title:
-
-> *Vozes las de la capilla. solo. Ya trechos las distancias. a 9*
-[@JohnIV:Catalog, caixão 26, no. 674]
-
-Unfortunately only this description remains; the music parts probably perished along
-with the rest of the collection in the fires that followed the Lisbon earthquake
-of 1755.
-
-The incipits match Padilla's text exactly, though Padilla sets the first section
-(*introducción*) "a 3" and the second (*estribillo*) "a 6."
-No other piece with these incipits has been found in all the catalogs of
-villancico poetry imprints.
-
-<!-- FN to show that this is introduccion and estribillo, cf Anton Llorente in
-Sanchez Garza -->
 
 There are several ways that Padilla might have known Santiago's setting of
 *Voces* or the poem on which it was based.
@@ -1761,6 +1760,8 @@ predecessor.
 
 (insert poem example `ref:poem:Cantores-Jalon`)
 `label:poem:Cantores-Jalon`
+
+<!-- rewrite comparing with 1642 version -->
 
 The text corresponds closely to the text of Padilla's *Voces, las de la
 capilla*.
