@@ -1589,7 +1589,6 @@ Through the voices of the Puebla chapel choir, the faithful could listen for the
 unhearable higher music of Christmas, which ultimately meant encountering Christ
 himself.
 
-<!-- START -->
 
 <!-- *********************************************************************** -->
 ### Establishing a Pedigree in a Lineage of Metamusical Composition
@@ -1639,6 +1638,7 @@ Maytines de los Santos Reyes.
 En este año de mil y seiscientos y quarenta y siete* (Seville, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
 
+<!-- START -->
 It is not known yet whether the 1642 Lisbon imprint presents the text of the
 same villancico by Francisco de Santiago recorded in the 1649 catalog.
 Santiago, a Carmelite friar, was born with the surname Veiga in Portugal and
@@ -1650,9 +1650,6 @@ Santiago had maintained a lifelong association and correspondence with the Duke
 of Braganza, who after 1640 reigned as King João IV of Portugal.
 Santiago obtained permission from the Seville Cathedral chapter to visit Lisbon
 every five years (1625, 1630, 1635, and 1640).
-In the year of Santiago's last visit to Lisbon, 1640, the royal chapel had
-performed another villancico that appears under Santiago's name in the 1649
-catalog, *Anton Llorente y Bartolo*. 
 Whether Santiago wrote specifically for the royal chapel in Lisbon, or
 simply brought John IV copies of his music from Seville, the Portuguese monarch
 acquired a collection of five hundred thirty-eight villancicos by Santiago, not
@@ -1661,15 +1658,22 @@ Among the "Christmas Villancicos of Fray Francisco de Santiago" in the catalog
 John had compiled and printed in 1649 appears the following entry:
 "Vozes las de la capilla. solo. Ya trechos las distancias. a 9." 
 [@JohnIV:Catalog, caixão 26, no. 674]
-Unfortunately only this description remains; the music parts probably perished along
-with the rest of the collection in the fires that followed the Lisbon earthquake
-of 1755.
+Unfortunately only this description remains; the music parts probably perished
+along with the rest of the collection in the fires that followed the Lisbon
+earthquake of 1755.
 
+<!-- evidence that Lisbon pliego pieces are same as those in catalog (not strong
+case); Anton Llorente also links to Puebla, check voicing and text  -->
 The catalog lists another villancico by Santiago, *Anton Llorente y Bartolo*,
 which likely corresponds to the piece performed by the royal chapel in the year
 of Santiago's last visit to Lisbon, 1640.
 
-<!-- connect Anton Llorente to Puebla -->
+In 1642, though, Santiago was in Seville; in 1643 the chapter hired Luis
+Bernardo Jalón to substitute for the ill Santiago that Christmas, and Santiago
+died in October 1644.
+^[XXX confirm that Santiago was in Seville in 1642]
+
+
 
 <!-- analyze 1642 pliego text -->
 
