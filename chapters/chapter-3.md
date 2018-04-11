@@ -1708,34 +1708,55 @@ predecessor.
 <!-- table comparing all 3 versions -->
 <!-- rewrite comparing with 1642 version -->
 
-The text corresponds closely to the text of Padilla's *Voces, las de la
-capilla*.
-The first four lines of both poems are the same, except that Jalón's text has
-*Cantores* (singers) instead of *Voces* (voices) and *Niño* (child) instead of
-*Rey* (king).
-Most of the last half of the estribillo in the Jalón print is the same as that
-set by Padilla, including the identical closing couplet.
-Jalón's fourth copla is identical to the end of Padilla's *introducción*.
+#### Relationships within the Textual Family
 
-But there are important differences as well that suggest different aesthetic
-goals.
+Compared to *Cantores*, Padilla's 1657 text *Voces, las de la capilla* is much
+closer to that in the 1642 Lisbon imprint and matches the incipits of Santiago's
+pre-1644 setting in the João IV catalog.
+Padilla's use of this earlier text tradition demonstrates that some source
+crossed the Atlantic to Puebla, whether Padilla acquired it before emigrating in
+1622 or after.
+The Puebla chapelmaster may have had access to the text from a source like the 1642
+Lisbon print, or he may have known an even earlier source.
+It is possible he knew Santiago's version specifically.
+Padilla almost certainly knew Jalón's *Cantores* text, since the only extant 
+copy of this Seville print survives in a binder's collection in Puebla.
+^[XXX private collection, cf. LaFragua collection]
+There are several other correspondences between villancicos in that collection
+and those set by Padilla for Puebla Cathedral, suggesting that this may have
+even been the composer's own compilation; or at least that Padilla had access to
+a similar set of sources.
+
+The 1647 *Cantores* text corresponds closely to the text both versions of *Voces, las de la capilla*.
+The first four lines are the same, except that Jalón's text has *Cantores*
+(singers) instead of *Voces* (voices) and *Niño* (child) instead of *Rey*
+(king).
+The coplas of *Cantores* are close to those in the 1642 *Voces*.
+
+At the same time, *Cantores* also significantly modifies the text to suit a
+different performance context and aesthetic goals.
+One copla is modified to include an explicit reference to the Three Kings,
+suitable for the performance of *Cantores* at Epiphany in Seville.
+The end of the *introducción* in *Voces* is moved to serve as the final copla in
+*Cantores*.
+The whole *eco* section at the end of the 1642 *Voces* is omitted, so that the
+estrillo ends with the couplet *Todo en el hombre es subir/ y todo en Dios es
+bajar*.
+
 In terms of theological and musical conceits, *Cantores* reads like an attempt
 to take the dense *conceptismo* of *Voces* and both simplify and explain it.
 The connection of Christ's voice ("the sign of A") and the "voices of the chapel
 choir" is obscured, as the opening is changed to "singers of the chapel choir."
-The crucial lines from *Voces*, "a la voz del padre oí/ cantar por puntos de
+The crucial lines from *Voces*, "a la voz del padre oí/ cantan por puntos de
 llanto," are missing as well, which makes it harder to make sense of "el signo a
 la mi re."
-The thematically central second copla of *Voces* is absent from *Cantores*,
-obscuring the conceit of God as a musician and the newborn Christ as his
-masterwork.
 The connection between David and Christ as musician-kings is absent as well.
 "The King is a musician" in *Voces* is changed to "the child is a musician"---so
 that Christ is now explicitly the creator of the music rather than himself being
 the Music *and* the musician.
 Throughout the poems, where *Voces* has an ambiguous or cryptic line, *Cantores*
 has a less multivalent one: instead of "a la voz del padre oí" *Cantores* has
-"con que mil maravillas vi"; instead of "y aguardan tiempo oportuno/ quien antes
+"con que mil maravillas vi"; instead of "y aguarda tiempo oportuno/ quien antes
 del tiempo fue" *Cantores* has "después que aguardaron uno/ que llegó a tiempo
 oportuno/ quién antes del tiempo fue."
 The *Voces* version of these lines is pithy but a bit arcane; the *Cantores*
@@ -1754,23 +1775,74 @@ The new poet has retained the technical terms and other key words used in the
 first version of the poem, but has attempted to explain the metaphors, sometimes
 in ways that change the meaning from the first poem.
 
-In terms of structure and meter, *Voces* is more intricately patterned than
-*Cantores*: it features a *respuesta* section and a *linea de vuelta* joining the
-last line of the coplas to the beginning of the estribillo.
-The *respuesta* was more commonly used in villancicos before 1640, though
-Padilla continues to use it in several pieces of the 1650s.
+Padilla's 1657 text, by contrast, is much closer to the 1642 *Voces*.
+There are only a few major differences.
+First, Padilla groups the verses in the *introducción* as a six-line strophe
+followed by a four-line *respuesta*, which is then repeated after the rest of
+the *introducción* verses. 
+The 1642 text confirms the argument advanced above that the text of Padilla's
+*respuesta* (the first time through) is meant to follow the sixth verse, just as
+it is notated in the musical manuscripts.
+Second, Padilla, like Jalón, omits the *eco* portion of the 1642 text, ending
+with *Todo en Dios es bajar*. 
+Padilla does not use the same coplas as in the 1642 Lisbon or 1647 Seville
+prints (beginning *A suspensiones el cielo*), but rather includes two
+completely different coplas (beginning (*Daba un niño peregrino tono*).
+
+It is possible that Padilla (or whoever produced Padilla's poetic text), being
+familiar with Jalón's text as well as at least one earlier version, made a
+composite version that drew on both earlier variants.
+On the other hand, Padilla's text is so conceptually consistent, and tightly
+patterned metrically, that an argument can be made that his version of *Voces*
+actually reflects an earlier version of the text than that in *either* of the
+two previous imprints.
+We have already noted that *Cantores* modifies both the style and content of the
+earlier *Voces*.
+But htere are also elements of that 1642 version that do not seem to fit with
+the core of the text preserved Padilla's later setting.
+Padilla's reading *la clave que sobre el hombro*, quoting Is. 22:12, is
+certainly superior to the 1642 reading *la clave que sobre el hombre* (though
+this could be the publisher's mistake).
+Similarly, the astronomical and musical term *distancias* in Padilla's text
+makes more sense in the conceit of the poem than the Lisbon *estancias*.
+That *Cantores* has these same readings suggests not that Padilla copied them
+from *Cantores* but that both versions are based on an earlier source than the
+1642 print.
+
+The metrical patterning of the three texts also suggests that Padilla's version
+is the original.
+First, Padilla's text features a *respuesta* section: this structure was more
+commonly used in villancicos before 1640, though Padilla, now in his senior
+years, continues to use the form in several pieces of the 1650s.
+^[XXX examples. Possible that respuesta is just not indicated in 1642 print.
+need other comparisons]
+Second and most crucially, the line *Y a trechos las distancias* at the
+beginning of the estribillo serves as a *linea de vuelta* in Padilla's text:
+it connects to the end of the coplas (*de un hombre y Dios consonancias*) and
+rhymes when the estribillo is repeated after that verse.
+This structure is a holdover from t
 The *linea de vuelta* was a holdover from the rather different structure of the
 courtly villancicos of the sixteenth century, such as those set by Juan del
 Encina.
 [@Navarro:Metrica, XXX]
-Both Padilla's *Voces* and the incipit for Santiago's *Voces* contain the *linea
-de vuelta*, "Y a trechos las distancias."
-*Cantores*, by contrast, has no *respuesta* and omits this line.
-The estribillo of Padilla's *Voces* begins with the *linea de vuelta*, followed
-by a series of fully rhymed verse pairs, all in eight-syllable lines.
+The 1642 Lisbon *Voces*, and the catalog entry for Santiago's *Voces*, both
+contain this same line (*Y a trechos las distancias*), but the Lisbon version
+has different coplas from Padilla, and the end of the coplas does not rhyme with
+*distancias*, so that the *linea de vuelta* structure is absent.
+The "new" coplas in Padilla's version are much more thematically consistent with
+the conceit of God as a musician and the newborn Christ as his masterwork, and
+the connection to the *linea de vuelta* seems hard to explain as a later
+addition.
+
+The rest of the estribillo in Padilla's version, up to *Todo en Dios es bajar*,
+is highly patterned in a series of fully rhyming verse pairs, all in
+eight-syllable lines.
 The half-line "uno a uno" forms a bracket with the other half-line "O qué
-canto," marking off this section of paired verses from the closing quatrain, a
-*redondilla abrazada*.
+canto," marking off this section of paired verses from the quatrain that
+follows, a *redondilla abrazada*.
+The line *Y a trechos* does not fit in this pattern, but it makes sense as a
+*linea de vuelta* in only Padilla's version, and it is absent from *Cantores*.  
+
 By contrast, the estribillo of *Cantores* begins with two lines with neither
 assonance nor rhyme, followed by a line that rhymes with nothing and can only
 scan as eight syllables if *que* and *lleva* are elided; the fourth line can
@@ -1783,105 +1855,29 @@ Thus the first section appears "tacked on" to the more refined pre-existing
 material in the second section.
 ^[XXX  line numbers; poem in text? ]
 
-Some changes in Jalón's setting bear evidence of adaptation for use in the
-liturgy of Matins for Epiphany in Seville.
-Where *Voces* alludes to the presence of angels, animals, and shepherds at the
-manger, *Cantores* explicitly includes the "three Kings" as well in copla 3.
-The slightly greater emphasis on the heavens, and on the concept of time
-(musical and theological), might also be intended to connect with the visit of
-these mysterious astrologers from the East.
-But other aspects of the adaptation actually seem to make it *less* well suited
-for Epiphany, in particular the omission of the line "a la voz del padre oí."
-According to this piece's placement in the poetry imprint, as the second in a
-cycle of nine villancicos, *Cantores* would have been paired with a 
-Responsory, drawn from the Gospel narratives of Christ's baptism, with the
-Versicle, "The heavens were opened above him, and the voice of the Father
-intoned." and the Respond, "This is my beloved Son."
-[@Catholic:Breviarium1631, XXX:
-"*Respond.* In columbæ specie Spiritus sanctus visus est, paterna vox audita
-est:
-\* Hic est Filius meus dilectus, in quo mihi bene complácui.
-*Versicle.* Cȩli aperti sunt super eum, & vox Patris intónuit. Hic est Filius."]
-This chant would match well with the line about hearing "the voice of the
-Father" in Padilla's *Voces*, when the piece was likely repeated with the other
-1657 Christmas villancicos for Epiphany in January 1658.
-It seems to make little sense that the compositor of this text should add some
-explicit Three Kings references but omit this line that fit so well with that
-feast's liturgy.
-It seems likely, then, that this version of the text was not devised for this
-specific liturgical placement, just for the feast of Kings in general, and Jalón
-selected the arrangement in the Matins cycle based on fairly loose theological
-criteria.
-^[XXX  Responsory performance in Sevilla? ]
-The piece did not need to be a perfect fit liturgically in order to fulfill the
-dual function of paying homage to Santiago while also demonstrating Jalón's own
-position representing the new generation, the next step in the tradition at
-Seville.
+Similarly, the 1642 Lisbon *Voces* ends with an *eco* section in a completely
+irregular meter, thematically almost unrelated to concept of the rest of the
+poem.
+This section also seems tacked on compared to the concise *conceptismo* and
+elegant metrics of Padilla's version.
+^[specifics]
+
+Until more sources come to light it is not possible to know for certain whether
+Padilla's text preserves a pure earlier source or whether it is such an
+ingenious improvement on the previous variants, resolving certain metrical
+irregulaties and conceptual inconsistencies so elegantly that it seems to have
+more integrity as a source than the others.
+There is of course the danger of confirmation bias, especially since Padilla's
+version is presented in a musical setting that articulates its poetic structure
+and interprets its theological conceits in a way that makes this version seem
+authoritative.
 
 
-<!-- XXX REWRITE
-Although the text of *Cantores* predates that of Padilla's *Voces* by ten years,
-Padilla's text may actually preserve an earlier stage of the textual tradition.
-A stronger philological argument can be made that Jalón's *Cantores de
-la capilla* is actually an adaptation of *Voces, las de la capilla* than for the
-reverse situation.
-Upon close comparison *Cantores* appears to be a somewhat garbled attempt to
-simplify the arcane, Góngora-influenced poetry of *Voces* to make it suit the
-tastes of a younger generation that favored greater clarity and conventionality.
-
+<!--
 (include table  `ref:table:Voces-Cantores-settings`
 `label:table:Voces-Cantores-settings`
-
 -->
 
-There are several ways that Padilla might have known Santiago's setting of
-*Voces* or the poem on which it was based.
-It is quite likely that the two chapelmasters knew each other personally from
-Padilla's early career in Andalucía.
-Padilla, baptized in Málaga in 1590, climbed his way rapidly up the ladder of
-prestigious positions in the region, moving from positions at Ronda (1608--1612)
-and Jerez de la Frontera (1612--1616) to the cathedral of Cádiz, where he served
-as chapelmaster from March 17, 1616 until he emigrated to New Spain in 1622.
-[@Gembero:Padilla]
-Padilla's years in Cádiz overlap with Santiago's tenure in Seville (1617--1643),
-leaving about six years when the two chapelmasters could easily have interacted
-either thorugh correspondence or personally.
-The two port cities, about 121 km apart, were closely linked economically and
-socially.
-Both cities were among the first to print leaflets of villancico poems, and
-Padilla could have had access to the texts set by Santiago through this medium
-alone.
-[@BNE:VCs17C, s.v. *Cádiz* and *Sevilla*]
-These imprints circulated widely and enabled provincial churches to stay
-up-to-date with the latest trends, especially those of the Royal Chapel in
-Madrid and the cathedral of Seville.
-There are several substantial collections of villancico imprints from Seville
-preserved in Puebla.
-<!-- XXX signatures -->
-Thus even if there was no personal connection between Padilla and Santiago, the
-Seville composer's position at the helm of the flagship music program in the
-Hispanic world (in fact, the mother church for all of the Indies), would have
-made him a prime target for emulation, homage, or competition.
-
-In fact, Santiago's appointment at Seville may have even precipitated Padilla's
-departure for the New World.
-Santiago was hired at Seville without any public competition for the position,
-which would have been the pinnacle of achievement for any Spanish composer,
-particularly one from Andalucía.
-Padilla had just started his position in Cádiz---not a lowly post---but the
-appointment of  the relatively young Santiago would have deprived him of any
-hopes of further advancement on the Spanish main.
-Other prominent posts in Madrid were taken, with Mateo Romero at the Royal Chapel
-since 1598, and at the presitigious Convento de la Encarnación, none other than
-Luis Bernardo Jalón.
-[@Ezquerro:JalonLB] <!-- Capilla real? -->
-This may have been part of the reason why in about 1622, Padilla sought better
-opportunities in America.
-
-<!-- ANton Llorente and circumstantial evidence that Santiago's music was known
-in Puebla -->
-
-#### Version by Luis Bernardo Jalón, 1647
 
 #### Demonstrating Musical Kinship
 
@@ -1934,6 +1930,61 @@ from Jalón and associate himself more directly with Santiago.
 With his setting of *Voces, las de la capilla*, Padilla may have been trying to
 show that he, not Jalón, was the true successor to Santiago.
 
+There are several ways that Padilla might have known Santiago's setting of
+*Voces* or the poem on which it was based.
+It is quite likely that the two chapelmasters knew each other personally from
+Padilla's early career in Andalucía.
+Padilla, baptized in Málaga in 1590, climbed his way rapidly up the ladder of
+prestigious positions in the region, moving from positions at Ronda (1608--1612)
+and Jerez de la Frontera (1612--1616) to the cathedral of Cádiz, where he served
+as chapelmaster from March 17, 1616 until he emigrated to New Spain in 1622.
+[@Gembero:Padilla]
+Padilla's years in Cádiz overlap with Santiago's tenure in Seville (1617--1643),
+leaving about six years when the two chapelmasters could easily have interacted
+either thorugh correspondence or personally.
+The two port cities, about 121 km apart, were closely linked economically and
+socially.
+Both cities were among the first to print leaflets of villancico poems, and
+Padilla could have had access to the texts set by Santiago through this medium
+alone.
+[@BNE:VCs17C, s.v. *Cádiz* and *Sevilla*]
+These imprints circulated widely and enabled provincial churches to stay
+up-to-date with the latest trends, especially those of the Royal Chapel in
+Madrid and the cathedral of Seville.
+There are several substantial collections of villancico imprints from Seville
+preserved in Puebla.
+<!-- XXX signatures -->
+There is also evidence that Santiago's music circulated in New Spain.
+Additionally, at least two villancicos in the Sánchez Garza collection,
+originally from the Conceptionist Convento de la Santísima Trinidad in Puebla,
+that match incipits of Santiago's villancicos in João IV's catalog.
+^[ cite ]
+One of these (previously unattributed) is *Anton Llorente y Bartolo*, which as
+we have already noted was performed by the Lisbon royal chapel in 1640 when
+Santiago was visiting. 
+^[XXX confirm and cite ]
+The Puebla source's voicing matches that listed in the Portuguese catalog, and
+the text matches that in the Lisbon 1640 imprint.
+
+Even if there was no personal connection between Padilla and Santiago, the
+Seville composer's position at the helm of the flagship music program in the
+Hispanic world (in fact, the mother church for all of the Indies), would have
+made him a prime target for emulation, homage, or competition.
+In fact, Santiago's appointment at Seville may have even precipitated Padilla's
+departure for the New World.
+Santiago was hired at Seville without any public competition for the position,
+which would have been the pinnacle of achievement for any Spanish composer,
+particularly one from Andalucía.
+Padilla had just started his position in Cádiz---not a lowly post---but the
+appointment of  the relatively young Santiago would have deprived him of any
+hopes of further advancement on the Spanish main.
+Other prominent posts in Madrid were taken, with Mateo Romero at the Royal Chapel
+since 1598, and at the presitigious Convento de la Encarnación, none other than
+Luis Bernardo Jalón.
+[@Ezquerro:JalonLB] <!-- Capilla real? -->
+This may have been part of the reason why in about 1622, Padilla sought better
+opportunities in America.
+
 Santiago, Padilla, and Jalón were not only part of a professional network; their
 relationships with other chapelmasters may be best understood in terms of
 kinship.
@@ -1944,9 +1995,9 @@ All of these men learned their craft through apprenticeship, and all of them
 passed on their learning in the same way once they became the *maestros*.
 The links between these men and their elders began in boyhood: Padilla, for one,
 fulfilled a common requirement of housing and educating his choirboys in his own
-home. 
-(More research is needed into likely high prevalence and impact of sexual abuse
-in this environment.)
+home.
+^[More research is needed into likely high prevalence and impact of sexual abuse
+in this environment.]
 Chapelmasters were linked to their predecessors by a common practice of
 assisting the incumbent in his final years, before succeeding to the position.
 Parallel lines of succession with such interim assistantships in Puebla and
