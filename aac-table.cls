@@ -3,7 +3,7 @@
 \LoadClass{book}
 \RequirePackage{fontspec}
 \setmainfont{Libertinus Serif}
-\RequirePackage[margin=1in]{geometry}
+\RequirePackage[hmargin=1in, vmargin=2in]{geometry}
 \RequirePackage{tabulary}
 \RequirePackage{booktabs}
 \RequirePackage{longtable}

@@ -34,7 +34,7 @@ chapter 3: Christ as Singer and Song
 `label:ch:Padilla-Voces`
 
 On Christmas Eve 1657 in colonial Puebla, the cathedral's tower bells had been
-ringing for an hour when the first voices of the Christmas liturgy were sounded
+ringing for an hour when the first voices of the Christmas liturgy began to sing
 at 11 p.m.
 Having heard the summons, the cathedral chapter was joined by other clerics,
 professors, landowners with their slaves, and common worshippers of every caste,
@@ -184,7 +184,7 @@ The ingenuity of the structures suggests that the creators and performers of
 these villancicos sought primarily not to teach doctrine, but to promote
 doxology---glorifying God through contemplative devotion.
 They invite listeners to respond to the mystery of the Incarnation in awe,
-wonder, and adoration.  
+wonder, and adoration.
 They advocate and embody a Neoplatonic listening practice in which music points
 beyond itself to a higher, unhearable music of heavenly truth.
 
@@ -222,9 +222,9 @@ The first of the two coplas provides a clear example of this technique.
 One can read these two strophes solely on the one plane referring to Christ's
 Incarnation and Passion, however elliptically.
 In the first copla, the Christ-child gave a "wandering song" to the
-Man---referring to the first man, Adam, being cast out of Paradise.  Christ
-"went up so high" in "sustained tones of weeping"---suffering on the cross for
-human redemption.
+Man---referring to the first man, Adam, being cast out of Paradise. 
+Christ "went up so high" in "sustained tones of weeping"---suffering on the
+cross for human redemption.
 Christ "arose on the eighth" day---a traditional way of referring to the
 Sunday on the Resurrection---"in the triune."
 [See the entries for the numbers eight and three in @Bongo:NumerorumMysteria and
@@ -513,7 +513,7 @@ resounds through the actual "voices of the chapel choir" in the present day.
 When Juan Gutiérrez de Padilla "puts notes to his lyrics," he uses his
 compositional ingenuity, and calls upon the virtuosity of his performers, to
 turn a series of poetic conceits *about* music into actual sounding music that
-worshippers could hear.  
+worshippers could hear.
 Listeners whose ears were well trained spiritually and musically could discern
 the higher levels of music through the sounding forms.
 
@@ -558,12 +558,12 @@ poem and making its grammatical and rhetorical structure clear to listeners.
 ^[XXX  cte diss. 164 Cerone, Judd, Barnett ]
 
 The composer has paid close attention to both metrical patterns and details of
-accentuation and diction.  
+accentuation and diction.
 Padilla begins the piece with the voices of the first choir moving together
 rhythmically to declaim the words in something like choral recitative.
 For this poetry in *romance* meter, Padilla has the singers declaim the
 eight-syllable lines in pairs, with emphasis on the assonant even-numbered
-lines.  
+lines.
 ^[XXX  cite metrica, crestomatia, romance publications, Old English, German exx]
 Padilla's setting aurally projects the text as though it were arranged like
 similar ballad forms in Germanic poetry---as sixteen-syllable lines, with a
@@ -1658,7 +1658,7 @@ Llorente y Bartolo* which would also later be included in the 1649 catalog among
 the works of Santiago.
 ^[XXX Anton Llorente pliego & catalog]
 On the other hand, Santiago was probably in Seville in 1642, beginning to suffer
-the paralyzing illness which would soon end his life.  
+the paralyzing illness which would soon end his life.
 In 1643 the chapter hired Luis Bernardo Jalón to substitute for Santiago that
 Christmas, and Santiago died in October 1644.
 [@Ezquerro:JalonLB]
@@ -1836,7 +1836,7 @@ The half-line "uno a uno" forms a bracket with the other half-line "O qué
 canto," marking off this section of paired verses from the quatrain that
 follows, a *redondilla abrazada*.
 The line *Y a trechos* does not fit in this pattern, but it makes sense as a
-*linea de vuelta* in only Padilla's version, and it is absent from *Cantores*.  
+*linea de vuelta* in only Padilla's version, and it is absent from *Cantores*.
 
 By contrast, the estribillo of *Cantores* begins with two lines with neither
 assonance nor rhyme, followed by a line that rhymes with nothing and can only
