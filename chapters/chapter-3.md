@@ -994,8 +994,6 @@ in Matins as the lessons of the second and third Nocturnes.
 Moreover, the Scripture's placement in this liturgical context in turn
 reinforced the Messianic interpretation.
 
-#### Theology of Incarnation 
-
 The foundation of the Christmas feast was devotion to "Jesus Christ, \[God's\]
 only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin
 Mary," as stated in the Apostle's Creed, which in turn was the basis for
@@ -1471,8 +1469,6 @@ verbum mentis suæ: hæc autem omnia appropriantur Verbo divino, sive Filio, qui
 est Sapientia genita, sed increata; et per consequens appropriatur ei, quod per
 ipsum omnia sint facta. Ita S. Cyrillus."]
 
-#### Christ the Word as Both Song and Singer
-
 As the villancico *Voces, las de la capilla* presents these tropes, the
 Christ-child is the masterwork that proves the craft of the divine
 *artifex*---now a chapelmaster in the Spanish fashion.
@@ -1611,35 +1607,26 @@ These pieces allowed Spanish composers to prove both their compositional craft
 and their acuity as literary and theological interpreters in a tradition of
 "music about music."
 
-The two earlier versions related to Padilla's 1657 piece are these (see table
-`ref:table:Voces-Cantores-settings`):
+Prior to Padilla's 1657 piece, there are sources for at least two earlier
+versions. 
+As shown in table `ref:table:Voces-Cantores-settings`, there are two
+sources for a pre-1644 version beginning *Voces, las de la capilla*: a 1649
+catalog entry for a setting by Francisco de Santiago (then chapelmaster of
+Seville Cathedral) from the collection of Portuguese King João (John) IV, and a
+1642 poetry imprint of a performance, possibly of Santiago's setting, by the
+royal chapel in Lisbon.
+There is also a source for a variant version of the text, *Cantores de la
+capilla*, performed for Epiphany 1647 at Seville Cathedral and probably composed
+by Santiago's successor, Luis Bernardo Jalón.
+This 1647 Seville imprint survives in a single copy as part of a binder's
+collection in Puebla.
 
-1. *Voces, las de la capilla*, two prior sources:
-    - Text only in poetry imprint from a performance by the Portuguese Royal
-      Chapel in Lisbon, Christmas 1642[^Lisbon-1642-pliego]
-    - Entry for a musical setting of a Christmas villancico with the same
-      incipits by Fray Francisco de Santiago (d. 1644) in the 1649 catalog of
-      King João IV of Portugal (text incipits only)
-      [@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
-2. *Cantores de la capilla*, performed for Epiphany at the cathedral of Seville,
-   January 6, 1647, probably set to music by Seville's chapelmaster Luis
-   Bernardo Jalón.
-    - Text only in poetry imprint from Seville 1647; single exemplar is
-   preserved in a binder's collection in Puebla.[^Jalon-Cantores-pliego]
+(include table `ref:table:Voces-Cantores-settings`
+`label:table:Voces-Cantores-settings`
 
-[^Lisbon-1642-pliego]:
-*Villancicos qve se cantarão na real capella do muyto alto, & poderoso Rey Dom
-Ioamo IIII. nosso senhor. Nas matina da noite do Natal da era de 1642* (Lisbon,
-1642), P:Ln RES-189-3-P (no. 2)
-
-[^Jalon-Cantores-pliego]:
-*Villancicos qve se cantaron en la S. Iglesia Metropolytana de Seville, en los
-Maytines de los Santos Reyes.
-En este año de mil y seiscientos y quarenta y siete* (Seville, 1647), Puebla,
-private collection, courtesy of Gustavo Mauleón Rodríguez.
-
-<!-- START -->
-Santiago, a Carmelite friar, was born with the surname Veiga in Portugal and
+The earliest known musical setting of this textual tradition is by Francisco de
+Santiago.
+This Carmelite friar was born with the surname Veiga in Portugal and
 served as chapelmaster at Seville from 1617 (succeeding Alonso Lobo) to 1643
 (succeeded by Luis Bernardo Jalón).
 [@Stevenson:SantiagoF; @Perez:DMEH-Santiago]
@@ -1655,16 +1642,14 @@ to mention other musical genres.
 Among the "Christmas Villancicos of Fray Francisco de Santiago" in the catalog
 John had compiled and printed in 1649 appears the following entry:
 "Vozes las de la capilla. solo. Ya trechos las distancias. a 9." 
-[@JohnIV:Catalog, caixão 26, no. 674]
+[@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
 Unfortunately only this description remains; the music parts probably perished
 along with the rest of the collection in the fires that followed the Lisbon
 earthquake of 1755.
 
-<!-- evidence that Lisbon pliego pieces are same as those in catalog (not strong
-case); Anton Llorente also links to Puebla, check voicing and text  -->
-
-It is not known yet whether the 1642 Lisbon imprint presents the text of the
-same villancico by Francisco de Santiago recorded in the 1649 catalog.
+An imprint from the Portuguese Royal Chapel, Christmas 1642, may document the
+performance of Santiago's setting; or it may be a different setting of a variant
+text with the same incipits.[^Lisbon-1642-pliego]
 The imprint, as was typical, does not list the composer or poet's names.
 In support of the argument that the imprint corresponds to Santiago's setting is
 the evidence that in 1640, the year Santiago last visited Lisbon, an imprint
@@ -1679,11 +1664,16 @@ Christmas, and Santiago died in October 1644.
 [@Ezquerro:JalonLB]
 ^[XXX confirm that Santiago was in Seville in 1642]
 
-<!-- analyze 1642 pliego text -->
+[^Lisbon-1642-pliego]:
+*Villancicos qve se cantarão na real capella do muyto alto, & poderoso Rey Dom
+Ioamo IIII. nosso senhor. Nas matina da noite do Natal da era de 1642* (Lisbon,
+1642), P:Ln RES-189-3-P (no. 2)
+
 
 Jalón, as chapelmaster of Seville Cathedral, was probably the composer for the
 next known villancico in this family, the poem *Cantores de la capilla*,
-performed there for Epiphany 1647 (poem example `ref:poem:Cantores-Jalon`).
+performed there for Epiphany 1647.
+[^Jalon-Cantores-pliego]
 Jalón's position at Seville was the culmination of a restlessly ambitious
 career.
 [@Ezquerro:JalonLB]
@@ -1693,26 +1683,25 @@ Toledo (1642--1643).
 On November 10, 1643, he was appointed chapelmaster at the cathedral of Santiago
 de Compostela, but dropped everything a month later when he was invited to
 assist the ailing Santiago at Seville Cathedral for the Christmas season of
-1634--44.
-It is easy to imagine that the two composers had close contact during that time,
-and in any case, Jalón could have had access to Santiago's music in the
-cathedral archive.
+1643--44.
+The two composers must have had close contact during that time, and in any case,
+Jalón could have had access to Santiago's music in the cathedral archive.
 Jalón's setting of *Cantores* was performed only two years after Santiago's
 death (considering Epiphany 1647 as part of the 1646--47 liturgical season), and
 it is plausible that Jalón composed the piece deliberately in homage to his
 predecessor.
 
-(insert poem example `ref:poem:Cantores-Jalon`)
-`label:poem:Cantores-Jalon`
-
-<!-- table comparing all 3 versions -->
-<!-- rewrite comparing with 1642 version -->
+[^Jalon-Cantores-pliego]:
+*Villancicos qve se cantaron en la S. Iglesia Metropolytana de Seville, en los
+Maytines de los Santos Reyes.
+En este año de mil y seiscientos y quarenta y siete* (Seville, 1647), Puebla,
+private collection, courtesy of Gustavo Mauleón Rodríguez.
 
 #### Relationships within the Textual Family
 
 Compared to *Cantores*, Padilla's 1657 text *Voces, las de la capilla* is much
 closer to that in the 1642 Lisbon imprint and matches the incipits of Santiago's
-pre-1644 setting in the João IV catalog.
+pre-1644 setting in the João IV catalog (table `ref:table:Voces-versions`).
 Padilla's use of this earlier text tradition demonstrates that some source
 crossed the Atlantic to Puebla, whether Padilla acquired it before emigrating in
 1622 or after.
@@ -1727,7 +1716,11 @@ and those set by Padilla for Puebla Cathedral, suggesting that this may have
 even been the composer's own compilation; or at least that Padilla had access to
 a similar set of sources.
 
-The 1647 *Cantores* text corresponds closely to the text both versions of *Voces, las de la capilla*.
+(insert table `ref:table:Voces-versions`)
+`label:table:Voces-versions`
+
+The 1647 *Cantores* text corresponds closely to the text both versions of
+*Voces, las de la capilla*.
 The first four lines are the same, except that Jalón's text has *Cantores*
 (singers) instead of *Voces* (voices) and *Niño* (child) instead of *Rey*
 (king).
@@ -1787,7 +1780,7 @@ Second, Padilla, like Jalón, omits the *eco* portion of the 1642 text, ending
 with *Todo en Dios es bajar*. 
 Padilla does not use the same coplas as in the 1642 Lisbon or 1647 Seville
 prints (beginning *A suspensiones el cielo*), but rather includes two
-completely different coplas (beginning (*Daba un niño peregrino tono*).
+completely different coplas (beginning *Daba un niño peregrino tono*).
 
 It is possible that Padilla (or whoever produced Padilla's poetic text), being
 familiar with Jalón's text as well as at least one earlier version, made a
@@ -1798,7 +1791,7 @@ actually reflects an earlier version of the text than that in *either* of the
 two previous imprints.
 We have already noted that *Cantores* modifies both the style and content of the
 earlier *Voces*.
-But htere are also elements of that 1642 version that do not seem to fit with
+But there are also elements of that 1642 version that do not seem to fit with
 the core of the text preserved Padilla's later setting.
 Padilla's reading *la clave que sobre el hombro*, quoting Is. 22:12, is
 certainly superior to the 1642 reading *la clave que sobre el hombre* (though
@@ -1863,20 +1856,14 @@ elegant metrics of Padilla's version.
 ^[specifics]
 
 Until more sources come to light it is not possible to know for certain whether
-Padilla's text preserves a pure earlier source or whether it is such an
-ingenious improvement on the previous variants, resolving certain metrical
-irregulaties and conceptual inconsistencies so elegantly that it seems to have
-more integrity as a source than the others.
+Padilla's text preserves a pure earlier source or whether it is an
+ingenious improvement on the previous variants.
+It resolves certain metrical irregulaties and conceptual inconsistencies so
+elegantly that it seems to have more integrity as a source than the others.
 There is of course the danger of confirmation bias, especially since Padilla's
 version is presented in a musical setting that articulates its poetic structure
 and interprets its theological conceits in a way that makes this version seem
 authoritative.
-
-
-<!--
-(include table  `ref:table:Voces-Cantores-settings`
-`label:table:Voces-Cantores-settings`
--->
 
 
 #### Demonstrating Musical Kinship
@@ -1914,7 +1901,7 @@ trends.
 [^Puebla-Seville-Binders-collection]:
 It is part of a binder's collection of villancico imprints of the 1630s and
 1640s from Seville.
-The volume is held in an anonyous private collection in Puebla, and according to
+The volume is held in an anonymous private collection in Puebla, and according to
 Gustavo Mauleón Rodríguez, who is cataloging these holdings, this binder's
 collection was originally bound with another collection of Seville villancicos
 which is preserved in Puebla's Biblioteca Lafragua; both bear the firemark of
@@ -1989,7 +1976,7 @@ Santiago, Padilla, and Jalón were not only part of a professional network; thei
 relationships with other chapelmasters may be best understood in terms of
 kinship.
 Most Hispanic chapelmasters were priests or men of religious orders, under vows
-of celibacy; but in many cases they established genealogical lineages through
+of celibacy; so in many cases they established genealogical lineages through
 their musical relationships.
 All of these men learned their craft through apprenticeship, and all of them
 passed on their learning in the same way once they became the *maestros*.
@@ -2011,6 +1998,7 @@ apprentice to the local chapelmaster Francisco Vásquez (ca. 1602--1608).
 [@Gembero:Padilla]
 In 1628, after he had settled in New Spain, Padilla was selected to assist the
 ailing chapelmaster of Puebla Cathedral, Gaspar Fernández.
+^[cite Fernandez bio XXX]
 He composed the villancicos for Corpus Christi in that year, probably both as a
 way to fill in for Fernández and to prove his own mastery.
 [@Cashner:Cards]
@@ -2065,15 +2053,20 @@ It makes sense, then, that Jalón would adapt a text set by Santiago in a way
 that presented him as Santiago's heir, acknowledging influence while also
 setting himself apart.
 The modifications in *Cantores de la capilla* suggest that Jalón represented a
-new generation and a new style, and his music was likely in a newer style.
+new generation and a new style, and his music was likely in a more modern style.
 For the sixty-seven-year-old Padilla, who long ago had not been able to capture
 the coveted position of Seville chapelmaster in 1616, setting the older text (in
 any case one closer to that set by Santiago) may have established Padilla's
 affinity for the older generation and its style.
+Padilla's madrigalesque text setting and strict counterpoint suggest more
+old-fashioned musical tastes compared to the new sounds of music from Madrid in
+the 1650s, like the experimental musical drama collaborations of Juan Hidalgo
+and Pedro Calderón de la Barca.
 
-This practice of affiliating oneself through musical homage may shed light on
-the origins and meaning of Padilla's most performed piece of Latin-texted music
-today, the *Missa "Ego flos campi"* for eight voices.[^Padilla-Ego-flos-campi]
+This practice of affiliating oneself through musical homage may also shed light
+on the origins and meaning of Padilla's most performed piece of Latin-texted
+music today, the *Missa "Ego flos campi"* for eight
+voices.[^Padilla-Ego-flos-campi]
 The piece has been assumed to be a parody mass bassed on a lost motet *Ego flos
 campi* by Padilla.
 But John IV's catalog lists another *Missa "Ego flos campi" a 8*---by Francisco de
@@ -2106,10 +2099,13 @@ performances.
 
 The metamusical villancico provided composers an ideal opportunity to establish
 their own position in a tradition of compositional and theological
-ingenuity---of musical theology.
+ingenuity---that is, a tradition of musical theology.
 The next section will show another example of this, in eight known settings of
 villancicos from the same textual family by a network of interrelated composers
 across Spain and into the New World.
+The music's social function of establishing kinship with other composers through
+an impressive display of craft overlaps with the social and theological function
+of inspiring listeners to awe and wonder at Christmas.
 
 For this study, Padilla's *Voces* serves as the starting point for a trajectory
 of "singing about singing" in seventeenth-century Spanish devotional music.
@@ -2144,7 +2140,9 @@ spiritual discipline, even inviting detailed analysis.
 But in order to contemplate the piece in this way, the listener must be equipped
 with both faith and knowledge: faith to seek the higher theological meaning
 behind the words and music, and knowledge to understand it.
-Obviously, Padilla's villancico is aimed at a sophisticated listening audience.
+While Padilla wrote many villancicos that would have been easy for common people
+to appreciate, this one seems to address the most sophisticated listeners in the
+congregation.
 The poem's double and triple conceits, some of them based on references to Latin
 Scriptural and liturgical texts, require extensive knowledge not only of
 theology and literature, but also of technical music theory.
@@ -2277,7 +2275,7 @@ The shepherds not only heard and saw, but believed because they freely received
 the gift of faith, as Lapide explains in his commentary on John 1:12 (with a
 polemical eye on his Calvinist compatriots in the Low Countries): 
 "God gives the power to become sons of God to those who freely receive Christ by
-faith and obedience, excluding those who do not with to receive him."
+faith and obedience, excluding those who do not wish to receive him."
 [@Lapide:Gospels19C, 882: 
 "Hoc est enim quot ait hic St. Joanes, Deum dedisse potestatem filios Dei his
 qui libere Christum per fidem et obedientiam receperunt, exclusis iis, qui eum

@@ -6,9 +6,13 @@
 \RequirePackage[margin=1in]{geometry}
 \RequirePackage{tabulary}
 \RequirePackage{booktabs}
+\RequirePackage{longtable}
 \RequirePackage{microtype}
 \RequirePackage[document]{ragged2e}
 \setlength{\RaggedRightParindent}{0pt}
 \setlength{\parindent}{0pt}
 \pagestyle{empty}
+\RequirePackage[normalem]{ulem}
+\RequirePackage{xparse}
+\NewDocumentCommand{\speaker}{ m }{\textsc{#1}: }
 \endinput
