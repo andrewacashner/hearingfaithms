@@ -1724,14 +1724,15 @@ The 1647 *Cantores* text corresponds closely to the text both versions of
 The first four lines are the same, except that Jalón's text has *Cantores*
 (singers) instead of *Voces* (voices) and *Niño* (child) instead of *Rey*
 (king).
-The coplas of *Cantores* are close to those in the 1642 *Voces*.
+The first two coplas of *Cantores* are identical to those in the 1642 *Voces*.
 
 At the same time, *Cantores* also significantly modifies the text to suit a
 different performance context and aesthetic goals.
-One copla is modified to include an explicit reference to the Three Kings,
-suitable for the performance of *Cantores* at Epiphany in Seville.
-The end of the *introducción* in *Voces* is moved to serve as the final copla in
-*Cantores*.
+Verses are added in the estribillo and a new copla is included that explicitly
+reference the Three Kings, suitable for the performance of *Cantores* at
+Epiphany in Seville.
+The end of the *introducción* in *Voces* (*Por sol comienza una Gloria*) is
+moved to serve as the final copla in *Cantores*.
 The whole *eco* section at the end of the 1642 *Voces* is omitted, so that the
 estrillo ends with the couplet *Todo en el hombre es subir/ y todo en Dios es
 bajar*.
@@ -1748,10 +1749,11 @@ The connection between David and Christ as musician-kings is absent as well.
 that Christ is now explicitly the creator of the music rather than himself being
 the Music *and* the musician.
 Throughout the poems, where *Voces* has an ambiguous or cryptic line, *Cantores*
-has a less multivalent one: instead of "a la voz del padre oí" *Cantores* has
-"con que mil maravillas vi"; instead of "y aguarda tiempo oportuno/ quien antes
-del tiempo fue" *Cantores* has "después que aguardaron uno/ que llegó a tiempo
-oportuno/ quién antes del tiempo fue."
+has a less multivalent one. 
+Instead of "a la voz del padre oí" *Cantores* has "con que mil maravillas vi";
+instead of "y aguarda tiempo oportuno/ quien antes del tiempo fue" *Cantores*
+has "después que aguardaron uno/ que llegó a tiempo oportuno/ quién antes del
+tiempo fue."
 The *Voces* version of these lines is pithy but a bit arcane; the *Cantores*
 version is crystal-clear but requires an extra line to say the same thing.
 
@@ -1851,8 +1853,12 @@ material in the second section.
 Similarly, the 1642 Lisbon *Voces* ends with an *eco* section in a completely
 irregular meter, thematically almost unrelated to concept of the rest of the
 poem.
-This section also seems tacked on compared to the concise *conceptismo* and
-elegant metrics of Padilla's version.
+Starting with *y con el favor usanos* there is are two eight-syllable rhyming
+couplets plus a three-line rhyming group (with their echoes), then lines of
+five, seven, and nine syllables, in no clear pattern, with an *abbccada* rhyme
+scheme.
+This sloppy section also seems like a superflous addition compared to the
+concise *conceptismo* and elegant metrics of Padilla's version.
 ^[specifics]
 
 Until more sources come to light it is not possible to know for certain whether

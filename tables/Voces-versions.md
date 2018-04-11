@@ -3,5 +3,5 @@
 Comparison of three extant variant texts of *Voces, las de la capilla*
 villancico family
 
-\includeWideGraphic{img/tables/Voces-versions}
+\includepdf{img/tables/Voces-versions}
 
