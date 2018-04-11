@@ -39,3 +39,4 @@ pdf/
 
 !config/vcbook.odt
 !img/figures/*.*
+!README.pdf
