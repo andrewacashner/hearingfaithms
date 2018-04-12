@@ -128,7 +128,7 @@ setting is by Joan Cererols of the Abbey of Montserrat, around 1660.
 
 These villancicos for Christmas connect incarnation, voice, and creation, as
 they invite hearers to contemplate human music-making as a reflection of
-Christ's nature as the divine "Word made flesh" (Jn 1).
+Christ's nature as the divine "Word made flesh" (John 1).
 Both textual traditions build on a patristic trope of Christ as
 *Verbum infans*---the infant, or unspeaking Word.
 Christ the Word does not need to speak because God is already communicating
@@ -247,11 +247,11 @@ Puebla: @Wright:Maze, XXX.]
 Cornelius à Lapide comments that Christ was born like a "pilgrim"
 \[*peregrinus*\] on a journey in a borrowed stable, "in order to teach us to be
 pilgrims on earth, though actually citizens of heaven."
-[@Lapide:Gospels19C, 884, on Jn 1:14:
+[@Lapide:Gospels19C, 884, on John 1:14:
 "Hoc est tentorium vel tabernaculum fixit in nobis, id est, inter nos, ad
 modicum tempus, quasi hospes et peregrinus in terra aliena: erat enim ipse
 civis, incola et dominus cœli ac paradisi";
-@Lapide:Gospels19C, 669, on Lk 2:5: 
+@Lapide:Gospels19C, 669, on Luke 2:5: 
 "ut doceret nos in terra esse peregrinos, cives vero cœli, ut ab hoc exilio
 magnis virtutum passibus tendamis in cœlum, ceu patriam et civitatem nostram."]
 The contemporary composer and theorist Andrés Lorente takes up the
@@ -299,15 +299,12 @@ Christ brings together infinite and finite ("maxima and breve"), and creates a
 consonance to restore the discordant relationship between sinful Man and the
 holy God by reconciling both in his own body.
 
-<!-- XXX line refs -->
-
 On the theological side of the conceit, who exactly is this king who is
 listening so carefully to the chapel choir's voices?
 The poet explicitly connects the king to "David the monarch," the paragon
 of Biblical musicians as both the traditional author of the psalms and as the
 founder of the first musical ensemble for worship in the ancient Hebrew
-temple.
-^[ source ]
+temple (1 Chron. 25).
 Calling Jesus *infante* identifies this child as David's heir---that is, as the
 Messiah; and the phrase *a lo de* (in the manner or style of) suggests that this
 child will be no less exacting a musical taskmaster than his ancestor.
@@ -328,15 +325,20 @@ In musical terms, Christ's life "is putting notes to his lyrics" (ll. 8--9), and
 thus his life is recounted cryptically with the technical vocabulary for
 describing a musical composition or performance.
 Theologically, God had promised to David an heir to sit on his throne forever
-and deliver his people, <!-- cites -->
-and through Isaiah the prophet he renewed this promise by saying that a child
-would be born "upon whose shoulder" would rest the "key" of divine, eternal
-authority (Is. 22:22).
+and deliver his people (2 Sam. 7), and through Isaiah the prophet he renewed
+this promise by saying that a child would be born "upon whose shoulder" would
+rest the "key" of divine, eternal authority (Isa. 22:22).
 As Biblical interpreters of the time all agreed, the complete fulfillment of
 these prophecies, the culmination of all God's "centuries of heroic exploits"
 (l. 8) came not at Christ's birth, but at his death and resurrection,
 traditionally thirty-three years (and three months and three days) later.
-^[ mention "A que el juego" which also uses thirty-three ]
+[@Lapide:Gospels19C, 17: "Christus enim vixit 33 annos et tres meses, qui a
+natali ejus exerunt usque ad Pascha."
+See also @Ricciardo:CommentariaSymbolica, s.v. *Numerus 33*;
+@Bongo:NumerorumMysteria, s.v. *XXXIII*.
+Padilla's 1628 villancico *A que... el juego es visto admirable* uses *treinta y
+tres* (as the amount of a bet in a card game) to refer to Christ's passion:
+@Cashner:Cards.]
 In musical terms, the words of David and the prophets are just the lyrics;
 Christ's life is the song.
 The key of authority---*clave*---is the same word for clef; and it
@@ -348,15 +350,14 @@ This happens "years before the sign, 'dexterity in hope'."
 Since the poet has just referred to "the thirty-three" as a metonym for
 Christ's passion, the *divisa*---a sign of any kind but particularly a
 heraldic device or motto---may refer to the cross, or to Christ himself, whom
-the angel in Luke 2 calls a *signum* (sign) to the shepherds, and whom Simeon
-tells Mary will be a "sign that will be spoken against."
-^[ source ]
+the angel in Luke 2:12 calls a *signum* (sign) to the shepherds, and whom Simeon
+tells Mary will be a "sign that will be opposed" (Luke 2:34, NRSV).
+[@Bernard:Nativitate, Sermo 4, 126C]
 The motto, *la destreza en la esperanza*, sounds like a gloss of a phrase from
 the Roman historian Tacitus, *spes in virtute, salus ex victoria*, used to
 describe a desperate moment in Caesar's battle against the Germanic tribes on
 the Elbe, in which "valour was their only hope, victory their only safety."
-^[Tacitus, *Annals* II:20, in the translation by Alfred John Church and William
-Jackson Brodribb XXX proper citation]
+[Tacitus, *Annals* II:20, translation from @Tacitus:Annales-English, 49]
 The vocabulary here (*hazañas*, *destreza*, *divisa*) marks Christ as a heroic
 warrior-king in a style that resonated with the military-influenced culture of
 early modern Spain; here again he follows after his ancestor David the
@@ -364,12 +365,27 @@ giant-killer.
 This description also fits with the liturgical lessons of Christmas Matins from
 Pope St. Leo the Great that characterize Christ's birth as the beginning of a
 battle with the devil.
-^[ XXX Azevedo on hazañas and Leo in the liturgy]
+[@Covarrubias:Tesoro, s.v. *divisa*: "La
+señal que el cauallero trae para ser conocido \[...\]. Y deuisa tanto quiere
+dezir como heredad que viene al hombre de parte de su padre, o de su madre, o de
+sus abuelos, &c." 
+The preface to @Azevedo:Catecismo uses the same kind of language to compare
+Charles I of Spain to King David in his battles to protect faith against heresy. 
+Azevedo says of the Creed, "This is the sign and standard that we who are of the
+Lord, and vassals of the faith, are to bear" ("Y particularmente en la
+declaracion del Simbolo, que la Iglesia nos manda creer, que es la señal y
+diuisa, que los que somos del Señor, y vassallos de la Fe, emos de traer").]
 The word *destreza* was also used to signify musical virtuosity, especially
 compositional ingenuity.
+[@Covarrubias:Tesoro, s.v. *destreza*: "La agilidad con que se haze alguna cosa,
+atribuyendolo a la mano diestra"; the musical sense may be seen in the title of
+the guitar manual, @Sanz:Guitarra.
+Padilla used *destreza* and *hazañas* together to characterze the baby Jesus as
+a heroic rogue in two other villancicos in the *jácara* subgenre, in the cycles
+for Christmas 1651 (MEX-Pc: Leg. 1/2) adn 1659 (poetry imprint only, US-BL:
+PQ7296.A1V8).]
 The *divisa* could be a musical sign as well such as a meter signature.
 players and for composers.
-^[XXX  source ]
 
 In the next lines we begin to hear this musician's song, and the theological and
 musical come too close to cleanly separate.
@@ -377,10 +393,10 @@ The solmization syllables *sol* and *mi* here indicate musical pitches, as well
 as the symbolic puns on "sun" and "me."
 The "Gloria" of the angelic choirs begins "on *sol*," as many Gregorian *Gloria
 in excelsis* chants do; it also begins "with the sun," a reference both to
-Christ's birth traditionally at midnight ("at the half-measure of night", l. 15)
-and a symbol of his royalty, the same symbol used by Spain's own king, Philip
-IV.
-^[XXX  cite also Is. 60:1, connect Jn 1:14, Tit 2:11 ]
+Christ's birth traditionally at midnight ("at the half-measure of night", l. 15,
+a traditional exegesis of Wisd. 18:14--15) and a symbol of his royalty, the same
+symbol used by Spain's own king, Philip IV (cf. Isa. 60:1, John 1:14, Titus
+2:11).
 
 The linked terms "grace" and "glory" also refer to a theological tradition that
 links the *Gloria* of the Christmas angels to the grace offered to humanity
@@ -392,7 +408,7 @@ man's "supernatural life": by grace being justified in order to serve God, and
 in glory consummated to enjoy God forever. 
 "Grace, therefore, is the seed of glory, and in turn glory is the consummation
 of grace." 
-[@Lapide:Gospels19C, 878, on Jn 1:4:
+[@Lapide:Gospels19C, 878, on John 1:4:
 "In verbo quasi in fonte et cause primiginia erat vita nostra supernaturalis,
 puta gratiæ et gloriæ, ideoque ut hanc vitam nobis impetraret, incarnatus est et
 factus homo, ut initio dixi.
@@ -417,15 +433,16 @@ The numbers here ("three by three, two by two, one by one") have a wide
 range of possible symbolic meanings, while at the most literal level (the level
 Padilla seizes on in his setting) it describes the number of voices in the
 musical texture.
-"Two by two" would seem to be a reference to the animals on Noah's Ark,
-here referring not only to the animals in the stable, but also to the whole
-scene as a picture of the Christian church, a symbolic connection going back to
-the first century.
-^[XXX  cite 1 Peter, Augustine ]
+"Two by two" would seem to be a reference to the animals on Noah's Ark (Gen.
+6:9), here referring not only to the animals in the stable, but also to the
+whole scene as a picture of the Christian church, a symbolic connection going
+back to the first century (1 Pet. 3:18--22).
+[@Augustine:CivitateDei, 15:26]
 "Three by three" could be the nine ranks of angelic choirs, and
 "one by one" could refer to humans or to Christ himself (particularly his
 union of divine and human in a single body).
-^[XXX  ? cite 9-fold angel choir ]
+[@Bongo:NumerorumMysteria, s.v. *IX*, and the angelic canon for nine choirs of
+angels on the frontispiece of @Kircher:Musurgia]
 
 Thus far the poet has directed the listener's (reader's) ear from attending to
 the chapel choir singing in the present, to the ancient temple choir of David
@@ -444,10 +461,11 @@ Another translation of the contorted syntax here might suggest that the poetic
 speaker actually "heard the voice of the Father singing," that is,
 *through* the voice of the child.
 This could also be a reference to the heavenly voice heard at Christ's baptism
-(Mt. XXX).
+(Matt. 3:13--17; Mark 1:9--11; Luke 3:21--22).
 At this cue, the speaker says, he heard singing (or a song *cantar*), not in
 *puntos de canto llano* (plainchant) but *puntos de llanto* (weeping).
-This connects Christ's cries at his birth with those at his death (Mk. XXX).
+This connects Christ's cries at his birth with the "loud voice" with which he
+died (Mark 15:37).
 The song is "as much to be seen (or admired) as to be heard"---because the song
 and the singer are one and the same.
 
@@ -474,7 +492,8 @@ Rev. 1:8 actually spells out *alpha* (but not *omega*).
 [^Rev1-8]:
 In both Greek and Latin, the phrase in Revelation 1:8 repeats exactly
 the words used for the name of God (the Hebrew tetragrammaton, *YHWH*) in
-the translations of Ex. 3:14 into those languages (Greek ὡ ων, Latin *qui est*).
+the translations of Exodus 3:14 into those languages (Greek ὡ ων, Latin *qui
+est*).
 
 The final couplet epitomizes the theology of Incarnation through a play on
 rising and falling musical lines: "Everything in Man is to ascend/ and
@@ -484,7 +503,7 @@ between God and man.
 As Lapide puts it, Christ "lowered himself to the earth and flesh, in order to
 lift us up to heaven. 'Therefore,' says St. Anselm, 'God was made man, in order
 that man might be made God.'"
-[@Lapide:Gospels19C, 670, on Lk. 2:7:
+[@Lapide:Gospels19C, 670, on Luke 2:7:
 "Depressit se in terram et carnem, ut nos eveheret in cœlum. *Ideo*, ait S.
 Anselm, *Deus factus est homo, ut homo fieret Deus*."]
 This central theology of Christianity is represented in the poem through the
@@ -843,7 +862,7 @@ In *cantus durus* this is D--F--E--D; if notated in the *cantus mollis*
 transposition of this villancico, the pitches would be G--B♭--A--G, which are
 exactly what the Altus I sings on these words (mm. 128--129, music example
 `ref:music:Padilla-Voces-peregrino_tono`).
-<!-- or medial cadence, match with example -->
+<!-- XXX or medial cadence, match with example -->
 The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
 ^[XXX  cautionary F# as "strange tone"? ]
@@ -1038,7 +1057,7 @@ the Son of God was made the son of a Virgin":
 > us; "For he was made the son of men, so that he might make us sons of God,"
 > says St. Augustine. "He was born on the earth, so that man might be reborn
 > into heaven," as St. Gregory says.
-[@Lapide:Gospels19C, 50, on Mt. 1:16:
+[@Lapide:Gospels19C, 50, on Matt. 1:16:
 "q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
 Filius Virginis.
 Hoc, \[...\] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt et
@@ -1126,7 +1145,7 @@ taken from a Christmas sermon of Pope St. Leo the Great.
 This means that after a cantor chanted the first lesson, a cleric spoke the
 mandatory liturgical text of the fourth Responsory above *while* the chorus sang
 this villancico.
-<!-- cantor? -->
+<!-- XXX cantor? -->
 Lay people outside the walls of the architectural choir would not probably have
 heard or understood the words of the Latin liturgical text, so they would
 perhaps not have missed much.
@@ -1173,7 +1192,7 @@ para sentir que para decir."
 This reference comes after he exhorts worshippers to marvel at the lowliness of
 Christ's birth:
 
-> Come and see the Son of God, not in the bosom of the Father \[Jn 1\], but in
+> Come and see the Son of God, not in the bosom of the Father \[John 1\], but in
 > the arms of the Mother; not above choirs of angels, but among filthy animals;
 > not seated at the right hand of the Majesty on high \[Heb 1\], but
 > reclining in a stable for beasts; not thundering and casting lightning in
@@ -1214,7 +1233,7 @@ The response he models to this "mystery" is to be "struck numb," to "worship
 with wonder \[*admiración*\] in silence."
 In a similar passage, Lapide goes even further to speak of being "stupefied" and
 "struck deaf" \[*attonitus*\] at the sight of Christ in the manger.
-[@Lapide:Gospels19C, 672, on Lk 2:7:
+[@Lapide:Gospels19C, 672, on Luke 2:7:
 "Christus enim in præsepio, hoc est Jesu homo, Verbum infans, est amor, æque ac
 stupor omnium angelorium ac fidelium, quod omnes stupent et stupebunt per omnem
 æternitatem.
@@ -1244,7 +1263,7 @@ prophecy, such that King Solomon's words about himself may be applied to his
 royal descendent, Christ: "I too am a mortal man like others, \[...\] and the
 first sound [*voz*] that I made was crying like other children, because not one
 of the kings had any different origin in their birth."
-[@LuisdeGranada:Xmas, para. 9; cf. @Lapide:Gospels19C, 670, on Lk. 2:7]
+[@LuisdeGranada:Xmas, para. 9; cf. @Lapide:Gospels19C, 670, on Luke 2:7]
 
 Fray Luis, as an avid student and teacher of Catholic Humanism, presents Christ
 as an orator and philosophical teacher, a "Master of Heaven"---*Maestro del
@@ -1449,7 +1468,7 @@ Lapide connects Word and Incarnation thus: "We hear God teaching and preaching
 from the chair \[*cathedra*\] of this manger, not by a word but by a deed: \[...\]
 I have been made a little one, of your bone and your flesh, I am made man, in
 order to make you God."
-[@Lapide:Gospels19C, 673, on Lk. 2:
+[@Lapide:Gospels19C, 673, on Luke 2:
 "Quid fecit tantus Deus, in tantilla carne, jacens in præsepio?
 Audiamus ipsummet in præsepii cathedra, non verbo sed facto docentem et
 prædicantem: \[...\] 
@@ -1463,7 +1482,7 @@ Word\] all things were made"):
 > that is in his mind: all of these comparisons are appropriate for the divine
 > Word, or Son, who is Wisdom begotten, not made; and by consequence it is also
 > appropriate to say that by him all things were made."
-[@Lapide:Gospels19C, 877, on Jn. 1:3:
+[@Lapide:Gospels19C, 877, on John 1:3:
 "Artifex enim omnia opera artis suæ facit per ideam, sapientiam, conceptum, sive
 verbum mentis suæ: hæc autem omnia appropriantur Verbo divino, sive Filio, qui
 est Sapientia genita, sed increata; et per consequens appropriatur ei, quod per
@@ -1495,8 +1514,8 @@ as a "letter."
 Covarrubias glosses Spanish *divisa* with the Latin *signum*, from the Greek
 *sēma*, sign; and Lapide calls Christ "the sign of reconciliation of the human
 race to God."
-[@Covarrubias:Tesoro, s.v. *divisa*; @Lapide:Gospels19C, 685--686, on Lk. 2]
-Augustine connects the concept of the Word in Jn. 1 to Christ's statement in the
+[@Covarrubias:Tesoro, s.v. *divisa*; @Lapide:Gospels19C, 685--686, on Luke 2]
+Augustine connects the concept of the Word in John 1 to Christ's statement in the
 Revelation to John, "I am *alpha* and *omega*, first and last, beginning and
 end" (Rev. 22:13).
 "And just as no letter comes before *alpha*," Augustine preaches, nothing
@@ -1795,7 +1814,7 @@ We have already noted that *Cantores* modifies both the style and content of the
 earlier *Voces*.
 But there are also elements of that 1642 version that do not seem to fit with
 the core of the text preserved Padilla's later setting.
-Padilla's reading *la clave que sobre el hombro*, quoting Is. 22:12, is
+Padilla's reading *la clave que sobre el hombro*, quoting Isa. 22:12, is
 certainly superior to the 1642 reading *la clave que sobre el hombre* (though
 this could be the publisher's mistake).
 Similarly, the astronomical and musical term *distancias* in Padilla's text
@@ -1974,7 +1993,7 @@ hopes of further advancement on the Spanish main.
 Other prominent posts in Madrid were taken, with Mateo Romero at the Royal Chapel
 since 1598, and at the presitigious Convento de la Encarnación, none other than
 Luis Bernardo Jalón.
-[@Ezquerro:JalonLB] <!-- Capilla real? -->
+[@Ezquerro:JalonLB] <!-- XXX Capilla real? -->
 This may have been part of the reason why in about 1622, Padilla sought better
 opportunities in America.
 
@@ -2009,7 +2028,7 @@ He composed the villancicos for Corpus Christi in that year, probably both as a
 way to fill in for Fernández and to prove his own mastery.
 [@Cashner:Cards]
 He then succeeded Fernández after he died.
-<!-- Fernández born in Guatemala, not Portugal -->
+<!-- XXX Fernández born in Guatemala, not Portugal -->
 When Padilla's health began to fail in 1660, he signed a "power of attorney"
 document giving legal rights to Juan García de Céspedes, a member of the Puebla
 ensemble whose name appears throughout Padilla's partbooks.
@@ -2197,7 +2216,7 @@ which Christ in the Mass by consecration is as though born and sacrificed"; and
 St. John Chrysostom to conclude, "That which the Magi saw in the manger, in a
 little hut, with much veneration and fear approached and adored, you perceive
 the same thing not in the manger, but on the altar."
-[@Lapide:Gospels19C, 672, on Lk. 2:
+[@Lapide:Gospels19C, 672, on Luke 2:
 "Sic et S. Cyrillus in Caten. Symbolice præsepe est altare, in quo Christus in
 Missa per consecrationem quasi nascitur et immolatur.
 Unde S. Chyrs. in Catena: *Quod in præsepio videntes atque tugurio Magi, cum
@@ -2272,7 +2291,7 @@ they would not be put off by Christ's lowly birth.
 For "however many might have approached the manger, and seen Christ, but only
 those could have believed in Christ, whose hearts God had effectively moved;
 while the others, taking offense at Christ's poverty, would have spurned him."
-[@Lapide:Gospels19C, 677, on Lk. 2: 
+[@Lapide:Gospels19C, 677, on Luke 2: 
 "Hinc patet pastores multis narrase eq quæ de Christo nato ab angelo adierant et
 viderant: quare multos præsepe adiise, Christumque vidisse; sed eos solos in
 Christo credidisse, quorum Deus corda efficaciter tangebat, ceteros offensos
@@ -2315,7 +2334,7 @@ in the stable), "all who heard were amazed," both at the shepherds' words and
 those the shepherds had heard from the angels.
 The Virgin Mary, in turn, "treasured all these things \[*verba*\] within her
 heart."
-<!-- verses -->
+<!-- XXX verses -->
 If the goal of Christmas music in seventeenth-century Puebla and Seville was to
 echo those historical voices of Christmas and provoke the same kind of awestruck
 wonder, then this justifies poets and chapelmasters' efforts to impress and even
