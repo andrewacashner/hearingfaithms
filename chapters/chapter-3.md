@@ -16,16 +16,16 @@ chapter 3: Christ as Singer and Song
 # Listening for Unhearable Music
 `label:part:unhearable-music`
 
-## Christ as Singer and Song (Puebla Cathedral, 1657)
+## Hearing Christ in the "Voices of the Chapel Choir" (Puebla, 1657)
 `label:ch:Padilla-Voces`
 
 On Christmas Eve 1657 in colonial Puebla, the cathedral's tower bells had been
 ringing for an hour when the first voices of the Christmas liturgy began to sing
 at 11 p.m.
 Having heard the summons, the cathedral chapter was joined by other clerics,
-professors, landowners with their slaves, and common worshippers of every caste,
-*indios*, *mestizos*, *mulatos*, and *criollos*, in a space glowing with
-luminaries.
+professors, landowners with their slaves, and common worshippers of every
+caste---*indios*, *mestizos*, *mulatos*, and *criollos*---in a space glowing
+with luminaries.
 Whether they came out of habit or obligation, or in sincere devotion, there was
 little else for them to do but listen.
 Fortunately the chapter had ensured that its chapelmaster, Juan Gutiérrez de
@@ -105,23 +105,37 @@ The next two chapters analyze and interpret two families of villancicos that
 represent Christ as both singer and song, inviting hearers to listen for the
 harmonies between earthly, heavenly, and divine forms of music.
 The first is *Voces, las de la capilla*, set by Juan Gutiérrez de Padilla
-for Puebla Cathedral in 1657, which is connected to two other known settings of
-similar texts.
+for Puebla Cathedral in 1657; this is one version of a family with evidence for
+at least two previous settings.
 The second is *Suspended, cielos, vuestro dulce canto*, one of the
 best-attested families of villancicos, with eight documented settings of variant
 poetic texts in the later seventeenth century; the one extant complete musical
 setting is by Joan Cererols of the Abbey of Montserrat, around 1660.
-
 These villancicos for Christmas connect incarnation, voice, and creation, as
 they invite hearers to contemplate human music-making as a reflection of
 Christ's nature as the divine "Word made flesh" (Jn 1).
-Both textual traditions build on a patristic trope of Christ as
+Both textual traditions build on an ancient theological trope of Christ as
 *Verbum infans*---the infant, or unspeaking Word.
 Christ the Word does not need to speak because God is already communicating
 himself to humankind through the Christ-child's incarnate body.
 The villancicos set by Padilla and Cererols turn this into musical theology by
 imagining the baby Jesus not speaking, but singing; and by considering Christ
 himself as the song being sung.
+
+In this chapter we will listen closely to the words and music of Padilla's
+*Voces, las de la capilla* to understand how the Puebla chapel choir put their
+beliefs about music's power into practice through musical performance, and to
+learn what this piece tells us about how Hispanic Catholics listened to music.
+This villancico and other metamusical pieces related to it, I argue, trained
+worshippers to listen past human music-making, to strain to hear the unhearable
+higher music of the divine, a music that defies human imagining.
+By representing the trope of Christ as singer and song through this genre of
+sung poetry, the piece challenges listeners to hear the divine voice---the voice
+of Christ, the "unspeaking Word"---through the voices of the chorus.
+
+Within a Neoplatonic theological tradition, Catholics believed that singing and
+listening to singing in this way could unite the human community in harmony with
+each other with Christ, through the ritual of the church.
 Within the Spanish literary tradition of *conceptismo*, in which, under a
 single governing conceit, a poem may be read in two or more ways simultaneously,
 these metamusical pieces create a parallel discourse on music and theology by
@@ -130,37 +144,10 @@ In the terms of Boethius, these pieces use *musica instrumentalis* to point
 beyond themselves to higher forms of music---to the *musica humana*, the
 harmony of body and soul, and of human society; *musica mundana*, the
 harmony of the planetary and astral spheres; and even beyond the material world,
-to the music of the *cielo Empyreo*.
-In the Empyrean (English *Heaven* instead of *heavens* or sky), these
-pieces evoke the song of saints and angels, and even the mysterious harmonies of
-the Godhead: three persons in one Trinity, and the two natures of Christ as
-man and God.
-
-By tracing families and lineages of related villancicos on themes of heavenly
-music, part `ref:part:unhearable-music` allows us to see how the musical
-theology of villancicos developed over the course of the seventeenth century,
-and the shifting ways that poets, composers, and listeners understood the
-spiritual power of music to link hearing and faith.
-The pieces interpreted in these case studies all challenge hearers to listen for
-something more than human sounds; indeed, as these pieces reflect and reinforce
-a Neoplatonic theology of music, they invite devotees to listen for unhearable
-music, a music that defies human imagining, which creates harmony between the
-human community and the divine.
-
-Metamusical villancicos played a special role for Spanish composers as a kind of
-self-imposed *oposición* or proof piece.
-This type of piece offered them the opportunity to showcase their compositional
-craft and theological insight.
-By adapting poetry or music previously used by a teacher, predecessor, or rival,
-a composer could stake out his place in a tradition that was both artistic and
-theological.
-On the artistic level composers developed tropes for musical
-self-representation, vying with each other for the most overt, symbolically
-meaningful, and moving displays of musical artifice.
-As part of a theological tradition, the pieces on themes of heavenly music
-manifest changing ways of thinking about the relationship between earthly music
-and heavenly or divine music, in the midst of shifting early modern
-understandings of the cosmos, the human body, and society.
+to the music of the *cielo Empyreo* (Empyrean or Heaven as oposed to *heavens* or sky).
+At that higher level, these pieces evoke the song of saints and angels, and even
+the mysterious harmonies of the Godhead: three persons in one Trinity, and the
+two natures of Christ as man and God.
 
 These pieces connected faith and hearing by making Christ the Word audible
 through poetic and musical structures; in fact they in a sense "incarnate" the
@@ -171,8 +158,93 @@ these villancicos sought primarily not to teach doctrine, but to promote
 doxology---glorifying God through contemplative devotion.
 They invite listeners to respond to the mystery of the Incarnation in awe,
 wonder, and adoration.
-They advocate and embody a Neoplatonic listening practice in which music points
-beyond itself to a higher, unhearable music of heavenly truth.
+
+This chapter is a detailed study of the poetry, music, and theological context
+of one villancico---Padilla' *Voces, las de la capilla*---and to a lesser
+degree, two other texts related to it.
+Some might question whether this level of attention is appropriate for a genre
+that many scholars have assumed functioned as little more than secular
+entertainment in church, a parade of stock minor-theater characters and
+dogmatic clichés.
+The more villancicos one comes to know in depth, the less that stereotype will
+seem to apply.
+There are just as many sophisticated villancicos as there are silly ones, and
+they did not serve the same functions.
+On the contrary, this anonymous poem and Padilla's musical setting both demand
+and reward detailed analysis.
+In fact, that kind of close study is an extension of the same kind of
+contemplative listening practice the piece was designed to inculcate.
+The poem is cryptic even by seventeenth-century standards, and that is part of
+the point.
+Likewise, much of Padilla's musical ingenuity would have only registered with
+the most well-trained listeners, but again, that cannot have been an accident.
+Additionally, though, much of the poetic, musical, and especially theological
+context that the creators of this villancico could take for granted has been
+lost, and is only recovered with considerable effort.
+
+Theology was a major intellectual pursuit of the Spanish and New Spanish elite,
+and as such it was (and remains) a creative activity: not merely reciting dogmas
+approved by the church, but playfully seeking out ever-new ways of connecting
+revealed truth to observed experience.
+Thinking theologically in an early modern Catholic sense meant building 
+seemingly endless chains of association and allusion among Biblical texts,
+writings of church fathers (patristics), medieval theologians, and the liturgy. 
+It meant interpreting new texts in light of these old ones, and reinterpeting
+the old ones in light of the new.
+And it grew out of and reinforced a view of the world as a book waiting to be
+read: one had to apply oneself to the effort of discerning how the sacred was
+imminent in the mundane and common.
+
+It is the central argument of this book that devotional music provided Spanish
+Catholics with a way of performing theology: making and hearing music was a
+creative pursuit in which people sought to create connections to God and to each
+other through musical structures.
+These same Spanish intellectuals who studied Augustine and Aquinas also learned
+the fundamentals of music on both theoretical and practical levels.
+They had read Boethius on the three levels of music, and they had some working
+knowledge of music notation---pitches and staff notation, rhythm and meter, and
+at least the general concept of consonance and dissonance in counterpoint.
+Those with more performing experience had been trained as boys in solmization in
+the tradition of Guido of Arezzo: they could sing the notes of the scale from
+*ut--re--mi* up to *la* on the three different hexachords on C (natural), F
+(soft/*mollis*), and G (hard/*durus*); they could name every note that could be
+sung by these syllables according its place on the upraised palm of the
+Guidonian hand, and they could go "outside the hand" for sharp and flat notes
+using *musica ficta*.  
+Metamusical villancicos brought these two domains of knowledge together.
+Even in simply reading the poetic texts of these pieces, or hearing them read,
+a person must know a fair amount of music theory in order to understand the
+theological concepts, and vice versa.
+When someone performed the musical setting of this kind of text, or heard it
+performed, they faced an even greater challenge to understand the words as
+projected through the music and perceive the ways the music depicted the sense
+and affect of the text. 
+
+The reward for taking this music seriously today as a source for historical
+theology about music is a richer understanding of the intellectual culture of
+imperial Spain and a holistic sense of how devotional music served theological
+and social functions in Hispanic communities, even creating relationships across
+the Atlantic between poets, musicians, and institutions in the mainland and in
+the colonial viceroyalties.
+In the colonial context of seventeenth-century Puebla, villancicos like this
+catered to the religious and social demands of a highly literate and
+theologically adept circle of listeners, while also making a broader appeal to
+the larger public.
+As the case studies in part `ref:part:unhearable-music` will demonstrate,
+Spanish chapelmasters used metamusical villancicos socially to prove their craft
+as master musicians and establish links of kinship to teachers and fellow
+musicians who set the same or similar texts and developed the same kinds of
+musical-theological tropes.
+On the artistic level composers developed tropes for musical
+self-representation, vying with each other for the most overt, symbolically
+meaningful, and moving displays of musical artifice.
+As part of a theological tradition, the pieces on themes of heavenly music
+manifest changing ways of thinking about the relationship between earthly music
+and heavenly or divine music, in the midst of shifting early modern
+understandings of the cosmos, the human body, and society.
+Even as those conceptions were changing, villancicos of the Spanish Empire
+continued to promote and embody a Neoplatonic listening practice in which music
+points beyond itself to a higher, unhearable music of heavenly truth.
 
 
 ### "Voices of the Chapel Choir" and the "Unspeaking Word"
@@ -212,7 +284,7 @@ Man---referring to the first man, Adam, being cast out of Paradise.
 Christ "went up so high" in "sustained tones of weeping"---suffering on the
 cross for human redemption.
 Christ "arose on the eighth" day---a traditional way of referring to the
-Sunday on the Resurrection---"in the triune."
+the Resurrection on Easter Sunday---"in the triune."
 [See the entries for the numbers eight and three in @Bongo:NumerorumMysteria and
 @Ricciardo:CommentariaSymbolica.]
 Reading this copla according to the other side of the conceit, the Christ-child
