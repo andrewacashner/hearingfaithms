@@ -1,3 +1,17 @@
+Within the Spanish literary tradition of *conceptismo*, in which, under a
+single governing conceit, a poem may be read in two or more ways simultaneously,
+these metamusical pieces create a parallel discourse on music and theology by
+playing on the rich symbolic heritage of musical words and concepts.
+In the terms of Boethius, these pieces use *musica instrumentalis* to point
+beyond themselves to higher forms of music---to the *musica humana*, the
+harmony of body and soul, and of human society; *musica mundana*, the
+harmony of the planetary and astral spheres; and even beyond the material world,
+to the music of the *cielo Empyreo* (Empyrean or Heaven as oposed to *heavens* or sky).
+At that higher level, these pieces evoke the song of saints and angels, and even
+the mysterious harmonies of the Godhead: three persons in one Trinity, and the
+two natures of Christ as man and God.
+
+
 In an allegorical commentary on the liturgy, which was disseminated in
 manuscript and print versions across the Hispanic world---including copies in
 Puebla---Guillelmus Durandus called the whole time from the fall of Adam to the

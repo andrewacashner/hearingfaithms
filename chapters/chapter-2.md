@@ -146,7 +146,7 @@ Therefore the true Word of God was not confined to Scripture or doctrines
 alone---the Word was a person, Jesus Christ, to whom the prophetic scriptures
 testified and from whom the Church's doctrine flowed.
 [@Catholic:Catechismus1614, 9: 
-"Omnis autem doctrinæ ratio, quæ fidelibus tradenda sit, verbo Dei
+"Omnis autem doctrinae ratio, quae fidelibus tradenda sit, verbo Dei
 continetur, quod in scripturas, traditionesque distributum est."]
 In the words of John's gospel, Jesus Christ himself was the *logos* or *verbum*
 (John 1:1), the "Word made flesh." 
@@ -165,7 +165,7 @@ Church's teaching, obeying that Word, and encountering Christ who was the Word.
 The absolute center of the Church's teaching, according to the catechism, was
 found in Christ's own words in John 17:3, "This is eternal life, that you should
 know the only true God, and the one whom he sent, Jesus Christ."
-[@Catholic:Catechismus1614, 6: "Hæc est vita æterna, vt cognoscant te solùm
+[@Catholic:Catechismus1614, 6: "Haec est vita aeterna, vt cognoscant te solùm
 verum Deum, & quem misisti, Iesum Christum."]
 All the Church's teachers should exert themselves to the end that 
 
@@ -176,10 +176,10 @@ All the Church's teachers should exert themselves to the end that
 > whom they can be saved (Acts 4:12), since Christ is the atonement for our sins
 > (1 John 2:2).
 [@Catholic:Catechismus1614, 6 (the scriptural citations are in marginal notes): 
-"Quamobrem in eo præcipuè Ecclesiastici doctoris opera
+"Quamobrem in eo praecipuè Ecclesiastici doctoris opera
 versabitur, vt fideles scire ex animo cupiant, Iesum Christum & hunc
 crucifixum: sibíque certò persuadeant, atque intima cordis pietate, &
-religione credant, aliud nomen non esse datum hominibus sub cœlo, in quo
+religione credant, aliud nomen non esse datum hominibus sub coelo, in quo
 oporteat nos saluos fieri: siquidem ipse propitiatio est pro peccatis
 nostris."]
 
@@ -213,9 +213,9 @@ ministers to find a way to make Christ the Word audible:
 > who possess a well-trained sense* should be filled up by spiritual food.
 [@Catholic:Catechismus1614, 2, 8--9 (emphasis added): 
 "Cvm autem fides ex auditu concipiatur, perspicuum est, quàm necessaria semper
-fuerit ad æternam vitam consequendam doctoris legitimi fidelis opera, ac
+fuerit ad aeternam vitam consequendam doctoris legitimi fidelis opera, ac
 ministerium [...] vt videlicet intelligerent, que ad hoc ministerium vocati
-sunt, ita in tradendis fidei mysteriis, ac vitæ præceptis, doctrinam ad
+sunt, ita in tradendis fidei mysteriis, ac vitae praeceptis, doctrinam ad
 audientium sensum, atque intelligentiam accommodari oportere, vt cùm eorum
 animos, qui exercitatos sensus habent, spirituali cibo expleuerint [...]."]
 
@@ -224,12 +224,12 @@ customs, condition" of their charges, to give milk to spiritual infants and
 solid food to the maturing, to raise up a "perfect man [*virum perfectum*],
 after the measure of the fullness of Christ." 
 [@Catholic:Catechismus1614, 8:
-"Obseruanda est enim audientium ætas, ingenium, mores, conditio [...]. sed cùm
+"Obseruanda est enim audientium aetas, ingenium, mores, conditio [...]. sed cùm
 alij veluti modò geniti infantes sint, alij in Christo adolescere incipiant,
-nonnulli verò quodammodo confirmata sint ætate, necesse est diligenter
+nonnulli verò quodammodo confirmata sint aetate, necesse est diligenter
 considerare, quibus lacte, quibus solidiore cibo opus sit, ac singulis ea
-doctrinæ alimenta præbere, quæ spiritum augeant, donec occurramus omnes in
-vnitatem fidei, & agnitiones filij Dei, in virum perfectum, in mensuram ætatis
+doctrinae alimenta praebere, quae spiritum augeant, donec occurramus omnes in
+vnitatem fidei, & agnitiones filij Dei, in virum perfectum, in mensuram aetatis
 plenitudinis Christi."]
 
 The catechism's principle of accommodation was exemplified in vernacular
@@ -331,7 +331,7 @@ music might have to move people's souls, and whether the stories are true that
 were written about the miraculous effects of ancient music." 
 [@Kircher:Musurgia, bk. 7, p. 549: 
 "Vtrum, cur, & quomodo Musica uim habeat ad animos hominum commouendos, & vtrum
-vera sint, quæ de mirificis Musicæ Veteris effectibus scribuntur."]
+vera sint, quae de mirificis Musicae Veteris effectibus scribuntur."]
 Kircher's contribution to this favorite controversy of the Renaissance is to
 defend the superiority of modern music on the basis of, among other factors, its
 increased ability to move listeners through varieties of musical structure and
@@ -361,8 +361,8 @@ how sacred music can move those who are disposed to it:
 > carried away beyond himself to that place where those joyful things are
 > true. 
 [@Kircher:Musurgia, bk. 7, p. 550: "Sicuti contra, si quis Deo deuotum hominum
-rerumque cœlestium, meditationi deditum in exoticos affectus raptusque mentis
-commouere vellet is supra insigne aliquod verborum thema, quod rerum cælestium
+rerumque coelestium, meditationi deditum in exoticos affectus raptusque mentis
+commouere vellet is supra insigne aliquod verborum thema, quod rerum caelestium
 dulcedinem, & suauitatem auditori in memoriam reuocaret, modulo dorio per
 clausulas interuallaque aptè adaptet, & experietur quod dixi verum esse, statim
 extra se factos dulcedine harmonica eò, vbi vera sunt gaudi rapi: vidi ego
@@ -410,7 +410,7 @@ concordia, consensus, & undequaque correspondens proportio; proportio autem
 numerorum in motu aeris elucescat; motus verò pro varia interuallorum, ascensus,
 descensusque ratione varius sit, spiritus quoque, siue aer internus implantatus,
 vti paulò ante ostensum fuit, iuxta proportionem motus aeris extrinseci
-moueatur, fit vt spiritus moti ope variȩ, indè in homini affectiones
+moueatur, fit vt spiritus moti ope variae, indè in homini affectiones
 nascantur."]
 
 Kircher seems to assume that the affective properties of different modes and
@@ -460,8 +460,8 @@ Moreover, "just as different nations enjoy a different style of music, likewise
 within each nation, people of different temperaments appreciate different styles
 that conform the most to their natural inclinations." 
 [@Kircher:Musurgia, 544:
-"Quod quemadmodum diversæ nationes diuerso stylo musico gaudent, ita & in
-vnaquaque natione diuersi temperamenti homines, diuersis stylis, vnusquisque suæ
+"Quod quemadmodum diversae nationes diuerso stylo musico gaudent, ita & in
+vnaquaque natione diuersi temperamenti homines, diuersis stylis, vnusquisque suae
 naturali inclinationi maximè conformibus afficiuntur."]
 What delights a person with a sanguine temperament might enrage or madden a
 melancholic listener; what has a strong effect on one person may have no effect
@@ -472,7 +472,7 @@ of the music is congruent [...] for unless the spirits of the receiving subject
 correspond exactly, the music accomplishes nothing." 
 [@Kircher:Musurgia, 550:
 "Musica igitur vt moueat, non qualecunque subiectum vult, sed illud cuius humor
-naturalis musicae congruit [...] quæ nisi recipientis subiecti spiritui extactè
+naturalis musicae congruit [...] quae nisi recipientis subiecti spiritui extactè
 respondeant, nihil efficient."]
 Furthermore, Kircher suggests that not only humoral temperament but also training
 and intelligence are a factor in individual listening, since he includes the
@@ -500,7 +500,7 @@ familiar with his audience and therefore "knows which strings to pluck"---a
 phrase that recalls Antonio de Azevedo's image of the religious teacher with
 harp in hand. 
 [@Kircher:Musurgia, 551: 
-"Nouerat enim prædicator fuorum auditorum inclinationem; nouerat chordam, quam
+"Nouerat enim praedicator fuorum auditorum inclinationem; nouerat chordam, quam
 tangere debebat."]
 But Kircher never fully resolves the tension between the universal power of
 music and the variables of individual subjectivity and cultural conditioning. 
@@ -552,7 +552,7 @@ such that the mind, having been opened by God to his mysteries, firmly and
 steadfastly gives assent." 
 [@Catholic:Catechismus1614, 15: 
 "Igitvr credendi vox, hoc loco putare, existimare, opinari, non significat, sed
-vt docent sacræ litteræ, certissimæ assensionis vim habet, qua mens Deo sua
+vt docent sacrae litterae, certissimae assensionis vim habet, qua mens Deo sua
 mysteria aperienti, firmè constantérq; assentitur."]
 This theology of faith begins with God's grace opening the mind of the passive
 person, but ends with an act of the individual will. 
