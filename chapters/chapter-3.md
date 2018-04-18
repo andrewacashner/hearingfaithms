@@ -491,36 +491,55 @@ them and elevate them to share in his glory.
 "The thirty-three" marks the completion of that saving work in Christ's death
 and resurrection.
 
-<!-- START up to now... transition; break up sentences & rephrase -->
-Now the poet turns even more strongly from using music as a metaphor to
-describing actual music-making.
-The estribillo brings together the whole creation of humans, animals (*hombres y
-brutos*, l. 20; also the reference to birdsong in l. 16), heavenly spheres (*las
-distancias*, a technical term in both astronomy and music), all joining with the
-angels in the chorus to praise God made Incarnate in their midst.
+The introduction and response have used musical terms with theological
+connotations, and vice versa, to establish the concept of Christ as a
+musician-king, heir to David.
+The voices in this section have been those of the chapel choir singing in the
+present about Christ's birth, and the voices of David and the prophets pointing
+to Christ the *infante*, who will fulfill their words by *being* the Word.
+Christ as son of David and son of God (that is, both human and divine) will
+complete God's heroic work and save humanity through his life and death.
+
+Now, in the estribillo (ll. 17--33), the poem evokes the musical voices at the
+moment of Christ's birth.
+Here the musical terms are used less as metaphors for theological concepts (as
+was the case for *divisa* and *destreza*) and more to imagine actual
+music-making.
+In other words, *destreza* referred to Christ's virtuosity in "putting notes to
+\[David's\] lyrics," but all this was a way of referring to Christ's saving life
+and death as the fulfillment of prophecy.
+In the estribillo, by contrast, the text uses musical terms to describe musical
+performance: it brings together the whole creation in praise of Christ, panning
+down from the celestial music of the spheres (*las distancias* or intervals, a
+techincal term in both astronomy and music), to the polychoral ensemble of
+"men and beasts" (*hombres y brutos*, l. 20) joining the angels.
 Like all poetry about music, this representation of music draws on the poet's
 experience of actual, contemporary music---thus the spheres sing "in one
-choir and the other," like Spain's polychoral ensembles.
+choir and the other" (*en uno y otro coro*, l. 18), like Spain's polychoral
+ensembles.
 
-The numbers here ("three by three, two by two, one by one") have a wide range of
-possible symbolic meanings, while at the most literal musical level it could
-describe the number of voices in a musical texture.
-Theologically, "two by two" would seem to be a reference to the animals on
-Noah's Ark (Gn 6:9), here referring not only to the animals in the stable, but
-also to the whole scene as a picture of the Christian church, a symbolic
-connection going back to the first century (1 Pt 3:18--22).
+The numbers here ("three by three, two by two, one by one") at the most literal
+level would seem to refer to the number of voices in a musical texture, and
+indeed Padilla picks up on this cue in arranging the voices for his musical
+setting of this passage.
+These numbers, like "the thirty-three," also have theological significance in
+the traditions of interpretation around Christ's nativity.
+"Two by two" would seem to be a reference to the animals on Noah's Ark (Gn 6:9),
+here referring not only to the animals in the stable, but also to the whole
+scene as a picture of the Christian church, a symbolic connection going back to
+the first century (1 Pt 3:18--22).
 [@Augustine:CivitateDei, 15:26]
-"Three by three" could be the nine ranks of angelic choirs, and
-"one by one" could refer to humans or to Christ himself, particularly his union
-of divine and human in a single body.
+"Three by three" probably refers to the traditional nine ranks of angelic choirs.
 [See the entry for the number nine in @Bongo:NumerorumMysteria; an example of
 the trope of the nine-rank angelic choir is the angelic canon for nine choirs of
 angels on the frontispiece of @Kircher:Musurgia.]
+"One by one" could refer to humans or to Christ himself, particularly his union
+of divine and human in a single body.
 
-Thus far the poet has directed the listener's (reader's) ear from attending to
-the chapel choir singing in the present, to the ancient temple choir of David
-and the voices of prophets through the centuries, and up to the moment when the
-angels led the song of Gloria at Christ's birth.
+Thus far the poet has directed the listener's ear from attending to the chapel
+choir singing in the present, to the ancient temple choir of David and the
+voices of prophets through the centuries, and up to the moment when the angels
+led the song of Gloria at Christ's birth.
 But all these voices, the poem now says, have been "awaiting the
 opportune time, the one who was before all time" (ll. 24--25).
 The true music of Christmas is Christ himself, and thus the next lines represent
@@ -530,63 +549,83 @@ The musical imagery here continues the conceit of the King as musician, a
 He either sounds the pitch *A (la, mi, re)* in Guidonian solmization with
 his voice as a tuning note (the same one used today), or sings an intonation on
 that note as a cantor would do.
+
+The poem emphasis the act of hearing voices through its grammatical structure.
+In the first fifteen lines of the estribillo there are only two simple verbs
+that are not participles or part of a dependent clause: *aguardan* in line 23 and
+*oí* (I heard) in line 27.
+The first, *aguardan* follows six verses describing the spheres, angels, men,
+and beasts, who all "await" the time of Christ's birth.
+After this, three more verses build up to *a la voz del padre oí* (at the voice
+of the Father I heard).
+This is the first and only use of the first person in the poem.
+From the opening invocation of *voces*, the reader has to wait all this time for
+a simple reference to hearing.
+The word *oí* make the reader a hearer, and situates the act of listening
+imaginatively in the middle of the nativity scene, surrounded by the chorus of
+creation.
+
+What did the speaker hear? 
+Singing, he says, in a song (*cantar por puntos de llanto/ O qúe canto*, ll.
+29--30).
+*Cantar* can mean both the act of singing and the thing sung, surely a
+purposeful ambiguity.
+But this is not the song of the creation chorus; rather this is what they were
+awaiting---the voice of Christ.
+That voice sings in *puntos de llanto* (tones of weeping); musically this seems
+to play on *puntos de canto llano* (plainchant), while theologically the
+reference to tears, like other elements of the poem, points to Christ's
+suffering.
+This connects Christ's cries at his birth with the "loud voice" with which he
+died (Mk 15:37).
 Another translation of the contorted syntax here might suggest that the poetic
 speaker actually "heard the voice of the Father singing," that is,
 *through* the voice of the child.
-This could also be a reference to the heavenly voice heard at Christ's baptism
-(Mt 3:13--17; Mk 1:9--11; Lk 3:21--22).
-At this cue, the speaker says, he heard singing (or a song *cantar*), not in
-*puntos de canto llano* (plainchant) but *puntos de llanto* (weeping).
-This connects Christ's cries at his birth with the "loud voice" with which he
-died (Mk 15:37).
-The song is "as much to be seen (or admired) as to be heard"---because the song
+This could also be a reference to the heavenly voice heard at Christ's baptism.
+^[Mt 3:13--17; Mk 1:9--11; Lk 3:21--22.]
+This song is "as much to be seen (or admired) as to be heard"---because the song
 and the singer are one and the same.
 
-This interpretation depends on reading "the sign of *A (la, mi, re)*" as a
-symbol of Christ himself.
-The poem says the voices were all awaiting "the one who was before all time," an
-appositive phrase referring to Christ, whom the Nicene Creeds declares was
-"begotten of the father before all ages \[*secula*\]".
+The song at the center of this poem's concentric circles of voices is the
+Christ-child himself.
+If the song is Christ, then, "the sign of *A (la, mi, re)*" is not just a
+reference to musical tuning; it connects to the *divisa* of the introduction to
+present Christ himself as a sign.
+The use of the letter A here calls up rich theological resonances, since Christ
+uses the first and last letters of the Greek alphabet to describe himself in the
+Revelation to John: "I am the Alpha and the Omega, the first and the
+last, the beginning and the end" (Rv 22:13).
+^[See also Rv 1:8, 21:6.]
+The Latin Vulgate, following the original Greek, simply uses the Greek letter A
+here, not spelled out.
+In Catholic theology, Christ is "first" and "the beginning" because, as the
+Nicene Creed declares, he was "begotten of the father before all ages."
 [@Catholic:Catechismus1614, 42: "ex patre natum ante omnia secula."]
-The reference to Christ's eternal existence together with the letter A recalls
-Christ's description of himself in the Revelation to John as "*alpha* and
-*omega*."
-The Vulgate simply uses the Greek letter for the first of these terms,
-literally, "I am *a* and *omega*."[^alpha-omega]
-This title indicates that Christ is "the beginning and the end," "the one who is
-and who was and who is to come" (Rv 1:8, 21:6, 22:13).[^Rev1-8]
+Thus in the villancico the reference to the "sign of A" follows the description
+of Christ as "the one who was before all time" (l. 24).
 The time symbolism works on a musical level as well, but the "sign of A" also
-suggests the musical pitch A.
-As will be argued below, the phoneme *a* (pronounced *ah*) also evokes the
-wordless cry of the baby Jesus as a form of music.
+suggests that the musical pitch A is meant to represent Christ himself.
+As will be argued below, the Spanish phoneme *a* (pronounced *ah*) also evokes
+the wordless cry of the baby Jesus as a form of music.
 
-[^alpha-omega]:
-This is an especially interesting choice since the Greek text of
-Rv 1:8 actually spells out *alpha* (but not *omega*).
-
-[^Rev1-8]:
-In both Greek and Latin, the phrase in Revelation 1:8 repeats exactly
-the words used for the name of God (the Hebrew tetragrammaton, *YHWH*) in
-the translations of Exodus 3:14 into those languages (Greek *hō ōn*, Latin *qui
-est*).
-
-The final couplet epitomizes the theology of Incarnation through a play on
-rising and falling musical lines: "Everything in Man is to ascend/ and
+The estribillo, and (because the estribillo is repeated at the end) the whole
+piece, concludes with the couplet, "Everything in Man is to ascend/ and
 everything in God is to descend" (ll. 32--33).
-This is a musical version of a common summary of the Incarnation as an exchange
-between God and man.
-As Lapide puts it, Christ "lowered himself to the earth and flesh, in order to
-lift us up to heaven. 'Therefore,' says Saint Anselm, 'God was made man, in order
-that man might be made God.'"
+These verses uses the musical structure of rising and falling musical lines (in
+modern theoretical terms, a voice exchange) to epitomize the theology of
+incarnation as an exchange between God and humanity.
+This concept was repeated in every theological text on Christ's birth.
+As Lapide's contemporary commentary expresses the idea, Christ "lowered himself
+to the earth and flesh, in order to lift us up to heaven. 'Therefore,' says
+Saint Anselm, 'God was made man, in order that man might be made God.'"
 [@Lapide:Gospels19C, 670, on Lk 2:7:
 "Depressit se in terram et carnem, ut nos eveheret in coelum. *Ideo*, ait S.
 Anselm, *Deus factus est homo, ut homo fieret Deus*."]
-This central theology of Christianity is represented in the poem through the
-musical concept of a contrapuntal voice exchange.
 
-The villancico began by drawing listeners' attention to the voices of Christmas,
-and exhorting the singing voices of the chapel choir to take note of their own
-singing while also listening for "what is sung" on a higher level.
+To sum up this reading of the poem, then, the villancico began by drawing
+listeners' attention to the voices of Christmas, and exhorting the singing
+voices of the chapel choir to take note of their own singing while also
+listening for "what is sung" on a higher level.
 The piece connects Christ and David as musician-kings, with Christ as the song
 that puts the prophetic "lyrics" of David and other Scriptural authors to
 music.

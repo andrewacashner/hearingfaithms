@@ -12,6 +12,17 @@ the mysterious harmonies of the Godhead: three persons in one Trinity, and the
 two natures of Christ as man and God.
 
 
+Before further analysis we should note that this poem is part of a family of
+related texts, in a tradition in which texts were varied creatively for each new
+musical setting; this interpretation is based on the particular version set by
+Juan Gutiérrez de Padilla for Puebla in 1657.
+We will focus first on the poem, but it is important to remember that this
+version of the poem is only available in the musical partbooks, and the music 
+shapes how we hear the poem even at a basic level of punctuation and the
+structure of lines and strophes.
+
+
+
 In an allegorical commentary on the liturgy, which was disseminated in
 manuscript and print versions across the Hispanic world---including copies in
 Puebla---Guillelmus Durandus called the whole time from the fall of Adam to the
