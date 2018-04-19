@@ -635,14 +635,14 @@ resurrection at "the thirty-three," upon the "sign" of the cross.
 Christ himself is the incarnate Word, and his infant cries are the true "sign of
 A," the "song" that sets the tone for all the other voices, "in one choir and
 another" of the Christmas manger, and at the Christmas liturgy in the
-present-day of the villancico's performance.
+time of the villancico's performance.
 
 ### Music about Music in the Voices of Puebla's Chapel Choir
 
 The poem sets up a chain of echoes, in which what God spoke through the voices of
 David and the other prophets reverberates in the song of the angels at the first
 Christmas and especially the voice of the Christ-child; and where all this
-resounds through the actual "voices of the chapel choir" in the present day.
+resounds through the actual "voices of the chapel choir" singing in the present.
 When Juan Gutiérrez de Padilla "puts notes to his lyrics," he uses his
 compositional ingenuity, and calls upon the virtuosity of his performers, to
 turn a series of poetic conceits *about* music into actual sounding music that
@@ -652,23 +652,48 @@ the higher levels of music through the sounding forms.
 
 Padilla crafts musical structures that clearly project the formal structure of
 the poem at the levels of grammar, phrasing, and metrical patterns.
-He projects the words clearly according to their prosody and grammatical
+He presents the words clearly according to their prosody and grammatical
 structure, and sets them to memorable melodic and rhythmic patterns.
-This approach fits with a post-Tridentine aesthetic of clarity in presenting the
-text, as well as with traditions from Spanish popular and theatrical traditions
-of singing poetry, especially traditions of adapting stock melodic formulas for
-singing *romance* poetry.
+This aspect of vocal music may be termed text projection.
+This approach fits with the aesthetic that prevailed in Catholic music after
+Trent, which valorized clarity in projecting the words through music.
+The text-driven approach also shows the influence of with traditions from
+Spanish popular and theatrical traditions of singing poetry, especially
+traditions of adapting stock melodic formulas for singing *romance* poetry.
 ^[XXX  cite ]
-The composer also depicts the meaning of the words through musical symbols and
-figures that correspond to concepts and imagery in the text (i.e.,
-"madrigalisms").
-In addition, he uses different stylistic registers and topics (that is,
-allusions to other pre-existing styles of music) to further both projection and
-depiction, as well as to instill an affective experience in the listener that
-matches with the goals of the poem.
 
-The large-scale structure of the setting highlights the distinct sections of the
-poem.
+In addition to projecting the text in a way that made it intelligible, Padilla
+also uses two other text-setting techniques---text depiction, and text
+expression.
+The composer depicts the meaning of the words through musical symbols and
+figures that correspond to concepts and imagery in the text.
+These include the same kind of "madrigalisms" favored in sixteenth-century Italy
+and Spain, as well as more arcane devices like numerological symbols of an even
+older vintage.
+
+In the technique of text expression, the composer goes beyond illustrating the
+text and uses different stylistic registers and topics (that is, allusions to
+other pre-existing types of music) to convey the meaning and feeling of the
+text.
+The composer dramatizes the text and uses music to heighten its rhetorical
+power.
+Text expression instills an affective experience in listeners that matches with
+the goals of the poem.
+Every vocal piece contains some element of text projection, depiction, and
+expression; and these aspects often overlap.
+
+In the case of this villancico, Padilla projects the text at the large 
+scale through the formal structure of sections and harmonic motion; and
+at the small scale through nuances of phrasing and rhythmic emphasis.
+He depicts the text by matching the musical conceits of the poem with
+musical figures that correspond literally---essentially, puns.
+The level of text painting seems to be Padilla's main focus in this piece, but
+he also expresses the text through contrasting styles with different affective
+associations, shaping the piece to build to a dramatic climax.
+<!-- XXX cite Burkholder for some of this? -->
+
+Padilla projects the structure of the text through the distinct sections of his
+setting.
 The poem begins with an introductory section, which will be useful to label
 *introducción* as many poetry imprints of other villancicos do.
 The introduction consists of two six-line strophes, each followed by the
@@ -676,6 +701,8 @@ same *respuesta* or response of a four-line strophe.
 The placement of rests and repeat markings in the performing parts makes clear
 that the response is sung after each of the six-line strophes.
 An *estribillo* follows, which is repeated after the two *coplas*.
+Each of these sections is demarcated in the music with silence and a change of
+texture, style, and rhythmic movement to match each part of the text.
 
 The piece's harmonic structure helps articulate the form of the poem.
 The piece is in mode I, in *cantus mollis*---that is, the one flat in the
@@ -685,24 +712,28 @@ The internal cadences in the introduction are on G (m. 19), D (m. 27), and G
 (m. 44); and the cadences at the end of the estribillo and of both coplas are
 also on G.
 These cadence points are in line with the prescriptions of contemporary
-theorists for modal counterpoint, while also punctuating the sections of the
-poem and making its grammatical and rhetorical structure clear to listeners.
+theorists for modal counterpoint.
 [@Cerone:Melopeo, 873--882, 883--885, 907--912; @Judd:RenaissanceModalTheory,
 364--406; @Barnett:TonalOrganization17C]
+Padilla uses thsoe conventions to punctuate the sections of the poem and make
+its grammatical and rhetorical structure clear to listeners.
 
 The composer has paid close attention to both metrical patterns and details of
-accentuation and diction.
+accentuation and diction, at the levels of strophes, verses, and individual
+words.
 Padilla begins the piece with the voices of the first choir moving together
 rhythmically to declaim the words in something like choral recitative.
+Padilla sets the first two lines of poetry (mm. 1--10) with relatively long note
+values on the stressed syllables, creating a deliberate, careful tone that
+embodies the poetic exhortation to "pay attention" to what is sung.
 For this poetry in *romance* meter, Padilla has the singers declaim the
 eight-syllable lines in pairs, with emphasis on the assonant even-numbered
 lines.
-In the Spanish national epic *Cantar de mío Cid*, the *romance* meter is
-arranged in sixteen-syllable lines, with a *caesura* in the middle and assonance
-at the end.
-[@Navarro:Metrica, XXX; @MenendezPidal:Crestomatia, 32--50; cf. also Old English
-and Germanic poetry.]
-Padilla's setting aurally projects the text as though it were arranged like
+He has the singers pause briefly between verse pairs, and punctuates the
+assonant lines with clear points of harmonic arrival.
+He articulates the end of the strophes in the introduction with full
+cadences.
+Padilla's setting thus aurally projects the text as though it were arranged like
 this:
 
 -----------------------------   ---------------------------
@@ -712,14 +743,16 @@ a lo de Jesús infante           y a lo de David monarca.
 -----------------------------   ---------------------------
 
 \noindent
-Padilla sets the first two lines of poetry (mm. 1--10) with relatively long note
-values on the stressed syllables, creating a deliberate, careful tone that
-embodies the poetic exhortation to "pay attention" to what is sung.
-He has the singers pause briefly where the *caesurae* would be, but punctuates
-the assonant lines with clear points of harmonic arrival.
-He articulates the end of the strophes in the introduction with full
-cadences.
+This structure mirrors the pattern of *romance* poetry as heard, rather than as
+written in the narrow columns of villancico imprints.
+In the national epic of medieval Spain, the *Cantar de mío Cid*, the *romance*
+meter is arranged the same way, in sixteen-syllable lines, with a *caesura* in
+the middle and assonance at the end.
+[@Navarro:Metrica, XXX; @MenendezPidal:Crestomatia, 32--50; cf. also Old English
+and Germanic poetry.]
 
+The opening phrase demonstrates Padilla's subtle attention to the sound and
+stress of the words.
 The first chorus sings the first word, *Voces*, beginning on the second
 subdivision of the ternary measure, with three minims for the first syllable and
 two for the second.
@@ -731,12 +764,11 @@ its two syllables and that projects its grammatical structure in the opening
 sentence of the poem.
 That first word, in a common device of Padilla's villancicos, is sung on the
 second minim of the measure: thus the leader could conduct the downbeat, cueing
-the singers to breathe, and then the chorus would sing their entrance, which
-because of its high tessitura and irregular, offbeat rhythms, seems suspended in
-the air.
+the singers to breathe, and then the chorus would sing their entrance. 
+This first phrase, because of its high tessitura and irregular, offbeat rhythms, seems suspended in the air in a way that would attract listeners' attention to the ethereal "voices of the chapel choir."
 The word *cuenta* (m. 6) is also sung on the second minim of the measure and is
 then held for three minims, syncopated across the downbeat.
-After this long not, like pulling back a spring, the metrical pattern is
+After this long note, like pulling back a spring, the metrical pattern is
 released and the voices flow in even, regularly accented minims on *con lo que
 se canta*.
 For the next phrase (*que es músico el rey*) Padilla creates the effect of an
@@ -748,6 +780,7 @@ on the level of text projection.
 Another example is the interjection *¡O qué canto!*, which Padilla starts on the
 last minim of the measure before the previous phrase has finished, exactly as an
 interjection should.
+<!-- START -->
 His setting of the estribillo is more madrigalistic---that is, more driven by
 text depiction---but still closely follows the natural accentuation patterns of
 the poetry.
