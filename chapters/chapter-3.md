@@ -1073,20 +1073,21 @@ lowly to point toward higher truths.
 
 <!-- *********************************************************************** -->
 
-### Theology of Christ as *Verbum infans*
+### Hearing the Christ-Child's Voice: Theology and Devotion
 
 By inviting hearers to listen for the voice of *Jesús infante*, Padilla's piece
-presents a new twist on a trope that extends back to Bernard of Clairvaux and
-further to Augustine---that of Christ as *Verbum infans*, "the unspeaking/infant
-Word."
+presents a new, musical twist on a trope that extends back to Bernard of
+Clairvaux and further to Augustine---that of Christ as *Verbum infans*, "the
+unspeaking/infant Word."
 This trope continued to be turned and refined through the sixteenth and
 seventeenth centuries, and can be found in Christmas sermons and exegetical
 commentaries on the Gospel infancy narratives that were widely available in
 Padilla's day and that would have been familiar to a university-educated priest.
 The feast of Christmas centered on devotion to the incarnation of Christ as a
-child, the "Word made flesh"; this piece of devotional music presents a poetic
-and musical discourse on Christ's incarnation by conceiving of "the Word" in
-musical terms and then representing that concept in actual music.
+child, the "Word made flesh. 
+This devotional music presents a poetic and musical discourse on Christ's
+incarnation by conceiving of "the Word" in musical terms and then representing
+that concept in actual music.
 
 #### The Christmas Imaginary
 
@@ -1130,13 +1131,12 @@ the text and illustrations of contemporary theological books.
 The visual and performing arts preserved in such historic sources represent only
 a portion of the lively variety of customary social practices connected with the
 feast---gift-giving, traditional foods, popular songs from oral tradition.
-both official sources like the liturgy, creeds, catechisms, commentaries, and
+Both official sources like the liturgy, creeds, catechisms, commentaries, and
 homilies as well as unofficial popular devotion drew from and contributed to a
 commmon fund of Christmas tropes, which by the seventeenth century was filled to
 overflowing.
 The function of early modern Catholic feasts was not so much to teach people
-that Christ *is* something, as to cultivate to devotion to Christ *as*
-something.
+that Christ *is* something, as to cultivate devotion to Christ *as* something.
 In theological terms, the primary goal was doxology, not indoctrination.
 
 Padilla's villancico was performed in the midst of these Scriptures and
@@ -1147,10 +1147,15 @@ Though oral tradition was probably still the most important force in cultivating
 the Christmas imaginary in early modern Spain, printed theological literature
 disseminated and reinforced these tropes in Padilla's day and makes them
 accessible today.
-The large number of compendia of patristic commentaries on Scripture and model
-sermons preserved from Puebla's seminary and convent libraries provide evidence
-for the high level of learning among New Spanish clergy and documents their
-spiritual formation (table `ref:table:puebla-compendia`).
+The historic libraries of Puebla's seminaries and convents are preserved today
+in the city's rare-book archives (the Biblioteca Palafoxiana and Biblioteca
+LaFragua), and these collections include a large number of compendia of
+patristic commentaries on Scripture, model sermons, and both vernacular
+devotional books and learned Latin theological treatises (table
+`ref:table:puebla-compendia`).
+These collections provide evidence for the high level of learning among New
+Spanish clergy like Juan Gutiérrez de Padilla and documents the currents that
+formed them spiritually.
 
 (insert table `ref:table:puebla-compendia`)
 `label:table:puebla-compendia`
@@ -1158,9 +1163,11 @@ spiritual formation (table `ref:table:puebla-compendia`).
 The Christmas liturgy provided the foundation for the theology behind this
 trope, through the way the ritual texts framed the interpretation of
 Scripture within the Church's exegetical traditions.
-Certain passage of Scripture treating Christ's birth, his Messianic identity,
+Certain passages of Scripture treating Christ's birth, his Messianic identity,
 and the theology of incarnation became classic Christmas *loci theologici*
-through the mutually reinforcing practices of, first, reading and singing these
+(points for theological discussion).
+These passages and their interpretation within the theology of Christmas were
+mutually reinforced by the practices of, first, reading and singing these
 passages in the developing Christmas liturgy, and, second, interpreting these
 passages in preaching and commentaries.
 [On patristic exegesis and its influence, see @Kannengiesser:PatristicExegesis;
@@ -1170,9 +1177,8 @@ Matins liturgy with Psalm 2 was influenced by the interpretation of that psalm
 as a Messianic prophecy in patristic exegesis---such as the sermons of Pope
 Saint Leo the Great, Pope Saint Gregory the Great, and Saint Ambrose, which were
 included in Matins as the lessons of the second and third Nocturnes. 
-<!-- XXX repitition pope st leo -->
 Moreover, the Scripture's placement in this liturgical context in turn
-reinforced the Messianic interpretation.
+strengthened the Messianic interpretation.
 
 The foundation of the Christmas feast was devotion to "Jesus Christ, \[God's\]
 only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin
@@ -1183,8 +1189,8 @@ Dominum nostrum";
 @Catholic:Catechismus1614, 46, "Qui conceptus est de Spiritu sancto, natus ex
 Maria virgine."]
 The Roman Catechism explains this article by answering a classic theological
-question that appeared in many other commentaries, *Cur Deus incarnatus fuerit*
-(Why God became incarnate).
+question that appeared in many other commentaries, "Why did God become
+incarnate?"
 The catechism instructs pastors to teach the "admirable mystery of the concept"
 by having "the faithful repeat by memory \[...\] that he \[Christ\] is God, who took
 on human flesh, and thereby was truly 'made man'---which cannot be grasped by
@@ -1199,15 +1205,21 @@ denique finem hominem fieri voluisse, vt nos homines filij Dei renasceremur.
 Haec cùm attentè considerauerint, tum verò omnia mysteria, quae hoc articulo
 continentur, humili ac fideli animo credant, & adorent: nec curiosè & quod sine
 periculo vix vnquam fieri potest, illa inuestigare, ac perscrutari velint."]
+The important point here is not simply the basic theology of incarnation (though
+understanding that is central), but the way the catechism presents this as a
+source of wonder and amazement---in short, as an object of devotion.
 
-To answer the same question, Lapide draws on Biblical and patristic sources to
-show that Christ's birth is integral to the Christian gospel of salvation
-through Christ's sacrifical death and resurrection.
-In the birth of Christ, he writes "the Word was made flesh, God was made man,
-the Son of God was made the son of a Virgin":
+Cornelius á Lapide presents Christ's birth in the same devotional manner even
+within the highly learned genre of his Latin Biblical commentary.
+Lapide draws on Biblical and patristic sources to show that Christ's birth is
+integral to the Christian gospel of salvation through Christ's sacrifical death
+and resurrection, and that this miracles "stupefies" those who would contemplate
+it:
 
-> This was of all God's works the greatest and best, such that it stupefied and
-> stupefies the angels and all the saints.
+> The Word was made flesh, God was made man, the Son of God was made the son of
+> a Virgin.
+> This \[...\] was of all God's works the greatest and best, such that it
+> stupefied and stupefies the angels and all the saints.  
 > In this God demonstrated his full power by uniting man to God, the mire to the
 > Word, the earth to heaven; and showed his full wisdom, since the one who could
 > not suffer and redeem us in his divinity, put on flesh in the Virgin, since in
@@ -1216,8 +1228,9 @@ the Son of God was made the son of a Virgin":
 > God, he satisfied God's wrath and vengeance by dying on the cross; and all his
 > goodness, which he poured out completely in order to give away his gifts to
 > us; "For he was made the son of men, so that he might make us sons of God,"
-> says Saint Augustine. "He was born on the earth, so that man might be reborn
-> into heaven," as Saint Gregory says.
+> says Saint Augustine. 
+> "He was born on the earth, so that man might be reborn  into heaven," as Saint
+> Gregory says.
 [@Lapide:Gospels19C, 50, on Mt 1:16:
 "q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
 Filius Virginis.
@@ -1232,16 +1245,17 @@ bonitatem, quia semetipsum exinanivit, ut nos suis donis repleret: *Ac factus
 est filius hominis, ut nos efficeret filios Dei*, ait S. August. *Natus est in
 terra, ut homo nasceretur in coelo*, ut ait S. Gregorius."]
 
+\noindent
 This is the basic theology of exchange between God and Man by means of Christ's
 Incarnation that was celebrated, and enacted, in the Christmas liturgy.
-Padilla's villancico text puts this in musical terms, speaking of Christ as
+Padilla's villancico text puts this in musical terms when it speaks of Christ as
 "forming the consonances of Man and God" and concluding that "Everything in God
 is to descend, and everything in Man is to ascend."
 
 #### "As Much to Be Heard as to Be Admired"
 
 These formulations not only explain God's action in becoming Incarnate for human
-salvation, but also model how the faithful should respond---worshiping and
+salvation, but also model how the faithful should respond---worshipping and
 serving Christ with wonder and admiration, like the shepherds of Bethlehem.
 While the Incarnation was certainly a dogma, a "rule of belief," even the
 offical catechism moves beyond simply defining a theological concept, to include
@@ -1297,7 +1311,6 @@ magnum mysterium et admirabile sacramentum*:
 Dominum natum, iacentem in praesepio: \* Beata Virgo, cuius viscera meruêrunt
 portare Dominum Christum. *Versicle.* Ave Maria, gratia plena: Dominus tecum."]
 
-<!-- XXX move up? -->
 The chapter mandated that while "the lessons should be sung in their entirety,"
 "the *chanzoneta* shall serve for the Responsory, which shall be prayed speaking
 while the singing is going on."[^Puebla-Matins-AC]
@@ -1358,6 +1371,7 @@ Christ's birth:
 > What theme, then, can cause any greater wonder?
 [@LuisdeGranada:Xmas, para. 5 XXX]
 
+\noindent
 Paraphrasing Saint Cyprian, he goes on: 
 
 > I do not wonder at the figure of the world, nor the firmness of the earth
@@ -1370,7 +1384,7 @@ Paraphrasing Saint Cyprian, he goes on:
 > words, saying, "She gave birth to her only-begotten son, and she wrapped him
 > in some rags, and laid him in a manger, because she did not find another place
 > in that stable?
-
+>
 > O venerable mystery, more to be felt than to be spoken of; not to be explained
 > with words but to be adored with wonder in silence. 
 > What could be lower than a manger, which is a place for beasts, and what could
@@ -1399,8 +1413,6 @@ Quis enim non attonitus stupeat, si profunde hunc puerum inspiciat, eumque
 rogat, Quis es tu, ô parvule Bethlehemitice? eumque audiat respondentem: Disce
 id ex Isaia cap. 9. 6. *Parvulus natus est nobis, et filius datus est nobis*,
 etc."]
-
-#### Listening to the Christ-Child's Voice
 
 In addition to picturing the stable visually, Fray Luis exhorts worshippers to
 turn from sight toward hearing:
@@ -1672,12 +1684,13 @@ Covarrubias glosses Spanish *divisa* with the Latin *signum*, from the Greek
 *sēma*, sign; and Lapide calls Christ "the sign of reconciliation of the human
 race to God."
 [@Covarrubias:Tesoro, s.v. *divisa*; @Lapide:Gospels19C, 685--686, on Lk 2]
+
 Augustine connects the concept of the Word in John 1 to Christ's statement in the
 Revelation to John, "I am *alpha* and *omega*, first and last, beginning and
 end" (Rv 22:13).
 "And just as no letter comes before *alpha*," Augustine preaches, nothing
 precedes Christ or follows after him, "for he is God."
-In the villancico's terms, "the one who is before time" (l. 24).
+In the villancico's terms, he is "the one who is before time" (l. 24).
 [@Augustine:Opera1555, vol. 10, 118r, In Natali Domini 2:
 "Si fides assit, aperta est ratio qua Christus nunc minor, nunc aequalis patri
 sacris voluminibus asseratur, sicut ipse de se dicit, Ego primus & novissimus.
@@ -1685,7 +1698,6 @@ Indubitanter agnosce quòd priorem non potest habere qui primus est.
 Item, Ego sum α et ω. Et sicut alpha litera nulla praecedit, ita & filium dei
 nulli secundum constat esse, quia deus est."
 See also @Lapide:Apocalypse1627, on Rv 1.]
-
 Augustine uses the first and last letters of the Greek alphabet to explain the
 doctrine of the two conceptions of Christ, namely, that the Son of God was
 begotten eternally of the Father, but born temporally of the Virgin.
@@ -1729,7 +1741,7 @@ cries, the baby Jesus first cried out with the inarticulate vowel *A*,
 expressing in this sound his essenced as *alpha* and *omega*, as incarnate Word.
 Of course, A is also the first of the musical tones alphabetically, and may have
 been used as a common tuning pitch, as today.
-^[XXX  evidence ]
+<!-- XXX  evidence  -->
 The sound of his voice in this context expressed Christ's identity as the son of
 Adam, while also serving as a tuning note, or intonation, for a new song to
 replace the "wandering song" given to "the first man" (l. 34--35).
@@ -1976,7 +1988,7 @@ from *Cantores* but that both versions are based on an earlier source than the
 1642 print.
 
 The metrical patterning of the three texts also suggests that Padilla's version
-is the original.
+reflects an earlier stage of the tradition.
 First, Padilla's text features a *respuesta* section: this structure was more
 commonly used in villancicos before 1640, though Padilla, now in his senior
 years, continued to use the form in the 1650s.[^respuesta]
@@ -2066,25 +2078,13 @@ version of the poem, and, one may imagine, a more modern musical style as well.
 `label:table:Voces-connections`
 
 Padilla almost certainly knew of Jalón's version from the poetry imprint, since
-the single extant source of *Cantores* survives in Puebla in a binder's
-collection that includes other texts with correspondences to Padilla's
-villancicos.[^Puebla-Seville-Binders-collection]
+the single extant source of *Cantores* survives in Puebla.
 Padilla regularly used texts of peninsular imprints, such as his 1653 *A la
 jacara, jacarilla*, taken from a Madrid Royal Chapel imprint of a year earlier
 (E-Mn: VE/88/55).
 Padilla likely kept his own collection of imprints (if not this actual
 collection) as sources for composition, keeping current with the latest mainland
 trends.
-
-[^Puebla-Seville-Binders-collection]:
-It is part of a binder's collection of villancico imprints of the 1630s and
-1640s from Seville.
-The volume is held in an anonymous private collection in Puebla, and according to
-Gustavo Mauleón Rodríguez, who is cataloging these holdings, this binder's
-collection was originally bound with another collection of Seville villancicos
-which is preserved in Puebla's Biblioteca Lafragua; both bear the firemark of
-Puebla's Convento de la Merced and appear to be two parts of one original
-volume.
 
 If Jalón's villancico was a modernization of Santiago's, then, and the text was
 available to Padilla in New Spain through the imprint, why did Padilla choose to
