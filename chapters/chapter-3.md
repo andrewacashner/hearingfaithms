@@ -765,7 +765,9 @@ sentence of the poem.
 That first word, in a common device of Padilla's villancicos, is sung on the
 second minim of the measure: thus the leader could conduct the downbeat, cueing
 the singers to breathe, and then the chorus would sing their entrance. 
-This first phrase, because of its high tessitura and irregular, offbeat rhythms, seems suspended in the air in a way that would attract listeners' attention to the ethereal "voices of the chapel choir."
+This first phrase, because of its high tessitura and irregular, offbeat rhythms,
+seems suspended in the air in a way that would attract listeners' attention to
+the ethereal "voices of the chapel choir." 
 The word *cuenta* (m. 6) is also sung on the second minim of the measure and is
 then held for three minims, syncopated across the downbeat.
 After this long note, like pulling back a spring, the metrical pattern is
@@ -780,143 +782,53 @@ on the level of text projection.
 Another example is the interjection *¡O qué canto!*, which Padilla starts on the
 last minim of the measure before the previous phrase has finished, exactly as an
 interjection should.
-<!-- START -->
-His setting of the estribillo is more madrigalistic---that is, more driven by
-text depiction---but still closely follows the natural accentuation patterns of
-the poetry.
-Aside from the symbolic meanings of the two changes of meter (m. 45 and m. 60;
-see below), these shifts match the stress patterns implicit in these sections of
-poetry.
+Even as Padilla's setting of the estribillo emphasizes text depiction to a
+greater degree, the rhythm and phrasing still closely follows the natural
+accentuation patterns of the poetic text.
+The two meter changes (m. 45 and 60) match the stress patterns implicit in these
+sections of poetry, in addition to from the symbolic meanings they also seem to
+have.
 
 It is on the level of text depiction---representing the meaning of the text
 through musical figures and symbols---that Padilla demonstrates his full mastery
 of his craft by presenting an intricate discourse about music through music
 itself.
-As we have noted, the opening invocation to the "Voices of the chapel
-choir, keep count with what is sung" is voiced by one division of the polychoral
+As already noted, the opening invocation to the "Voices of the chapel choir,
+keep count with what is sung" is voiced by one division of the polychoral
 ensemble while the other chorus literally counts its rests until its entrance in
 the *respuesta*.
-The first chorus sings the word *cuenta* on a long, offbeat note, a
-blackened, dotted semibreve (that is, artificially perfected) that leaps off the
-page as a visual indication to the singer to "keep count," and makes a
-clear audible symbol as well.
-Padilla sets "the lightest dissonance" in mm. 14--19 by having the
-Altus I suspend across the first minim of m. 18, making a dissonant
-seventh against the Tenor's A---this forms a light dissonance that quickly
-resolves to F sharp and then to a cadence on G in m. 19.
-On the repeat of this section, it is easy to imagine that an experienced treble
-singing about "the trills of the dawn" in mm. 25--27 would have improvised a
-trill on the suspension at this cadence.
-[See Cerone's isntructions for improvisng ornaments at cadences,
--@Cerone:Melopeo, 545--546.] 
+The first chorus sings the word *cuenta* on a long, offbeat note that audibly
+captures the idea of "counting."
+It is notated as a blackened, dotted semibreve (that is, artificially perfected)
+that leaps off the page as a visual indication to the singer to "keep count."
+Padilla sets "the lightest dissonance" in mm. 14--19 by creating that: he has
+the Altus I suspend across the first minim of m. 18, making a dissonant seventh
+against the Tenor's A that quickly resolves to F sharp and then to a cadence on
+G in m. 19.
+
 In the *respuesta*, where Chorus II sings about awaiting "the thirty-three,"
 Padilla writes precisely thirty-three pitches for both of the sung vocal parts.
-
-Where the poem says that the whole world was "waiting" for "the
-sign"---that is, the Incarnate Christ---in Padilla's setting, that sign comes
-with the estribillo in m. 45, where the C meter sign indicates a shift
-to duple meter, after which the musicians shift from the declamatory style of
-the introduction to a more regular rhythmic pattern, moving together in
-*corcheas* (modern eighth notes).
+Just after the poem says that the whole world was "waiting" for "the
+sign," Padilla uses the C meter sign to indicate a shift to duple meter (m. 45).
+After this the musicians shift from the declamatory style of the introduction to
+a more regular rhythmic pattern, moving more quickly together in *corcheas*
+(modern eighth notes).
 Here Padilla depicts what the words say by building up a point of imitation
-"from one choir to the other" (mm. 45--50) and then creating
-polychoral dialogue (mm. 51--59).
+"from one choir to the other" (mm. 45--50) and then creating polychoral dialogue
+(mm. 51--59).
 Padilla sets the numbers in the poem literally: three performers for
 *tres a tres*, two for *dos a dos*, and one for *uno a uno*.
 
-The style of this section, contrasting with that of the introduction, is like
-that of a madrigal (music example `ref:music:Padilla-Voces-madrigal`).
-This section, then, is "music about music" in yet another sense, as Padilla refers
-to other genres and styles of music within one villancico.
-As the poem depicts the actual singing performed at the first Christmas, Padilla
-uses a style that evokes and embodies convivial group singing.
-The angels, planets, shepherds, and animals around the créche are represented
-not only as singing in the abstract---they are singing a madrigal.
-
-In fact, the play on numbers, "three by three" and so on, seems like a direct
-reference to the madrigal *As Vesta Was from Latmos Hill Descending* by Thomas
-Weelkes (published in Thomas Morley's collection *The Triumphes of Oriana* in
-1601).
-Weelkes's music, and that of other English madrigalists, did circulate in
-Iberia: his madrigals, and possibly this specific collection, were included
-along with Italian madrigals in the 1649 catalog of the music collection of
-Portuguese King João (John) IV in Lisbon.
-[@JohnIV:Catalog, no. 559, 584]
-It therefore seems plausible that this repertoire was also known in Spain
-(where Padilla lived into his 30s) and possibly Spanish America.
-As we will argue below, Padilla's villancico text appears to be based on an
-earlier piece performed in Lisbon, a setting of which was also part of João's
-collection.
-Even without this specific connection, Padilla's approach to matching music to
-words in the estribillo depicts the words' meaning in a manner that any musician
-of the time would have identified with madrigals.
-
-(insert music example `ref:music:Padilla-Voces-madrigal`)
-`label:music:Padilla-Voces-madrigal`
-
-Padilla's musical scene matches contemporary Nativity images that portray
-music-making around the manger.
-Padilla's Andalusian compatriot Francisco de Zurbarán depicted two levels of
-music in his *Adoration of the Shepherds*, painted for the high altar of the
-Carthusian monastery of Jerez de la Frontera in 1638--1639
-(figure `ref:fig:Zurbaran-Jerez-Adoracion`).
-In heaven above, angels sing to the accompaniment of the harp, while below,
-another angelic consort joins the company of worshippers in the stable, and they
-sing to the accompaniment of the lute.
-In Spain the harp was associated with both heavenly music and earthly church
-music (see chapter `ref:ch:Zaragoza`), and the lute, with musical genres
-performed outside of church, such as the madrigal.
-Villancicos crossed both domains, and therefore could incorporate references to
-both styles within them---much as Zurbarán's painting incorporates aspects of
-genre painting, the representation of earthy details from everyday life, into a
-representation of sacred history.
-[@Sanchez:Zurbaran, 31; @Cherry:Bodegon; @Haraszti-Takacs:Genre]
-Both visual and musical forms of crossover were especially fitting to represent
-the Christmas moment when the "maxima" and "breve," high and low, were brought
-together, and the music of the heavenly chorus broke through to be heard by
-humble shepherds.
-
-(insert figure `ref:fig:Zurbaran-Jerez-Adoracion`)
-`label:fig:Zurbaran-Jerez-Adoracion`
-
-Additionally, Zurbarán's image,  includes a bound lamb next to the manger as a
-symbol of Christ's fate as the paschal lamb, much as "the thirty-three" and
-other references in this villancico connect Christ's birth to his sacrificial
-death.
-The same trope is present may be seen in the manger scene in a 1613 Roman
-Breviary and the Adoration of the Shepherds on the retable of Puebla Cathedral
-(figure `ref:fig:Puebla-Ferrer-Pastores`, discussed below).
-[@Catholic:Breviarium1631, 168]
-
-By referencing different levels of musical style, Padilla maps contrasting types
-of human music onto the contrast of earthly and heavenly music.
-The phrase *grave, suave y sonoro* seems to have been a stock description of
-sacred music appropriate for liturgical worship.
-[On *suave* and other common vocabulary used to evoke music in Spanish poetry of
-the period, see @UribeBracho:OrfeoPhD.]
-The same words are used to describe the music of Christ as a musician (in fact,
-as a musical instrument) in José de Cáseda's *Qué música divina* from a
-half-century later, as discussed in chapter `ref:ch:Zaragoza`.
-In 1682 a nobleman used the same adjectives---*gravísima y suavísima
-música*---to characterize the music he endowed at Mexico City Cathedral for
-Matins for Holy Trinity.
-[@Goldman:Responsory, 140--141]
-Interestingly, in that case the donor requested that only Latin-texted
-responsories, and *not* villancicos be performed, suggesting that the vernacular
-genre was not suitably "solemn."
-In Padilla's piece, the term is used within a villancico to refer to a higher
-form of music-making, within the Neoplatonic tradition of using that which is
-lowly to point toward higher truths.
-
 At the phrase *y aguardan tiempo oportuno* ("and they await the opportune time,"
-m. 60), Padilla shifts meter signatures again, returning to ternary meter (CZ)
-with a new lilting rhythmic pattern.
-This creates a sense of arrival in a new *tiempo*, which then abruptly halts at
-the end of the phrase, *quien antes del tiempo fue* ("the one who was before
-time", mm. 63--65).
+m. 60), Padilla shifts meter signature, returning to ternary meter.
+The 1672 music treatise of Lorente says the term *tiempo* can denote both the
+meter and the symbol that sets the meter.
+[@Lorente:Porque, bk. 2, 149]
+After the time signature C3 (or CZ), then, Padilla begins a new lilting rhythmic
+pattern that creates a sense of arrival in a new *tiemo*.
+He abruptly halts this movement at the end of the phrase, *quien antes del
+tiempo fue* ("the one who was before time", mm. 63--65).
 As Christ is "the first and the last" (Rv 1:17), this halt is fitting.
-The 1672 theory treatise of Lorente says the term *tiempo* can denote the meter
-and the symbol that sets the meter.[@Lorente:Porque, bk. 2, 149]
 Thus, since Christ existed before all time theologically, Padilla puts this
 phrase "before the time signature" musically.
 
@@ -926,17 +838,18 @@ los ojos en mi*.
 Likewise, Padilla's metamusical conceits play on the musical terms in the most
 literal sense, realizing the solmization syllables in several ways at the same
 time (music example `ref:music:Padilla-Voces-alamire`).
-Both Altus I and Tenor I sing the word *a* on the pitch *A (la, mi, re)* (m.
-67).
-On the words *la mi re* (mm. 68--69), the Tiple I (a boy treble) sings the
-pitches D--C♯--D: in the soft hexachord the D would in fact be *la*; then the
-written sharp on C would alter it to a *mi* in *musica ficta*; and the final D
-could be *re* in the natural hexachord.
-On the same words, the Tenor sings D--A--D: *la--mi* in the soft hexachord, then
-*re* in the natural hexachord.
-At the end of this phrase (m. 72), the performers of all three voices sing the
-word *mi* by literally "putting their eyes on *mi*, with Tiple and Tenor on A
-(*mi* in the soft hexachord) and Altus on E (*mi* in the natural hexachord).
+Both Altus I and Tenor I sing the word *a* on the pitch known as *A (la, mi,
+re)* (m.  67).
+On the words *la mi re* (mm. 68--69), the Tiple I (boy treble) sings the
+pitches D--C♯--D, which could plausibly be sung to those syllables.
+In the soft hexachord (which starts on F) the D would in fact be *la*.
+The written sharp on C would alter it to a *mi* in *musica ficta*. 
+The final D could be *re* in the natural hexachord (which starts on C).
+On the same words, the Tenor sings D--A--D: this would be *la--mi* in the soft
+hexachord, then *re* in the natural hexachord.
+At the end of this phrase (m. 72), all three voices sing the word *mi* by
+literally "putting their eyes on *mi*: the Tiple and Tenor sing *mi* on A (in
+the soft hexachord) and the Altus sings *mi* on E (in the natural hexachord).
 
 (insert music example `ref:music:Padilla-Voces-alamire`)
 `label:music:Padilla-Voces-alamire`
@@ -957,47 +870,53 @@ The next phrase evokes both singing and listening---*a la voz del padre oí cant
 por puntos de llanto* (I heard the father's voice singing in weeping
 tones)---and on "I heard" (m. 77), all the voices cadence and then rest, as
 though to stop and listen.
-To create the effect of the interjection *¡O, qué canto!*, Padilla has the
-second chorus enter on the last minim of the measure (m. 83), before the first
-chorus has finished their phrase.
-We might speculate that the emphatic *O* in the succeeding passage may be
+Speculatively, the emphatic *O* in the interjection *¡O, qué canto!* might be
 intended to contrast with the *signo A (la, mi, re)*, marking Christ as *alpha*
 and *omega*.
 
 In the final couplet of the estribillo (*Todo en el hombre es subir/ y todo en
-Dios es bajar*, mm. 100--126), as the full chorus evokes the theological concept
-of God's descent and humankind's ascent through the Incarnation, Padilla creates
-a matching musical concept of contrasting ascending and descending gestures with
-opposed rhythmic profiles.
-In the first gesture, for Man ascending, the voices ascend stepwise in minims,
-in a lilting ternary dotted rhythm.
-this is first heard in Altus I and Tenor I, mm. 98--100, with the ascent
+Dios es bajar*, mm. 100--126), the full chorus evokes the theological concept
+of God's descent and humankind's ascent through the Incarnation. 
+Padilla matches the theological concept with the musical technique of
+contrasting ascending and descending gestures with opposed rhythmic profiles.
+In the first of these gestures, for Man ascending, the voices ascend stepwise in
+minims, in a lilting dotted rhythm with a strong ternary feel.
+This is first heard in Altus I and Tenor I, mm. 98--100, with the ascent
 highlighted by having the Tenor move through F sharp.
-In rhetorical terms this is *anabasis*.
-In the second gesture, for God descending, all the voices move
-downwards---*catabasis*---in emphatic duple rhythm with blackened semibreves,
-including passing through added E flats (Chorus I, mm. 100--104).
+In the second gesture, for God descending, all the voices move downwards in
+emphatic duple rhythm with blackened semibreves.
 The Tenor I has the highest number of blackened notes, singing a sequence of
-descending fourths (mm. 100--103), then thirds (mm. 108--112), and finally
-seconds (mm. 118--122) (figure `ref:fig:Padilla-Voces-TI-bajar`).
+descending intervals of decreasing size: first fourths (mm. 100--103), then
+thirds (mm. 108--112), and finally seconds (mm. 118--122) (figure
+`ref:fig:Padilla-Voces-TI-bajar`).
+Just as the ascent pushed up into sharps, so the descent sinks down into added
+E flats (Chorus I, mm. 100--104).
+[^anabasis]
+
+[^anabasis]:
+The appropriate rhetorical terms for these gestures would be *anabasis* (ascent) and
+*catabasis* (descent).
+XXX cf Chafe
 
 (insert figure `ref:fig:Padilla-Voces-TI-bajar`)
 `label:fig:Padilla-Voces-TI-bajar`
 
 When Padilla juxtaposes these ideas in the full polychoral texture, listeners
 can hear the fusion of both rising and falling melodic lines, and two different
-rhythmic systems---the duple-compound *sesquialtera* rhythm of "Man ascending"
-and the triple-simple rhythm of "God descending" (music example
-`ref:music:Padilla-Voces-subir_bajar`).
+rhythmic systems (music example `ref:music:Padilla-Voces-subir_bajar`).
+There is a clearly audible contrast between the rhythm of "Man ascending"
+(moving in a duple-compound feel resulting from *sesquialtera*) and that of "God
+descending" (triple-simple feel).
 In the final cadence, the Altus I combines the two gestures at once by singing
 the words "everything in God is to descend" to the music associated with "Man
 ascending" (mm. 124--126).
-The passage embodies the central theology of the Incarnation: through God's
-descent to become Man in Christ, Man may ascend to share in God's nature.
+The passage musically embodies the central theology of the Incarnation: through
+God's descent to become Man in Christ, Man may ascend to share in God's nature.
 
 (insert music example `ref:music:Padilla-Voces-subir_bajar`)
 `label:music:Padilla-Voces-subir_bajar`
 
+Padilla's literal approach to text depiction continues in the two coplas.
 Each of the two poetic coplas centers on a concept from music theory: the first
 plays with the notion of *peregrino tono* ("wandering song," or the plainchant
 *tonus peregrinus*); the second, on the contrasting rhythmic values of *la
@@ -1015,6 +934,10 @@ exactly what the Altus I sings on these words (mm. 128--129, music example
 `ref:music:Padilla-Voces-peregrino_tono`).
 The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
+^[In other versions of the *tonus peregrinus*, such as that in the *Liber
+usualis*, the medial cadence matches exactly with the music of the Altus I
+(G--B♭--A--G--F).
+XXX confirm chant dialect in Puebla]
 
 (insert figure `ref:fig:Cerone-tonus_peregrinus`)
 `label:fig:Cerone-tonus_peregrinus`
@@ -1039,8 +962,8 @@ lengthened note on *máxima* in the Tenor (mm. 153--154) over a long held note
 in the Bassus (mm. 154--155).
 Ironically, each of these long notes is actually a breve (music example
 `ref:music:Padilla-Voces-maxima`).
-How better to express the unity between these opposites than by vocalizing the name
-for one while singing the value of the other?
+How better, though, to express the unity between these opposites than by
+vocalizing the name for one while singing the value of the other?
 The Altus echoes with a blackened semibreve (mm. 154--155), which in this
 context is a long note made shorter, getting at the same concept a different
 way.
@@ -1051,14 +974,102 @@ maxima plus a breve (that is, eight measures in C3 plus two measures).
 (insert music example `ref:music:Padilla-Voces-maxima`)
 `label:music:Padilla-Voces-maxima`
 
-Padilla's setting as a whole is intimately connected to the sound and meaning of
-the poetry.
+This analysis shows that Padilla's setting as a whole is intimately connected to
+the sound and meaning of the poetry.
 Padilla has his chapel choir present the poem in a way that allows the words to
 be heard clearly, reflecting their grammatical structure and the poem's dramatic
 shape, while also embodying the conceits of the poetry in appropriate musical
 symbols and even adding some musical puzzles of his own.
 The contrasting styles in the piece would also work on a less intellectual, more
-experiential level, to move the affections of hearers.
+experiential level---that of text expression---to move the affections of hearers.
+
+The style of the estribillo, contrasting with the other sections, is like
+that of a madrigal (music example `ref:music:Padilla-Voces-madrigal`).
+This section, then, is "music about music" not only in the way it uses musical
+figures to represent music, but also by referring to multiple existing genres
+and style of music within one villancico.
+As the poem depicts the actual singing performed at the first Christmas, Padilla
+uses the style of a madrigal to evoke and embody convivial group singing.
+The angels, planets, shepherds, and animals around the créche are represented
+not only as singing in the abstract---they are singing a madrigal.
+
+In fact, the play on numbers, "three by three" and so on, seems like a direct
+reference to the madrigal *As Vesta Was from Latmos Hill Descending* by Thomas
+Weelkes (published in Thomas Morley's collection *The Triumphes of Oriana* in
+1601).
+Weelkes's music, and that of other English madrigalists, did circulate in
+Iberia: his madrigals, and possibly this specific collection, were included
+along with Italian madrigals in the 1649 catalog of the music collection of
+Portuguese King John (João) IV in Lisbon.
+[@JohnIV:Catalog, no. 559, 584]
+It therefore seems plausible that this repertoire was also known in Spain
+(where Padilla lived into his 30s) and possibly Spanish America.
+There may be a more direct connection to Lisbon, since a text closely related to
+Padilla's *Voces* was performed at the Royal Chapel in Lisbon and a setting with
+the same incipits was also part of John IV's collection (see below).
+Even without this specific connection, Padilla's approach to matching music to
+words in the estribillo depicts the words' meaning in a manner that any musician
+of the time would have identified with madrigals.
+
+(insert music example `ref:music:Padilla-Voces-madrigal`)
+`label:music:Padilla-Voces-madrigal`
+
+This stylistic reference echoes the way the music of Christmas is portrayed in
+contemporary Nativity images.
+Padilla's Andalusian compatriot Francisco de Zurbarán depicted two levels of
+music in his *Adoration of the Shepherds*, painted for the high altar of the
+Carthusian monastery of Jerez de la Frontera in 1638--1639
+(figure `ref:fig:Zurbaran-Jerez-Adoracion`).
+In heaven above, angels sing to the accompaniment of the harp, while below,
+another angelic consort joins the company of worshippers in the stable, and they
+sing to the accompaniment of the lute.
+In Spain the harp was associated with both heavenly music and earthly church
+music (see chapter `ref:ch:Zaragoza`), and the lute, with musical genres
+performed outside of church, such as the madrigal.
+Villancicos crossed both domains, and therefore could incorporate references to
+both styles within them.
+This is analogous to the way Zurbarán's painting incorporates aspects of genre
+painting---the representation of mundane details from everyday life---into a
+representation of sacred history.
+[@Sanchez:Zurbaran, 31; @Cherry:Bodegon; @Haraszti-Takacs:Genre]
+Both visual and musical forms of crossover were especially fitting to represent
+the Christmas moment when the "maxima" and "breve," high and low, were brought
+together, and the music of the heavenly chorus broke through to be heard by
+humble shepherds.
+
+(insert figure `ref:fig:Zurbaran-Jerez-Adoracion`)
+`label:fig:Zurbaran-Jerez-Adoracion`
+
+Additionally, Zurbarán's image includes a bound lamb next to the manger as a
+symbol of Christ's fate as the paschal lamb, much as "the thirty-three" and
+other references in this villancico connect Christ's birth to his sacrificial
+death.
+The same trope is present may be seen in the manger scene in a 1613 Roman
+Breviary and, most importantly for the Puebla context, the Adoration of the
+Shepherds on the retable of Puebla Cathedral (figure
+`ref:fig:Puebla-Ferrer-Pastores`, discussed below).
+[@Catholic:Breviarium1631, 168]
+
+By referencing different levels of musical style, Padilla maps contrasting types
+of human music onto the contrast of earthly and heavenly music.
+The phrase *grave, suave y sonoro* seems to have been a stock description of
+sacred music appropriate for liturgical worship.
+[On *suave* and other common vocabulary used to evoke music in Spanish poetry of
+the period, see @UribeBracho:OrfeoPhD.]
+The same words are used to describe the music of Christ as a musician (in fact,
+as a musical instrument) in José de Cáseda's *Qué música divina* from a
+half-century later, as discussed in chapter `ref:ch:Zaragoza`.
+In 1682 a nobleman used the same adjectives---*gravísima y suavísima
+música*---to characterize the music he endowed at Mexico City Cathedral for
+Matins for Holy Trinity.
+[@Goldman:Responsory, 140--141]
+Interestingly, in that case the donor requested that only Latin-texted
+responsories, and *not* villancicos be performed, suggesting that the vernacular
+genre was not suitably "solemn."
+In Padilla's piece, the term is used within a villancico to refer to a higher
+form of music-making, within the Neoplatonic tradition of using that which is
+lowly to point toward higher truths.
+
 
 <!-- *********************************************************************** -->
 
@@ -1776,7 +1787,7 @@ versions.
 As shown in table `ref:table:Voces-Cantores-settings`, there are two
 sources for a pre-1644 version beginning *Voces, las de la capilla*: a 1649
 catalog entry for a setting by Francisco de Santiago (then chapelmaster of
-Seville Cathedral) from the collection of Portuguese King João (John) IV, and a
+Seville Cathedral) from the collection of Portuguese King John IV, and a
 1642 poetry imprint of a performance, possibly of Santiago's setting, by the
 royal chapel in Lisbon.
 There is also a source for a variant version of the text, *Cantores de la
@@ -1796,7 +1807,7 @@ served as chapelmaster at Seville from 1617 (succeeding Alonso Lobo) to 1643
 [@Stevenson:SantiagoF; @Perez:DMEH-Santiago]
 <!-- XXX DMEH sv Sevilla? -->
 Santiago had maintained a lifelong association and correspondence with the Duke
-of Braganza, who after 1640 reigned as King João IV of Portugal.
+of Braganza, who after 1640 reigned as King John IV of Portugal.
 Santiago obtained permission from the Seville Cathedral chapter to visit Lisbon
 every five years (1625, 1630, 1635, and 1640).
 Whether Santiago wrote specifically for the royal chapel in Lisbon, or
@@ -1817,7 +1828,7 @@ text with the same incipits.[^Lisbon-1642-pliego]
 The imprint, as was typical, does not list the composer or poet's names.
 In support of the argument that the imprint corresponds to Santiago's setting is
 the evidence that in 1640, the year Santiago last visited Lisbon, an imprint
-records the performance by João IV's chapel of another villancico, *Anton
+records the performance by John IV's chapel of another villancico, *Anton
 Llorente y Bartolo* which would also later be included in the 1649 catalog among
 the works of Santiago.
 ^[L:Pn RES-189-1-p (no. 2); @JohnIV:Catalog, caixão 26, no. 675]
@@ -1865,7 +1876,7 @@ private collection, courtesy of Gustavo Mauleón Rodríguez.
 
 Compared to *Cantores*, Padilla's 1657 text *Voces, las de la capilla* is much
 closer to that in the 1642 Lisbon imprint and matches the incipits of Santiago's
-pre-1644 setting in the João IV catalog (table `ref:table:Voces-versions`).
+pre-1644 setting in the John IV catalog (table `ref:table:Voces-versions`).
 Padilla's use of this earlier text tradition demonstrates that some source
 crossed the Atlantic to Puebla, whether Padilla acquired it before emigrating in
 1622 or after.
@@ -2111,7 +2122,7 @@ preserved in Puebla.^[MEX-Plf: 80070-42010404]
 The Sánchez Garza collection, originally from the Conceptionist Convento de la
 Santísima Trinidad in Puebla, includes an anonymous musical setting of *Antón
 Llorente y Bartolo*.^[MEX:Mcen: CSG.014]
-The piece matches the incipits of a Santiago setting in the catalog of João IV;
+The piece matches the incipits of a Santiago setting in the catalog of John IV;
 the words are an abridged and adapted version of the text performed by the
 Lisbon royal chapel in 1640 when Santiago was visiting (as noted above).
 ^[L:Pn RES-189-1-p (no. 2); @JohnIV:Catalog, caixão 26, no. 675]
@@ -2138,7 +2149,7 @@ Santiago was hired at Seville without any public competition for the position,
 which would have been the pinnacle of achievement for any Spanish composer,
 particularly one from Andalucía.
 Padilla had just started his position in Cádiz---not a lowly post---but the
-appointment of  the relatively young Santiago would have deprived him of any
+appointment of the relatively young Santiago would have deprived him of any
 hopes of further advancement on the Spanish main.
 Other prominent posts in Madrid were taken, with Mateo Romero at the Royal Chapel
 since 1598, and at the presitigious Convento de la Encarnación, none other than
@@ -2458,7 +2469,7 @@ recipere noluerunt."]
 
 If the listeners were to imitate the shepherds, then, they would not only listen
 for the angelic choirs and look for Christ's presence sacramentally on the
-altar, but they would allow God to  move their hearts to receive him in
+altar, but they would allow God to move their hearts to receive him in
 faith---a faith that could motivate them to witness their faith to others, as
 the shepherds did.
 Christmas villancicos like Padilla's *Voces* and the related family of
