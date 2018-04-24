@@ -266,52 +266,73 @@ Even as those conceptions were changing, villancicos of the Spanish Empire
 continued to promote and embody a Neoplatonic listening practice in which music
 points beyond itself to a higher, unhearable music of heavenly truth.
 
-<!-- START -->
 
 ### "Voices of the Chapel Choir" and the "Unspeaking Word"
 
-The poem, whose author is unknown, is so elaborately contrived that it may seem
-completely unintelligible at the first encounter (poem example
-`ref:poem:Voces-Padilla`).
+Villancicos circulated in print and manuscript as poems, independently of their
+musical settings; and in the case of villancicos on the subject of music, it is
+necessary to understand the discourse about music that is presented in the poem
+alone before we can recognize the ways the composer has added meaning through
+actual music.
+The author of *Voces, las de la capilla*, as is the case for most villancicos,
+is unknown.
+As we will see there are multiple versions of this textual tradition, but since
+are primary goal is to understand Padilla's setting from 1657 Puebla, it will be
+most productive to concentrate on the version of the poem that Padilla set to
+music.
+
+The poem is so elaborately contrived that it may seem completely unintelligible
+at the first encounter (poem example `ref:poem:Voces-Padilla`).
 [@Cashner:WLSCM32, 37--38, 119--132; @Cashner:PhD, 133--203]
 The piece demands a high level of intellectual engagement to tease out the
 intricate conceit, and may thus be compared with what Bernardo Illari describes
 as "enigma" villancicos.
 [@Illari:Polychoral, vol. 2, 304--308]
-Part of its difficulty comes from the widespread influence of the poetry of Luis
-de Góngora, who played a similar role for Spanish literature on both sides of
-the Atlantic to that of Giambattista Marino in Italian letters, as the
-originator of a new aesthetic (referred to as *barroco* by Spanish literary
-scholars) that emphasized learned artifice and highly wraught dramatic effects.
-^[ as opposed to ... ]
-Poets writing after the manner of Góngora reveled in arcane plays
-on words, contorted Latinate syntax, and multiple levels of meanings.
-[@Gaylord:Poetry, 222--236; @Tenorio:Gongorismo; @Valbuena:Literatura, vol. 1,
-1014--1061]
+Part of its difficulty comes from the influence of the poetry of Luis
+de Góngora (1561--1627), who cultivated a new aesthetic that emphasized learned
+artifice and highly wraught dramatic effects, a style referred to as *barroco*
+by Spanish literary scholars.
+[@Gaylord:Poetry, 222--236; @Valbuena:Literatura, vol. 1, 1014--1061]
+Góngora's role in Spanish literature is similar to that of Giambattista Marino
+in Italian letters, with the difference being that Góngora had a much more
+widespread global influence, especially in New Spain.
+[@Tenorio:Gongorismo]
+Poets writing after the manner of Góngora reveled in arcane plays on words,
+contorted Latinate syntax, and multiple levels of meanings.
 This poem exemplifies the tradition of Spanish *conceptismo*, in which the poet
 creates a sustained analogy between at least two different things such that the
 understanding of each one informs the other.
-Here the two elements are music---specifically the voices of choral
-singing---and the Incarnate Christ at his birth.
+Here the two elements in the conceit are music---specifically the voices of
+choral singing---and the Incarnate Christ at his birth.
 
 (insert poem example `ref:poem:Voces-Padilla`)
 `label:poem:Voces-Padilla`
 
-The first of the two coplas provides a clear example of this technique.
-One can read these two strophes solely on the one plane referring to Christ's
+The first of the two coplas provides a clear example of this technique:
+
+----------------------------------  -------------------------------------------
+Daba un niño peregrino              A baby gave a wandering song 
+tono al hombre y subió tanto        to the Man, and ascended so high
+que en sustenidos de llanto         that in sustained weeping
+dió octava arriba en un trino.      he went up the eighth \[day\] into the triune.
+----------------------------------  -------------------------------------------
+
+\noindent
+One can read this strophe solely on the one plane referring to Christ's
 Incarnation and Passion, however elliptically.
 In the first copla, the Christ-child gave a "wandering song" to the
 Man---referring to the first man, Adam, being cast out of Paradise. 
 Christ "went up so high" in "sustained tones of weeping"---suffering on the
 cross for human redemption.
 The poem says Christ "arose on the eighth" day---a traditional way of referring
-to the the Resurrection on Easter Sunday---"in the triune."
+to the the Resurrection on Easter Sunday.
+He ascended "into the triune," the Godhead of three persons in one being.
 [See the entries for the numbers eight and three in @Bongo:NumerorumMysteria and
 @Ricciardo:CommentariaSymbolica.]
-Reading this copla according to the other side of the conceit, the Christ-child
-gave the *tonus peregrinus* chant formula to the Man, and, as a virtuoso singer,
-"he went up so high" that "in a cry of sharps," he "went up the octave in a
-trill."
+Reading this copla according to the other side of the conceit, the strophe
+describes a musical performance: the child intoned the *tonus peregrinus* chant
+formula, and, as a virtuoso singer, "he went up so high" that "in a cry of
+sharps," he "went up the octave in a trill."
 
 The poet has selected musical terms with double meanings that allow listeners
 with musical knowledge to think about theological concepts in a new way, and
@@ -335,19 +356,22 @@ civis, incola et dominus coeli ac paradisi";
 "ut doceret nos in terra esse peregrinos, cives vero coeli, ut ab hoc exilio
 magnis virtutum passibus tendamis in coelum, ceu patriam et civitatem nostram."]
 The composer and theorist Andrés Lorente in his 1672 music treatise takes up the
-"pilgrim song" trope, drawing on Vulgate Psalm 118:54, when he exhorts the
-aspiring musician to match the music of his compositions with "the spiritual
-Music of his person, cleansing his conscience, and rejoicing his soul with
-Divine Music, so that he may say with David, "Your right precepts have served as
-songs for me in the place of my wanderings \[*in loco peregrinationis meae*\])." 
+"pilgrim song" trope as a moral exhortation to aspiring musicians.
+The musician of virtue, he says, should match the music of his compositions with
+"the spiritual Music of his person, cleansing his conscience, and rejoicing his
+soul with Divine Music, so that he may say with David, "Your right precepts have
+served as songs for me in the place of my wanderings \[*in loco peregrinationis
+meae*\]" (Vulgate Ps 118:54).
 [@Lorente:Porque, 609:
 "la Musica espiritual de su persona, limpiando su conciencia, y alegrando su
 Anima con Musica diuina, para que pueda dezir con Dauid, *Cantabiles mihi erant
 iustificationes tuae in loco peregrinationis meae*."]
-Within this tradition, then, the villancico uses a chant tone to present
-Christ himself as the song given to sinful Man in his pilgrimage. 
+Within this tradition, then, the villancico poem uses the name of the chant tone
+to present Christ himself as the song given to sinful Man in his pilgrimage. 
 In the musical setting, Padilla quotes the chant formula literally, so that the
-symbol is present to the ear both in word and tone.
+symbol is present to the ear in both word and tone.
+
+<!-- START -->
 
 With this preliminary understanding of the poetic technique and its rich
 symbolic potential, we may recognize that the central conceit of the poem is to
