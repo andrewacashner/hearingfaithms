@@ -371,22 +371,26 @@ to present Christ himself as the song given to sinful Man in his pilgrimage.
 In the musical setting, Padilla quotes the chant formula literally, so that the
 symbol is present to the ear in both word and tone.
 
-<!-- START -->
-
 With this preliminary understanding of the poetic technique and its rich
 symbolic potential, we may recognize that the central conceit of the poem is to
 link the "voices of the chapel choir" with a higher, theological Music with a
 capital M, namely, the Christ-child himself.
 The poem evokes the musical voices of human singers, angelic choirs, ancient
 prophets, and even the crying voice of the newborn Christ.
-The second copla encapsulates the whole conceit: Christ is a divine musical
+The overall conceit is clearest in the second copla: Christ is a divine musical
 "composition," in which the divine chapelmaster "proves" his mastery at creating
-"consonances of a Man and God."
-In the introduction, it would seem that the "chapel" is performing before the
-king, like the Spanish *Capilla Real*; and this King, that is, God, "is a
-musician."
-His only-begotten son---his royal *infante*---is a composition through which
-this divine chapelmaster proves his craft.
+"consonances of a Man and God":
+
+---------------------------------   ------------------------------------------
+Hizo alto en lo divino              From on high in divinity,
+y de la máxima y breve              of the greatest and least
+composición en que pruebe           he made a composition in which to prove
+de un hombre y Dios consonancias.   the consonances of a Man and God.
+---------------------------------   ------------------------------------------
+
+\noindent
+Christ, the poem says, is a composition through which the divine chapelmaster
+proves his craft.
 Like Spanish composers who established their superior musicianship in
 competition with other applicants for a position through the audition process
 known as *oposición*, God demonstrates his mastery by creating concord between
@@ -395,19 +399,27 @@ Christ brings together infinite and finite ("maxima and breve"), and creates a
 consonance to restore the discordant relationship between sinful Man and the
 holy God by reconciling both in his own body.
 
-On the theological side of the conceit, who exactly is this king who is
-listening so carefully to the chapel choir's voices?
+The poem begins with the image of a "chapel"---that is, a musical
+ensemble---performing before the king, like the Spanish *Capilla Real* (quoted
+at the beginning of the chapter).
+This king "is a musician," listening carefully for any defect in the composition
+or performance: "he notes even the most venial dissonances."
+On the theological side of the conceit, who exactly is this king, who listens so
+carefully to the chapel choir's voices?
 The poet explicitly connects the king to "David the monarch," the paragon
 of Biblical musicians as both the traditional author of the psalms and as the
 founder of the first musical ensemble for worship in the ancient Hebrew
 temple (1 Chr 25).
-Calling Jesus *infante* identifies this child as David's heir---that is, as the
-Messiah; and the phrase *a lo de* (in the manner or style of) suggests that this
-child will be no less exacting a musical taskmaster than his ancestor.
+The poem explicitly identifies Jesus as the royal *infante*---heir to the
+throne.
+As a human, Jesus was the Messiah, heir to David's throne; as divine, he was the
+Son of God, second person of the Trinity.
+The phrase *a lo de* (in the manner or style of) suggests that this child will
+be no less exacting a musical taskmaster than his ancestor.
 
 It only becomes clear later in the poem that the word *infante* also points to
 another theological trope based on the double meaning of the Latin word *infans*
-as both infant and "unable to speak."
+as both "infant" and "unable to speak."
 In this tradition, the Christ-child is *Verbum infans*---the "unspeaking Word,"
 who does not need to speak because he himself *is* the Word.
 This villancico's conceit treats both the Word and the child in musical terms,
@@ -417,10 +429,19 @@ singing---making Christ both singer and song.
 
 Through this musical metaphor, the poem uses a puzzling series of music terms
 that are also Biblical allusions to present Christ as the theological
-fulfillment of the prophecies made to and through David, especially the psalms. 
+fulfillment of the prophecies made to and through David, especially the psalms:
+
+----------------------------------- -------------------------------------------
+Puntos ponen a sus letras           The centuries of his heroic exploits
+los siglos de sus hazañas.          are putting notes to his lyrics.
+La clave que sobre el hombro        The key that upon his shoulder
+para el treinta y tres se aguarda.  awaits the thirty-three.
+----------------------------------- -------------------------------------------
+
+\noindent
 In musical terms, Christ's life "is putting notes to his lyrics" (ll. 8--9), and
-thus his life is recounted cryptically with the technical vocabulary for
-describing a musical composition or performance.
+thus his life is recounted with the technical vocabulary for describing a
+musical composition or performance.
 Theologically, God had promised to David an heir to sit on his throne forever
 and deliver his people (2 Sm 7), and through Isaiah the prophet he renewed
 this promise by saying that a child would be born "upon whose shoulder" would
@@ -443,41 +464,55 @@ awaits "the thirty-three," suggesting some kind of musical measure.
 
 The second section of the introduction (ll. 11--16) depicts the moment of
 Christ's birth as a musical performance, in an extraordinarily cryptic passage
-combining music terms with theological as well as heraldic references.
+combining music terms with theological as well as heraldic references:
+
+----------------------------------- -------------------------------------------
+Años antes la divisa,               Years before the sign,
+la destreza en la esperanza,        dexterity in hope,
+por sol comienza una gloria,        with the sun \[on *sol*\] a "glory" begins,
+por mi se canta una gracia,         upon me \[*mi*\] a "grace" is sung,
+y a medio compás la noche           and at the half-measure, the night
+remeda quiebros del alba.           imitates the trills of the dawn.
+----------------------------------- -------------------------------------------
+
 Christ was born, the poem says, "years before the sign, 'dexterity in hope'"
 (*años antes la divisa/ la destreza en la esperanza*).
 A *divisa* could be a sign of any kind but typically meant a heraldic device or
 motto, such as would appear on a crest or flag.
+[@Covarrubias:Tesoro, s.v. *divisa*: "La
+señal que el cauallero trae para ser conocido \[...\]. Y deuisa tanto quiere
+dezir como heredad que viene al hombre de parte de su padre, o de su madre, o de
+sus abuelos, &c." ]
 Theologically the sign may refer at one level to Christ's death on the cross and
 on another level to Christ himself.
 This is similar to the way the poet has just used "the thirty-three" to stand
 for Christ's passion, and thus to connect Christ's birth to his death.
+The infancy narrative in the Gospel of Luke (in the Latin Vulgate) uses the word
+*signum* twice: both about Christ, the first referring to his birth and the
+second to his death.
 The angel who appears to the shepherds at Christ's birth says, "And
 this shall be a sign for you: you will see a baby wrapped in swaddling clothes
 and lying in a manger" (Lk 2:12).
-When Christ's mother presents him at the temple, Simeon tells Mary that the
-child will be "a sign that will be opposed" (Lk 2:34).
-Saint Bernard of Clairvaux interprets these two passages together to say that
-Christ himself is a sign \[*signum*\].
+When Christ's mother presents him at the temple, the prophet Simeon tells Mary
+that the child will be "a sign that will be opposed" (Lk 2:34).
+In an influential 12th-century Christmas sermon, Saint Bernard of Clairvaux
+interprets these two passages together to say that Christ himself is a sign
+\[*signum*\].
 [@Bernard:Nativitate, Sermo 4, 126C]
 
 If the *divisa* means a heraldic device, then *la destreza en la esperanza*
-would seem to be the text of the motto.
-"Dexterity in hope" sounds like a gloss of a phrase from the Roman historian
-Tacitus, *spes in virtute, salus ex victoria*; the phrase describes a desperate
-moment in Caesar's battle against the Germanic tribes on the Elbe, in which
-"valour was their only hope, victory their only safety."
+would be the text of the motto.
+"Dexterity in hope" sounds like a phrase from the Roman historian Tacitus, *spes
+in virtute, salus ex victoria*; the phrase describes a desperate moment in
+Caesar's battle against the Germanic tribes on the Elbe, in which "valour was
+their only hope, victory their only safety."
 [Tacitus, *Annals* II:20, translation from @Tacitus:Annales-English, 49]
 This *divisa* would be fitting for Christ in his struggle to save humanity.
 The vocabulary here (*hazañas*, *destreza*, *divisa*) marks Christ as a heroic
 warrior-king in a style that resonated with the military-influenced culture of
 early modern Spain. 
-Here again he follows after his ancestor David the giant-killer.
-[@Covarrubias:Tesoro, s.v. *divisa*: "La
-señal que el cauallero trae para ser conocido \[...\]. Y deuisa tanto quiere
-dezir como heredad que viene al hombre de parte de su padre, o de su madre, o de
-sus abuelos, &c." 
-The preface to @Azevedo:Catecismo uses the same kind of language to compare
+Here again he follows after his ancestor David the giant-killer (1 Sm 16).
+[The preface to @Azevedo:Catecismo uses the same kind of language to compare
 Charles I of Spain to King David in his battles to protect faith against heresy. 
 Azevedo says of the Creed, "This is the sign and standard that we who are of the
 Lord, and vassals of the faith, are to bear" ("Y particularmente en la
@@ -534,7 +569,7 @@ Rom 5:1--2.]
 Thus in the poem, as "glory is sung," a "grace begins": Christ's birth is the
 beginning of God's decisive action to redeem humanity, to extend his grace to
 them and elevate them to share in his glory.
-"The thirty-three" marks the completion of that saving work in Christ's death
+The "thirty-three" marks the completion of that saving work in Christ's death
 and resurrection.
 
 The introduction and response have used musical terms with theological
@@ -547,7 +582,29 @@ Christ as son of David and son of God (that is, both human and divine) will
 complete God's heroic work and save humanity through his life and death.
 
 Now, in the estribillo (ll. 17--33), the poem evokes the musical voices at the
-moment of Christ's birth.
+moment of Christ's birth:
+
+-----------------------------   ----------------------------------------------
+Y a trechos las distancias      And from afar, the intervals
+en uno y otro coro,             in one choir and then the other,
+grave, suave y sonoro,          solemn, mild, and resonant,
+hombres y brutos y Dios,        men, animals, and God,
+tres a tres y dos a dos,        three by three and two by two,
+uno a uno,                      one by one,
+y aguardan tiempo oportuno,     they all await the opportune time,
+quién antes del tiempo fue.     the one who was before all time.
+Por el signo a la mi re,        Upon the sign of *A (la, mi, re)*
+puestos los ojos en mi,         with eyes placed on me \[*mi*\]
+a la voz del padre oí           at the voice of the Father I heard
+cantar por puntos de llanto.    singing in tones of weeping---
+¡O qué canto!                   Oh, what a song!
+tan de oír y de admirar,        as much to hear as to admire,
+tan de admirar y de oír.        as much to admire as to hear!
+Todo en el hombre es subir      Everything in Man is to ascend
+y todo en Dios es bajar.        and everything in God is to descend.
+-----------------------------   ----------------------------------------------
+
+\noindent
 Here the musical terms are used less as metaphors for theological concepts (as
 was the case for *divisa* and *destreza*) and more to imagine actual
 music-making.
@@ -569,7 +626,8 @@ level would seem to refer to the number of voices in a musical texture, and
 indeed Padilla picks up on this cue in arranging the voices for his musical
 setting of this passage.
 These numbers, like "the thirty-three," also have theological significance in
-the traditions of interpretation around Christ's nativity.
+the traditions of interpretation around Christ's nativity, with a wide range of
+possible meanings.
 "Two by two" would seem to be a reference to the animals on Noah's Ark (Gn 6:9),
 here referring not only to the animals in the stable, but also to the whole
 scene as a picture of the Christian church, a symbolic connection going back to
@@ -581,6 +639,16 @@ the trope of the nine-rank angelic choir is the angelic canon for nine choirs of
 angels on the frontispiece of @Kircher:Musurgia.]
 "One by one" could refer to humans or to Christ himself, particularly his union
 of divine and human in a single body.
+It is also possible that these lines form a chiastic or ring structure, such
+that "three by three" refers to the triune God, "two by two" refers to animals,
+and "one by one" refers to humans, who must enter the kingdom of God
+single-file:
+
+Who?    How Many?
+------- ------------
+Dios    tres a tres
+brutos  dos a dos
+hombres uno a uno
 
 Thus far the poet has directed the listener's ear from attending to the chapel
 choir singing in the present, to the ancient temple choir of David and the
@@ -596,18 +664,19 @@ He either sounds the pitch *A (la, mi, re)* in Guidonian solmization with
 his voice as a tuning note (the same one used today), or sings an intonation on
 that note as a cantor would do.
 
-The poem emphasis the act of hearing voices through its grammatical structure.
+In this section, the poem emphasizes the act of hearing voices through its
+grammatical structure.
 In the first fifteen lines of the estribillo there are only two simple verbs
 that are not participles or part of a dependent clause: *aguardan* in line 23 and
 *oí* (I heard) in line 27.
-The first, *aguardan* follows six verses describing the spheres, angels, men,
+The first, *aguardan*, follows six verses describing the spheres, angels, men,
 and beasts, who all "await" the time of Christ's birth.
 After this, three more verses build up to *a la voz del padre oí* (at the voice
 of the Father I heard).
-This is the first and only use of the first person in the poem.
+This is the only use of the first person in the poem.
 From the opening invocation of *voces*, the reader has to wait all this time for
 a simple reference to hearing.
-The word *oí* make the reader a hearer, and situates the act of listening
+The word *oí* makes the reader a hearer, and situates the act of listening
 imaginatively in the middle of the nativity scene, surrounded by the chorus of
 creation.
 
@@ -651,19 +720,20 @@ Thus in the villancico the reference to the "sign of A" follows the description
 of Christ as "the one who was before all time" (l. 24).
 The time symbolism works on a musical level as well, but the "sign of A" also
 suggests that the musical pitch A is meant to represent Christ himself.
-As will be argued below, the Spanish phoneme *a* (pronounced *ah*) also evokes
+As will be argued below, the Spanish phoneme *a* (pronounced *ah*) may also evoke
 the wordless cry of the baby Jesus as a form of music.
 
-The estribillo, and (because the estribillo is repeated at the end) the whole
-piece, concludes with the couplet, "Everything in Man is to ascend/ and
+The estribillo concludes with the couplet, "Everything in Man is to ascend/ and
 everything in God is to descend" (ll. 32--33).
+Because the estribillo is repeated after the coplas, this line also ends the
+whole text in performance.
 These verses uses the musical structure of rising and falling musical lines (in
 modern theoretical terms, a voice exchange) to epitomize the theology of
 incarnation as an exchange between God and humanity.
 This concept was repeated in every theological text on Christ's birth.
-As Lapide's contemporary commentary expresses the idea, Christ "lowered himself
-to the earth and flesh, in order to lift us up to heaven. 'Therefore,' says
-Saint Anselm, 'God was made man, in order that man might be made God.'"
+As Lapide's commentary expresses the idea, Christ "lowered himself to the earth
+and flesh, in order to lift us up to heaven. 'Therefore,' says Saint Anselm,
+'God was made man, in order that man might be made God.'"
 [@Lapide:Gospels19C, 670, on Lk 2:7:
 "Depressit se in terram et carnem, ut nos eveheret in coelum. *Ideo*, ait S.
 Anselm, *Deus factus est homo, ut homo fieret Deus*."]
@@ -682,6 +752,8 @@ Christ himself is the incarnate Word, and his infant cries are the true "sign of
 A," the "song" that sets the tone for all the other voices, "in one choir and
 another" of the Christmas manger, and at the Christmas liturgy in the
 time of the villancico's performance.
+
+<!-- START -->
 
 ### Music about Music in the Voices of Puebla's Chapel Choir
 
