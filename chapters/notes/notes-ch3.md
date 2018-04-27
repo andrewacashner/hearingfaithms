@@ -55,6 +55,39 @@ emblem again, now with a heightened sense of meaning, so too in the
 villancico, when the estribillo is repeated after the coplas, listeners have
 the opportunity to reconsider what they have heard in light of the coplas.
 
+### Theology
+
+Cornelius á Lapide emphasizes the same kind of awe-filled devotion even in the
+learned genre of a Latin Biblical commentary: "The Word was made flesh, God was
+made man, the Son of God was made the son of a Virgin.  
+This \[...\] was of all God's works the greatest and best, such that it
+stupefied and stupefies the angels and all the saints."
+> In this God demonstrated his full power by uniting man to God, the mire to the
+> Word, the earth to heaven; and showed his full wisdom, since the one who could
+> not suffer and redeem us in his divinity, put on flesh in the Virgin, since in
+> flesh he could suffer and make satisfaction for our sins to God the Father;
+> and his full justice, so that by the dignity of his person, as one equal to
+> God, he satisfied God's wrath and vengeance by dying on the cross; and all his
+> goodness, which he poured out completely in order to give away his gifts to
+> us; "For he was made the son of men, so that he might make us sons of God,"
+> says Saint Augustine. 
+> "He was born on the earth, so that man might be reborn  into heaven," as Saint
+> Gregory says.
+[@Lapide:Gospels19C, 50, on Mt 1:16:
+"q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
+Filius Virginis.
+Hoc, \[...\] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt et
+stupent Angeli, Sanctique omnes.
+In eo enim Deus ostendit summam potentiam uniendo hominem Deo, limum Verbo,
+terram coelo: ac summam sapientiam, ut qui divinitate pati et nos redimere non
+poterat, carnem in Virgine indueret, qua pati, et pro peccatis nostris Deo Patri
+satisfacere posset: summam quoque justititiam, quia ob dignitatem personae, ex
+aequo quasi Dei irae et vindictae moriendo in cruce satisfecit: summam etiam
+bonitatem, quia semetipsum exinanivit, ut nos suis donis repleret: *Ac factus
+est filius hominis, ut nos efficeret filios Dei*, ait S. August. *Natus est in
+terra, ut homo nasceretur in coelo*, ut ait S. Gregorius."]
+
+
 #### Genealogy
 
 ##### Version by Francisco de Santiago, before 1644

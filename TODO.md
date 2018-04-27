@@ -13,6 +13,10 @@
     LibreOffice insert the TOC manually anyway; but publisher doesn't need it?
 - Create build directory with necessary structure of files, subdirectories for
   figures, etc. as publisher wants
-DONE    - Make floatref produce a list of floats in order, and then load the
-          actual float files in that order when producing the whole document
+- ODT output cannot distinguish block quotes that are parts of paragraph vs.
+  ending paragraph. Am using \noindent to get correct LaTeX output after block
+  quotes and have setup ODT style template so that the document style after
+  block quotes is "First paragraph", styled without indent. This means that
+  *every* block quote must be inside a paragraph (that is, followed by
+  \noindent), otherwise you would have to manually style all these.
 
