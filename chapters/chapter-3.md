@@ -290,7 +290,7 @@ as "enigma" villancicos.
 [@Illari:Polychoral, vol. 2, 304--308]
 Part of its difficulty comes from the influence of the poetry of Luis
 de Góngora (1561--1627), who cultivated a new aesthetic that emphasized learned
-artifice and highly wraught dramatic effects, a style referred to as *barroco*
+artifice and highly wrought dramatic effects, a style referred to as *barroco*
 by Spanish literary scholars.
 [@Gaylord:Poetry, 222--236; @Valbuena:Literatura, vol. 1, 1014--1061]
 Góngora's role in Spanish literature is similar to that of Giambattista Marino
@@ -1209,24 +1209,27 @@ It also appears in the manger scene in @Catholic:Breviarium1631, 168.
 ### Hearing the Christ-Child's Voice in Theology and Devotion
 
 By inviting hearers to listen for the voice of *Jesús infante*, Padilla's piece
-presents a new, musical twist on an ancient trope.
+presents a new, musical twist on an ancient theological trope.
 The concept of devotion to Christ as "unspeaking Word" is first attested in New
 Testament texts like the beginning of John's gospel, which describes Christ as
-"the Word made flesh," and extends through Saint Augustine in the fourth century
-and Saint Bernard of Clairvaux in the twelfth.
+"the Word made flesh," and extends through the preaching of Saint Augustine in
+the fourth century and of Saint Bernard of Clairvaux in the twelfth.
 This trope continued to be turned and refined through the sixteenth and
-seventeenth centuries, and can be found in Christmas sermons and exegetical
-commentaries on the Gospel accounts of Christ's birth.
+seventeenth centuries, and can be found in Christmas sermons like a model sermon
+by Fray Luis de Granada and exegetical commentaries on the Gospel accounts of
+Christ's birth like those of Cornelius á Lapide.
 These texts were widely available in the Spanish Empire of Padilla's day and
 would have been familiar to a university-educated priest.
-This devotional music presents a poetic and musical discourse on Christ's
-incarnation by conceiving of "the Word" in musical terms and then representing
-that concept in actual music.
 
+Padilla's villancico, as a piece of devotional music, presents a poetic and
+musical discourse on Christ's incarnation by conceiving of "the Word" in musical
+terms and then representing that concept in actual music.
 This piece is the product of theological creativity in reflecting on the
-relationship between the incarnation and the voices of Christmas; it links the
-theology of "the Word" to theology of music in a way that positions listening to
-music as a way of encountering Christ himself through the sense of hearing.
+relationship between the incarnation and the voices of Christmas. 
+It links the theology of "the Word" to theology of music in a way that positions
+listening to music as a way of encountering Christ himself through the sense of
+hearing.
+
 To understand the theological discourse presented through this poem and its
 musical setting, we must first recognize that villancicos constituted a form of
 devotion rather than indoctrination, as part of a set of cultural practices that
@@ -1235,9 +1238,8 @@ Tracing the trope of the *Verbum infans* through influential theological sources
 will enable us to see the way this villancico both builds on and extends the
 tradition.
 These devotional traditions cultivate a sense of awe and wonder before the
-Christ-child.
-I argue that this villancico is meant to instill that sense of wonder in hearers
-through its verbal and musical virtuosity.
+Christ-child, and this villancico, I argue, functioned to instill that sense of
+wonder in hearers through its verbal and musical virtuosity.
 
 #### The Christmas Imaginary in Devotional Culture
 
@@ -1274,10 +1276,10 @@ enough attention to the insights of these fields.
 For an influential modern Catholic theology of the function of liturgical
 feasts, see @Taft:LiturgicalYear, 3--4, 12--23.
 
-These tropes contributed to what might be called a Christmas imaginary, the
-contents of which one may see restated and endlessly varied not only in
-villancicos but also painted and sculpted on Spanish church walls and printed in
-the text and illustrations of contemporary theological books.
+The tropes of Christmas devotion contributed to what might be called a Christmas
+imaginary, the contents of which one may see restated and endlessly varied not
+only in villancicos but also painted and sculpted on Spanish church walls and
+printed in the text and illustrations of contemporary theological books.
 The visual and performing arts preserved in such historic sources represent only
 a portion of the lively variety of customary social practices connected with the
 feast---gift-giving, traditional foods, popular songs from oral tradition.
@@ -1334,7 +1336,6 @@ continentur, humili ac fideli animo credant, & adorent: nec curiosè & quod sine
 periculo vix vnquam fieri potest, illa inuestigare, ac perscrutari velint."]
 The incarnation of Christ, this passage suggests, was not so much a concept to
 be understood as a miracle to be marvelled at.
-
 While the Incarnation was certainly a dogma, a "rule of belief," even the
 offical catechism moves beyond simply defining a theological concept, to include
 an affective, devotional emphasis---a "rule of prayer" as well.[^lex-orandi]
@@ -1358,10 +1359,6 @@ life in Christianity.
 For critical discussion of the motto, with attentions to its actual origin and
 its changing meaning in recent scholarship, see @Irwin:LexOrandi.
 
-<!-- START HERE reorganize and make a clear argument, let some details and
-quotes go
--->
-
 Written examples of teaching and preaching about Christ's birth demonstrate this
 same devotional approach, emphasizing wonder.
 Even in the learned genre of a Latin Biblical commentary, Cornelius á Lapide
@@ -1373,7 +1370,7 @@ angels and all the saints."
 "q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
 Filius Virginis.
 Hoc, \[...\] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt
-et stupent Angeli, Sanctique omnes.]
+et stupent Angeli, Sanctique omnes."]
 In a model sermon for Christmas, Fray Luis de Granada exhorts worshippers to
 marvel at the sight and sound of Christ at his lowly birth:
 
@@ -1393,7 +1390,7 @@ marvel at the sight and sound of Christ at his lowly birth:
 > surprise anyone more, than that to which the Evangelist here refers in a few
 > words, saying, "She gave birth to her only-begotten son, and she wrapped him
 > in some rags, and laid him in a manger, because she did not find another place
-> in that stable?
+> in that stable"?
 
 > O venerable mystery, more to be felt than to be spoken of; not to be explained
 > with words but to be adored with wonder in silence. 
@@ -1417,9 +1414,10 @@ is "to produce effects of astonishment and awe conveyed by the Latin term
 Indeed, Padilla's piece specifically asks listeners to imagine a song that is
 "as much to hear as to admire \[*admirar*\],/ as much to admire as to hear."
 
-The concept of *admiratio* was, in fact, central to the Christmas liturgy, as
-encapsulated in the fourth Responsory of Matins, *O magnum mysterium et
-admirabile sacramentum*:
+<!-- START -->
+The concept of *admiratio* was, in fact, central to the Christmas liturgy. 
+It is encapsulated in the fourth Responsory of Matins, *O magnum mysterium et
+admirabile sacramentum* (to which Fray Luis alludes in the passage just quoted):
 
 > *Respond.* O great mystery and admirable sacrament, that the animals should
 > see the newborn Lord, lying in the manger.
@@ -1431,6 +1429,7 @@ Dominum natum, iacentem in praesepio: \* Beata Virgo, cuius viscera meruêrunt
 portare Dominum Christum. *Versicle.* Ave Maria, gratia plena: Dominus tecum."]
 
 \noindent
+<!-- fix -->
 Based on the position of Padilla's *Voces, las de la capilla* in the Puebla
 musical manuscripts, it was most likely sung as the fourth villancico in the
 Matins cycle on Christmas Eve 1657 at Puebla Cathedral.
