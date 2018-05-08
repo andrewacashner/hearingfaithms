@@ -1784,19 +1784,24 @@ the typical symbolic associations of *alpha* and *omega*, since the piece makes
 explicit that the "sign" is a musical pitch, *A (la, mi, re)*---the note at the
 center of the Guidonian hand.[^Guidonian-hand]
 Padilla makes this symbolism even stronger through his literal puns of
-solmization on these syllables.
-<!-- START -->
-What theological significance, in this tradition of theology, would be
-attributed to the actual voice of the baby Jesus?
-Bernard says the *Verbum infans* is "silent," and Fray Luis describes Christ as
-an orator but makes clear that Christ himself *is* the oration.
-Augustine's treatment of the voice is really a metaphor for Incarnation, not an
-attempt to speak of Christ's literal voice.
-But the concept of "the sign of A" in the villancico opens up the possibility of
-interpreting the newborn Christ's inarticulate cries as an expression, not of
+solmization on the note *A* and the syllables *la*, *mi*, and *re*.
+If Christ himself is the sign, and if he is both singer and song, then the "sign
+of A" is his singing voice---the cries of the infant considered as music.
+The theological sources of the *Verbum infans* trope do not all depict the
+Christ-child's crying voice.
+Much like in the English carol that says "little Lord Jesus, no crying he
+makes," Bernard and Fray Luis say the Word speaks even while silent; Luis
+and Lapide describe Christ as an orator but make clear that Christ himself *is*
+the oration; and Augustine's treatment of the voice is really a metaphor for
+Incarnation.
+But the concept of "the sign of A" in the villancico, understood within the
+*Verbum infans* theological trope, opens up the possibility of interpreting the
+newborn Christ's inarticulate cries in musical terms as an expression, not of
 verbal concepts, but of his physical being.
-Covarrubias begins his Spanish dictionary with this definition of the letter A
-(pronounced like *ah* in Spanish):
+In fact, there is evidence that Spanish Catholics heard a special theological
+significance in the sound of a baby's first cry, and that they believed a boy's
+first cry to be literally the sound *A* (pronounced like *ah*).
+Covarrubias begins his Spanish dictionary with this definition of the letter A:
 
 > The first letter in order according to all the nations that used characters,
 > \[...\] and this because of its being so very simple in its pronunciation
@@ -1994,8 +1999,8 @@ crossed the Atlantic to Puebla, whether Padilla acquired it before emigrating in
 The Puebla chapelmaster may have had access to the text from a source like the 1642
 Lisbon print, or he may have known an even earlier source.
 It is possible he knew Santiago's version specifically.
-Padilla almost certainly knew Jalón's *Cantores* text, since the only extant 
-copy of this Seville print survives in a binder's collection in Puebla.
+Padilla almost certainly knew Jalón's later *Cantores* text, since the only
+extant copy of this Seville print survives in a binder's collection in Puebla.
 
 (insert table `ref:table:Voces-versions`)
 `label:table:Voces-versions`
@@ -2015,39 +2020,47 @@ Epiphany in Seville.
 The end of the introduction in *Voces* (*Por sol comienza una Gloria*) is
 moved to serve as the final copla in *Cantores*.
 The whole *eco* section at the end of the 1642 *Voces* is omitted, so that the
-estrillo ends with the couplet *Todo en el hombre es subir/ y todo en Dios es
+estribillo ends with the couplet *Todo en el hombre es subir/ y todo en Dios es
 bajar*.
 
 In terms of theological and musical conceits, *Cantores* reads like an attempt
 to take the dense *conceptismo* of *Voces* and both simplify and explain it.
 The connection of Christ's voice ("the sign of A") and the "voices of the chapel
 choir" is obscured, as the opening is changed to "singers of the chapel choir."
-The crucial lines from *Voces*, "a la voz del padre oí/ cantan por puntos de
-llanto," are missing as well, which makes it harder to make sense of "el signo a
-la mi re."
+The crucial lines from *Voces*, *a la voz del padre oí/ cantan por puntos de
+llanto*, are missing as well, which makes it harder to make sense of *el signo a
+la mi re*.
 The connection between David and Christ as musician-kings is absent as well.
 "The King is a musician" in *Voces* is changed to "the child is a musician"---so
 that Christ is now explicitly the creator of the music rather than himself being
 the Music *and* the musician.
+By removing the *divisa* passage, the connection between *divisa* and the *signo
+A* is lost.
 Throughout the poems, where *Voces* has an ambiguous or cryptic line, *Cantores*
 has a less multivalent one. 
-Instead of "a la voz del padre oí" *Cantores* has "con que mil maravillas vi";
-instead of "y aguarda tiempo oportuno/ quien antes del tiempo fue" *Cantores*
+Instead of "y aguarda tiempo oportuno/ quien antes del tiempo fue" *Cantores*
 has "después que aguardaron uno/ que llegó a tiempo oportuno/ quién antes del
 tiempo fue."
 The *Voces* version of these lines is pithy but obscure; the *Cantores*
 version is crystal-clear but requires an extra line to say the same thing.
+More significantly, when the compositor of *Cantores* replaces *a la voz del
+padre oí* with *con que mil maravillas vi* he has replaced the central reference
+to the act of hearing (*oí*)---the only first-person active verb in the
+poem---with seeing (*vi*), thus obscuring the poem's central concept. 
+Instead of listening to voices (*oí*, *voces*), the speaker of *Cantores* is
+looking at singers (*vi*, *cantores*).
 
 <!-- XXX quotes vs italics -->
-The *conceptismo* in *Cantores* is not as tight as in *Voces*: in many cases,
-*Cantores* makes sense on the musical side but not on the theological side.
+The *conceptismo* in *Cantores* is not as tightly bound as in *Voces*: in many
+cases, *Cantores* makes sense on the musical side but not on the theological
+side.
 Some of the musical terminology is deployed innaccurately, as when *Cantores*
-has Christ the composer writing in "compás mayor" in a "proporción abreviada"
-using a "clave con tres tiempos"---it is hard to know which actual meters might
+has Christ the composer writing in *compás mayor* in a *proporción abreviada*
+using a *clave con tres tiempos*---it is hard to know which actual meters might
 be indicated here.
-The poet of *Cantores* writes multiple lines like "O que lindamente suenan!/ o
-que dulcemente cantan" that do not advance the conceit, where the poet of
-*Voces* restrained such effusions to the four-syllable "O qué canto."
+The poet of *Cantores* writes multiple lines like *O que lindamente suenan!/ o
+que dulcemente cantan* that do not advance the conceit, where the poet of
+*Voces* restrained such effusions to the four-syllable *O qué canto.*
 The new poet has retained the technical terms and other key words used in the
 first version of the poem, but has attempted to explain the metaphors, sometimes
 in ways that change the meaning from the first poem.
@@ -2082,7 +2095,7 @@ certainly superior to the 1642 reading *la clave que sobre el hombre* (though
 this could be the publisher's mistake).
 Similarly, the astronomical and musical term *distancias* in Padilla's text
 makes more sense in the conceit of the poem than the Lisbon *estancias*.
-That *Cantores* has these same readings suggests not that Padilla copied them
+*Cantores* has these same readings, and this suggests not that Padilla copied them
 from *Cantores* but that both versions are based on an earlier source than the
 1642 print.
 
@@ -2092,10 +2105,9 @@ First, Padilla's text features a *respuesta* section: this structure was more
 commonly used in villancicos before 1640, though Padilla, now in his senior
 years, continued to use the form in the 1650s.[^respuesta]
 Second and most crucially, the line *Y a trechos las distancias* at the
-beginning of the estribillo serves as a *linea de vuelta* in Padilla's text:
-it connects to the end of the coplas (*de un hombre y Dios consonancias*) and
-rhymes when the estribillo is repeated after that verse.
-This structure is a holdover from t
+beginning of the estribillo serves as a *linea de vuelta* (hinge line) in
+Padilla's text: it connects to the end of the coplas (*de un hombre y Dios
+consonancias*) and rhymes when the estribillo is repeated after that verse.
 The *linea de vuelta* was a holdover from the rather different structure of the
 courtly villancicos of the sixteenth century, such as those set by Juan del
 Encina.
@@ -2119,8 +2131,8 @@ eight-syllable lines.
 The half-line "uno a uno" forms a bracket with the other half-line "O qué
 canto," marking off this section of paired verses from the quatrain that
 follows, a *redondilla abrazada*.
-The line *Y a trechos* does not fit in this pattern, but it makes sense as a
-*linea de vuelta* in only Padilla's version, and it is absent from *Cantores*.
+The line *Y a trechos* does not fit in this pattern; but it makes sense as a
+*linea de vuelta* only in Padilla's version, and it is absent from *Cantores*.
 
 By contrast, the estribillo of *Cantores* begins with two lines with neither
 assonance nor rhyme, followed by a line that rhymes with nothing and can only
@@ -2150,11 +2162,10 @@ ingenious improvement on the previous variants.
 It resolves certain metrical irregulaties and conceptual inconsistencies so
 elegantly that it seems to have more integrity as a source than the others.
 There is of course the danger of confirmation bias, especially since Padilla's
-version is presented in a musical setting that articulates its poetic structure
-and interprets its theological conceits in a way that makes this version seem
-authoritative.
+musical setting articulates its poetic structure and interprets its theological
+conceits in a way that makes that version seem authoritative.
 
-
+<!-- START -->
 #### Demonstrating Musical Kinship
 
 The differences between the texts set by Jalón and Padilla are consistent with
