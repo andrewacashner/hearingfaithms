@@ -1492,6 +1492,8 @@ chapel choir" reverberating in the space and through those voices they could
 could hear the Christ the Word himself not merely speaking, but singing, through
 all the other voices from the choirboys up to the angels.
 
+#### The Infant's Voice
+
 The source of wonder at Christmas in the particular trope of this villancico was
 the voices heard at Christ's birth, and the voice of the baby Jesus in particular.
 Fray Luis appeals to the sense of hearing throughout his Christmas sermon,
@@ -1699,37 +1701,6 @@ christiana* (which connects voice and incarnation in the same way in I 13:26).
 The theology of Christ as the Word is also exhaustively treated in Lapide's
 commentary on the first chapter of John, @Lapide:Gospels19C, 872--889.
 
-[^Augustine-signum-res]:
-It is probably no accident that the phrase *lo que se canta* in the opening
-sentence of the poem corresponds literally to a phrase used by Augustine in the
-famous passage about listening to music in the *Confessions*.
-Augustine confesses that he sins when "it happens to me that the song moves me
-more than what is sung"
-(-@Augustine:ConfessionesPL, 10:33:
-"Tamen, cum mihi accidit ut me amplius cantus, quam res quae canitur, moveat;
-poenaliter me peccare confiteor, et tunc mallem non audire cantantem").
-A popular version translates, "It is not the singing that moves me but the
-meaning of the words when they are sung" (@Augustine:ConfessionsPenguin, 239).
-But Augustine's dilemma is not between words and music, but between different
-ways of hearing music.
-Augustine twice in this passage uses the same words contrasting *cantus* (song)
-with *res quae canitur*, literally "the thing that is sung."
-This choice of words connects to Augustine's theology of signs in *De doctrina
-christiana*, in which everything in the world is either a *res* (thing, object)
-or a *signum* (sign) that points to a *res*.
-The "song," then, would be the sign that points to "what is sung"---a concept
-that need not be limited to the words of the song, but should be understood
-within the context of Augustine's Christian Neoplatonism, referring to a
-higher reality as the object of the song. 
-Augustine is confessing that he failed to rise in contemplation from the created
-world to its Creator, that is, because of his sensual appetites he failed to
-discern the sensory world (the song that he hears) as a sign pointing to the
-ultimate *res* or being to which all lesser things owe their existence, the Holy
-Trinity.
-In the villancico, "what is sung" refers first to the present-day singing of the
-chapel choir, but that itself is a sign pointing to the voices of the first
-Christmas and ultimately to Christ who is himself both sign and signified.
-
 Augustine's theology of voice opens up rich possibilities for later interpreters
 in the tradition to consider the Christ-child in specifically musical terms.
 If Christ communicates God through his body, then one might imagine the 
@@ -1767,21 +1738,34 @@ This connects to a larger theological trope of Christ as the "new song" of
 the psalms and the Apocalypse.^[Ps 33:3, 40:3, 96:1, 98:1, 144:9, 149:1; Is
 42:10.; Rv 5:9, 14:3.]
 
-The poem's "sign of *A (la, mi, re)*" connects the concept of Christ as the song
-to that of Christ as the singer; and Padilla makes the connection even stronger
-through his literal puns of solmization on these syllables.
-This theological tradition sees Christ the Word as a "sign," and therefore even
-as a "letter."
-Covarrubias glosses Spanish *divisa* with the Latin *signum*, from the Greek
-*sēma*, sign; and Lapide calls Christ "the sign of reconciliation of the human
-race to God."
+This theological context can help us recognize that one of the most puzzling
+lines in the poem is also a key to its meaning. 
+When the poem refers to "the sign of *A (la, mi, re)*" it makes Christ himself
+the sign, and it imagines the sound of Christ's infant voice not as words but as
+music. 
+The *signo* in this line of the villancico's estribillo connects back to the
+*divisa* of the poem's introduction.
+Both words draw on theological traditions that see Christ the Word as a "sign,"
+and therefore even as a letter.
+In his 1611 Spanish dictionary Sebastián de Covarrubias glosses the Spanish
+*divisa* with the Latin *signum*, from the Greek *sēma*, sign. 
+Likewise, Lapide calls Christ "the sign of reconciliation of the human race to
+God."
 [@Covarrubias:Tesoro, s.v. *divisa*; @Lapide:Gospels19C, 685--686, on Lk 2]
-Augustine connects the concept of the Word in John 1 to Christ's statement in the
-Revelation to John, "I am *alpha* and *omega*, first and last, beginning and
-end" (Rv 22:13).
+
+What kind of a sign is Christ, then?
+There is a strong tradition, extending back to words reportedly spoken by Christ
+himself in the Revelation to John, of thinking of Christ as a letter.
+In a Christmas sermon Augustine connects the concept of the Word in John 1 to
+Christ's statement in Revelation, "I am *alpha* and *omega*, first and last,
+beginning and end" (Rv 22:13).
+Augustine uses the first and last letters of the Greek alphabet to explain the
+doctrine of the two conceptions of Christ, namely, that the Son of God was
+begotten eternally of the Father, but born temporally of the Virgin.
+Christ's status as the Word had no beginning, but there was a temporal beginning
+to his life as a man.
 "And just as no letter comes before *alpha*," Augustine preaches, nothing
 precedes Christ or follows after him, "for he is God."
-In the villancico's terms, he is "the one who is before time" (l. 24).
 [@Augustine:Opera1555, vol. 10, 118r, In Natali Domini 2:
 "Si fides assit, aperta est ratio qua Christus nunc minor, nunc aequalis patri
 sacris voluminibus asseratur, sicut ipse de se dicit, Ego primus & novissimus.
@@ -1789,17 +1773,19 @@ Indubitanter agnosce quòd priorem non potest habere qui primus est.
 Item, Ego sum α et ω. Et sicut alpha litera nulla praecedit, ita & filium dei
 nulli secundum constat esse, quia deus est."
 See also @Lapide:Apocalypse1627, on Rv 1.]
-Augustine uses the first and last letters of the Greek alphabet to explain the
-doctrine of the two conceptions of Christ, namely, that the Son of God was
-begotten eternally of the Father, but born temporally of the Virgin.
-Christ's status as the Word had no beginning, but there was a temporal beginning
-to his life as a man.
-Thus in the villancico the *divisa* signifies the start of a new *tiempo* (l.
-11, 23).
+In the villancico's terms, he is "the one who is before time" (l. 24).
+The *divisa*, then, signifies the start of a new *tiempo* (l.  11, 23).
 To use Augustine's concept of voice and word discussed earlier, then, the
-beginning of Christ's human life is the moment when idea becomes voice and
-communication becomes possible.
+beginning of Christ's human life is the moment when idea is "clothed in the
+voice" and communication becomes possible.
 
+In the villancico, the reference to Christ as the letter *A* has more than just
+the typical symbolic associations of *alpha* and *omega*, since the piece makes
+explicit that the "sign" is a musical pitch, *A (la, mi, re)*---the note at the
+center of the Guidonian hand.[^Guidonian-hand]
+Padilla makes this symbolism even stronger through his literal puns of
+solmization on these syllables.
+<!-- START -->
 What theological significance, in this tradition of theology, would be
 attributed to the actual voice of the baby Jesus?
 Bernard says the *Verbum infans* is "silent," and Fray Luis describes Christ as
@@ -1846,6 +1832,21 @@ This was not just an *admirabile sacramentum* as in the Responsory, but an
 audible sacrament as well---the sign of the bodily presence of the divine
 entering into their ears through sounds that were more like music than speech.
 
+[^Guidonian-hand]:
+In Guido's mnemonic system, all the notes that could be sung from *Gamma-ut*
+upwards (G~2~ to E~5~) were laid out in a spiral on the upraised palm of the
+left hand.
+The *A (la, mi, re)* above "middle C" (that is, A~4~) was indicated by pointing
+to the inside of the second knuckle of the middle finger.
+Speculatively, there is a common type of image of the infant Jesus, a visual
+expression of the *Verbum infans* trope, in which the child sits on his mother's
+lap, mouth closed, with his hand raised in a gesture of blessing: typically this
+means the index and middle fingers are raised and the fourth and fifth fingers
+are curled down.
+Could the "sign of A" be a reference to this specific type of image, a Guidonian
+reading of that hand position?
+
+
 Musical performance provided an apt medium to realize this concept, as the
 singing and playing gave material form to the concepts of the poetry and
 illustrated those concepts through the artifice of the music.
@@ -1865,8 +1866,6 @@ unhearable higher music of Christmas, which ultimately meant encountering Christ
 himself.
 
 
-<!-- START -->
-
 <!-- *********************************************************************** -->
 ### Establishing a Pedigree in a Lineage of Metamusical Composition
 
@@ -1881,9 +1880,12 @@ the piece demonstrated Padilla's skill and established his place in a tradition
 of composition.
 Padilla's setting is one link in a chain of homage and emulation, within a
 specific family of villancicos as well as within the broader subgenre of
-metamusical pieces studied in this part.
-Evidence survives for two previous villancicos based on the same or similar
-poems, though the music for both is apparently lost.
+metamusical pieces.
+In the following chapters we will see more examples of the same patterns of
+adaptation.
+In the case of *Voces, las de la capilla*, evidence survives for two previous
+villancicos based on the same or similar poems, though the music for both is
+apparently lost.
 These pieces allowed Spanish composers to prove both their compositional craft
 and their acuity as literary and theological interpreters in a tradition of
 "music about music."
@@ -1902,14 +1904,14 @@ by Santiago's successor, Luis Bernardo Jalón.
 This 1647 Seville imprint survives in a single copy as part of a binder's
 collection in Puebla.
 
-(include table `ref:table:Voces-Cantores-settings`
+(include table `ref:table:Voces-Cantores-settings`)
 `label:table:Voces-Cantores-settings`
 
 The earliest known musical setting of this textual tradition is by Francisco de
 Santiago.
 This Carmelite friar was born with the surname Veiga in Portugal and
-served as chapelmaster at Seville from 1617 (succeeding Alonso Lobo) to 1643
-(succeeded by Luis Bernardo Jalón).
+served as chapelmaster at Seville Cathedral from 1617 (succeeding Alonso Lobo)
+to 1643 (succeeded by Luis Bernardo Jalón).
 [@Stevenson:SantiagoF; @Perez:DMEH-Santiago]
 <!-- XXX DMEH sv Sevilla? -->
 Santiago had maintained a lifelong association and correspondence with the Duke
@@ -1920,23 +1922,26 @@ Whether Santiago wrote specifically for the royal chapel in Lisbon, or
 simply brought John IV copies of his music from Seville, the Portuguese monarch
 acquired a collection of five hundred thirty-eight villancicos by Santiago, not
 to mention other musical genres.
+In 1649 John had a catalog printed of his collection, which is now all that
+survives after the fires that followed the Lisbon earthquake of 1755.
 Among the "Christmas Villancicos of Fray Francisco de Santiago" in the catalog
-John had compiled and printed in 1649 appears the following entry:
+appears the following entry:
 "Vozes las de la capilla. solo. Ya trechos las distancias. a 9." 
 [@JohnIV:Catalog, caixão 26, no. 674; see also @Ribeiro:JohnIV.]
 Unfortunately only this description remains; the music parts probably perished
 along with the rest of the collection in the fires that followed the Lisbon
 earthquake of 1755.
 
-An imprint from the Portuguese Royal Chapel, Christmas 1642, may document the
-performance of Santiago's setting; or it may be a different setting of a variant
-text with the same incipits.[^Lisbon-1642-pliego]
-The imprint, as was typical, does not list the composer or poet's names.
+Unfortunately only this description remains of Santiago's setting, but an
+imprint from the Portuguese Royal Chapel, Christmas 1642, may document a
+performance of the same piece.[^Lisbon-1642-pliego] 
+The imprint, as was typical, does not list the composer or poet's names, so it
+may also be a different setting of a variant texts with the same incipits.
 In support of the argument that the imprint corresponds to Santiago's setting is
 the evidence that in 1640, the year Santiago last visited Lisbon, an imprint
 records the performance by John IV's chapel of another villancico, *Anton
-Llorente y Bartolo* which would also later be included in the 1649 catalog among
-the works of Santiago.
+Llorente y Bartolo*, which would also later be included in the 1649 catalog
+among the works of Santiago.
 ^[L:Pn RES-189-1-p (no. 2); @JohnIV:Catalog, caixão 26, no. 675]
 On the other hand, Santiago was probably in Seville in 1642, beginning to suffer
 the paralyzing illness which would soon end his life.
@@ -1978,7 +1983,7 @@ Maytines de los Santos Reyes.
 En este año de mil y seiscientos y quarenta y siete* (Seville, 1647), Puebla,
 private collection, courtesy of Gustavo Mauleón Rodríguez.
 
-#### Relationships within the Textual Family
+#### Adaptation and Homage
 
 Compared to *Cantores*, Padilla's 1657 text *Voces, las de la capilla* is much
 closer to that in the 1642 Lisbon imprint and matches the incipits of Santiago's

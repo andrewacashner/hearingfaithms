@@ -62,9 +62,10 @@ Lilypond, the following free software is needed:
     - [GNU Guile](https://gnu.org/s/guile/), version 2.0.14 or higher,
 
 - To convert text in Markdown to PDF and ODT, and compile tables and poems
-    - [Pandoc](https://pandoc.org/), version 1.19 or higher
-    - [LaTeX](https://www.tug.org/texlive/) full TeXLive installation, 2017 or
+    - [Pandoc](https://pandoc.org/), version 2.0.6 or higher
+    - [LaTeX](https://www.tug.org/texlive/) full TeXLive installation, 2018 or
       later
+
 - To compile musical examples
     - [Lilypond](http://www.lilypond.org/), version 2.19.81 or higher 
 
@@ -82,7 +83,7 @@ With the utilities `paps` and `ps2pdf` you can convert them to PDF, for example:
 cat chapters/chapter-*.md | paps --paper letter --cpi 12 | ps2pdf - out.pdf
 ````
 
-The book has been produced using Fedora 27. It was written using Vim.
+The book has been produced using Fedora 28. It was written using Vim.
 
 ### Building the document and subfiles
 

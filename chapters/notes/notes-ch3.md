@@ -99,6 +99,41 @@ rogat, Quis es tu, ô parvule Bethlehemitice? eumque audiat respondentem: Disce
 id ex Isaia cap. 9. 6. *Parvulus natus est nobis, et filius datus est nobis*,
 etc."]
 
+It is probably no accident that the phrase *lo que se canta* in the opening
+sentence of the poem corresponds literally to a phrase used by Augustine in the
+famous passage about listening to music in the *Confessions*.
+Augustine confesses that he sins when "it happens to me that the song moves me
+more than what is sung"
+[@Augustine:ConfessionesPL, 10:33:
+"Tamen, cum mihi accidit ut me amplius cantus, quam res quae canitur, moveat;
+poenaliter me peccare confiteor, et tunc mallem non audire cantantem."]
+A popular version translates, "It is not the singing that moves me but the
+meaning of the words when they are sung."
+[@Augustine:ConfessionsPenguin, 239]
+But Augustine's dilemma is not between words and music, but between different
+ways of hearing music.
+Augustine twice in this passage uses the same words contrasting *cantus* (song)
+with *res quae canitur*, literally "the thing that is sung."
+This choice of words connects to Augustine's theology of signs in *De doctrina
+christiana*, in which everything in the world is either a *res* (thing, object)
+or a *signum* (sign) that points to a *res*.
+The "song," then, would be the sign that points to "what is sung"---a concept
+that need not be limited to the words of the song, but should be understood
+within the context of Augustine's Christian Neoplatonism, referring to a
+higher reality as the object of the song. 
+Augustine is confessing that he failed to rise in contemplation from the created
+world to its Creator, that is, because of his sensual appetites he failed to
+discern the sensory world (the song that he hears) as a sign pointing to the
+ultimate *res* or being to which all lesser things owe their existence, the Holy
+Trinity.
+In the villancico, "what is sung" refers first to the present-day singing of the
+chapel choir, but that itself is a sign pointing to the voices of the first
+Christmas and ultimately to Christ who is himself both sign and signified.
+
+
+Padilla makes the connection of Christ as singer to Christ as song even stronger
+through his literal puns of solmization on these syllables.
+
 #### Genealogy
 
 ##### Version by Francisco de Santiago, before 1644
