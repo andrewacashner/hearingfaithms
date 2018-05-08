@@ -33,15 +33,14 @@
 (define Pandoc-opts
   '((pdf . "\
 --filter pandoc-citeproc \
---latex-engine xelatex \
+--pdf-engine xelatex \
 --top-level-division part \
 --table-of-contents \
 --bibliography master.bib \
 --csl chicago-fullnote-bibliography.csl ")
     (odt .  "\
 --filter pandoc-citeproc \
---smart \
---reference-odt config/vcbook.odt \
+--reference-doc config/vcbook.odt \
 --bibliography master.bib \
 --csl chicago-fullnote-bibliography.csl ")))
 

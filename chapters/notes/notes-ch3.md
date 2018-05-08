@@ -87,6 +87,17 @@ bonitatem, quia semetipsum exinanivit, ut nos suis donis repleret: *Ac factus
 est filius hominis, ut nos efficeret filios Dei*, ait S. August. *Natus est in
 terra, ut homo nasceretur in coelo*, ut ait S. Gregorius."]
 
+In a similar passage in his Latin Biblical commentary, Cornelius á Lapide goes
+even further to speak of being "stupefied" and "struck deaf" \[*attonitus*\] at
+the sight of Christ in the manger.
+[@Lapide:Gospels19C, 672, on Lk 2:7:
+"Christus enim in praesepio, hoc est Jesu homo, Verbum infans, est amor, aeque ac
+stupor omnium angelorium ac fidelium, quod omnes stupent et stupebunt per omnem
+aeternitatem.
+Quis enim non attonitus stupeat, si profunde hunc puerum inspiciat, eumque
+rogat, Quis es tu, ô parvule Bethlehemitice? eumque audiat respondentem: Disce
+id ex Isaia cap. 9. 6. *Parvulus natus est nobis, et filius datus est nobis*,
+etc."]
 
 #### Genealogy
 

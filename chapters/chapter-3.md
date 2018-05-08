@@ -1206,10 +1206,10 @@ It also appears in the manger scene in @Catholic:Breviarium1631, 168.
 
 <!-- *********************************************************************** -->
 
-### Hearing the Christ-Child's Voice in Theology and Devotion
+### Hearing the Christ-Child's Voice in Devotional Theology 
 
-By inviting hearers to listen for the voice of *Jesús infante*, Padilla's piece
-presents a new, musical twist on an ancient theological trope.
+By inviting hearers to listen for the voice of *Jesús infante*, Padilla's
+villancico presents a new, musical twist on an ancient theological trope.
 The concept of devotion to Christ as "unspeaking Word" is first attested in New
 Testament texts like the beginning of John's gospel, which describes Christ as
 "the Word made flesh," and extends through the preaching of Saint Augustine in
@@ -1218,65 +1218,83 @@ This trope continued to be turned and refined through the sixteenth and
 seventeenth centuries, and can be found in Christmas sermons like a model sermon
 by Fray Luis de Granada and exegetical commentaries on the Gospel accounts of
 Christ's birth like those of Cornelius á Lapide.
-These texts were widely available in the Spanish Empire of Padilla's day and
-would have been familiar to a university-educated priest.
+These texts were widely available in the Spanish Empire of the seventeenth
+century and would have been familiar to a university-educated priest like
+Padilla.
 
-Padilla's villancico, as a piece of devotional music, presents a poetic and
-musical discourse on Christ's incarnation by conceiving of "the Word" in musical
-terms and then representing that concept in actual music.
 This piece is the product of theological creativity in reflecting on the
 relationship between the incarnation and the voices of Christmas. 
 It links the theology of "the Word" to theology of music in a way that positions
 listening to music as a way of encountering Christ himself through the sense of
 hearing.
+This villancico conceives of "the Word" in musical terms and then represents
+that concept through actual music; in this way it draws on listeners' knowledge
+of both theology and music and creates an opportunity for them to contemplate
+the relationship between these two domains of learning.
 
-To understand the theological discourse presented through this poem and its
-musical setting, we must first recognize that villancicos constituted a form of
-devotion rather than indoctrination, as part of a set of cultural practices that
-developed around the feast of the nativity.
-Tracing the trope of the *Verbum infans* through influential theological sources
-will enable us to see the way this villancico both builds on and extends the
-tradition.
-These devotional traditions cultivate a sense of awe and wonder before the
-Christ-child, and this villancico, I argue, functioned to instill that sense of
-wonder in hearers through its verbal and musical virtuosity.
+Considering this devotional music in its theological context helps us understand
+what this music meant and how it functioned within its original interpretive
+community.
+This piece is devotional because its primary function is not as a tool for
+indoctrination, but as a object used to cultivate spiritual attitudes of
+worship.
+The piece does embody certain Catholic beliefs about the incarnation of Christ,
+but its complex poetry and music would not make the most effective teaching
+tools.
+Instead, the piece directs listener's attention to a certain aspect of
+Christ---that is, it invites hearers to think of Christ in a certain way; and it
+provides an opportunity for them to respond to this concept of Christ.
+Instead, through its central metamusical trope, the piece directs listeners'
+attention to a certain aspect of Christ---the Christ-child as *Verbum
+infans*.
+Through verbal and musical virtuosity, the poet, composer, and performers invite
+the congregation to respond to the music with the same sense of wonder that they
+should cherish before the mystery of Christ's birth.  
 
-#### The Christmas Imaginary in Devotional Culture
-
-The Puebla congregation heard this piece in the context of the festival of
-Christmas, and its theological trope of the *Verbum infans* is best understood
-as an expression of the devotional attitudes that characterized this feast.
-Christmas had first developed from regionally varying annual celebrations of
-Christ's birth and beginnings, and solidified as a formal observance among the
-church communities of fourth-century Rome.
-[@Talley:LiturgicalYear, 85--140; @Bradshaw:EarlyWorship, 86--89;
-@Roll:OriginsChristmas]
-The customary readings and chants from Scripture developed alongside the other
-customs of Christmas throughout the medieval period.
-While it may be more conventional to label these traditions "doctrines" or
-"dogmas" (particularly after Trent), they represent more than officially
-codified propositions.
-Rather, the tropes of Christmas include not only doctrinal concepts (like the
-two natures of the incarnate Christ as divine and human), but extend also to the
-attitudes, affects, and social, bodily practices that go into making the
-festival feel like Christmas.
+Villancicos developed as part of the church's annual cycle of feasts and
+seasons, and the Catholic liturgical year functioned not so much to teach people
+doctrine about Christ as to allow them to participate communally in the body of
+Christ.
+All of the church's festivals provided occasions to remember God's deeds in the
+past for human salvation (*los siglos de sus hazañas* in the language of the
+villancico), and to act creatively to relive and share in those deeds in the
+present.
+This is the theological concept of *anamnesis*, which is closely connected to
+the sacramental character of Catholic worship: through human actions and
+physical means, Christ is revealed anew within each community and the community
+is transformed by the experience.
+[For an influential modern Catholic theology of the function of liturgical
+feasts, see @Taft:LiturgicalYear, 3--4, 12--23.]
 The function of early modern Catholic feasts was not so much to teach people
 that Christ *is* something, as to cultivate devotion to Christ *as* something.
 The primary goal was not indocrination but doxology---not so much believing
 correctly as worshipping properly.[^feasts-and-seasons]
 
 [^feasts-and-seasons]:
-This concept of devotion as including both formal and informal, official and
-popular practices brings together the distinct but interlinked ritual modes of
-"liturgy" and "celebration" theorized by @Grimes:Beginnings, 54--62.
+This concept of devotion brings together the distinct but interlinked ritual
+modes of "liturgy" and "celebration" theorized by @Grimes:Beginnings, 54--62.
 Scholars of ritual studies and Christian liturgical theology have consistently
-argued that liturgy does more than promulgate doctrines, but musicological and
-philological studies of post-Tridentine religious arts have not always paid
-enough attention to the insights of these fields.
-For an influential modern Catholic theology of the function of liturgical
-feasts, see @Taft:LiturgicalYear, 3--4, 12--23.
+argued that liturgy does more than promulgate doctrines, a perspective that
+musicological and philological studies of post-Tridentine religious arts would
+do well to consider more seriously.
 
-The tropes of Christmas devotion contributed to what might be called a Christmas
+
+The feast of Christmas focuses not only on remembering the event of Christ's
+miraculous birth, but on cultivating devotion to the Christ-child and the
+particular aspect of God's saving work that the child represents---namely, that
+God took on human flesh, that the almighty humbled himself to become a helpless
+child, that God descended to the lowly estate of humankind in order to raise
+humans to share in his divine nature.
+Christmas had first developed from regionally varying annual celebrations of
+Christ's birth and beginnings, and solidified as a formal observance among the
+church communities of fourth-century Rome.
+[@Talley:LiturgicalYear, 85--140; @Bradshaw:EarlyWorship, 86--89;
+@Roll:OriginsChristmas]
+The customary readings and chants from Scripture developed alongside the other
+customs of Christmas throughout the medieval period, so that the festival
+encompassed a wide range of official and unofficial, formal and informal beliefs
+and practices.
+Catholics over the centuries had developed what might be called a Christmas
 imaginary, the contents of which one may see restated and endlessly varied not
 only in villancicos but also painted and sculpted on Spanish church walls and
 printed in the text and illustrations of contemporary theological books.
@@ -1306,7 +1324,6 @@ formed them spiritually.
 
 (insert table `ref:table:puebla-compendia`)
 `label:table:puebla-compendia`
-
 
 Hispanic Catholics focused their devotion at Christmas on the baby Jesus as God
 made flesh to restore humankind to right relationship with God. 
@@ -1360,19 +1377,21 @@ For critical discussion of the motto, with attentions to its actual origin and
 its changing meaning in recent scholarship, see @Irwin:LexOrandi.
 
 Written examples of teaching and preaching about Christ's birth demonstrate this
-same devotional approach, emphasizing wonder.
+same devotional approach in their emphasis on wonder.
 Even in the learned genre of a Latin Biblical commentary, Cornelius á Lapide
-stresses that Christ's birth defies understanding: "The Word was made flesh, God
-was made man, the Son of God was made the son of a Virgin.  This \[...\] was of
-all God's works the greatest and best, such that it stupefied and stupefies the
-angels and all the saints."
+stresses that Christ's birth defies understanding: 
+"The Word was made flesh, God was made man, the Son of God was made the son of a
+Virgin.
+This \[...\] was of all God's works the greatest and best, such that it
+stupefied and stupefies the angels and all the saints."
 [@Lapide:Gospels19C, 50, on Mt 1:16:
 "q. d. Verbum caro factum est, Deus factus est homo, Filius Dei factus est
 Filius Virginis.
 Hoc, \[...\] fuit omnium Dei operum summum et maximum, ideoque illud stupuerunt
 et stupent Angeli, Sanctique omnes."]
-In a model sermon for Christmas, Fray Luis de Granada exhorts worshippers to
-marvel at the sight and sound of Christ at his lowly birth:
+In a model sermon for Christmas, Fray Luis de Granada draws on all his
+rhetorical skills to exhort worshippers to marvel at the sight and sound of
+Christ at his lowly birth:
 
 > Come and see the Son of God, not in the bosom of the Father \[Jn 1\], but in
 > the arms of the Mother; not above choirs of angels, but among filthy animals;
@@ -1391,16 +1410,12 @@ marvel at the sight and sound of Christ at his lowly birth:
 > words, saying, "She gave birth to her only-begotten son, and she wrapped him
 > in some rags, and laid him in a manger, because she did not find another place
 > in that stable"?
-
-> O venerable mystery, more to be felt than to be spoken of; not to be explained
-> with words but to be adored with wonder in silence. 
-> What could be lower than a manger, which is a place for beasts, and what could
-> be higher than God, who is seated among the cherubim?
-> Indeed, how can a man not be long in ecstasy in meditating on two things that
-> are so distant: God in a stable, God in a manger, God trembling from cold, God
-> wrapped in rags, God crying?
 [@LuisdeGranada:Xmas, para. 5, 11--12 XXX]
 
+\noindent
+Lapide's exegesis and Fray Luis's preaching guide the faithful to the right kind
+of devotion at Christmas---to an affective response of awe at the mystery of
+Christ's birth.
 
 Spanish devotional music for Christmas seems designed primarily to cultivate
 this same attitude of wonder.
@@ -1414,10 +1429,9 @@ is "to produce effects of astonishment and awe conveyed by the Latin term
 Indeed, Padilla's piece specifically asks listeners to imagine a song that is
 "as much to hear as to admire \[*admirar*\],/ as much to admire as to hear."
 
-<!-- START -->
-The concept of *admiratio* was, in fact, central to the Christmas liturgy. 
+The concept of *admiratio* is, in fact, central to the Christmas liturgy. 
 It is encapsulated in the fourth Responsory of Matins, *O magnum mysterium et
-admirabile sacramentum* (to which Fray Luis alludes in the passage just quoted):
+admirabile sacramentum*:
 
 > *Respond.* O great mystery and admirable sacrament, that the animals should
 > see the newborn Lord, lying in the manger.
@@ -1429,13 +1443,18 @@ Dominum natum, iacentem in praesepio: \* Beata Virgo, cuius viscera meruêrunt
 portare Dominum Christum. *Versicle.* Ave Maria, gratia plena: Dominus tecum."]
 
 \noindent
-<!-- fix -->
-Based on the position of Padilla's *Voces, las de la capilla* in the Puebla
-musical manuscripts, it was most likely sung as the fourth villancico in the
-Matins cycle on Christmas Eve 1657 at Puebla Cathedral.
+In his sermon Fray Luis alludes to this Responsory in terms quite similar to
+those in Padilla' villancico, when he cries out, "O venerable mystery, more to
+be felt than to be spoken of; not to be explained with words but to be adored
+with wonder in silence."
+
+This same Responsory was probably paired with Padilla's *Voces, las de la
+capilla* in the Puebla Cathedral liturgy on Christmas Eve 1657.
+Based on the position of this villancico in the Puebla musical manuscripts, it
+was most likely sung as the fourth villancico in the Matins cycle.
 This means that in accord with a 1633 decree of the cathedral chapter the
-villancico would have occupied the same liturgical time and space as this 
-Responsory.
+villancico would have occupied the same liturgical time and space as the 
+Responsory *O magnum mysterium*.
 The chapter mandated that while "the lessons should be sung in their entirety,"
 "the *chanzoneta* shall serve for the Responsory, which shall be prayed speaking
 while the singing is going on."[^Puebla-Matins-AC]
@@ -1444,15 +1463,11 @@ taken from a Christmas sermon of Leo the Great.
 This means that after a cantor chanted the first lesson, a reader spoke the
 mandatory liturgical text of the fourth Responsory above *while* the chorus sang
 this villancico.
-Lay people outside the walls of the architectural choir would not probably have
-heard or understood the words of the Latin liturgical text, so they would
-perhaps not have missed much.
-The poet and composer were evidently steeped in the theological and liturgical
-traditions of the Church, though, and had good reason to refer to the Responsory
-even in situations like this where it was not sung.
-For the learned cathedral canons, rather than diminishing the importance of the
-Responsory, the simultaneous performance of the Latin prayer and Spanish song
-may have actually deepend the hidden connections between the two.
+The conjunction of texts may not have communicated much to the lay people
+outside the walls of the architectural choir, who could not hear or understand
+the words of the Latin liturgical texts; but for the learned cathedral canons,
+the simultaneous performance of the Latin prayer and Spanish song would have
+deepened the hidden connections between the two.
 
 [^Puebla-Matins-AC]:
 MEX-Pc: AC 1633-12-30:
@@ -1477,25 +1492,13 @@ chapel choir" reverberating in the space and through those voices they could
 could hear the Christ the Word himself not merely speaking, but singing, through
 all the other voices from the choirboys up to the angels.
 
-Fray Luis in his sermon echoes the same Responsory to instruct worshippers in
-proper devotion to the Christ-child: "O venerable mystery, more to be felt than
-to be spoken of; not to be explained with words but to be adored with wonder in
-silence."
-[@LuisdeGranada:Xmas, para. 12?]
-In a similar passage in his Latin Biblical commentary, Cornelius á Lapide goes
-even further to speak of being "stupefied" and "struck deaf" \[*attonitus*\] at
-the sight of Christ in the manger.
-[@Lapide:Gospels19C, 672, on Lk 2:7:
-"Christus enim in praesepio, hoc est Jesu homo, Verbum infans, est amor, aeque ac
-stupor omnium angelorium ac fidelium, quod omnes stupent et stupebunt per omnem
-aeternitatem.
-Quis enim non attonitus stupeat, si profunde hunc puerum inspiciat, eumque
-rogat, Quis es tu, ô parvule Bethlehemitice? eumque audiat respondentem: Disce
-id ex Isaia cap. 9. 6. *Parvulus natus est nobis, et filius datus est nobis*,
-etc."]
-
-In addition to picturing the stable visually, Fray Luis exhorts worshippers to
-turn from sight toward hearing:
+The source of wonder at Christmas in the particular trope of this villancico was
+the voices heard at Christ's birth, and the voice of the baby Jesus in particular.
+Fray Luis appeals to the sense of hearing throughout his Christmas sermon,
+starting by asking the faithful to imagine the conversation of Mary and Joseph
+on their way to Bethlehem.
+After a detailed visual meditation on the scene in Bethlehem, he exhorts
+worshippers to turn from sight toward hearing:
 
 > After the devout sight of the manger we open our ears to hear the music of the
 > angels, of whom the Evangelist says, that when one of them had finished giving
@@ -1506,20 +1509,20 @@ turn from sight toward hearing:
 [@LuisdeGranada:Xmas, para. 24 XXX]
 
 \noindent
-More important than these angelic voices to Fray Luis, however, is the voice of
-the newborn Christ himself, "weeping and trembling with cold in the stable."
+Even more important than these angelic voices, Fray Luis preaches, is the voice
+of the newborn Christ himself, "weeping and trembling with cold in the stable."
 [@LuisdeGranada:Xmas, para. 9 XXX]
-Fray Luis follows the exegetical tradition of reading Wisdom 7 as a Messianic
-prophecy, such that King Solomon's words about himself may be applied to his
-royal descendent, Christ: "I too am a mortal man like others, \[...\] and the
-first sound [*voz*] that I made was crying like other children, because not one
-of the kings had any different origin in their birth."
+Fray Luis follows an ancient tradition of reading Wisdom 7---in which Christ's
+ancestor King Solomon speaks about his own infancy---as a Messianic prophecy: "I
+too am a mortal man like others, \[...\] and the first sound [*voz*] that I made
+was crying like other children, because not one of the kings had any different
+origin in their birth."
 [@LuisdeGranada:Xmas, para. 9 XXX; cf. @Lapide:Gospels19C, 670, on Lk 2:7]
 
-Fray Luis, as an avid student and teacher of Catholic Humanism, presents Christ
-as an orator and philosophical teacher, a "Master of Heaven"---*Maestro del
-cielo*, the same term used for a musical master.
-He explicitly compares the voice of this incarnate Word with music:
+Fray Luis explicitly compares the voice of this incarnate Word with music.
+The Dominican friar, as an avid student and teacher of Catholic Humanism,
+presents Christ as an orator and philosophical teacher, a "Master of
+Heaven"---*Maestro del cielo*, the same term used for a musical master:
 
 > Oh fortunate house!
 > Oh stable, more precious than all the royal palaces, where God sat upon the
@@ -1538,12 +1541,16 @@ establo donde la palabra de Dios callando llora; mas este lloro es mayor
 elocuencia que la de Tulio, y aun que las músicas de los ángeles del cielo."]
 
 \noindent
+It is important to note that here again, the preacher's concern is not simply to
+explain some fact about Christ's birth; instead he wants to prompt the faithful
+to *listen* to Christ's voice.
+
+Fray Luis's image of the infant Christ as an orator encapsulates the trope of
+Christ as the *Verbum infans*.
 For this passage Fray Luis cites "a doctor," and in fact the whole passage is a
 paraphrase from Saint Bernard of Clairvaux.
-The Latin key term behind the friar's phrase *la palabra de Dios enmudecida* is,
-in Bernard's fifth Christmas sermon, *Verbum infans*---the Word who is both
-"infant" and "unspeaking," since like the Spanish *infante* in Padilla's
-villancico, the Latin word *infans* can have either meaning.
+When the friar calls Jesus *la palabra de Dios enmudecida* he is glossing the
+term *Verbum infans* in Bernard's fifth Christmas sermon.
 Bernard expresses the trope in this way:
 
 > But what kind of mediator is this, you ask, who is born in a stable, placed in
@@ -1563,6 +1570,10 @@ perfunctorie, sed efficaciter quaerens.
 Infans quidem est, sed Verbum infans, cujus ne ipsa quidem infantia tacet."]
 
 \noindent
+The term refers to Christ as the Word who is both "infant" and "unspeaking,"
+since like the Spanish *infante* in Padilla's villancico, the Latin word
+*infans* can have either meaning.
+
 Bernard is himself drawing on an older tradition of the theology of the Word
 going back to Saint Augustine, who reiterates this trope throughout his dozens of
 Christmas sermons.
@@ -1585,26 +1596,36 @@ angelica voce nuntiata est.
 Hanc igitur anniversaria solemnitate celebramus diem \[...\]."]
 
 \noindent
-In true Neoplatonic fashion, Augustine builds a chain of signification from the
-highest level of being---the Godhead and its incarnation as the
-Christ-child---to the signs that pointed to this reality in the material world;
+True to his background in Neoplatonic philosophy, Augustine builds a chain of
+signification from the highest level of being to the lowly realm of human
+experience.
+He moves from the Godhead and its incarnation as the Christ-child to the signs
+that pointed to this reality in the material world;
 moving from divine Wisdom to the child in whom God manifested himself.
-He then moves to the worldly signs that pointed to Christ at his birth, and then
-links this to the present-day ritual of the Mass of the Nativity.
+He then moves to the worldly signs that pointed to Christ at his birth, and
+finally links this to the present-day ritual of the Mass of the Nativity.
 As the master of a theology of communication through sign and signified (in *De
-doctrina christiana*), Augustine is teaching the faithful to hear the words
-proclaimed in their midst (Scripture, preaching, liturgy) as signs pointing
-first to the angels' song in Bethlehem, and to hear and heed the angel's
-exhortation to the shepherds to seek out the "sign" of "a child wrapped in
-swaddling clothes and lying in a manger" (Lk 2:12).
+doctrina christiana*), Augustine is teaching the faithful to ascend in
+contemplation through that same chain---to hear the words proclaimed in their
+midst through Scripture, preaching, and liturgy as signs pointing to the angels'
+song in Bethlehem; to hear and heed the angel's exhortation to the shepherds to
+seek out the "sign" of "a child wrapped in swaddling clothes and lying in a
+manger" (Lk 2:12).
 The Christ child they found was at this "infant" stage of life, not a speaker of
 divine words, but was the very Word himself---as Augustine says, "a voice of
 flesh."
 
-Augustine uses the voice as an extended metaphor for understanding the actual
-process of Christ's Incarnation; this conception of the voice opens up the
-possibility for later interpreters of connecting the Christ-child's voice to music.
-Augustine uses the peculiar features of the voice to defend the doctrine that
+The *Verbum infans* trope fundamentally provides a way of thinking about
+communication between God and humankind.
+As the first-century author of the New Testament letter to the Hebrews explained
+it, "Long ago God spoke to our ancestors in many and various ways by the
+prophets, but in these last days he has spoken to us by a Son \[...\].
+He is the reflection of God's glory and the exact imprint of God's very being,
+and he sustains all things by his powerful word" (Heb. 1:1--3, NRSV). 
+Augustine creates an extended metaphor of the voice to explore how exactly Christ
+could be the Word incarnate, using human communication to understand divine
+communication.
+The peculiar features of the voice allow Augustine to defend the doctrine that
 Christ was not "changed" into flesh, but "remained the Son of God" even "having
 been made the Son of Man."
 [@Augustine:SermonesPL, 1002, Sermo 187, In Natali Domini 4 XXX:
@@ -1659,8 +1680,8 @@ ut inde procedat loquentis voce vestitur."]
 Augustine is reflecting on language as a way to understand how Christ can be in
 his body the form of communication between God and
 humankind.[^Augustine-further-word]
-Human thought is transferred from one person's inner heart and mind to that of
-another by means of the external medium of the spoken voice.
+The spoken voice serves as the external medium through which human thought is
+transferred from one person's inner heart and mind to that of another.
 The body thus converts an inarticulate, abstract idea into a form that others
 can perceive through the physical act of hearing.
 The voice itself, then, is independent of the body; it transfers the idea
@@ -1669,7 +1690,7 @@ Theologically, in Augustine's conception, Christ as the eternal Word is like
 the inner thought before being expressed in speech; Christ as the Word made
 flesh is like the human spoken word.
 Thus the Christ-child embodies divine communication not through spoken words,
-but through his very body.
+but through his very body.[^Augustine-signum-res]
 
 [^Augustine-further-word]:
 For further on Augustine's concept of the Word and its relationship to language
@@ -1678,17 +1699,17 @@ christiana* (which connects voice and incarnation in the same way in I 13:26).
 The theology of Christ as the Word is also exhaustively treated in Lapide's
 commentary on the first chapter of John, @Lapide:Gospels19C, 872--889.
 
+[^Augustine-signum-res]:
 It is probably no accident that the phrase *lo que se canta* in the opening
 sentence of the poem corresponds literally to a phrase used by Augustine in the
 famous passage about listening to music in the *Confessions*.
 Augustine confesses that he sins when "it happens to me that the song moves me
-more than what is sung."
-[@Augustine:ConfessionesPL, 10:33:
+more than what is sung"
+(-@Augustine:ConfessionesPL, 10:33:
 "Tamen, cum mihi accidit ut me amplius cantus, quam res quae canitur, moveat;
-poenaliter me peccare confiteor, et tunc mallem non audire cantantem."]
-A popular translation renders this as follows: "It is not the singing that moves
-me but the meaning of the words when they are sung."
-[@Augustine:ConfessionsPenguin, 239]
+poenaliter me peccare confiteor, et tunc mallem non audire cantantem").
+A popular version translates, "It is not the singing that moves me but the
+meaning of the words when they are sung" (@Augustine:ConfessionsPenguin, 239).
 But Augustine's dilemma is not between words and music, but between different
 ways of hearing music.
 Augustine twice in this passage uses the same words contrasting *cantus* (song)
@@ -1709,43 +1730,28 @@ In the villancico, "what is sung" refers first to the present-day singing of the
 chapel choir, but that itself is a sign pointing to the voices of the first
 Christmas and ultimately to Christ who is himself both sign and signified.
 
-The concept of the *Verbum infans*, then, is that Christ as an infant cannot
-speak words, but this is fitting since he himself is the Word.
-This all amounts to an extended exegesis of the opening of the New Testament
-letter to the Hebrews, which contrasts God's communications to humanity
-through prophetic words with his final communication in the person of Jesus:
-"Long ago God spoke to our ancestors in many and various ways by the prophets,
-but in these last days he has spoken to us by a Son \[...\]. He is the reflection
-of God's glory and the exact imprint of God's very being, and he sustains all
-things by his powerful word" (Heb. 1:1--3, NRSV).
-Lapide connects Word and Incarnation thus: "We hear God teaching and preaching
-from the chair \[*cathedra*\] of this manger, not by a word but by a deed: \[...\]
-I have been made a little one, of your bone and your flesh, I am made man, in
-order to make you God."
+Augustine's theology of voice opens up rich possibilities for later interpreters
+in the tradition to consider the Christ-child in specifically musical terms.
+If Christ communicates God through his body, then one might imagine the 
+Christ-child as an oration given by a master speaker, as Lapide does in his
+commentary on Luke:
+"We hear God teaching and preaching from the chair \[*cathedra*\] of this
+manger, not by a word but by a deed: \[...\] I have been made a little one, of
+your bone and your flesh, I am made man, in order to make you God."
 [@Lapide:Gospels19C, 673, on Lk 2:
 "Quid fecit tantus Deus, in tantilla carne, jacens in praesepio?
 Audiamus ipsummet in praesepii cathedra, non verbo sed facto docentem et
 praedicantem: \[...\] 
 Parvulus factus sum, os tuum et caro tua, factus sum homo, ut te Deum
 efficerem."]
-Lapide paraphrases Saint Cyril on the Word in John's Gospel 1:3 ("through him \[the
-Word\] all things were made"):
+If the voice is an apt metaphor for Christ as the divine Word, conveying the
+divine nature to humanity, then Christ's actual voice would communicate doubly.
+And if Christ can be both orator and oration, then surely he can be both singer
+and song as well.
 
-> An artisan \[*artifex*\] makes all of the works of his craft \[*opera artis*\]
-> according to the idea, knowledge \[wisdom\], concept, or "word" \[thought\]
-> that is in his mind: all of these comparisons are appropriate for the divine
-> Word, or Son, who is Wisdom begotten, not made; and by consequence it is also
-> appropriate to say that by him all things were made."
-[@Lapide:Gospels19C, 877, on Jn 1:3:
-"Artifex enim omnia opera artis suae facit per ideam, sapientiam, conceptum, sive
-verbum mentis suae: haec autem omnia appropriantur Verbo divino, sive Filio, qui
-est Sapientia genita, sed increata; et per consequens appropriatur ei, quod per
-ipsum omnia sint facta. Ita S. Cyrillus."]
-
-\noindent
 As the villancico *Voces, las de la capilla* presents these tropes, the
 Christ-child is the masterwork that proves the craft of the divine
-*artifex*---now a chapelmaster in the Spanish fashion.
+craftsman, imagined as a chapelmaster in the Spanish fashion.
 Bringing together *maxima* and *breve*, "high" and low in the incarnate Christ,
 God the Father "proves" that he can form "consonances between a man and God"
 (copla 2).
@@ -1761,16 +1767,15 @@ This connects to a larger theological trope of Christ as the "new song" of
 the psalms and the Apocalypse.^[Ps 33:3, 40:3, 96:1, 98:1, 144:9, 149:1; Is
 42:10.; Rv 5:9, 14:3.]
 
-The poem's "sign of *A (la, mi, re)*"---realized by Padilla through puns of
-solmization on these syllables---connects the concept of Christ as the song to
-that of Christ as the singer as well.
+The poem's "sign of *A (la, mi, re)*" connects the concept of Christ as the song
+to that of Christ as the singer; and Padilla makes the connection even stronger
+through his literal puns of solmization on these syllables.
 This theological tradition sees Christ the Word as a "sign," and therefore even
 as a "letter."
 Covarrubias glosses Spanish *divisa* with the Latin *signum*, from the Greek
 *sēma*, sign; and Lapide calls Christ "the sign of reconciliation of the human
 race to God."
 [@Covarrubias:Tesoro, s.v. *divisa*; @Lapide:Gospels19C, 685--686, on Lk 2]
-
 Augustine connects the concept of the Word in John 1 to Christ's statement in the
 Revelation to John, "I am *alpha* and *omega*, first and last, beginning and
 end" (Rv 22:13).
@@ -1859,6 +1864,8 @@ Through the voices of the Puebla chapel choir, the faithful could listen for the
 unhearable higher music of Christmas, which ultimately meant encountering Christ
 himself.
 
+
+<!-- START -->
 
 <!-- *********************************************************************** -->
 ### Establishing a Pedigree in a Lineage of Metamusical Composition
