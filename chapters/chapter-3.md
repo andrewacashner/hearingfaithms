@@ -1314,10 +1314,13 @@ The historic libraries of Puebla's seminaries and convents are preserved today
 in the city's rare-book archives (the Biblioteca Palafoxiana and Biblioteca
 LaFragua), and these collections include a large number of compendia of
 patristic commentaries on Scripture, model sermons, and both vernacular
-devotional books and learned Latin theological treatises (table
-`ref:table:puebla-compendia`).
+devotional books and learned Latin theological treatises.
 [On patristic exegesis and its influence, see @Kannengiesser:PatristicExegesis;
 @McKim:BiblicalInterpreters; @Thompson:ReadingwDead.]
+Table `ref:table:puebla-compendia` includes two books from the library of
+Puebla's Oratory of Saint Philip of Neri, the priestly order to which Padilla
+belonged.
+[@Mauleon:PadillaCivil]
 These collections provide evidence for the high level of learning among New
 Spanish clergy like Juan Gutiérrez de Padilla and documents the currents that
 formed them spiritually.
@@ -1944,10 +1947,9 @@ The imprint, as was typical, does not list the composer or poet's names, so it
 may also be a different setting of a variant texts with the same incipits.
 In support of the argument that the imprint corresponds to Santiago's setting is
 the evidence that in 1640, the year Santiago last visited Lisbon, an imprint
-records the performance by John IV's chapel of another villancico, *Anton
+records the performance by John IV's chapel of another villancico, *Antón
 Llorente y Bartolo*, which would also later be included in the 1649 catalog
-among the works of Santiago.
-^[L:Pn RES-189-1-p (no. 2); @JohnIV:Catalog, caixão 26, no. 675]
+among the works of Santiago.[^Anton-Llorente]
 On the other hand, Santiago was probably in Seville in 1642, beginning to suffer
 the paralyzing illness which would soon end his life.
 In 1643 the chapter hired Luis Bernardo Jalón to substitute for Santiago that
@@ -1959,6 +1961,21 @@ Christmas, and Santiago died in October 1644.
 *Villancicos qve se cantarão na real capella do muyto alto, & poderoso Rey Dom
 Ioamo IIII. nosso senhor. Nas matina da noite do Natal da era de 1642* (Lisbon,
 1642), P:Ln RES-189-3-P (no. 2)
+
+[^Anton-Llorente]:
+L:Pn RES-189-1-p (no. 2); @JohnIV:Catalog, caixão 26, no. 675.
+The Sánchez Garza collection, originally from the Conceptionist Convento de la
+Santísima Trinidad in Puebla, includes an anonymous musical setting of *Antón
+Llorente y Bartolo* (MEX:Mcen: CSG.014; see also chapter `ref:ch:intro`).
+The piece matches the incipits of a Santiago setting in the catalog of John IV;
+the words are an abridged and adapted version of the text performed by the
+Lisbon royal chapel in 1640 when Santiago was visiting (as noted above).
+The music in the Puebla collection is thus probably not by Santiago, but by a
+New Spanish composer who adapted the same text for use in Puebla.
+The same collection features several other villancicos by Padilla, and it is
+likely that he knew this setting (if he was not its composer).
+
+<!-- XXX new catalog no. -->
 
 
 Jalón, as chapelmaster of Seville Cathedral, was probably the composer for the
@@ -2050,7 +2067,6 @@ poem---with seeing (*vi*), thus obscuring the poem's central concept.
 Instead of listening to voices (*oí*, *voces*), the speaker of *Cantores* is
 looking at singers (*vi*, *cantores*).
 
-<!-- XXX quotes vs italics -->
 The *conceptismo* in *Cantores* is not as tightly bound as in *Voces*: in many
 cases, *Cantores* makes sense on the musical side but not on the theological
 side.
@@ -2123,7 +2139,9 @@ addition.
 
 [^respuesta]:
 Gutiérrez de Padilla, villancicos in MEX-Pc for Corpus Christi 1628, *Salir
-primero de ti*; Christmas 1653, *A siolo Flasiquiyo*
+primero de ti*; Christmas 1653, *A siolo Flasiquiyo*. 
+
+<!-- XXX Legajo nos. -->
 
 The rest of the estribillo in Padilla's version, up to *Todo en Dios es bajar*,
 is highly patterned in a series of fully rhyming verse pairs, all in
@@ -2144,7 +2162,6 @@ These metrical irregularities are confined to this first portion of the
 estribillo; after this the remainder is almost identical to *Voces*.
 Thus the first section appears "tacked on" to the more refined pre-existing
 material in the second section.
-<!-- XXX  line numbers -->
 
 Similarly, the 1642 Lisbon *Voces* ends with an *eco* section in a completely
 irregular meter, thematically almost unrelated to concept of the rest of the
@@ -2165,41 +2182,48 @@ There is of course the danger of confirmation bias, especially since Padilla's
 musical setting articulates its poetic structure and interprets its theological
 conceits in a way that makes that version seem authoritative.
 
-<!-- START -->
 #### Demonstrating Musical Kinship
 
-The differences between the texts set by Jalón and Padilla are consistent with
-the explanation that *Cantores* is an adaptation of *Voces* to suit less
-Gongoresque tastes, and that it is not an especially skillful adaption.
-The relationships between the three settings are summarized in table
-`ref:table:Voces-connections`.
-Since Santiago's villancico from before 1634 has the same incipits as Padilla's
-1657 setting, and since Jalón was Santiago's successor at Seville and composed
-his *Cantores* setting only two Christmas--Epiphany seasons after Santiago's
-death, it seems plausible that both Jalón and Padilla knew Santiago's earlier
-version (or at least knew of its text) and deliberately chose to set their
-particular versions in order to situate themselves differently in relation to
-the earlier master.
-Jalón pays homage to Santiago by basing his villancico on the same text,
-but also shows his differences from his predecessor by using an "improved"
-version of the poem, and, one may imagine, a more modern musical style as well.
+In sum, the 1642 and 1657 villancicos *Voces, las de la capilla*, though not
+identical, form one primary branch of this textual family, and the 1647
+*Cantores de la capilla* forms another.
+Compared to the older *Voces* branch, the *Cantores* branch is more simplistic,
+more irregular metrically, and less coherent.
+These differences suggest that *Cantores* was adapted from *Voces* with the goal
+of tempering its Góngora-like difficulty, and that is is not an especially
+skillful adaptation.
+There is reason to believe that the three composers known to have set texts in
+this family---Francisco de Santiago (*Voces*, before 1644), Luis Bernardo Jalón
+(*Cantores*, 1647), and Juan Gutiérrez de Padilla (*Voces*, 1657)---were
+personally connected in a network of musicians, and that Jalón and Padilla chose
+intentionally to set a version of this text in order to establish kinship with
+Santiago.
+Jalón was Santiago's successor at Seville Cathedral and composed his *Cantores*
+setting only two Christmas--Epiphany seasons after Santiago died.
+Padilla probably knew Santiago personally from his early career in Andalusia;
+his 1657 setting of *Voces* has the same incipits as Santiago's
+setting in in the 1649 catalog of John IV, and the text is closely related to
+the version performed in Lisbon in 1642.
+These chapelmaster deliberately chose to set their particular versions in order
+to situate themselves differently in relation to the earlier master (table
+`ref:table:Voces-connections`).
 
 (insert table `ref:table:Voces-connections`)
 `label:table:Voces-connections`
 
-Padilla almost certainly knew of Jalón's version from the poetry imprint, since
-the single extant source of *Cantores* survives in Puebla.
-Padilla regularly used texts of peninsular imprints, such as his 1653 *A la
-jacara, jacarilla*, taken from a Madrid Royal Chapel imprint of a year earlier
-(E-Mn: VE/88/55).
+Padilla almost certainly knew Jalón's adapted version of this text because the
+Seville imprint circulated to Puebla, where the only exemplar survives today.
+Padilla regularly used texts from such imprints: for example, he took
+the text for his 1653 *A la jacara, jacarilla* from a Madrid Royal Chapel
+imprint of a year earlier.^[E-Mn: VE/88/55.]
+A binder's collection in Puebla contains numerous peninsular villancico imprints
+with other correspondences to Padilla's settings.^[MEX-Plf: 80070-42010404]
 Padilla likely kept his own collection of imprints (if not this actual
 collection) as sources for composition, keeping current with the latest mainland
 trends.
-
 If Jalón's villancico was a modernization of Santiago's, then, and the text was
 available to Padilla in New Spain through the imprint, why did Padilla choose to
-set Santiago's original text (or an older tradition similar to it) rather than
-the new one set by Jalón?
+set Santiago's original text rather than the new one set by Jalón?
 One possibility is that Padilla specifically wanted to differentiate himself
 from Jalón and associate himself more directly with Santiago.
 With his setting of *Voces, las de la capilla*, Padilla may have been trying to
@@ -2208,7 +2232,7 @@ show that he, not Jalón, was the true successor to Santiago.
 There are several ways that Padilla might have known Santiago's setting of
 *Voces* or the poem on which it was based.
 It is quite likely that the two chapelmasters knew each other personally from
-Padilla's early career in Andalucía.
+Padilla's early career in Andalusia.
 Padilla, baptized in Málaga in 1590, climbed his way rapidly up the ladder of
 prestigious positions in the region, moving from positions at Ronda (1608--1612)
 and Jerez de la Frontera (1612--1616) to the cathedral of Cádiz, where he served
@@ -2216,38 +2240,13 @@ as chapelmaster from March 17, 1616 until he emigrated to New Spain in 1622.
 [@Gembero:Padilla]
 Padilla's years in Cádiz overlap with Santiago's tenure in Seville (1617--1643),
 leaving about six years when the two chapelmasters could easily have interacted
-either thorugh correspondence or personally.
-The two port cities, about 121 km apart, were closely linked economically and
-socially.
+either personally or through correspondence.
+The two port cities, about seventy-five miles apart (a few days' journey by
+horse), shared close economic and social links.
 Both cities were among the first to print leaflets of villancico poems, and
 Padilla could have had access to the texts set by Santiago through this medium
 alone.
 [@BNE:VCs17C, s.v. *Cádiz* and *Sevilla*]
-These imprints circulated widely and enabled provincial churches to stay
-up-to-date with the latest trends, especially those of the Royal Chapel in
-Madrid and the cathedral of Seville.
-Numerous villancico imprints, especially those from Seville, were collected and
-preserved in Puebla.^[MEX-Plf: 80070-42010404]
-
-The Sánchez Garza collection, originally from the Conceptionist Convento de la
-Santísima Trinidad in Puebla, includes an anonymous musical setting of *Antón
-Llorente y Bartolo*.^[MEX:Mcen: CSG.014]
-The piece matches the incipits of a Santiago setting in the catalog of John IV;
-the words are an abridged and adapted version of the text performed by the
-Lisbon royal chapel in 1640 when Santiago was visiting (as noted above).
-^[L:Pn RES-189-1-p (no. 2); @JohnIV:Catalog, caixão 26, no. 675]
-The music in the Puebla collection is thus probably not by Santiago, but by a
-New Spanish composer who adapted the same text for use in Puebla.
-The same collection features several other villancicos by Padilla, and it is
-likely that he knew this setting (if he was not its composer).
-<!-- XXX contra Stevenson -->
-<!-- 
-XXX 
-but was performed in 1639 Toledo E-Mn: VE/88/6
-CSG.014
-followup in 1640 Toledo see diss ch 1
-XXX new catalog
--->
 
 Even if there was no personal connection between Padilla and Santiago, the
 Seville composer's position at the helm of the flagship music program in the
@@ -2257,12 +2256,12 @@ In fact, Santiago's appointment at Seville may have even precipitated Padilla's
 departure for the New World.
 Santiago was hired at Seville without any public competition for the position,
 which would have been the pinnacle of achievement for any Spanish composer,
-particularly one from Andalucía.
+particularly one from Andalusia.
 Padilla had just started his position in Cádiz---not a lowly post---but the
 appointment of the relatively young Santiago would have deprived him of any
 hopes of further advancement on the Spanish main.
 Other prominent posts in Madrid were taken, with Mateo Romero at the Royal Chapel
-since 1598, and at the presitigious Convento de la Encarnación, none other than
+since 1598, and at the prestigious Convento de la Encarnación, none other than
 Luis Bernardo Jalón.
 [@Ezquerro:JalonLB] <!-- XXX Capilla real? -->
 This may have been part of the reason why in about 1622, Padilla sought better
@@ -2289,19 +2288,25 @@ Sevilla are shown in table `ref:table:Puebla-Seville-MCs`.
 (insert table `ref:table:Puebla-Seville-MCs`)
 `label:table:Puebla-Seville-MCs`
 
-In Padilla's case, he served first as as choirboy at Málaga Cathedral and then
-apprentice to the local chapelmaster Francisco Vásquez (ca. 1602--1608).
-[@Gembero:Padilla]
-In 1628, after he had settled in New Spain, Padilla was selected to assist the
-ailing chapelmaster of Puebla Cathedral, Gaspar Fernández.
+In Padilla's case, his apprenticeship began by serving as choirboy and cantor at
+Málaga Cathedral and then assistant to the local chapelmaster Francisco Vásquez
+(ca.  1602--1608); unfortunately he was bested by a more experienced composer in
+the competition to succeed his teacher.
+[The Portuguese composer Estevão de Brito won the *oposición* at Málaga.
+@Gembero:Padilla; @Stevenson:BritoE]
+A new stage of apprenticeship began after Padilla emigrated to New Spain, when
+he was selected in 1628 to assist the ailing chapelmaster of Puebla Cathedral,
+Gaspar Fernández.
 <!-- ^[cite Fernandez bio XXX] -->
 He composed the villancicos for Corpus Christi in that year, probably both as a
 way to fill in for Fernández and to prove his own mastery.
 [@Cashner:Cards]
 He then succeeded Fernández after he died.
+Now the master, Padilla cultivated his own apprentice in Puebla, Juan García de
+Céspedes.
 When Padilla's health began to fail in 1660, he signed a "power of attorney"
-document giving legal rights to Juan García de Céspedes, a member of the Puebla
-ensemble whose name appears throughout Padilla's partbooks.
+document giving legal rights to García, a member of the Puebla ensemble whose
+name appears throughout Padilla's partbooks.
 García then succeeded Padilla after his death in 1664.
 [@Mauleon:PadillaCivil, 237--238]
 
@@ -2322,11 +2327,7 @@ their successors.
 But musicians could also voluntarily demonstrate kinship even when they were not
 made direct heirs. 
 Younger musicians could deliberately affiliate themselves with teachers and
-paragons through composing musical homages: table `ref:table:Padilla-homages`
-shows likely homage compositions related to Padilla's *Voces*.
-Padilla competed in the *oposición* for his Málaga teacher Vásquez's position
-but was bested by the Portuguese composer Estêvão de Brito (1577--1641).
-[@Stevenson:BritoE]
+paragons through composing musical homages (table `ref:table:Padilla-homages`).
 Francisco Vidales, organist in Padilla's Puebla chapel, demonstrated his
 affiliation to Padilla by writing a parody mass based on a motet by Padilla.
 [@Koegel:Padilla: 
@@ -2336,7 +2337,7 @@ Exultate*, and another connection between the two men is seen in Vidales's
 addition of a tenor part to Padilla's *O Domine Jesu Christe*." XXX]
 Dianne Goldman has documented a similar chain of homage in several stages of
 reworking a Victoria motet at Mexico City Cathedral through the eighteenth
-century.^[cite Goldman stile antico article]
+century.^[XXX cite Goldman stile antico article]
 Homage composition of this kind was a widespread way for composers to
 demonstrate both real and aspirational kinship with a mentor, teacher, or
 paragon.
@@ -2349,21 +2350,24 @@ that presented him as Santiago's heir, acknowledging influence while also
 setting himself apart.
 The modifications in *Cantores de la capilla* suggest that Jalón represented a
 new generation and a new style, and his music was likely in a more modern style.
-For the sixty-seven-year-old Padilla, who long ago had not been able to capture
-the coveted position of Seville chapelmaster in 1616, setting the older text (in
-any case one closer to that set by Santiago) may have established Padilla's
-affinity for the older generation and its style.
+For the sixty-seven-year-old Padilla, who as a young man had not been able to
+capture the coveted position of Seville chapelmaster in 1616, setting the older
+text may have established Padilla's affinity for the older generation and its
+style.
 Padilla's madrigalesque text setting and strict counterpoint suggest more
 old-fashioned musical tastes compared to the new sounds of music from Madrid in
-the 1650s, like the experimental musical drama collaborations of Juan Hidalgo
+the 1650s, like the experimental music-drama collaborations of Juan Hidalgo
 and Pedro Calderón de la Barca.
+[@Stein:Songs]
 
 This practice of affiliating oneself through musical homage may also shed light
 on the origins and meaning of Padilla's most performed piece of Latin-texted
-music today, the *Missa "Ego flos campi"* for eight
-voices.[^Padilla-Ego-flos-campi]
-The piece has been assumed to be a parody mass bassed on a lost motet *Ego flos
-campi* by Padilla.
+music today, the *Missa "Ego flos campi"* for eight voices.
+[MEX-Pc: LiPol XV; @Padilla:MissaEgoFlosCampi; recent recordings in
+@Mauleon:PadillaPalafox; @Skidmore:NewWorldCD; along with many recent
+performances.]
+The piece would appear be a parody mass, and one might assume it is based on a
+lost motet *Ego flos campi* by Padilla.
 But John IV's catalog lists another *Missa "Ego flos campi" a 8*---by Francisco de
 Santiago.
 Moreover, the catalog specifies that Santiago's mass was based on the motet *Ego
@@ -2373,21 +2377,18 @@ Chapel.
 "Missas \[...\] Ego flos campi, a 8. *Ferta sobre hum Motette de Niculas du
 Pont*"; @JohnIV:Catalog, 381, caixão 32, no. 767: "Ego flos campi, a 8, Niculas
 du Pont. *De Nossa Senhora*."
+(Neither piece has been found.)
 Based on this connection, Robert Stevenson speculated that Santiago, like his
 peer Diego de Pontac, studied with Nicolas Dupont during Santiago's time in
 Madrid; -@Stevenson:SantiagoF.]
-(Neither piece has been found.)
 For Santiago to use this music by Dupont, who may have been one of his teachers
 in Madrid, was to connect himself to the august lineage of Hapsburg
-Franco-Flemish composers going back to Dufay and Ockeghem.
+Franco-Flemish composers going back to Ockeghem and Dufay.
 It is possible, then, that Juan Gutiérrez de Padilla's *Missa "Ego flos campi"*
-is not based on his own motet, but on Santiago's mass of the same name, and that
-this represents another instance of Padilla establishing his musical pedigree.
-
-[^Padilla-Ego-flos-campi]:
-MEX-Pc: LiPol XV; @Padilla:MissaEgoFlosCampi; recent recordings in
-@Mauleon:PadillaPalafox; @Skidmore:NewWorldCD; along with many recent
-performances.
+is not based on his own motet, but on Santiago's mass of the same name, or even
+on the same Dupont source that Santiago had used.
+This would be another instance, then, of Padilla establishing his musical
+pedigree through homage composition, specifically in connection to Santiago.
 
 
 ### "All Who Heard It Were Amazed"
@@ -2407,7 +2408,7 @@ of "singing about singing" in seventeenth-century Spanish devotional music.
 The poem and music represent sounding music---including the "present" music in
 Puebla as well as the historical music of the angels and shepherds at
 Bethlehem---as *musica instrumentalis*, fully in accord with the Neoplatonic
-system known from Boethius and many other early modern sources.
+system known from Boethius and early modern sources.
 The musical performance invites listeners to contemplate the higher forms of
 music, and above all the theological "Music" of the incarnate Christ, bringing
 God and Man into consonance and forming in his own body and voice the perfect
@@ -2415,9 +2416,9 @@ God and Man into consonance and forming in his own body and voice the perfect
 
 In singing this villancico about singing, the Puebla chapel choir drew its
 listeners' attention to the fact that they were singing.
-The musicians, and so encouraged listeners to contemplate the higher levels of
-music.
-The listener would have the opportunity to listen for the voice of the sphers,
+The musicians emphasized the musical artifice, and so encouraged listeners to
+contemplate the higher levels of music.
+The listeners would have the opportunity to listen for the voice of the spheres,
 the angels, and most importantly, of Christ himself through the voices of the
 chapel choir.
 These higher forms of music would be audible only by faith, through the present
@@ -2432,9 +2433,14 @@ poetic and musical structure provides an object for aesthetic reflection as a
 spiritual discipline, even inviting detailed analysis.
 [XXX @DellAntonio:Listening]
 
-But in order to contemplate the piece in this way, the listener must be equipped
-with both faith and knowledge: faith to seek the higher theological meaning
-behind the words and music, and knowledge to understand it.
+This type of piece, then, encourages faithful hearing---hearing that is tempered
+by faith and which serves as a tool for exercising faith.
+But as with the pieces about faith and sensation discussed in chapter
+`ref:ch:faith-hearing`, this kind of hearing must be trained and carefully
+cultivated. 
+In order to contemplate the piece in the most spiritual way, the listener must
+be equipped with both faith and knowledge: faith to seek the higher theological
+meaning behind the words and music, and knowledge to understand it.
 While Padilla wrote many villancicos that would have been easy for common people
 to appreciate, this one seems to address the most sophisticated listeners in the
 congregation.
@@ -2446,12 +2452,12 @@ the thirty-three notes of the *respuesta*, and the quotation of the *tonus
 peregrinus*---would probably be accessible only to the performers themselves, if
 even they were paying close enough attention.
 Given the realities of hurried rehearsal schedules and the practical mindset of
-many performers then and now, much of this artistry would remain hidden, known
+the cathedral performers, much of this artistry would remain hidden, known
 only to the composer himself.
 Because of its clear text declamation and distinct contrasts of styles, the
 piece would still leave an overall impression on the less attentive and educated
-listener, connecting the voices of the chapel choir with the voices of
-the Christmas angels and the mystery of Christmas.
+listeners, inspiring them to connect the voices of the chapel choir with the
+voices of the Christmas angels and the mystery of Christmas.
 
 In this way, the piece functions not only for intellectual contemplation but
 also makes an affective appeal to bodily, communal reaction and participation.
@@ -2474,6 +2480,12 @@ principes praevenire conjunctos psallentibus, in medio juvencularum
 tympanistriarum."]
 
 \noindent
+The devotee's response of awe, which as we have seen was a central element of
+Christmas devotion, is meant to surpass private experience and motivate people
+to share their response with others.
+Music could both motivate this kind of awe-filled experience and provide a way
+to share it.
+
 The theology of Christ as the *Verbum infans* that underlies this villancico is
 central for understanding how Catholics believed sacred music to function.
 In the Catholic theological tradition of Christmas, Christ as the eternal Word
@@ -2483,10 +2495,10 @@ The point of the Christmas liturgy, then, would not be simply to "hear about"
 God, but to encounter the incarnate Christ in his flesh, through the sacrament
 of the Eucharist.
 Lapide cites Saint Cyril to say that "symbolically, the manger is the altar, on
-which Christ in the Mass by consecration is as though born and sacrificed"; and
-Saint John Chrysostom to conclude, "That which the Magi saw in the manger, in a
-little hut, with much veneration and fear approached and adored, you perceive
-the same thing not in the manger, but on the altar."
+which Christ in the Mass by consecration is as though born and sacrificed".
+Paraphrasing Saint John Chrysostom, Lapide writes, "That which the Magi saw in
+the manger, in a little hut, with much veneration and fear approached and
+adored, you perceive the same thing not in the manger, but on the altar."
 [@Lapide:Gospels19C, 672, on Lk 2:
 "Sic et S. Cyrillus in Caten. Symbolice praesepe est altare, in quo Christus in
 Missa per consecrationem quasi nascitur et immolatur.
@@ -2494,15 +2506,17 @@ Unde S. Chyrs. in Catena: *Quod in praesepio videntes atque tugurio Magi, cum
 multa veneratione ac timore accesserunt et adorarunt: tu idipsum non in
 praesepio, sed in altari cernens, majorem istis brabaris exhibe pietatem*."]
 This is the Christmas version of the central theological concept for Roman
-Catholics, Christ's presence in the sacraments.
+Catholics: that the resurrected Christ made himself present and conferred his
+power and grace through the sacraments of the Church.
 As Leo the Great epitomized the theology, "that which was plainly
 visible in our Savior, passed into the sacraments \[or signs, or mysteries\]."
 [@Leo:SermonesPL, 398, Sermo II de Ascensione Domini:
 "Quod itaque redemptoris nostri conspicuum fuit, in sacramenta transiuit."]
 
+Anyone wishing to encounter the Christ-child, then, would find him on the altar
+in the Christ-Mass.
 All the auditory elements of the service, from the reading of Scripture to the
-singing of villancicos, could only point toward this physical sacramental
-encounter.
+singing of villancicos, could only point toward this sacramental encounter.
 But because of music's ability to work on the external sense of hearing and the
 internal faculties of the memory via the ethereal medium of the voice,
 devotional music could still play a special role for pious listeners---helping
@@ -2515,25 +2529,38 @@ musical conceits, who had the education to understand the theological
 background, and who participated fully in the liturgy by communing.
 <!-- XXX  source -->
 By contrast, since the laity in Puebla and across the Hispanic world would have
-been unlikely actually to receive the elements, the common parishioner's
-relationship to the *admirabile sacramentum* was primarily to look (*admirar*),
-to listen, and to adore.
+been unlikely to eat the Eucharistic wafer or drink the consecrated wine, the
+common parishioner's relationship to the *admirabile sacramentum* was primarily
+to look (*admirar*), to listen, and to adore.
 
-Padilla's 1657 villancico would have been performed facing a high altar retable
-on which the actual altar was flanked by an image of the Adoration of the
-Shepherds on the left and the Visitation of the Magi on the right (figure
-`ref:fig:Puebla-Ferrer-Retablo`).
+Worshippers in Puebla who looked toward the altar while listening were presented
+with a resplendent vista of images to contemplate.
+Padilla's 1657 villancico would have been performed facing a resplendent
+high-altar retable on which the actual altar was flanked by an image of the
+Adoration of the Shepherds on the left and the Visitation of the Magi on the
+right (figure `ref:fig:Puebla-Ferrer-Retablo`).
 This "Altar of the Kings" was completed by Pedro García Ferrer and consecrated
-by bishop Juan de Palafox y Mendoza in 1649, thus places images of human
-encounters with the incarnate Christ at the closest visual proximity to the
-altar and central Eucharistic tabernacle.
+by bishop Juan de Palafox y Mendoza in 1649.
+It places images of human encounters with the incarnate Christ at the closest
+visual proximity to the altar and central Eucharistic tabernacle.
 [@Gali:GarciaFerrer]
 Above these images, the eye is drawn upward to ascend into heaven along with
-the Virgin Mary, for Catholics the paragon of true faith and devotion, through a
-"celestial hierarchy" (to use the influential concept of Dionysius) into a realm
+the Virgin Mary, for Catholics the paragon of true faith and devotion, and the
+central focus of the Puebla community's intense devotion to the Immaculate
+Conception.
+Mary is ascending to heaven through a celestial hierarchy  into a realm
 of baby angels playing musical instruments like harp and organ, through a
 group of cherubim dancing in the round, to the Holy Trinity at the highest
-point (figure `ref:fig:Puebla-Ferrer-BMV`).
+point (figure `ref:fig:Puebla-Ferrer-BMV`).[^celestial-hierarchy]
+These figures drew devotees' attention to the other central object of devotion
+in this "city of the angels," which residents believed was built on a site
+revealed in a dream to the bishop of Tlaxcala by angels.
+[@Lomeli:Puebla, 67--68; @AngelContreras:Puebla, 21]
+
+[^celestial-hierarchy]:
+The *Celestial Hierarchy* attributed to Saint Dionysius the Areopagite was
+widely disseminated across the Hispanic world, including a copy in Puebla's
+Biblioteca Palafoxiana.
 
 (insert figure `ref:fig:Puebla-Ferrer-Retablo`)
 `label:fig:Puebla-Ferrer-Retablo`
@@ -2541,19 +2568,20 @@ point (figure `ref:fig:Puebla-Ferrer-BMV`).
 (insert figure `ref:fig:Puebla-Ferrer-BMV`)
 `label:fig:Puebla-Ferrer-BMV`
 
-Like Palafox's own devotional book *El Pastor de Nochebuena*, these images
-invite worshippers to imagine themselves journeying with the shepherds and
-Gentiles to meet Christ in his lowly incarnation as an infant.
+Like Bishop Palafox's own devotional book *El Pastor de Nochebuena*, these
+images invite worshippers to imagine themselves journeying with the shepherds
+and Gentiles to meet Christ in his lowly incarnation as an infant.
 [@Palafox:Nochebuena]
-In Catholic devotional culture of this time, the goal of contemplating Christ's
-birth was to cultivate faith in Christ, including both faith as belief and faith
-as action or faithfulness.
-Lapide, who had Ferrer paint his image as one of the shepherds on the Puebla
-retable (figure `ref:fig:Puebla-Ferrer-Pastores`), holds up the shepherds to
-his readers as an example of faith: they heard the angel chorus and saw the sign
-of Christ in his manger, and then they went and told everyone, and "they went
-forth praising and glorifying God for everything they had seen and heard" (Lk
-2:29).
+In honor of Palafox's book, Ferrer painted Palafox's portrait as one of the
+shepherds on the Puebla retable (figure `ref:fig:Puebla-Ferrer-Pastores`).
+[@Merlo:PueblaCat, 188--189]
+Journeying with the shepherds meant imitating the shepherds' faith: the goal of
+contemplating Christ's birth was to cultivate faith in Christ, including both
+faith as belief and faith as action or faithfulness.
+Lapide holds up the shepherds to his readers as an example of faith: they heard
+the angel chorus and saw the sign of Christ in his manger, and then they went
+and told everyone, and "they went forth praising and glorifying God for
+everything they had seen and heard" (Lk 2:29).
 Lapide says Christmas shepherds were chosen as the first outside Holy Family and
 the stable animals to see the newborn Christ because in their own humble poverty
 they would not be put off by Christ's lowly birth.
@@ -2566,36 +2594,34 @@ viderant: quare multos praesepe adiise, Christumque vidisse; sed eos solos in
 Christo credidisse, quorum Deus corda efficaciter tangebat, ceteros offensos
 paupertate Christi eum sprevisse."]
 The shepherds not only heard and saw, but believed because they freely received
-the gift of faith, as Lapide explains in his commentary on John 1:12 (with a
-polemical eye on his Calvinist compatriots in the Low Countries): 
+the gift of faith, as Lapide explains in his commentary on John 1:12:
 "God gives the power to become sons of God to those who freely receive Christ by
 faith and obedience, excluding those who do not wish to receive him."
 [@Lapide:Gospels19C, 882: 
 "Hoc est enim quot ait hic St. Joanes, Deum dedisse potestatem filios Dei his
 qui libere Christum per fidem et obedientiam receperunt, exclusis iis, qui eum
-recipere noluerunt."]
-
-(insert figure `ref:fig:Puebla-Ferrer-Pastores`)
-`label:fig:Puebla-Ferrer-Pastores`
-
+recipere noluerunt." Lapide seems to have a polemical eye here on his
+Calvinist compatriots in the Low Countries.]
 If the listeners were to imitate the shepherds, then, they would not only listen
 for the angelic choirs and look for Christ's presence sacramentally on the
 altar, but they would allow God to move their hearts to receive him in
 faith---a faith that could motivate them to witness their faith to others, as
 the shepherds did.
-Christmas villancicos like Padilla's *Voces* and the related family of
-metamusical pieces discussed in the next section appealed to the hearing of
-worshippers on several levels, and opened the possibility for them to listen in
-faith for the voices of angels and the voice of Christ.
+Metamusical Christmas villancicos appealed to the hearing of worshippers on
+several levels, and opened the possibility for them to listen in faith for the
+voices of angels and the voice of Christ.
 Through compositional craft, the musical performance could also move listeners'
 hearts to wonder and adoration.
 
+(insert figure `ref:fig:Puebla-Ferrer-Pastores`)
+`label:fig:Puebla-Ferrer-Pastores`
+
 We have identified two main functions for this villancico, and others like it:
-first, as an object of devotion; and second, as a means of establishing a
-musical pedigree.
-These contrasting functions may be harmonized somewhat by remembering the
-theological emphasis on wonder, amazement, even "stupefaction" (to use Lapide's
-term) in response to the voices of Christmas and the voice of the Word made
+first, it served the congregation as an object of devotion; and second, it
+enabled the composer to establish a musical pedigree.
+These contrasting functions may be harmonized by remembering the theological
+emphasis on wonder, amazement, even "stupefaction" (to use Lapide's term) in
+response to the voices of Christmas and the voice of the Word made
 flesh.
 In Luke's account, the shepherds are struck with terror when the angel speaks to
 them; when the shepherds tell what they heard (presumably to Mary and Joseph
@@ -2605,8 +2631,9 @@ The Virgin Mary, in turn, "treasured all these things \[*verba*\] within her
 heart" (Lk 2:19).
 If the goal of Christmas music in seventeenth-century Puebla and Seville was to
 echo those historical voices of Christmas and provoke the same kind of awestruck
-wonder, then this justifies poets and chapelmasters' efforts to impress and even
-confound hearers through ingenious auditory artistry.
+wonder, then we can understand the efforts of poets and chapelmasters (and the
+institutions that paid them) to impress and even confound hearers through
+ingenious auditory artistry.
 Listeners' relationship to a villancico like *Voces, las de la capilla* would
 mirror their relationship to the mysterious and logic-defying theology of the
 Incarnation: those who understood little could still be amazed greatly; those

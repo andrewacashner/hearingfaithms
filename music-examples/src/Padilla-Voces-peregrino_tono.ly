@@ -75,9 +75,6 @@ Lyrics = \lyricmode {
       >>
     >>
   >>
-  \layout { 
-    \ShowFirstBarNumber
-  }
 }
 
 

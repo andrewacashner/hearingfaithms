@@ -22,7 +22,7 @@ MusicTII = {
   \MeterTriple
   \cadenzaOn
   d'2 d'2 d'2
-  es'\breve\colorOne d'2 d'2
+  \AnnotateOne "breve" { es'\breve\colorOne } { es'8\NB es'8\endNB } d'2 d'2
   c'1. d'1.
 }
 
@@ -33,7 +33,7 @@ MusicBI = {
   \cadenzaOn
   bes2 bes2 bes2
   es2 f2 g2
-  f\breve.
+  \AnnotateOne "breve" { f\breve. } { f8\NB f8\endNB }
   bes,1.
 }
 

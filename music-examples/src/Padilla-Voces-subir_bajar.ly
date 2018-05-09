@@ -165,7 +165,7 @@ MusicTII = {
   | r2 bes2\color bes2~ 
   | bes2 f1\endcolor 
   | g1. 
-  | r2 d'1\colorOne 
+  | r2 d'1\colorOneUnder
   | d'1. 
 
   % m. 126
