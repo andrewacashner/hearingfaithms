@@ -208,7 +208,8 @@ And it grew out of and reinforced a view of the world as a book waiting to be
 read (see chapter `ref:ch:intro`).
 One had to apply oneself to the effort of discerning how the sacred was
 imminent in the mundane and common.
-[@Chavez:DistortingReality] <!-- XXX cite diss -->
+[@Chavez:DistortingReality] 
+<!-- XXX cite diss when available -->
 
 It is the central argument of this book that devotional music provided Spanish
 Catholics with a way of performing theology: making and hearing music was a
@@ -777,7 +778,7 @@ Trent, which valorized clarity in projecting the words through music.
 The text-driven approach also shows the influence of Spanish popular and
 theatrical traditions of singing poetry, especially practices of adapting stock
 melodic formulas for singing *romance* poetry.
-^[XXX  cite ]
+<!-- XXX more research needed -->
 
 In addition to projecting the text in a way that made it intelligible, Padilla
 also uses two other text-setting techniques---text depiction and text
@@ -875,8 +876,9 @@ written in the narrow columns of villancico imprints.
 In the national epic of medieval Spain, the *Cantar de mío Cid*, the *romance*
 meter is arranged the same way, in sixteen-syllable lines, with a *caesura* in
 the middle and assonance at the end.
-[@Navarro:Metrica, XXX; @MenendezPidal:Crestomatia, 32--50; cf. also Old English
+[@Navarro:Metrica; @MenendezPidal:Crestomatia, 32--50; cf. also Old English
 and Germanic poetry.]
+<!-- Navarro page nos. -->
 
 The opening phrase demonstrates Padilla's subtle attention to the sound and
 stress of the words (music example `ref:music:Padilla-Voces-opening` above).
@@ -1017,12 +1019,12 @@ thirds (mm. 108--112), and finally seconds (mm. 118--122) (figure
 `ref:fig:Padilla-Voces-TI-bajar`).
 Just as the ascent pushed up into sharps, so the descent sinks down into added
 E flats (Chorus I, mm. 100--104).
-[^anabasis]
 
-[^anabasis]:
+<!-- Footnote: check? XXX
 The appropriate rhetorical terms for these gestures would be *anabasis* (ascent) and
 *catabasis* (descent).
-XXX cf Chafe
+cf Chafe
+-->
 
 (insert figure `ref:fig:Padilla-Voces-TI-bajar`)
 `label:fig:Padilla-Voces-TI-bajar`
@@ -1064,8 +1066,8 @@ The same motive of the a leap up followed by a descending third is then imitated
 in the Tenor I and Tiple I on F--E--D, the *durus* version.
 ^[In other versions of the *tonus peregrinus*, such as that in the *Liber
 usualis*, the medial cadence matches exactly with the music of the Altus I
-(G--B♭--A--G--F).
-XXX confirm chant dialect in Puebla]
+(G--B♭--A--G--F).]
+<!-- XXX confirm chant dialect in Puebla -->
 
 (insert figure `ref:fig:Cerone-tonus_peregrinus`)
 `label:fig:Cerone-tonus_peregrinus`
@@ -1400,9 +1402,19 @@ Christ at his lowly birth:
 > the arms of the Mother; not above choirs of angels, but among filthy animals;
 > not seated at the right hand of the Majesty on high \[Heb 1\], but
 > reclining in a stable for beasts; not thundering and casting lightning in
-> Heaven, but crying and trembling from cold in a stable.
-> What theme, then, can cause any greater wonder? \[...\]
+> Heaven, but crying and trembling from cold in a stable. \[...\]
+[@LuisdeGranada:Xmas, 37:
+"Venid a ver al hijo de Dios, no en el seno del Padre, sino el los brazos de la
+Madre; no sobre los coros de los Ángeles, sino entre viles animales; no asentado
+en la diestra de la Majestad en las alturas, sino reclinado en un pesebre de
+bestias; no tronando y relampagueando en el cielo, sino llorando y temblando de
+frío en un establo."]
 
+\noindent
+Contemplating Christ's birth, Luis preaches, will cause anyone to be "struck
+numb" with awe:
+
+> What theme, then, can cause any greater wonder? \[...\]
 > \[As Saint Cyprian says,\] I do not wonder at the figure of the world, nor the
 > firmness of the earth \[...\]; I marvel to see how the word of God could take
 > on flesh. \[...\] In this mystery the greatness of the shock steals away all
@@ -1413,7 +1425,23 @@ Christ at his lowly birth:
 > words, saying, "She gave birth to her only-begotten son, and she wrapped him
 > in some rags, and laid him in a manger, because she did not find another place
 > in that stable"?
-[@LuisdeGranada:Xmas, para. 5, 11--12 XXX]
+[@LuisdeGranada:Xmas, 38:
+"¿Pues qué cosa puede ser de mayor maravilla? 
+¡O Señor Dios nuestro (dice san Cipriano), cuán admirable es vuestro nombre en
+toda la tierra!
+Verdaderamente vos sois Dios obrador de maravillas; ya no me maravillo de la
+figura del mundo, ni de la firmeza de la tierra (estando cercada de un cielo tan
+movible), no de la sucesión de los días, ni de la mudanza de los tiempos (en los
+cuales unas cosas se secan, otras reverdecen; unas mueren, y otras viven), de
+nada desto me maravillo; sino maravíllome de ver a Dios en el vientre de una
+doncella; maravíllome de ver al todopoderoso en la cuna; maravíllome de ver como
+a la palabra de Dios se pudo pegar carne, y cómo siendo Dios sustancia
+espiritual, recibió vestidura corporal.
+\[...\]
+Con mucha razón, por cierto, os espantáis Profeta; porque, ¿que cosa más para
+espantar, que la que aquí en pocas palabras nos refiere el Evangelista,
+diciendo: Parió a su unigénito, y envolvióle en unos pañales; 
+y acostóle en un pesebre, porque no halló otro lugar en aquel establo?"]
 
 \noindent
 Lapide's exegesis and Fray Luis's preaching guide the faithful to the right kind
@@ -1511,18 +1539,31 @@ worshippers to turn from sight toward hearing:
 > of the heavenly army, and that they all in one voice sang upon the airs
 > praises to God, saying, Glory be to God in the heights, and on the earth peace
 > to men of good will.
-[@LuisdeGranada:Xmas, para. 24 XXX]
+[@LuisdeGranada:Xmas, 40:
+"Despues de la vista devota del pesebre, abramos los oídos para oír las músicas
+de los Ángeles: de los cuales dice el Evangelista, que acabando uno dellos de
+dar estas tan alegres nuevas a los pastores, se juntó con él una muchedumbre de
+ejército celestial, y que todos a una voz cantaban por aquellos aires alabanzas
+a Dios, diciendo: Gloria sea a Dios en las alturas; y en la tierra paz a los
+hombres de buena voluntad."]
 
 \noindent
 Even more important than these angelic voices, Fray Luis preaches, is the voice
-of the newborn Christ himself, "weeping and trembling with cold in the stable."
-[@LuisdeGranada:Xmas, para. 9 XXX]
+of the newborn Christ himself, "crying and trembling with cold in the stable."
 Fray Luis follows an ancient tradition of reading Wisdom 7---in which Christ's
 ancestor King Solomon speaks about his own infancy---as a Messianic prophecy: "I
 too am a mortal man like others, \[...\] and the first sound [*voz*] that I made
 was crying like other children, because not one of the kings had any different
 origin in their birth."
-[@LuisdeGranada:Xmas, para. 9 XXX; cf. @Lapide:Gospels19C, 670, on Lk 2:7]
+[@LuisdeGranada:Xmas, 37--38:
+"De suerte, que ya puede él decir por sí aquellas palabras del Sabio: Soy yo
+también hombre mortal como los otros, del linaje terreno de aquél que primero
+que yo fue formado; y en el vientre de mi madre tomé sustancia de carne; y
+después de nacido recibí este aire común a todos, y caí en la misma tierra que
+todos; y la primera voz que di, fue llorando, como todos los otros niños; porque
+ninguno de los Reyes tuvo otro orígen en su nacimiento; todos tienen una misma
+manera de entrar en la vida, y una manera de salir della."
+Cf. @Lapide:Gospels19C, 670, on Lk 2:7]
 
 Fray Luis explicitly compares the voice of this incarnate Word with music.
 The Dominican friar, as an avid student and teacher of Catholic Humanism,
@@ -1538,12 +1579,14 @@ Heaven"---*Maestro del cielo*, the same term used for a musical master:
 > yourself from this stable where the word of God cries while keeping silent;
 > but this cry is greater eloquence than that of Tully [Cicero], and even than
 > the music of the angels of heaven.
-[@LuisdeGranada:Xmas, para. 16 XXX:
-"donde la palabra de Dios enmudecida, tanto mas claramente hable, cuanto mas
-calladamente nos avisa.
-Mira, pues, hermano, si quieres ser verdadero filósofo no te apartes deste
-establo donde la palabra de Dios callando llora; mas este lloro es mayor
-elocuencia que la de Tulio, y aun que las músicas de los ángeles del cielo."]
+[@LuisdeGranada:Xmas, 39: 
+"¡O dichosa casa!
+O establo más precioso, que todos los palacios reales, donde Dios asentó la
+cátedra de la Filosofía del cielo, donde la palabra de Dios enmudecida, tanto
+más claramente habla, cuanto más calladamente nos avisa.
+Mira pues, hermano (si quieres ser verdadero Filósofo) no te apartes deste
+establo; donde la palabra de Dios callando llora; mas este lloro es mayor
+elocuencia que la de Tulio, y aun que las músicas de los Ángeles del cielo."]
 
 \noindent
 It is important to note that here again, the preacher's concern is not simply to
@@ -1633,7 +1676,7 @@ communication.
 The peculiar features of the voice allow Augustine to defend the doctrine that
 Christ was not "changed" into flesh, but "remained the Son of God" even "having
 been made the Son of Man."
-[@Augustine:SermonesPL, 1002, Sermo 187, In Natali Domini 4 XXX:
+[@Augustine:SermonesPL, 1002, Sermo 187, In Natali Domini 4:
 "manentem Dei filium, factum hominis filium."]
 The Word of God existed from eternity, Augustine teaches, drawing on his
 learning in rhetoric and language (as also expressed in his treatise *De
@@ -1819,7 +1862,7 @@ Y assi es la primera que el hombre pronuncia en naciendo, saluo que el varon
 como tiene mas fuerça dize A, y la hembra E, en que parece entrar en el mundo,
 lamentandose de sus primeros padres Adan y Eva."
 On symbolic alphabets in early modern devotional music, see @Kendrick:Jeremiah,
-XXX.]
+38--40.]
 
 \noindent
 By this account, keeping in mind Fray Luis's description of Christ's newborn
@@ -2127,7 +2170,7 @@ consonancias*) and rhymes when the estribillo is repeated after that verse.
 The *linea de vuelta* was a holdover from the rather different structure of the
 courtly villancicos of the sixteenth century, such as those set by Juan del
 Encina.
-[@Navarro:Metrica, XXX]
+[@Navarro:Metrica] <!-- XXX page no -->
 The 1642 Lisbon *Voces*, and the catalog entry for Santiago's *Voces*, both
 contain this same line (*Y a trechos las distancias*), but the Lisbon version
 has different coplas from Padilla, and the end of the coplas does not rhyme with
@@ -2138,10 +2181,8 @@ the connection to the *linea de vuelta* seems hard to explain as a later
 addition.
 
 [^respuesta]:
-Gutiérrez de Padilla, villancicos in MEX-Pc for Corpus Christi 1628, *Salir
-primero de ti*; Christmas 1653, *A siolo Flasiquiyo*. 
-
-<!-- XXX Legajo nos. -->
+Gutiérrez de Padilla, villancicos for Corpus Christi 1628, *Salir primero de ti*
+(MEX-Pc: Leg. 1/1); Christmas 1653, *A siolo Flasiquiyo* (MEX-Pc: Leg. 2/1).
 
 The rest of the estribillo in Padilla's version, up to *Todo en Dios es bajar*,
 is highly patterned in a series of fully rhyming verse pairs, all in
@@ -2297,7 +2338,7 @@ the competition to succeed his teacher.
 A new stage of apprenticeship began after Padilla emigrated to New Spain, when
 he was selected in 1628 to assist the ailing chapelmaster of Puebla Cathedral,
 Gaspar Fernández.
-<!-- ^[cite Fernandez bio XXX] -->
+[@Morales:Fernandez]
 He composed the villancicos for Corpus Christi in that year, probably both as a
 way to fill in for Fernández and to prove his own mastery.
 [@Cashner:Cards]
@@ -2334,10 +2375,12 @@ affiliation to Padilla by writing a parody mass based on a motet by Padilla.
 "The Puebla organist Francisco de Vidales used
 Padilla's *Exultate justi in Domino* as the model for his parody *Missa super
 Exultate*, and another connection between the two men is seen in Vidales's
-addition of a tenor part to Padilla's *O Domine Jesu Christe*." XXX]
+addition of a tenor part to Padilla's *O Domine Jesu Christe*."]
+<!-- XXX confirm -->
 Dianne Goldman has documented a similar chain of homage in several stages of
 reworking a Victoria motet at Mexico City Cathedral through the eighteenth
-century.^[XXX cite Goldman stile antico article]
+century.
+[@Goldman:StileAntico]
 Homage composition of this kind was a widespread way for composers to
 demonstrate both real and aspirational kinship with a mentor, teacher, or
 paragon.
@@ -2431,7 +2474,7 @@ Far from being a one-off occasional piece or crowd-pleasing entertainment, and
 rather than being a simple didactic piece explaining doctrine, the complex
 poetic and musical structure provides an object for aesthetic reflection as a
 spiritual discipline, even inviting detailed analysis.
-[XXX @DellAntonio:Listening]
+<!-- respond to @DellAntonio:Listening here XXX -->
 
 This type of piece, then, encourages faithful hearing---hearing that is tempered
 by faith and which serves as a tool for exercising faith.
@@ -2474,10 +2517,12 @@ at Bethelehem:
 > If they thus give thanks for the grace \[*gracia*\] and mercy given to
 > strangers, what should those do who were redeemed and restored by
 > it?
-[@LuisdeGranada:Xmas, para. 28 XXX; cf. @Bernard:Nativitate, 126B, Sermo IV, "Et
-ut noveritis quo in loco solemnitatitis \[...\] in psalmis, coelestes illos
-principes praevenire conjunctos psallentibus, in medio juvencularum
-tympanistriarum."]
+[@LuisdeGranada:Xmas, 41:
+"Considera mas, que si los Ángeles en tal día cantaron, y solemnizaron este
+misterio con glorias y alabanzas, dando gracias por la redencion que nos vino
+del cielo, no siendo ellos los redemidos, ¿qué deben hacer los redemidos?  Si
+ellos así dan gracias por la gracia, y misericordia ajena, ¿qué deben hacer los
+que fueron redimidos, y reparados por ella?"]
 
 \noindent
 The devotee's response of awe, which as we have seen was a central element of

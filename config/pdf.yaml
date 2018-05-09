@@ -4,5 +4,6 @@ classoption:           '12pt, oneside'
 geometry:               margin=1in
 header-includes:        \usepackage{aacbook}
 suppress-bibliography:  true
+notes-after-punctuation: false
 ...
 
