@@ -1,0 +1,32 @@
+\documentclass[12pt]{book}
+\usepackage{newtxmath,newtxtext}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[endnotes]{semantic-markup}
+
+\usepackage{biblatex-chicago}
+\addbibresource{master.bib}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\doublespacing
+\usepackage[document]{ragged2e}
+\frenchspacing
+\raggedbottom
+\setlength{\RaggedRightParindent}{0.5in}
+\RenewDocumentEnvironment{quote}{}
+    {\list{}{\leftmargin=0.25in \rightmargin=0.25in}%
+    \item\relax}
+    {\endlist}
+
+\RequirePackage[defaultlines=2,all]{nowidow}
+
+\makeatletter
+\renewcommand{\enoteformat}{%
+    \setlength{\parindent}{0.5in}%
+    \@theenmark.\ }
+\makeatother
+
+\begin{document}
+\input{chapter-3}
+\end{document}
