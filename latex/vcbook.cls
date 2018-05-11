@@ -5,9 +5,8 @@
 \RequirePackage[utf8]{inputenc}
 \frenchspacing
 \raggedbottom
-\RequirePackage{geometry}
-\RequirePackage{booktabs}
 \RequirePackage{fnpos}
+\RequirePackage{booktabs}
 
 \RequirePackage{biblatex-chicago}
 \addbibresource{master.bib}
@@ -30,6 +29,7 @@
 
 \newcommand{\et}{\&}
 
+\newcommand{\sig}[2]{#1:~\mbox{#2}} % archival siglum/signature
 
 % inline poems and translation in parallel columns
 \newenvironment{quotepoem}
@@ -60,10 +60,6 @@
 \crefname{musicexample}{music example}{music examples}
 \crefname{poemexample}{poem example}{poem examples}
 
-\newcommand{\inputpoem}[1]{%
-    {\small\input{poem-examples/#1}}%
-}
-
 \RequirePackage{graphicx}
 \graphicspath{ 
     {img/music-examples/} 
@@ -74,5 +70,10 @@
     \includegraphics
     [width=\textwidth,height=0.75\textheight,keepaspectratio]{#1}%
 }
+
+\newcommand{\inputpoem}[1]{%
+    {\small\input{poem-examples/#1}}%
+}
+
 
 \endinput
