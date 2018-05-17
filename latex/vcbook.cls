@@ -3,7 +3,12 @@
 
 \newif\ifms
 \msfalse
+
+\newif\ifendshift
+\endshiftfalse
+
 \DeclareOption{ms}{\mstrue}
+\DeclareOption{endshift}{\endshifttrue}
 \ProcessOptions\relax
 
 \ifms
@@ -22,51 +27,57 @@
 \frenchspacing
 \raggedbottom
 
+\setcounter{secnumdepth}{1}
 
 %***********************************************************************
 \ifms
-% These options produce manuscript style
-\RequirePackage[margin=1in]{geometry}
-\RequirePackage[doublespacing]{setspace}
-\RequirePackage[none]{hyphenat}
-\RequirePackage[document]{ragged2e}
-\setlength{\RaggedRightParindent}{0.5in}
-\sloppy
-\hbadness=10000
-\newcommand{\floatfontsize}{\footnotesize}
+    % These options produce manuscript style
+    \RequirePackage[margin=1in]{geometry}
+    \RequirePackage[doublespacing]{setspace}
 
-\RequirePackage[footmarkoff]{biblatex-chicago}
-\RequirePackage[endnotes]{semantic-markup}
-\RequirePackage{etoolbox}
-% Indent endnotes and style non-superscript
-\patchcmd{\enoteformat}{1.8em}{0.5in}{}{}
-\patchcmd{\theendnotes}
-    {\makeatletter}
-    {\makeatletter\renewcommand\makeenmark{\theenmark.\ }}
-    {}{}
+    \RequirePackage[none]{hyphenat}
+    \RequirePackage[document]{ragged2e}
+    \setlength{\RaggedRightParindent}{0.5in}
+    \sloppy
+    \hbadness=10000
+    \newcommand{\floatfontsize}{\footnotesize}
 
-\RequirePackage{fancyhdr}
-\fancyhead{}
-\fancyfoot{}
-\fancyhead[LO]{Cashner, \emph{Hearing Faith}, DRAFT}
-\fancyhead[RO]{\thepage}
-\setlength{\headheight}{16pt}
-\pagestyle{fancy}
+    \RequirePackage{fancyhdr}
+    \fancyhead{}
+    \fancyfoot{}
+    \fancyhead[LO]{Cashner, \emph{Hearing Faith}, DRAFT}
+    \fancyhead[RO]{\thepage}
+    \setlength{\headheight}{16pt}
+    \pagestyle{fancy}
 
 \else
-% For non-manuscript style
-\RequirePackage{geometry}
-\newcommand{\floatfontsize}{\small}
-\RequirePackage{semantic-markup}
-\RequirePackage{fnpos}
-\RequirePackage{biblatex-chicago}
-
+    % For non-manuscript style
+    \RequirePackage{geometry}
+    \newcommand{\floatfontsize}{\small}
+    \RequirePackage{fnpos}
 \fi
+
+\ifendshift
+    % These options shift footnotes to endnotes and put floats at the end (TODO)
+    \RequirePackage[footmarkoff]{biblatex-chicago}
+    \RequirePackage[endnotes]{semantic-markup}
+    \RequirePackage{etoolbox}
+    % Indent endnotes and style non-superscript
+    \patchcmd{\enoteformat}{1.8em}{0.5in}{}{}
+    \patchcmd{\theendnotes}
+        {\makeatletter}
+        {\makeatletter\renewcommand\makeenmark{\theenmark.\ }}
+        {}{}
+\else
+    \RequirePackage{biblatex-chicago}
+    \RequirePackage{semantic-markup}
+\fi
+
 %***********************************************************************
+\addbibresource{master.bib}
+
 
 \RequirePackage[defaultlines=2,all]{nowidow}
-
-\addbibresource{master.bib}
 
 \RequirePackage{booktabs}
 \RequirePackage{tabulary}
@@ -165,6 +176,10 @@
 {\end{longtable} 
  \end{quote}}
 
-\RequirePackage{epigraph}
+\newenvironment{epigraph}
+{\begin{flushright}
+ \begin{tabular}{l}}
+{\end{tabular}
+ \end{flushright}}
 
 \endinput
