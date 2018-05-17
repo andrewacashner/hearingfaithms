@@ -41,7 +41,7 @@
     \sloppy
     \hbadness=10000
     \newcommand{\floatfontsize}{\footnotesize}
-
+    
     \RequirePackage{fancyhdr}
     \fancyhead{}
     \fancyfoot{}
@@ -73,6 +73,19 @@
     \RequirePackage{semantic-markup}
 \fi
 
+\ifms
+\ifendshift
+\else
+% Do this if ms=true and endshift=false
+\renewcommand\@makefntext[1]{% 
+    \setlength\parindent{0.5in}% 
+    \noindent\makebox[0.5in][r]{\@thefnmark.\,\,}#1%
+}
+\fi
+\fi
+
+
+
 %***********************************************************************
 \addbibresource{master.bib}
 
@@ -98,6 +111,8 @@
 \newcommand{\poemline}  [1]{\range{l}{#1}}
 \newcommand{\poemlines} [1]{\range{ll}{#1}}
 \newcommand{\itemnum}   [1]{\range{no}{#1}}
+\newcommand{\pagenum}   [1]{\range{p}{#1}}
+\newcommand{\pagenums}  [1]{\range{pp}{#1}}
 
 \newcommand{\sv}        [1]{s.v.~\mentioned{#1}}
 \newcommand{\addorig}   [1]{\add{\foreign{#1}}}
