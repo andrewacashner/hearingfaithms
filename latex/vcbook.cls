@@ -48,8 +48,9 @@
 \RequirePackage{fancyhdr}
 \fancyhead{}
 \fancyfoot{}
-\fancyhead[LO]{Cashner, \emph{Faith, Hearing, and the Power of Music}, DRAFT}
+\fancyhead[LO]{Cashner, \emph{Hearing Faith}, DRAFT}
 \fancyhead[RO]{\thepage}
+\setlength{\headheight}{16pt}
 \pagestyle{fancy}
 
 \else
@@ -164,6 +165,6 @@
 {\end{longtable} 
  \end{quote}}
 
-
+\RequirePackage{epigraph}
 
 \endinput
