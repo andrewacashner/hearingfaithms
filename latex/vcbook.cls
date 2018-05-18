@@ -74,21 +74,20 @@
 \fi
 
 \ifms
-\ifendshift
-\else
-% Do this if ms=true and endshift=false
-\renewcommand\@makefntext[1]{% 
-    \setlength\parindent{0.5in}% 
-    \noindent\makebox[0.5in][r]{\@thefnmark.\,\,}#1%
-}
-\fi
+    \ifendshift
+    \else
+        % Do this if ms=true and endshift=false
+        \renewcommand\@makefntext[1]{% 
+            \setlength\parindent{0.5in}% 
+            \noindent\makebox[0.5in][r]{\@thefnmark.\,\,}#1%
+        }
+        \fi
 \fi
 
 
 
 %***********************************************************************
 \addbibresource{master.bib}
-
 
 \RequirePackage[defaultlines=2,all]{nowidow}
 
@@ -102,23 +101,15 @@
 \RequirePackage{musicography}
 
 
-\newcommand{\wtitle}{\worktitle}
-\newcommand{\ptitle}{\parttitle}
 
-\newcommand{\range}     [2]{#1.~#2}
-\newcommand{\measure}   [1]{\range{m}{#1}}
-\newcommand{\measures}  [1]{\range{mm}{#1}}
-\newcommand{\poemline}  [1]{\range{l}{#1}}
-\newcommand{\poemlines} [1]{\range{ll}{#1}}
-\newcommand{\itemnum}   [1]{\range{no}{#1}}
-\newcommand{\pagenum}   [1]{\range{p}{#1}}
-\newcommand{\pagenums}  [1]{\range{pp}{#1}}
-
-\newcommand{\sv}        [1]{s.v.~\mentioned{#1}}
-\newcommand{\addorig}   [1]{\add{\foreign{#1}}}
-\newcommand{\sig}       [2]{\mbox{#1}: \mbox{#2}} % archival signature
-\newcommand{\speaker}   [1]{\textsc{#1}: }
-\newcommand{\et}{\&}
+\RequirePackage{standalone}
+\standaloneconfig{%
+    obeyclassoptions,
+    mode=buildnew,
+    build={latexoptions={
+        -shell-escape -output-dir=aux 
+        -jobname \quote \buildjobname \quote }}
+}
 
 \RequirePackage{newfloat}
 \DeclareFloatingEnvironment[
@@ -167,7 +158,7 @@
 \newcommand{\includePoem}[1]{%
     \begin{floatContents}
         \floatfontsize
-        \input{poem-examples/#1}
+        \includestandalone{poem-examples/#1}
     \end{floatContents}
 }
 
@@ -196,5 +187,26 @@
  \begin{tabular}{l}}
 {\end{tabular}
  \end{flushright}}
+
+
+
+\newcommand{\wtitle}{\worktitle}
+\newcommand{\ptitle}{\parttitle}
+
+\newcommand{\range}     [2]{#1.~#2}
+\newcommand{\measure}   [1]{\range{m}{#1}}
+\newcommand{\measures}  [1]{\range{mm}{#1}}
+\newcommand{\poemline}  [1]{\range{l}{#1}}
+\newcommand{\poemlines} [1]{\range{ll}{#1}}
+\newcommand{\itemnum}   [1]{\range{no}{#1}}
+\newcommand{\pagenum}   [1]{\range{p}{#1}}
+\newcommand{\pagenums}  [1]{\range{pp}{#1}}
+
+\newcommand{\sv}        [1]{s.v.~\mentioned{#1}}
+\newcommand{\addorig}   [1]{\add{\foreign{#1}}}
+\newcommand{\sig}       [2]{\mbox{#1}: \mbox{#2}} % archival signature
+\newcommand{\speaker}   [1]{\textsc{#1}: }
+\newcommand{\et}{\&}
+
 
 \endinput
