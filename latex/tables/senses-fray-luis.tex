@@ -1,7 +1,12 @@
-\small
+\documentclass[class=vcbook,preview]{standalone}
+\begin{document}
+\floatfontsize
 \newlength{\firstcol}
 \settowidth{\firstcol}{Faculty Category}
-\begin{tabulary}{\textwidth}{p{\firstcol}LLp{0.2\textwidth}}
+\newlength{\lastcol}
+\settowidth{\lastcol}{Senses or Faculties  }
+\RaggedRight
+\begin{tabular}{p{\firstcol}p{\firstcol}p{\firstcol}p{0.2\textwidth}}
     \toprule
     Faculty Category (location)   & Receive From    
     & Transmit To   & Senses or Faculties (order of importance) \\
@@ -12,7 +17,8 @@
     Taste \\ \addlinespace
 
     Interior senses (cerebrum)   & Exterior senses 
-    & Rest of body  & Memory, Affection, Cogitation, Imagination, ``Common'' sense
+    & Rest of body  & Memory, Affection, Cogitation, Imagination,
+    \quoted{Common} sense
     \\ \addlinespace
 
     Affective faculty (cerebrum) & Movements of humors from exterior, interior senses
@@ -25,5 +31,5 @@
     \end{tabular} \\
     
     \bottomrule
-\end{tabulary}
-
+\end{tabular}
+\end{document}

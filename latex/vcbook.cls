@@ -40,7 +40,6 @@
     \setlength{\RaggedRightParindent}{0.5in}
     \sloppy
     \hbadness=10000
-    \newcommand{\floatfontsize}{\footnotesize}
     
     \RequirePackage{fancyhdr}
     \fancyhead{}
@@ -53,7 +52,6 @@
 \else
     % For non-manuscript style
     \RequirePackage{geometry}
-    \newcommand{\floatfontsize}{\small}
     \RequirePackage{fnpos}
 \fi
 
@@ -140,8 +138,11 @@
     {img/figures/} 
 }
 
+\newcommand{\floatfontsize}{\small}
+
 \newenvironment{floatContents}
-{\begin{center}}
+{\setlength{\RaggedRightParindent}{0pt}
+ \begin{center}}
 {\end{center}}
 
 \newcommand{\includeFigure}[1]{%
@@ -157,15 +158,13 @@
 
 \newcommand{\includePoem}[1]{%
     \begin{floatContents}
-        \floatfontsize
         \includestandalone{poem-examples/#1}
     \end{floatContents}
 }
 
 \newcommand{\includeTable}[1]{%
     \begin{floatContents}
-        \floatfontsize
-        \input{tables/#1}
+        \includestandalone{tables/#1}
     \end{floatContents}
 }
 
