@@ -52,7 +52,6 @@
 \else
     % For non-manuscript style
     \RequirePackage{geometry}
-    \RequirePackage{fnpos}
 \fi
 
 \ifendshift
@@ -66,6 +65,8 @@
         {\makeatletter}
         {\makeatletter\renewcommand\makeenmark{\theenmark.\ }}
         {}{}
+    \RequirePackage{morewrites}
+    \RequirePackage[nolists]{endfloat}
 \else
     \RequirePackage{biblatex-chicago}
     \RequirePackage{semantic-markup}
@@ -79,7 +80,8 @@
             \setlength\parindent{0.5in}% 
             \noindent\makebox[0.5in][r]{\@thefnmark.\,\,}#1%
         }
-        \fi
+        \RequirePackage{fnpos}
+    \fi
 \fi
 
 
@@ -127,6 +129,14 @@
     within=chapter,
     chapterlistsgaps=off
 ]{poemexample}
+
+\ifendshift
+    \DeclareDelayedFloat{musicexample}{Music Examples}
+    \SetupDelayedFloat{musicexample}{list=false}
+
+    \DeclareDelayedFloat{poemexample}{Poem Examples}
+    \SetupDelayedFloat{poemexample}{list=false}
+\fi
 
 \RequirePackage[noabbrev]{cleveref}
 \crefname{musicexample}{music example}{music examples}
