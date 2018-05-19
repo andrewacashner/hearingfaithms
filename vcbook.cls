@@ -104,11 +104,11 @@
 
 \RequirePackage{standalone}
 \standaloneconfig{%
-    obeyclassoptions,
-    mode=buildnew,
-    build={latexoptions={
-        -shell-escape -output-dir=aux 
-        -jobname \quote \buildjobname \quote }}
+     obeyclassoptions,
+     mode=buildnew,
+     build={latexoptions={
+         -shell-escape -output-dir=aux 
+         -jobname \quote \buildjobname \quote }}
 }
 
 \RequirePackage{newfloat}
