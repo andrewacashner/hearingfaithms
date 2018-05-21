@@ -89,7 +89,6 @@
 %***********************************************************************
 \addbibresource{master.bib}
 
-\RequirePackage[defaultlines=2,all]{nowidow}
 
 \RequirePackage{booktabs}
 \RequirePackage{tabulary}

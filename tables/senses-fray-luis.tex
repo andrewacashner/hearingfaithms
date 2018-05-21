@@ -1,12 +1,7 @@
-\documentclass[class=vcbook,preview]{standalone}
+\documentclass[class=vcfloat,preview]{standalone}
 \begin{document}
-\floatfontsize
-\newlength{\firstcol}
-\settowidth{\firstcol}{Faculty Category}
-\newlength{\lastcol}
-\settowidth{\lastcol}{Senses or Faculties  }
-\RaggedRight
-\begin{tabular}{p{\firstcol}p{\firstcol}p{\firstcol}p{0.2\textwidth}}
+
+\begin{tabulary}{\textwidth}{LLLLL}
     \toprule
     Faculty Category (location)   & Receive From    
     & Transmit To   & Senses or Faculties (order of importance) \\
@@ -31,5 +26,5 @@
     \end{tabular} \\
     
     \bottomrule
-\end{tabular}
+\end{tabulary}
 \end{document}
