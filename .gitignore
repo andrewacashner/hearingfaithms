@@ -1,6 +1,6 @@
 aux/
-odt/
 pdf/
+convert/
 \#*
 *.*~
 *.aux
@@ -37,6 +37,4 @@ pdf/
 *.xdv
 *.zip
 
-!config/vcbook.odt
 !img/figures/*.*
-!README.pdf
