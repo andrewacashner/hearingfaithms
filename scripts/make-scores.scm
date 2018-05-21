@@ -29,17 +29,19 @@
            [dir-img     "img/music-examples/"]
            [ls (scandir dir-music 
                         (lambda (f) (compare-ext f ".ly")))])
-      (for-each 
-        (lambda (file) 
-          (let* ([ly        (string-append dir-music file)]
-                 [pdf       (swap-ext file ".pdf")]
-                 [aux-pdf   (string-append dir-aux pdf)]
-                 [aux-crop  (swap-ext aux-pdf "-crop.pdf")]
-                 [out-pdf   (string-append dir-img pdf)])
-            (begin
-              (lily-compile ly)
-              (rename-file pdf aux-pdf)
-              (crop-pdf aux-pdf)
-              (copy-file aux-crop out-pdf))))
-          ls))))
+      (begin
+        (for-each 
+          (lambda (file) 
+            (let* ([ly        (string-append dir-music file)]
+                   [pdf       (swap-ext file ".pdf")]
+                   [aux-pdf   (string-append dir-aux pdf)]
+                   [aux-crop  (swap-ext aux-pdf "-crop.pdf")]
+                   [out-pdf   (string-append dir-img pdf)])
+              (begin
+                (lily-compile ly)
+                (rename-file pdf aux-pdf)
+                (crop-pdf aux-pdf)
+                (copy-file aux-crop out-pdf))))
+          ls)
+        #f))))
 

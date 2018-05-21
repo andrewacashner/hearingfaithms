@@ -20,11 +20,11 @@ main-pdf = ./pdf/main.pdf
 score-pdfs := $(wildcard ./img/music-examples/*.pdf)
 
 # RULES
-# Just 'make' does it all
-.PHONY :	all
+.PHONY :	all scores clean
 
+# Default rule: Just 'make' does it all
 # Compare output targets to input dependencies and recompile if needed
-all :		$(score-pdfs) $(main-pdf)
+all :		scores $(main-pdf)
 
 # Can manually recompile just scores with 'make scores'
 scores : 	$(score-pdfs)
@@ -32,13 +32,13 @@ scores : 	$(score-pdfs)
 # Latexmk does its own dependency tracking
 # LaTeX documentclass standalone package also tracks its input files and
 # recompiles only when needed
-$(main-pdf) :	$(score-depends) $(text-depends) 
+$(main-pdf) :	$(score-pdfs) $(text-depends) 
 	latexmk -outdir=aux -shell-escape -pdf main
-	cp aux/main.pdf $(main-pdf)
+	cp ./aux/main.pdf $(main-pdf)
 
 # Guile script compiles all *.ly files and moves them to img/music-examples
 $(score-pdfs) :	$(score-depends)
 	$(guile (make-scores))
 
 clean :
-	rm aux/*.* aux/*/*.*
+	rm ./aux/*.* ./aux/*/*.*

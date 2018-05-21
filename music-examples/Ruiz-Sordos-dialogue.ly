@@ -1,6 +1,6 @@
 % MATIAS RUIZ, PUES LA FIESTA DEL NIÑO ES (VILLANCICO DE LOS SORDOS)
 % E-E: Mús. 83-12
-% Example 1 for theology ch, mm. 41--55, catechetical dialogue
+% Example 1, mm. 41--55, catechetical dialogue
 % 2017-01-19 revised for book proposal
 % 2015-02-20
 
