@@ -1,0 +1,1 @@
+/home/andrew/texmf/tex/latex/local/vcfloat.cls
