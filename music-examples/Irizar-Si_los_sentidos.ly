@@ -1,5 +1,5 @@
 % IRIZAR, SI LOS SENTIDOS
-% EXAMPLE FOR THEOLOGY CH, MM. 22--32
+% EXAMPLE, MM. 22--32
 
 \version "2.19"
 \include "villancico.ly"

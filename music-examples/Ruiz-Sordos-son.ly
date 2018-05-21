@@ -1,6 +1,5 @@
 % RUIZ, SORDOS, EXAMPLE 2
 % CONCLUSION OF ESTRIBILLO MM 76--83
-% example 2 for theology chapter
 % revised 2017-01-19
 
 \version "2.19"
@@ -271,7 +270,6 @@ LyricsAII = \lyricmode {
       \omit BarNumber
     }
   }
-
 }
 
 
