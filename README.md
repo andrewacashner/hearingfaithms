@@ -5,10 +5,17 @@
 
 First monograph, on villancicos
 
-## Compilation
+## Compilation to single PDF
 
 - All: `make`
 - Just scores: `make scores`
 - Clean up: `make clean`
+
+## Conversion to ODT, one per chapter
+
+````
+cd convert
+make
+````
 
 
