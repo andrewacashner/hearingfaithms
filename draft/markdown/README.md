@@ -2,6 +2,14 @@
 
 Andrew A. Cashner
 
+## THIS DIRECTORY IS DEPRECATED
+
+This was a document-production system with the main text written in Pandoc's
+Markdown, with floats produced with LaTeX and Lilypond, producing both PDF and
+ODT output. 
+It used my own Guile modules for cross-referencing.
+As of 2018/05/20, it has been replaced with a pure LaTeX (+Lilypond) system.
+
 ## Sources
 
 The main text is written in Pandoc's markdown in the files in the `chapters`
