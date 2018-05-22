@@ -4,7 +4,7 @@ $(guile (load "./scripts/make-scores.scm"))
 
 # DEPENDENCIES
 # Track changes in included .tex files
-text-depends := ./main.tex \
+text-depends := ./main.tex ./vcbook.cls ./vcfloat.cls \
 $(wildcard ./chapters/*.tex) \
 $(wildcard ./poem-examples/*.tex) \
 $(wildcard ./tables/*.tex)

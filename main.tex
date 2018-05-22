@@ -1,6 +1,6 @@
 \documentclass{vcbook}
 
-%\includeonly{chapters/faith-hearing}
+%\includeonlyChapter{faith-hearing}
 
 \title{Hearing Faith: Music as Theology in the Spanish Empire}
 \author{Andrew A. Cashner}
@@ -17,9 +17,17 @@
 \listofpoemexamples
 
 \mainmatter
-\include{chapters/intro}
-\include{chapters/faith-hearing}
-\include{chapters/padilla-voces}
+% Part I
+\includeChapter{intro}
+\includeChapter{faith-hearing}
+
+% Part II
+\includeChapter{padilla-voces}
+\includeChapter{cererols-suspended}
+\includeChapter{segovia}
+\includeChapter{zaragoza}
+
+\includeChapter{conclusion}
 
 \backmatter
 \printbibliography
