@@ -1,0 +1,97 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{vcbook-convert}[2018/05/22 Package for convertible villancico book with tex4ht]
+
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[T1]{fontenc}
+\RequirePackage{url}
+\urlstyle{same}
+\pagestyle{plain}
+\setcounter{secnumdepth}{1}
+
+\RequirePackage[autolang=none]{biblatex-chicago}
+\addbibresource{master.bib}
+
+\RequirePackage{semantic-markup}
+\RequirePackage{octave}
+\RequirePackage{booktabs}
+\RequirePackage{tabulary}
+\RequirePackage{longtable}
+\RequirePackage[normalem]{ulem}
+
+\RequirePackage{newfloat}
+\DeclareFloatingEnvironment[
+    fileext=mux,
+    listname={List of Music Examples},
+    name={Music example},
+    placement={t},
+    within=chapter,
+    chapterlistsgaps=off
+]{musicexample}
+
+\DeclareFloatingEnvironment[
+    fileext=pox,
+    listname={List of Poem Examples},
+    name={Poem example},
+    placement={t},
+    within=chapter,
+    chapterlistsgaps=off
+]{poemexample}
+
+
+\newcommand{\includeFigure} [1]{}
+\newcommand{\includeMusic}  [1]{}
+\newcommand{\includePoem}   [1]{}
+\newcommand{\includeTable}  [1]{}
+
+\RequirePackage[noabbrev]{cleveref}
+\crefname{musicexample}{music example}{music examples}
+\crefname{poemexample}{poem example}{poem examples}
+
+% inline poems and translation in parallel columns
+\RequirePackage{quoting}
+
+\newenvironment{quotepoemContents}
+{\begin{quoting}}
+{\end{quoting}}
+
+\newenvironment{quotepoem}
+{\begin{quotepoemContents}
+ \begin{tabular}{ll}}
+{\end{tabular}
+ \end{quotepoemContents}}
+
+\newenvironment{quotepoemlong}
+{\begin{quotepoemContents}
+ \begin{longtable}{ll}}
+{\end{longtable}
+ \end{quotepoemContents}}
+
+\newcommand{\epigraphTranslation}[3]{%
+    {\itshape
+    \begin{tabular}{l}
+        #1\\
+    \end{tabular}}
+    
+    \begin{tabular}{l}
+        #2\\
+    \end{tabular}
+     
+     ---#3
+}
+\newcommand{\range}     [2]{#1. #2}
+\newcommand{\measure}   [1]{\range{m}{#1}}
+\newcommand{\measures}  [1]{\range{mm}{#1}}
+\newcommand{\poemline}  [1]{\range{l}{#1}}
+\newcommand{\poemlines} [1]{\range{ll}{#1}}
+\newcommand{\itemnum}   [1]{\range{no}{#1}}
+\newcommand{\pagenum}   [1]{\range{p}{#1}}
+\newcommand{\pagenums}  [1]{\range{pp}{#1}}
+
+\newcommand{\sv}        [1]{s.v. \mentioned{#1}}
+\newcommand{\addorig}   [1]{\add{\foreign{#1}}}
+\newcommand{\sig}       [2]{#1: #2} % archival signature
+\newcommand{\speaker}   [1]{\textit{#1}: }
+\newcommand{\et}{\&}
+
+
+\endinput

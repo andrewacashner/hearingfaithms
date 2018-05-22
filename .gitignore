@@ -1,6 +1,5 @@
 aux/
 pdf/
-convert/
 \#*
 *.*~
 *.aux
