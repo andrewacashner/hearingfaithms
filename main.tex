@@ -7,9 +7,12 @@
 \date{DRAFT: \today}
 
 \begin{document}
+
+\hypersetup{pageanchor=false}
 \maketitle
 
 \frontmatter
+\hypersetup{pageanchor=true}
 \tableofcontents
 \listoftables
 \listoffigures
@@ -30,5 +33,5 @@
 \includeChapter{conclusion}
 
 \backmatter
-\printbibliography
+\printbibliography[heading=bibintoc]
 \end{document}
