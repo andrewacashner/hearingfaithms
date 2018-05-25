@@ -1,5 +1,6 @@
 aux/
 pdf/
+tmp-ly/
 \#*
 *.dvi
 *.*~
