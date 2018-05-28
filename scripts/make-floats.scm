@@ -6,51 +6,64 @@
 
 (use-modules
   (ice-9 ftw)
+  (ice-9 format)
   (shell filenames))
 
 (define lily-compile
   (lambda (file)
-    (let ([cmd (string-append "lilypond -I $HOME/ly " file)])
+    (let ([cmd (format #f "lilypond -I $HOME/ly ~a" file)])
       (system cmd))))
 
 (define tex-compile
-  (lambda (file)
-    (let ([cmd (string-append "latexmk -pdf " file)])
+  (lambda (file dir-aux)
+    (let* ([cmd (format #f "latexmk -silent -outdir=~a -pdf ~a" dir-aux file)])
       (system cmd))))
 
 (define crop-pdf 
   (lambda (file)
     (system* "pdfcrop" file)))
 
+(define Default
+  '((music  . ((ext . ".ly") 
+               (dir . "music-examples")))
+    (poem   . ((ext . ".tex")
+               (dir . "poem-examples")))
+    (table  . ((ext . ".tex")
+               (dir . "tables")))))
+
+(define get-default
+  (lambda (type key)
+    (let ([ls Default])
+      (assq-ref (assq-ref ls type) key))))
+
 (define make-floats
   (lambda (type)
-    "make-scores Procedure: make-scores
-    INPUT:   None
-    RETURNS: Files in music-examples/*.ly, compiled with Lilypond, cropped,
-    final PDF copied to img/music-examples"
+    "make-scores Procedure: make-floats type
+    INPUT:   Symbol of type: 'music, 'poem, or 'table
+    RETURNS: Cropped PDF of float in proper directory under img/"
 
-    (let* ([ext     (cond [(eq? type 'music) ".ly"]
-                          [else ".tex"])]
-           [dir-src (cond [(eq? type 'music) "music-examples/"] 
-                          [(eq? type 'poem)  "poem-examples/"] 
-                          [(eq? type 'table) "tables/"])]
-           [dir-aux (string-append "aux/" dir-src)]
-           [dir-img (string-append "img" dir-src)]
+    (let* ([ext     (get-default type 'ext)]
+           [dir-src (get-default type 'dir)] 
+           [dir-aux (format #f "aux/~a" dir-src)]
+           [dir-img (format #f "img/~a" dir-src)]
            [ls      (scandir dir-src 
                              (lambda (f) (compare-ext f ext)))])
       (begin
         (for-each 
           (lambda (file) 
-            (let* ([orig      (string-append dir-music file)]
+            (let* ([orig      (format #f "~a/~a" dir-src file)]
                    [pdf       (swap-ext file ".pdf")]
-                   [aux-pdf   (string-append dir-aux pdf)]
+                   [aux-pdf   (format #f "~a/~a" dir-aux pdf)]
                    [aux-crop  (swap-ext aux-pdf "-crop.pdf")]
-                   [out-pdf   (string-append dir-img pdf)])
+                   [out-pdf   (format #f "~a/~a" dir-img pdf)])
               (begin
-                (if (eq? type 'music)
-                    (lily-compile orig)
-                    (tex-compile orig))
-                (rename-file pdf aux-pdf)
+                ;; for lilypond, compile in base dir then move to aux
+                ;; for tex, use outdir option of latxmk to compile in aux
+                (if (eq? type 'music) 
+                    (begin 
+                      (lily-compile orig) 
+                      (rename-file pdf aux-pdf))
+                    (tex-compile orig dir-aux))
                 (crop-pdf aux-pdf)
                 (copy-file aux-crop out-pdf))))
           ls)

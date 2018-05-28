@@ -4,42 +4,48 @@ $(guile (load "./scripts/make-floats.scm"))
 
 # DEPENDENCIES
 # Track changes in included .tex files
-text-depends := ./main.tex ./vcbook.cls ./vcfloat.cls \
-$(wildcard ./chapters/*.tex) \
-$(wildcard ./poem-examples/*.tex) \
-$(wildcard ./tables/*.tex)
+text-depends := \
+    ./main.tex ./vcbook.cls \
+    $(wildcard ./chapters/*.tex)
 
-# Track changes in included .ly files
-score-depends := $(wildcard ./music-examples/*.ly)
+music-depends := $(wildcard ./music-examples/*.ly)
+poem-depends  := $(wildcard ./poem-examples/*.tex)
+table-depends := $(wildcard ./tables/*.tex)
 
 # TARGETS
 # Single document output of LaTeX compilation
 main-pdf = ./pdf/main.pdf
 
-# Multiple PDF outputs of Lilypond compilation
-score-pdfs := $(wildcard ./img/music-examples/*.pdf)
+# Multiple PDF outputs of float compilation
+music-pdfs := $(wildcard ./img/music-examples/*.pdf)
+poem-pdfs  := $(wildcard ./img/poem-examples/*.pdf)
+table-pdfs := $(wildcard ./img/tables/*.pdf)
 
 # RULES
-.PHONY :	all scores clean
+.PHONY :	all clean refresh
 
 # Default rule: Just 'make' does it all
+all :		main-pdf
+
 # Compare output targets to input dependencies and recompile if needed
-all :		scores $(main-pdf)
-
-# Can manually recompile just scores with 'make scores'
-scores : 	$(score-pdfs)
-
-# Latexmk does its own dependency tracking
-# LaTeX documentclass standalone package also tracks its input files and
-# recompiles only when needed
-$(main-pdf) :	$(score-pdfs) $(text-depends) 
+# Latexmk does its own dependency tracking additionally
+main-pdf :	music-pdfs poem-pdfs table-pdfs $(text-depends) 
 	latexmk -outdir=aux -pdf main
 	cp ./aux/main.pdf $(main-pdf)
 
-# Guile script compiles all *.ly files and moves them to img/music-examples
-$(score-pdfs) :	$(score-depends)
+# Guile script compiles floats and moves them to img/ subdir
+music-pdfs :	$(music-depends)
 	$(guile (make-floats 'music))
 
+poem-pdfs : $(poem-depends)
+	$(guile (make-floats 'poem))
+
+table-pdfs : $(table-depends)
+	$(guile (make-floats 'table))
+
 clean :
-	latexmk -C
-#	rm ./aux/*.* ./aux/*/*.*
+	rm -f ./aux/*.* ./aux/*/*.*
+
+refresh : clean
+	rm -f img/*/*.pdf 
+	rm -i pdf/main.pdf
