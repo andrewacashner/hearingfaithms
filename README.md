@@ -7,12 +7,13 @@ First monograph, on villancicos
 
 ## Compilation to single PDF
 
-Makefile uses `latexmk` with `lualatex`.
-Custom class uses `standalone` and `lyluatex` packages to automatically track
-and (re)build tables, poem examples, and music examples as needed.
+Makefile compiles whole document plus all included subfiles for the floats.
+These include separate LaTeX files for the tables and poem examples, and
+Lilypond files for the music examples.
 
 - All: `make`
-- Clean up: `make clean`
+- Clean up aux files: `make clean`
+- Start over completely: `make clobber`
 
 ## Conversion to ODT, one per chapter
 
