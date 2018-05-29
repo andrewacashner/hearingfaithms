@@ -2,6 +2,10 @@ aux/
 pdf/
 tmp-ly/
 \#*
+*.1
+*.1R
+*.2
+*.2R
 *.dvi
 *.*~
 *.aux
@@ -21,6 +25,8 @@ tmp-ly/
 *.lot
 *.lom
 *.lop
+*.mux
+*.pox
 *.nav
 *.odt
 *.out
@@ -38,4 +44,4 @@ tmp-ly/
 *.xdv
 *.zip
 
-!img/figures/*.*
+!figures/*.*
