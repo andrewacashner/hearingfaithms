@@ -1,51 +1,33 @@
 SHELL = /bin/sh
 
-$(guile (load "./scripts/make-floats.scm"))
+poems := img/$(patsubst %.tex,%.pdf,$(wildcard ./poem-examples/*.tex))
+tables := img/$(patsubst %.tex,%.pdf,$(wildcard ./tables/*.tex))
+music := img/$(patsubst %.ly,%.pdf,$(wildcard ./music-examples/*.ly))
 
-# DEPENDENCIES
-# Track changes in included .tex files
-text-depends := \
-    ./main.tex ./vcbook.cls \
-    $(wildcard ./chapters/*.tex)
+define mv-cropped = 
+pdfcrop aux/$* 
+mv aux/$*-crop.pdf img/$*.pdf
+endef
 
-music-depends := $(wildcard ./music-examples/*.ly)
-poem-depends  := $(wildcard ./poem-examples/*.tex)
-table-depends := $(wildcard ./tables/*.tex)
+.PHONY : all clean
 
-# TARGETS
-# Single document output of LaTeX compilation
-main-pdf = ./pdf/main.pdf
+all : ./main.pdf
 
-# Multiple PDF outputs of float compilation
-music-pdfs := $(wildcard ./img/music-examples/*.pdf)
-poem-pdfs  := $(wildcard ./img/poem-examples/*.pdf)
-table-pdfs := $(wildcard ./img/tables/*.pdf)
-
-# RULES
-.PHONY :	all clean refresh
-
-# Default rule: Just 'make' does it all
-all :		main-pdf
-
-# Compare output targets to input dependencies and recompile if needed
-# Latexmk does its own dependency tracking additionally
-main-pdf :	music-pdfs poem-pdfs table-pdfs $(text-depends) 
+main.pdf : ./main.tex $(poems) $(tables) $(music)
 	latexmk -outdir=aux -pdf main
-	cp ./aux/main.pdf $(main-pdf)
+	mv aux/main.pdf pdf/
 
-# Guile script compiles floats and moves them to img/ subdir
-music-pdfs :	$(music-depends)
-	$(guile (make-floats 'music))
+vpath %.tex poem-examples tables
+%.pdf : %.tex
+	latexmk -outdir=aux/$(<D) -silent -pdf $*
+	$(mv-cropped)
 
-poem-pdfs : $(poem-depends)
-	$(guile (make-floats 'poem))
+vpath %.ly music-examples
+%.pdf : %.ly
+	lilypond -I ~/ly $*
+	mv $(@F) aux/$(<D)
+	$(mv-cropped)
 
-table-pdfs : $(table-depends)
-	$(guile (make-floats 'table))
+clean : 
+	-rm aux/*.* aux/*/*.* img/*/*.*
 
-clean :
-	rm -f ./aux/*.* ./aux/*/*.*
-
-refresh : clean
-	rm -f img/*/*.pdf 
-	rm -i pdf/main.pdf
