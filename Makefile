@@ -17,11 +17,11 @@ music-src := $(wildcard music-examples/*.ly)
 poem-pdfs := $(addprefix $(build-dir)/,$(patsubst %.tex,%.pdf,$(poem-src)))
 table-pdfs := $(addprefix $(build-dir)/,$(patsubst %.tex,%.pdf,$(table-src)))
 music-pdfs := $(addprefix $(build-dir)/,$(patsubst %.ly,%.pdf,$(music-src)))
-figures := figures/*.*
+figures := $(wildcard figures/*.*)
 
 build-floats := $(poem-pdfs) $(table-pdfs) $(music-pdfs)
 
-.PHONY : all clean 
+.PHONY : all view clean 
 
 all : $(main-pdf)
 
@@ -52,6 +52,9 @@ build/music-examples/%.pdf : %.ly
 	lilypond -I ~/ly $<
 	mv $(@F) aux/$(<D)
 	pdfcrop aux/$(<D)/$(@F) $@
+
+view : $(main-pdf)
+	xpdf $< &
 
 clean : 
 	-rm -rf aux
