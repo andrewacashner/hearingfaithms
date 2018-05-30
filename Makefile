@@ -23,6 +23,7 @@ build-subdirs := $(addprefix $(build-dir)/,poem-examples tables music-examples)
 # Main source and target
 main-src = main.tex
 main-pdf = $(build-dir)/main.pdf
+chapters = $(wildcard chapters/*.tex)
 
 # Sources and targets for included float files
 poem-src = $(wildcard poem-examples/*.tex)
@@ -62,10 +63,11 @@ delete = -rm -rf
 # Compile everything with just `make`
 all : $(main-pdf)
 
-$(main-pdf) : $(main-src) vcbook.cls master.bib $(figures) $(build-floats)
+$(main-pdf) : $(main-src) $(chapters) vcbook.cls master.bib \
+    $(figures) $(build-floats)
 	$(pdflatex) $<
 	$(biber) $(basename $<)
-	for i in {1..2} ; do $(pdflatex) $< ; done
+	for i in {1..3} ; do $(pdflatex) $< ; done
 	mv aux/$(@F) $@
 
 # Create the aux and build directories before anything else
