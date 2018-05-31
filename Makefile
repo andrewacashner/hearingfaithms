@@ -11,51 +11,49 @@ SHELL = /bin/sh
 
 # DIRECTORIES
 # Process in aux-dir, put results in build-dir 
-aux-dir := aux
-build-dir := build
-dirs := $(aux-dir) $(build-dir)
+aux-dir 	:= aux
+build-dir 	:= build
+dirs 		:= $(aux-dir) $(build-dir)
 
 # Subdirectories in each match directory of source file
-aux-subdirs := $(addprefix $(aux-dir)/,chapters poem-examples tables music-examples)
-build-subdirs := $(addprefix $(build-dir)/,poem-examples tables music-examples)
+aux-subdirs 	:= $(addprefix $(aux-dir)/,chapters poem-examples tables music-examples)
+build-subdirs 	:= $(addprefix $(build-dir)/,poem-examples tables music-examples)
 
 # FILES
 # Main source and target
-main-src = main.tex
-main-pdf = $(build-dir)/main.pdf
-chapters = $(wildcard chapters/*.tex)
+main-src 	= main.tex
+main-pdf 	= $(build-dir)/main.pdf
+chapters 	= $(wildcard chapters/*.tex)
 
 # Sources and targets for included float files
-poem-src = $(wildcard poem-examples/*.tex)
-table-src = $(wildcard tables/*.tex)
-music-src = $(wildcard music-examples/*.ly)
+poem-src 	= $(wildcard poem-examples/*.tex)
+table-src 	= $(wildcard tables/*.tex)
+music-src 	= $(wildcard music-examples/*.ly)
+figure-src 	= $(wildcard figures/*.*)
 
 # PDF outputs of compiling .tex and .ly files
-poem-pdfs = $(addprefix $(build-dir)/,$(patsubst %.tex,%.pdf,$(poem-src)))
-table-pdfs = $(addprefix $(build-dir)/,$(patsubst %.tex,%.pdf,$(table-src)))
-music-pdfs = $(addprefix $(build-dir)/,$(patsubst %.ly,%.pdf,$(music-src)))
-figures = $(wildcard figures/*.*)
+poem-pdfs 	= $(addprefix $(build-dir)/,$(patsubst %.tex,%.pdf,$(poem-src)))
+table-pdfs 	= $(addprefix $(build-dir)/,$(patsubst %.tex,%.pdf,$(table-src)))
+music-pdfs 	= $(addprefix $(build-dir)/,$(patsubst %.ly,%.pdf,$(music-src)))
+figures 	= $(figure-src)
 
-build-floats = $(poem-pdfs) $(table-pdfs) $(music-pdfs)
+floats 		= $(poem-pdfs) $(table-pdfs) $(music-pdfs) $(figures)
 
 # COMMANDS
-pdflatex = pdflatex -output-directory=aux
+latexmk		= latexmk -pdf -bibtex -outdir=aux -silent 
+lilypond 	= lilypond -I ~/ly --silent
+delete 		= -rm -rf
 
 # Use same subdirectory in aux as src
 define pdflatex-subfile
 pdflatex -output-directory=aux/$(<D) -interaction=batchmode $<
 endef
 
-biber = biber --output_directory=aux
-
-lilypond = lilypond -I ~/ly --silent
-
 # Use same subdirectory in aux as src, move to build dir
 define mv-cropped
 pdfcrop aux/$(<D)/$(@F) $@
 endef
 
-delete = -rm -rf
 
 # RULES
 .PHONY : all view clean 
@@ -63,15 +61,12 @@ delete = -rm -rf
 # Compile everything with just `make`
 all : $(main-pdf)
 
-$(main-pdf) : $(main-src) $(chapters) vcbook.cls master.bib \
-    $(figures) $(build-floats)
-	$(pdflatex) $<
-	$(biber) $(basename $<)
-	for i in {1..3} ; do $(pdflatex) $< ; done
+$(build-dir)/%.pdf : %.tex vcbook.cls $(chapters) $(floats)
+	$(latexmk) $<
 	mv aux/$(@F) $@
 
 # Create the aux and build directories before anything else
-$(build-floats) : | $(dirs)
+$(floats) : | $(dirs)
 
 $(dirs) :
 	mkdir -p $(aux-dir) $(aux-subdirs) $(build-dir) $(build-subdirs)
@@ -79,7 +74,7 @@ $(dirs) :
 # Then make the floats
 $(poem-pdfs) $(table-pdfs) : vcfloat.cls
 
-$(poem-pdfs) : $(poem-src)
+$(poem-pdfs)  : $(poem-src)
 
 $(table-pdfs) : $(table-src)
 
@@ -88,10 +83,10 @@ $(music-pdfs) : $(music-src) ~/ly
 # Static pattern rules for floats in each directory
 vpath %.tex poem-examples 
 build/poem-examples/%.pdf : %.tex
-	for i in {1..3} ; do $(pdflatex-subfile) ; done
+	for i in {1..2} ; do $(pdflatex-subfile) ; done
 	$(mv-cropped)
 
-vpath %.tex  tables
+vpath %.tex tables
 build/tables/%.pdf : %.tex
 	$(pdflatex-subfile)
 	$(mv-cropped)
