@@ -1,39 +1,30 @@
-ch2-base = main-2
-ch2-in = $(ch2-base).tex chapter-2.tex
-ch2-dvi = $(ch2-base).dvi
-ch2-odt = $(ch2-base).odt
+input 		= $(wildcard main-*.tex)
+chapters 	= $(patsubst main-%,chapter-%,$(input))
+output 	 	= $(addprefix $(build)/,$(patsubst %.tex,%.odt,$(input)))
+build 	 	= build
+aux		= aux
+dirs		= $(build) $(aux)
+auxfiles	= *.aux *.4ct *.4tc *.bbl *.bcf *.blg *.dvi *.idv \
+		  *.lg *.log *.run.xml *.tmp *.xref
 
-ch3-base = main-3
-ch3-in = $(ch3-base).tex chapter-3.tex
-ch3-dvi = $(ch3-base).dvi
-ch3-odt = $(ch3-base).odt
+.PHONY 		: all clean clobber
 
+all 		: $(output)
 
-.PHONY :	all ch2 ch3 clean refresh
+$(output) 	: | $(dirs) # Make build dir then use static pattern rule below 
 
-all :		ch2 ch3 clean
+$(dirs) :
+	mkdir -p $(dirs)
 
-ch2 :		$(ch2-odt)
-
-ch3 :		$(ch3-odt)
-
-$(ch2-odt) : 	$(ch2-dvi) 
-	mk4ht oolatex $(ch2-base)
-
-$(ch2-dvi) :	$(ch2-in)
-	latex $(ch2-base)
-	biber $(ch2-base)
-
-$(ch3-odt) : 	$(ch3-dvi) 
-	mk4ht oolatex $(ch3-base)
-
-$(ch3-dvi) : 	$(ch3-in) 
-	latex $(ch3-base)
-	biber $(ch3-base)
+$(build)/main-%.odt : main-%.tex chapter-%.tex title.tex vcbook-convert.sty
+	latex --interaction=batchmode $<
+	biber $(basename $<)
+	mk4ht oolatex $<
+	mv $(@F) $@
+	mv $(auxfiles) $(aux)/
 
 clean :
-	rm -f *.aux *.4ct *.4tc *.bbl *.bcf *.blg *.idv \
-	    *.lg *.log *.run.xml *.tmp *.xref
+	-rm -rf $(aux)
 
-refresh :
-	rm -i *.odt *.dvi
+clobber : clean
+	-rm -rf $(build)

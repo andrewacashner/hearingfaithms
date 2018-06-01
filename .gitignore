@@ -1,6 +1,7 @@
 aux/
 build/
-
+convert/aux/
+convert/build/
 \#*
 *.dvi
 *.*~

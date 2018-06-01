@@ -65,6 +65,8 @@ $(build-dir)/%.pdf : %.tex vcbook.cls $(chapters) $(floats)
 	$(latexmk) $<
 	mv aux/$(@F) $@
 
+.DELETE_ON_ERROR : $(main-pdf)
+
 # Create the aux and build directories before anything else
 $(floats) : | $(dirs)
 
