@@ -9,11 +9,11 @@
 SHELL = /bin/sh
 
 # FILES
-input 		= $(wildcard main-*.tex)
-output 	 	= $(addprefix $(build)/,$(patsubst %.tex,%.odt,$(input)))
 build 	 	= build
 aux		= aux
 dirs		= $(build) $(aux)
+input 		= $(wildcard main-*.tex)
+output 	 	= $(addprefix $(build)/,$(patsubst main-%.tex,chapter-%.odt,$(input)))
 auxfiles	= *.aux *.4ct *.4tc *.bbl *.bcf *.blg *.dvi *.idv \
 		  *.lg *.log *.run.xml *.tmp *.xref
 
@@ -27,11 +27,11 @@ $(output) 	: | $(dirs) # Make build dir then use static pattern rule below
 $(dirs) :
 	mkdir -p $(dirs)
 
-$(build)/main-%.odt : main-%.tex chapter-%.tex title.tex vcbook-convert.sty
-	latex --interaction=batchmode $<
+$(build)/chapter-%.odt : main-%.tex chapter-%.tex title.tex vcbook-convert.sty
+	latex $<
 	biber $(basename $<)
 	mk4ht oolatex $<
-	mv $(@F) $@
+	mv $(patsubst %.tex,%.odt,$<) $@
 	mv $(auxfiles) $(aux)/
 
 view : $(output)
@@ -39,6 +39,7 @@ view : $(output)
 
 clean :
 	-rm -rf $(aux)
+	-rm -rf $(auxfiles)
 
 clobber : clean
 	-rm -rf $(build)

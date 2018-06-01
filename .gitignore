@@ -40,3 +40,5 @@ convert/build/
 *.zip
 
 !img/figures/*.*
+!archive/*.pdf
+!convert/archive/*.odt
