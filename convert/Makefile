@@ -34,6 +34,9 @@ $(build)/chapter-%.odt : main-%.tex chapter-%.tex title.tex vcbook-convert.sty
 	mv $(patsubst %.tex,%.odt,$<) $@
 	mv $(auxfiles) $(aux)/
 
+#Empty targets
+title.tex vcbook-convert.sty $(wildcard chapter-*.tex) : ;
+
 view : $(output)
 	libreoffice $(output) &
 

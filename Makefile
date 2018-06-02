@@ -1,6 +1,6 @@
 # Makefile for monograph on villancicos
 # Andrew A. Cashner
-# 2018/05/30
+# 2018/06/02
 # 
 # Track and compile included floats (LaTeX or Lilypond) separately from main
 # LaTeX file;
@@ -73,14 +73,15 @@ $(floats) : | $(dirs)
 $(dirs) :
 	mkdir -p $(aux-dir) $(aux-subdirs) $(build-dir) $(build-subdirs)
 
-# Then make the floats
-$(poem-pdfs) $(table-pdfs) : vcfloat.cls
+# Then make the floats: Just use static pattern rules defined below
+$(poem-pdfs) $(table-pdfs) : vcfloat.cls 
 
-$(poem-pdfs)  : $(poem-src)
+$(music-pdfs) : ~/ly 
 
-$(table-pdfs) : $(table-src)
+# Empty rules: Don't try to build these
+$(figures) : ;
 
-$(music-pdfs) : $(music-src) ~/ly
+vcfloat.cls vcbook.cls ~/ly $(chapters) : ;
 
 # Static pattern rules for floats in each directory
 vpath %.tex poem-examples 
