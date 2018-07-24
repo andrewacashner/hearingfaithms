@@ -1,0 +1,23 @@
+I am writing in LaTeX, with music examples in Lilypond. It is no problem for me to convert the main text to ODT files per chapter like those I sent you. (XML and other formats are possible, too.) The tables, poem examples, and music examples are too complex to convert, though, and it seems like it might be better for me to provide them as "camera ready" PDFs (or other format as needed). I could use the same typeface and typeblock size as the final design of the book; in LaTeX and Lilypond that can all be changed easily by modifying a few lines of code in a configuration file, without altering the actual text. 
+
+Alternately, if it were possible to actually typeset the whole book with LaTeX I would be delighted. I would certainly be happy to do more on my side, such as programming a LaTeX setup to meet the press's design specifications, if necessary. I typeset my own critical edition of villancicos for the Web Library of Seventeenth-Century Music (www.andrewcashner.com/villancicos/). I've written the text with purely semantic markup, so that content is separated as much as possible from presentation. All of the formatting can be specified externally, even multiple different ways, without changing the text.
+
+
+I've written the document in such a way that there is absolutely no formatting information in the text itself, so everything can be specified externally. It can even be specified in different ways to create multiple output formats (e.g., large print, ebook, HTML). Here's the source code of a paragraph from chapter three:
+
+*********
+In the last phrase of this copla, when the poem speaks of Christ \quoted{going up the octave} or theologically \quoted{ascending on the eighth day}, Padilla creates an octave ascent across the voices, with the Tenor leaping
+\pitch{D}{4}--\pitch{G}{4} and the Tiple continuing, \pitch{G}{4}--\pitch{D}{5}.
+This octave also plays into the symbolism of the \emph{tonus peregrinus}, since Cerone says that Spanish writers call this \quoted{eighth} psalm tone \emph{octavo irregular}.%
+    \Autocite[354]{Cerone:Melopeo}
+*********
+
+The commands \quoted, \pitch, \emph, and \Autocite could be defined in whatever way fit the press's specifications. Currently, they're defined like this:
+
+\quoted{ascending on the eighth day}, => "ascending on the eighth day," (with punctuation inside the typographical quotation marks)
+
+\pitch{D}{4} => D4 (4 in subscript for octave number)
+
+\emph{tonus peregrinus} => tonus peregrinus (in italic type)
+
+\Autocite[354]{Cerone:Melopeo} => Bibliographic citation from separate database file under key 'Cerone:Melopeo', automatically formatted in Chicago style, with page number 354.
