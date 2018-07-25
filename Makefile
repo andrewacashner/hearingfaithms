@@ -11,7 +11,7 @@ SHELL = /bin/sh
 
 # DIRECTORIES
 #   Process in aux; Put results in build 
-#   Subdirectories in each match directory of source file
+#   Subdirectories in build match directory of source file
 build-subdirs 	:= $(addprefix build/,poem-examples tables music-examples)
 dirs 		:= aux aux/chapters build $(build-subdirs)
 
