@@ -18,6 +18,7 @@ dirs 		:= aux aux/chapters build $(build-subdirs)
 # FILES
 ## Main source and target
 chapters 	= $(wildcard chapters/*.tex)
+convert-chapters = $(wildcard convert/*.tex)
 
 ## Sources and targets for included float files
 poem-src 	= $(wildcard poem-examples/*.tex)
@@ -32,8 +33,6 @@ music-pdfs 	= $(music-src:%.ly=build/%.pdf)
 figures 	= $(figure-src)
 
 floats 		= $(poem-pdfs) $(table-pdfs) $(music-pdfs) $(figures)
-
-no-build	= master.bib $(wildcard *.cls) $(chapters) ~/ly $(figures)
 
 # COMMANDS
 dolatex = latexmk -pdf -outdir=aux 
@@ -60,29 +59,24 @@ build/main.pdf : aux/main.pdf
 
 .SECONDARY : aux/main.pdf
 
-### Empty rules: Don't try to build these
-$(no-build) : ;
-
 #************************************************************************
 ## Each chapter LaTeX->ODT
 
-odt_input	:= $(foreach chapter,$(chapters),$(notdir $(chapter)))
+odt_input	:= $(foreach chapter,$(convert-chapters),$(notdir $(chapter)))
 odt_output 	:= $(odt_input:%.tex=build/odt/%.odt)
-tmp_ext		= 4ct 4tc aux dvi idv lg log odt tmp xref
-tmp 		:= $(foreach ext,$(tmp_ext),$(odt_input:%.tex=%.$(ext)))
+tmp		= *.4ct *.4tc *.aux *.bbl *.bcf *.blg *.dvi \
+		  *.fdb_latexmk *.fls *.idv *.log \
+		  *.lof *.lot *.mux *.pox *.toc \
+		  *.lg *.log *.run.xml *.tmp *.xref \
+		  *.4oo *.4os *.4of *.out
 
 odt : $(odt_output)
 
-.INTERMEDIATE : $(tmp)
-
-build/odt/%.odt : %.odt
-	mv $< $@
-
-%.odt : chapters/%.tex main-odt.tex
-	make4ht -u -f odt '\def\excerpt{chapters/$*}\input main-odt'
-
-# this doesn't work because make4ht calls latex '\input \def... \input main-odt'
-
+build/odt/%.odt : convert/%.tex | $(dirs)
+	latex $<
+	biber $(basename $(<F))
+	make4ht -u -f odt $<
+	mv $(@F) $@
 
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
@@ -107,6 +101,8 @@ view : build/main.pdf
 # CLEANUP
 clean : 
 	-rm -rf aux
+	-rm -rf $(tmp)
+	-rm -rf chapters/*.aux
 
 clobber : clean
 	-rm -rf build
