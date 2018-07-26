@@ -12,7 +12,7 @@ SHELL = /bin/sh
 # DIRECTORIES
 #   Process in aux; Put results in build 
 #   Subdirectories in build match directory of source file
-build-subdirs 	:= $(addprefix build/,poem-examples tables music-examples)
+build-subdirs 	:= $(addprefix build/,odt poem-examples tables music-examples)
 dirs 		:= aux aux/chapters build $(build-subdirs)
 
 # FILES
@@ -35,23 +35,24 @@ floats 		= $(poem-pdfs) $(table-pdfs) $(music-pdfs) $(figures)
 
 no-build	= master.bib $(wildcard *.cls) $(chapters) ~/ly $(figures)
 
-# RULES
-.PHONY : all view clean 
-
-#   Compile everything with just `make`
-all : build/main.pdf
-
 # COMMANDS
 dolatex = latexmk -pdf -outdir=aux 
 
+#************************************************************************
+# RULES
+.PHONY : all FORCE odt view clean 
+
 ## Full document LaTeX->PDF
+
+#   Compile everything with just `make`
+all : build/main.pdf
 
 ### Create needed directories
 $(dirs) :
 	mkdir -p $(dirs)
 
 ### Build dirs and floats first; use pattern rule above for LaTeX compilation
-aux/main.pdf : main.tex vcbook.cls master.bib $(chapters) | $(dirs) $(floats)
+aux/main.pdf : main.tex vcbook.cls master.bib $(chapters) FORCE | $(dirs) $(floats)
 	$(dolatex) $<
 
 build/main.pdf : aux/main.pdf 
@@ -62,6 +63,28 @@ build/main.pdf : aux/main.pdf
 ### Empty rules: Don't try to build these
 $(no-build) : ;
 
+#************************************************************************
+## Each chapter LaTeX->ODT
+
+odt_input	:= $(foreach chapter,$(chapters),$(notdir $(chapter)))
+odt_output 	:= $(odt_input:%.tex=build/odt/%.odt)
+tmp_ext		= 4ct 4tc aux dvi idv lg log odt tmp xref
+tmp 		:= $(foreach ext,$(tmp_ext),$(odt_input:%.tex=%.$(ext)))
+
+odt : $(odt_output)
+
+.INTERMEDIATE : $(tmp)
+
+build/odt/%.odt : %.odt
+	mv $< $@
+
+%.odt : chapters/%.tex main-odt.tex
+	make4ht -u -f odt '\def\excerpt{chapters/$*}\input main-odt'
+
+# this doesn't work because make4ht calls latex '\input \def... \input main-odt'
+
+
+#************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
 aux/%.pdf : poem-examples/%.tex vcfloat.cls
 	$(dolatex) -silent $<
@@ -76,6 +99,7 @@ aux/%.pdf : music-examples/%.ly ~/ly
 $(foreach dir,$(build-subdirs),$(dir)/%.pdf) : aux/%.pdf
 	pdfcrop $< $@
 
+#************************************************************************
 # VIEW PDF output when done
 view : build/main.pdf
 	xpdf $< &
