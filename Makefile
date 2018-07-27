@@ -72,22 +72,22 @@ tmp		= *.4ct *.4tc *.aux *.bbl *.bcf *.blg *.dvi \
 
 odt : $(odt_output)
 
-build/odt/%.odt : convert/%.tex %.aux %.bbl | $(dirs)
+#  Produce a separate ODT file for each chapter, but using bibliography and
+#  cross-references from the full document.
+#  First completely compile the full document (with latexmk) to get correct .bbl
+#  and .aux files.
+#  Change the .bbl file to the name of the included chapter file so that make4ht
+#  will use it.
+#
+build/odt/%.odt : convert/%.tex %.bbl | $(dirs)
 	make4ht -u -f odt $<
 	mv $(@F) $@
-
-%.aux : main-odt.aux
-	cp $< $@
 
 %.bbl : main-odt.bbl
 	cp $< $@
 
-main-odt.aux main-odt.bcf : main-odt.tex
-	latex '\def\excerpt{} \input{$<}'
-
-main-odt.bbl : main-odt.bcf
-	biber $<
-
+main-odt.bbl : main-odt.tex
+	latexmk -dvi -bibtex $<
 
 
 #************************************************************************
