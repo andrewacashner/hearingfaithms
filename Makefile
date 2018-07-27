@@ -72,11 +72,23 @@ tmp		= *.4ct *.4tc *.aux *.bbl *.bcf *.blg *.dvi \
 
 odt : $(odt_output)
 
-build/odt/%.odt : convert/%.tex | $(dirs)
-	latex $<
-	biber $(basename $(<F))
+build/odt/%.odt : convert/%.tex %.aux %.bbl | $(dirs)
 	make4ht -u -f odt $<
 	mv $(@F) $@
+
+%.aux : main-odt.aux
+	cp $< $@
+
+%.bbl : main-odt.bbl
+	cp $< $@
+
+main-odt.aux main-odt.bcf : main-odt.tex
+	latex '\def\excerpt{} \input{$<}'
+
+main-odt.bbl : main-odt.bcf
+	biber $<
+
+
 
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
