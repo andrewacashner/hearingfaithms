@@ -1,11 +1,27 @@
 # Makefile for monograph on villancicos
 # Andrew A. Cashner
-# 2018/06/02
-# 
-# Track and compile included floats (LaTeX or Lilypond) separately from main
-# LaTeX file;
-# put main output in build/main.pdf and included float PDFs in subdirs under
-# build/
+
+# 2018/07/30 	Working version to create both PDF and ODT, with float files
+# 		separately compiled as PDFs
+# 2018/06/02	Begun
+
+# (1-a) Compile LaTeX document controlled by master file main.tex to PDF.
+# LaTeX includes chapter files, bibliography automatically.
+# Style determined by vcbook.sty.
+#
+# (1-b) Track and compile included floats (LaTeX or Lilypond) separately from
+# main LaTeX file; put main output in build/main.pdf and included float PDFs in
+# subdirs under build/.
+# Style determined by vcfloat.sty (for LaTeX) and ~/ly/villancico.ly  and
+# ~/ly/example.ly (for Lilypond).
+#
+# (2) Convert LaTeX document controlled by master file main-odt.tex and
+# convert/*.tex to ODT files, one per chapter.
+# Style determined by vcbook-convert.sty.
+# First compile main-odt.tex to get bibliography and aux files that will allow
+# cross-references and bibliography to span across chapter files.
+# Floats are not included in ODT files (placeholder with filename is used
+# instead).
 
 SHELL = /bin/sh
 
@@ -44,7 +60,7 @@ dolatex = latexmk -pdf -bibtex -outdir=aux
 
 #************************************************************************
 # RULES
-.PHONY : pdf odt both clean clobber
+.PHONY : pdf odt all clean clobber
 
 # Default target 
 ## Full document LaTeX->PDF
@@ -53,7 +69,7 @@ pdf : $(pdf_output)
 ## Each chapter LaTeX->ODT
 odt : $(odt_output)
 
-both : pdf odt
+all : clobber pdf odt 
 
 ### Create needed directories
 $(dirs) :
