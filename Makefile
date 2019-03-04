@@ -60,7 +60,7 @@ dolatex = latexmk -pdf -bibtex -outdir=aux
 
 #************************************************************************
 # RULES
-.PHONY : pdf odt all clean clobber
+.PHONY : pdf odt all view clean clobber
 
 # Default target 
 ## Full document LaTeX->PDF
@@ -123,6 +123,11 @@ aux/%.pdf : music-examples/%.ly ~/ly
 ### Crop and move float PDFs to build subdirectories
 $(foreach dir,$(build-subdirs),$(dir)/%.pdf) : aux/%.pdf
 	pdfcrop $< $@
+
+#************************************************************************
+# VIEW
+view : pdf
+	evince $(pdf_output) &>/dev/null &
 
 #************************************************************************
 # CLEANUP
