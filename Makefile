@@ -23,8 +23,6 @@
 # Floats are not included in ODT files (placeholder with filename is used
 # instead).
 
-SHELL = /bin/sh
-
 # DIRECTORIES
 #   Process in aux; Put results in build 
 #   Subdirectories in build match directory of source file
