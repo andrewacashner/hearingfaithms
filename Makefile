@@ -58,7 +58,7 @@ dolatex = latexmk -pdf -bibtex -outdir=aux
 
 #************************************************************************
 # RULES
-.PHONY : pdf odt all view clean clobber
+.PHONY : pdf odt all view count clean clobber
 
 # Default target 
 ## Full document LaTeX->PDF
@@ -127,6 +127,9 @@ $(foreach dir,$(build-subdirs),$(dir)/%.pdf) : aux/%.pdf
 view : pdf
 	evince $(pdf_output) &>/dev/null &
 
+# COUNT
+count : pdf
+	pdftotext $(pdf_output) - | wc -w
 #************************************************************************
 # CLEANUP
 clean : 
