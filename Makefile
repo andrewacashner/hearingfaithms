@@ -54,7 +54,7 @@ odt_input	:= $(foreach chapter,$(convert-chapters),$(notdir $(chapter)))
 odt_output 	:= $(odt_input:%.tex=build/odt/%.odt)
 
 # COMMANDS
-dolatex = latexmk -pdf -bibtex -outdir=aux 
+dolatex = latexmk -pdfxe -bibtex -outdir=aux 
 
 #************************************************************************
 # RULES

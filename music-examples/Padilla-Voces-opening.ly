@@ -1,7 +1,7 @@
 \version "2.19"
 
 \include "villancico.ly"
-\include "example.ly"
+\include "vcbook-example.ly"
 
 MusicSI = {
   \clef "treble"

@@ -4,7 +4,7 @@
 
 \version "2.19"
 \include "villancico.ly"
-\include "example.ly"
+\include "vcbook-example.ly"
 
 MoveBarRestUp = \once \override MultiMeasureRest.staff-position = #7
 

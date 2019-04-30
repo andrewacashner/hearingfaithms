@@ -3,10 +3,7 @@
 
 \version "2.19"
 \include "villancico.ly"
-\include "example.ly"
-
-#(set-global-staff-size 13)
-\include "font-libertine.ly"
+\include "vcbook-example.ly"
 
 %****************************************
 % MUSIC
