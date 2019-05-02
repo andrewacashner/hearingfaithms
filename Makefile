@@ -35,19 +35,19 @@ chapters 	= $(wildcard chapters/*.tex)
 convert-chapters = $(wildcard convert/*.tex)
 
 ## Sources and targets for included float files
-poem-src 	= $(wildcard poem-examples/*.tex)
 table-src 	= $(wildcard tables/*.tex)
+poem-src 	= $(wildcard poem-examples/*.tex)
 music-src 	= $(wildcard music-examples/*.ly)
 figure-src 	= $(wildcard figures/*.*)
 
+tex-input	= $(chapters) $(table-src) $(poem-src)
+
 ## PDF outputs of compiling .tex and .ly files
 pdf_output	= build/main.pdf
-poem-pdfs 	= $(poem-src:%.tex=build/%.pdf)
-table-pdfs 	= $(table-src:%.tex=build/%.pdf)
 music-pdfs 	= $(music-src:%.ly=build/%.pdf)
 figures 	= $(figure-src)
 
-floats 		= $(poem-pdfs) $(table-pdfs) $(music-pdfs) $(figures)
+floats 		= $(music-pdfs) $(figures)
 
 ## ODT input and output
 odt_input	:= $(foreach chapter,$(convert-chapters),$(notdir $(chapter)))
@@ -77,7 +77,7 @@ $(dirs) :
 $(pdf_output) : aux/main.pdf 
 	mv $< $@
 
-aux/main.pdf : main.tex vcbook.cls master.bib $(chapters) | $(dirs) $(floats)
+aux/main.pdf : main.tex vcbook.cls master.bib $(tex-input) | $(dirs) $(floats)
 	$(dolatex) $<
 
 .SECONDARY : aux/main.pdf
@@ -110,9 +110,6 @@ aux/main-odt.bbl : main-odt.tex | $(dirs)
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
 aux/%.pdf : poem-examples/%.tex vcfloat.cls
-	$(dolatex) -silent $<
-
-aux/%.pdf : tables/%.tex vcfloat.cls
 	$(dolatex) -silent $<
 
 aux/%.pdf : music-examples/%.ly ~/ly
