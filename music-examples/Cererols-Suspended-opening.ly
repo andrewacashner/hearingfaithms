@@ -62,13 +62,13 @@ MusicAII = {
   \MeterTriple
   R1.
   R1.
-  r2 \AnnotateBelow \MotiveA a'2\NB b'2 
+  r2 \Annotate \MotiveA a'2\NB b'2 
   c''2\color b'1~
   b'2 a'1\endcolor\endNB
 }
 
 MusicTII = {
-  \clef "treble_8"
+  \clef "treble"
   \MeterTriple
   R1.
   R1.
@@ -78,8 +78,9 @@ MusicTII = {
 }
 
 MusicBII = {
-  \clef "treble_8"
+  \clef "bass"
   \MeterTriple
+  \override MultiMeasureRest.staff-position = #9
   R1.
   R1.
   r2 d2 d2 
@@ -110,10 +111,6 @@ LyricsAII = \LyricsSI
 %****************************************
 % SCORE
 %****************************************
-LowerVoice = {
-  \DrawColorBracketsUnder
-  \voiceTwo
-}
 
 \paper {
   ragged-right = ##t
@@ -138,24 +135,29 @@ LowerVoice = {
     >>
     \new ChoirStaff = "ChII"
     <<
-      \new Staff = "SAII"
+      \new Staff = "SII"
       <<
-        \InstrumentName \TwoLineName "Ti. II" "A. II" ""
-        \new Voice = "SII" { \voiceOne \MusicSII }
-        \new Voice = "AII" { \LowerVoice \MusicAII }
+        \InstrumentName "Ti. II" ""
+        \new Voice = "SII" { \MusicSII }
+        \new Lyrics \lyricsto "SII" { \LyricsAII }
+      >>
+      \new Staff = "ATII"
+      <<
+        \InstrumentName \TwoLineName "A. II" "T. II" ""
+        \new Voice = "AII" { \voiceOne \MusicAII }
+        \new Voice = "TII" { \LowerVoice \MusicTII }
         \new Lyrics \lyricsto "AII" { \LyricsAII }
       >>
-      \new Staff = "TBII"
-      <<
-        \InstrumentName \TwoLineName "T. II" "B. II" ""
-        \new Voice = "TII" { \voiceOne \MusicTII }
-        \new Voice = "BII" { \LowerVoice \MusicBII }
-      >>
     >>
-    \new Staff = "Ac" 
+    \new ChoirStaff = "Continuo"
     <<
-      \InstrumentName "Ac." ""
-      \new Voice = "Ac" { \MusicAc }
+      \ShowChoirStaffBracket
+      \new Staff = "BII-Ac"
+      <<
+        \InstrumentName \TwoLineName "B. II [instr.]" "Ac." ""
+        \new Voice = "BII" { \voiceOne \MusicBII }
+        \new Voice = "Ac" { \LowerVoice \MusicAc }
+      >>
     >>
   >>
 }
