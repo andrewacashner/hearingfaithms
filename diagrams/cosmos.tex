@@ -1,13 +1,13 @@
-% cosmos according to Kircher
-\documentclass{article}
+\documentclass[tikz,class=vcbook]{standalone}
 \usepackage{tikz}
 \usetikzlibrary{decorations.pathmorphing,
 decorations.pathreplacing,
 decorations.shapes,
-decorations.markings,
-patterns}
-\usepackage{fontspec}
-\setmainfont{Brill}
+decorations.text,
+patterns,
+shapes.geometric,
+positioning}
+
 \newcommand{\Earth}{♁}
 \newcommand{\Moon}{☽}
 \newcommand{\Mercury}{☿}
@@ -16,7 +16,7 @@ patterns}
 \newcommand{\Mars}{♂}
 \newcommand{\Jupiter}{♃}
 \newcommand{\Saturn}{♄}
-\newcommand{\Star}{⋆}
+\newcommand{\Star}{\large ⋆}
 \newcommand{\sphere}[2]{%
     \begin{tabular}{c}
         #1\\
@@ -24,60 +24,78 @@ patterns}
     \end{tabular}%
 }
 \begin{document}
-    \footnotesize
-\begin{tikzpicture}[x=2em,y=2em]
+\scriptsize
+\noindent\begin{tikzpicture}[x=5mm,y=5mm]
+
     \colorlet{dark}{black!25}
     \colorlet{medium}{black!15}
-    \colorlet{light}{black!5}
+    \colorlet{light}{black!10}
+    \colorlet{lightest}{black!5}
 
-    \tikzset{every node/.style={draw,circle,font={\itshape}}}
 
+    \draw [fill=lightest, decorate, decoration={coil,aspect=0}] 
+        circle [radius=13.25];
 
-    \draw [decorate,decoration={coil,aspect=0},fill={white}] circle [radius=11];
-   
-    \draw [draw=none,fill={light}] circle [radius=10];
+    \draw [fill=white] (13.25, 0) circle(6mm);
+    \node [regular polygon, regular polygon sides=3, minimum size=12mm, draw] 
+        at (13.25, 0) {};
+    \node [draw=none,fill=none,font={\upshape\hebrewfont}] at (13.25,0) 
+        {\textdir TLT הוהי};
 
-%    \foreach \s in {0.0, 0.01, ..., 1}
-%    \draw [decorate, decoration={markings,
-%    mark=at position \s with {\node[draw=none] {\Large\Star};}}] 
-%    circle [radius=10];
+    \draw [draw=none,fill=light] circle [radius=10.75];
+    \draw [decorate, 
+            decoration={text effects along path, text={\Star}, 
+            text effects/.cd, repeat text=120}]
+        circle [radius=10.75];
     
-
-    \foreach \x in {9, ..., 7} \draw [fill={light}] circle [radius=\x];
-    
-    \draw[fill={medium},very thick] circle[radius=6];
-    
-    \foreach \x in {5, ..., 3} \draw [fill={medium}] circle [radius=\x];
-
-    \node [draw,circle,fill={dark},ultra thick] at (0, 0) {\sphere{\Earth}{Earth}};
-    
-    \tikzset{every node/.append style={fill={white}}}
-    \node at (3, 0) {\Moon};
-    \node at (4, 0) {\Mercury};
-    \node at (5, 0) {\Venus};
-    \node at (6, 0) {\Sun};
-    \node at (7, 0) {\Mars};
-    \node at (8, 0) {\Jupiter};
+    \tikzset{every node/.style={draw,circle,font=\itshape,fill=white}}
+    \draw [fill=light] circle [radius=9];
     \node at (9, 0) {\Saturn};
 
-    \tikzset{every node/.append style={draw=none,rectangle}}
-    \tikzset{every node/.append style={fill={medium}}}
-    \node at (0, 3) {Moon};
-    \node at (0, 4) {Mercury};
-    \node at (0, 5) {Venus};
-    \node at (0, 6) {Sun};
-    
-    \tikzset{every node/.append style={fill={light}}}
-    \node at (0, 7) {Mars};
-    \node at (0, 8) {Jupiter};
-    \node at (0, 9) {Saturn};
+    \draw circle [radius=8];
+    \node at (8, 0) {\Jupiter};
 
-    \tikzset{every node/.append style={fill={white}}}
-    \node at (0, 10) {Firmament: Stars};
-    \node[font={\scshape}] at (0, 11) {Empyrean};
-    \node[draw,circle] at (11, 0) {YHWH};
- 
+    \draw circle [radius=7];
+    \node at (7, 0) {\Mars};
+
+    \draw [fill=medium,very thick] circle [radius=6];
+    \node at (6, 0) {\Sun};
+
+    \draw circle[radius=5];
+    \node at (5, 0) {\Venus};
+
+    \draw circle[radius=4];
+    \node at (4, 0) {\Mercury};
+
+    \draw circle[radius=3];
+    \node at (3, 0) {\Moon};
+
+    \node [draw,circle,fill=dark,ultra thick] at (0, 0) 
+    {\sphere{\Earth}{Earth}};
+    
+    \tikzset{every node/.append style={draw=none,rectangle,fill=none}}
+    \node [label=below:{Moon}]      at (0, 3) {};
+    \node [label=below:{Mercury}]   at (0, 4) {};
+    \node [label=below:{Venus}]     at (0, 5) {};
+    \node [label=below:{Sun}]       at (0, 6) {};
+    
+    \node [label=below:Mars]        at (0, 7) {};
+    \node [label=below:Jupiter]     at (0, 8) {};
+    \node [label=below:Saturn]      at (0, 9) {};
+    \node [label=below:{%
+        \begin{tabular}{c}
+            \textsc{\upshape Firmament} \\
+            Stars
+        \end{tabular}%
+    }] at (0, 10.75) {};
+    
+    \node[label=below:{%
+        \begin{tabular}{c}
+            \textsc{\upshape Empyrean} \\
+            Triune God \\
+            Angels (Nine ranks), Saints
+        \end{tabular}%
+        }] at (0, 13.25) {};
 \end{tikzpicture}
 \end{document}
-\endinput
 

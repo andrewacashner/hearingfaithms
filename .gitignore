@@ -3,6 +3,7 @@ build/
 convert/aux/
 convert/build/
 \#*
+*.sta
 *.dvi
 *.*~
 *.aux

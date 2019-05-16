@@ -38,6 +38,7 @@ convert-chapters = $(wildcard convert/*.tex)
 table-src 	= $(wildcard tables/*.tex)
 poem-src 	= $(wildcard poem-examples/*.tex)
 music-src 	= $(wildcard music-examples/*.ly)
+dia-src 	= $(wildcard diagrams/*.tex)
 figure-src 	= $(wildcard figures/*.*)
 
 tex-input	= $(chapters) $(table-src) $(poem-src)
@@ -54,7 +55,7 @@ odt_input	:= $(foreach chapter,$(convert-chapters),$(notdir $(chapter)))
 odt_output 	:= $(odt_input:%.tex=build/odt/%.odt)
 
 # COMMANDS
-dolatex = latexmk -pdfxe -bibtex -outdir=aux 
+dolatex = latexmk -lualatex -bibtex -outdir=aux -shell-escape
 
 #************************************************************************
 # RULES
