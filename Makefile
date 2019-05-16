@@ -41,7 +41,7 @@ music-src 	= $(wildcard music-examples/*.ly)
 dia-src 	= $(wildcard diagrams/*.tex)
 figure-src 	= $(wildcard figures/*.*)
 
-tex-input	= $(chapters) $(table-src) $(poem-src)
+tex-input	= $(chapters) $(table-src) $(poem-src) $(dia-src)
 
 ## PDF outputs of compiling .tex and .ly files
 pdf_output	= build/main.pdf

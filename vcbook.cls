@@ -214,11 +214,13 @@
     \insertFloat{figure}{fig}{#1}{#2}%
 }
 \NewDocumentCommand{\insertDiagram}{ m m }{%
+    \begin{floatContents}
     \begin{diagram}[!t]
         \caption{#2}
         \label{dia:#1}
         \includestandalone{diagrams/#1}
-    \end{diagram}%
+    \end{diagram}
+    \end{floatContents}%
 }
 \NewDocumentCommand{\@includetable}{ m }{%
     \begin{floatContents}
