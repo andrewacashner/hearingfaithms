@@ -1,6 +1,11 @@
 % cosmos according to Kircher
 \documentclass{article}
 \usepackage{tikz}
+\usetikzlibrary{decorations.pathmorphing,
+decorations.pathreplacing,
+decorations.shapes,
+decorations.markings,
+patterns}
 \usepackage{fontspec}
 \setmainfont{Brill}
 \newcommand{\Earth}{♁}
@@ -19,32 +24,58 @@
     \end{tabular}%
 }
 \begin{document}
+    \footnotesize
 \begin{tikzpicture}[x=2em,y=2em]
-    \tikzset{every node/.style={draw,circle,fill={white},font={\itshape}}}
+    \colorlet{dark}{black!25}
+    \colorlet{medium}{black!15}
+    \colorlet{light}{black!5}
 
-    \foreach \x in {0, ..., 10}
-    \draw circle[radius=\x];
+    \tikzset{every node/.style={draw,circle,font={\itshape}}}
 
-    \node at (0, 0) {\sphere{\Earth}{Earth}};
-    \node at (2, 0) {\Moon};
-    \node at (3, 0) {\Mercury};
-    \node at (4, 0) {\Venus};
-    \node at (5, 0) {\Sun};
-    \node at (6, 0) {\Mars};
-    \node at (7, 0) {\Jupiter};
-    \node at (8, 0) {\Saturn};
-    \node at (9, 0) {\Star};
 
-    \tikzset{every node/.style={draw=none,rectangle,fill={white},font={\itshape}}}
-    \node at (0, 2) {Moon};
-    \node at (0, 3) {Mercury};
-    \node at (0, 4) {Venus};
-    \node at (0, 5) {Sun};
-    \node at (0, 6) {Mars};
-    \node at (0, 7) {Jupiter};
-    \node at (0, 8) {Saturn};
-    \node at (0, 9) {Firmament: Stars};
-    \node[font={\scshape}] at (0, 10) {Empyrean};
+    \draw [decorate,decoration={coil,aspect=0},fill={white}] circle [radius=11];
+   
+    \draw [draw=none,fill={light}] circle [radius=10];
+
+%    \foreach \s in {0.0, 0.01, ..., 1}
+%    \draw [decorate, decoration={markings,
+%    mark=at position \s with {\node[draw=none] {\Large\Star};}}] 
+%    circle [radius=10];
+    
+
+    \foreach \x in {9, ..., 7} \draw [fill={light}] circle [radius=\x];
+    
+    \draw[fill={medium},very thick] circle[radius=6];
+    
+    \foreach \x in {5, ..., 3} \draw [fill={medium}] circle [radius=\x];
+
+    \node [draw,circle,fill={dark},ultra thick] at (0, 0) {\sphere{\Earth}{Earth}};
+    
+    \tikzset{every node/.append style={fill={white}}}
+    \node at (3, 0) {\Moon};
+    \node at (4, 0) {\Mercury};
+    \node at (5, 0) {\Venus};
+    \node at (6, 0) {\Sun};
+    \node at (7, 0) {\Mars};
+    \node at (8, 0) {\Jupiter};
+    \node at (9, 0) {\Saturn};
+
+    \tikzset{every node/.append style={draw=none,rectangle}}
+    \tikzset{every node/.append style={fill={medium}}}
+    \node at (0, 3) {Moon};
+    \node at (0, 4) {Mercury};
+    \node at (0, 5) {Venus};
+    \node at (0, 6) {Sun};
+    
+    \tikzset{every node/.append style={fill={light}}}
+    \node at (0, 7) {Mars};
+    \node at (0, 8) {Jupiter};
+    \node at (0, 9) {Saturn};
+
+    \tikzset{every node/.append style={fill={white}}}
+    \node at (0, 10) {Firmament: Stars};
+    \node[font={\scshape}] at (0, 11) {Empyrean};
+    \node[draw,circle] at (11, 0) {YHWH};
  
 \end{tikzpicture}
 \end{document}
