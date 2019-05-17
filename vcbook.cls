@@ -14,17 +14,13 @@
 \fi
 
 \RequirePackage{xparse}
-\RequirePackage[subpreambles,mode=buildnew]{standalone}
 
 % FONT AND TYPOGRAPHY
-\RequirePackage{luatexbase}
-\RequirePackage{microtype}
-
 \RequirePackage[libertine]{newtxmath}
 \RequirePackage{fontspec}
 \setmainfont{Brill}
 \RequirePackage{mathastext}
-\newfontfamily\hebrewfont[Script=Hebrew]{SBL Hebrew}
+\RequirePackage{microtype}
 
 \RequirePackage{url}
 \urlstyle{same}
@@ -182,6 +178,9 @@
 \NewDocumentCommand{\includeMusic}{ m }{%
     \includeFloatPDF{build/music-examples/#1}%
 }
+\NewDocumentCommand{\includeDiagram}{ m }{%
+    \includeFloatPDF{build/diagrams/#1}%
+}
 \NewDocumentCommand{\includeFigure}{ m }{%
     \includeFloatPDF{figures/#1}%
 }
@@ -214,14 +213,9 @@
     \insertFloat{figure}{fig}{#1}{#2}%
 }
 \NewDocumentCommand{\insertDiagram}{ m m }{%
-    \begin{floatContents}
-    \begin{diagram}[!t]
-        \caption{#2}
-        \label{dia:#1}
-        \includestandalone{diagrams/#1}
-    \end{diagram}
-    \end{floatContents}%
+    \insertFloat{diagram}{dia}{#1}{#2}%
 }
+
 \NewDocumentCommand{\@includetable}{ m }{%
     \begin{floatContents}
         \input{tables/#1}
@@ -235,6 +229,7 @@
 
 \NewDocumentCommand{\@includemusicexample}  {}{\includeMusic}
 \NewDocumentCommand{\@includefigure}        {}{\includeFigure}
+\NewDocumentCommand{\@includediagram}       {}{\includeDiagram}
 
 % Use for figures that need to be scaled up
 \NewDocumentCommand{\includeBigFigure} { m }{%

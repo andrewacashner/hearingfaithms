@@ -1,101 +1,139 @@
-\documentclass[tikz,class=vcbook]{standalone}
+\documentclass{vcbook-dia}
 \usepackage{tikz}
-\usetikzlibrary{decorations.pathmorphing,
-decorations.pathreplacing,
-decorations.shapes,
-decorations.text,
-patterns,
-shapes.geometric,
-positioning}
-
-\newcommand{\Earth}{♁}
-\newcommand{\Moon}{☽}
-\newcommand{\Mercury}{☿}
-\newcommand{\Venus}{♀}
-\newcommand{\Sun}{☉}
-\newcommand{\Mars}{♂}
-\newcommand{\Jupiter}{♃}
-\newcommand{\Saturn}{♄}
-\newcommand{\Star}{\large ⋆}
-\newcommand{\sphere}[2]{%
-    \begin{tabular}{c}
-        #1\\
-        #2
-    \end{tabular}%
+\usetikzlibrary{
+    decorations.pathmorphing,
+    decorations.pathreplacing,
+    decorations.shapes,
+    decorations.text,
+    shapes.geometric,
 }
+
+% Hebrew requires SBL Hebrew font
+% Hebrew, YWHW, has to be entered in reverse
+\newfontfamily{\hebrewfont}{SBL Hebrew}[Script=Hebrew]
+\NewDocumentCommand{\tetragrammaton}{}{\footnotesize\hebrewfont יהוה}
+
+% These Unicode symbols all in Brill font
+\NewDocumentCommand{\Earth}      {}{♁}   % U+2641
+\NewDocumentCommand{\Moon}       {}{☽}   % U+263D
+\NewDocumentCommand{\Mercury}    {}{☿}   % U+263F
+\NewDocumentCommand{\Venus}      {}{♀}   % U+2640
+\NewDocumentCommand{\Sun}        {}{☉}   % U+2609
+\NewDocumentCommand{\Mars}       {}{♂}   % U+2642
+\NewDocumentCommand{\Jupiter}    {}{♃}   % U+2643
+\NewDocumentCommand{\Saturn}     {}{♄}   % U+2644
+\NewDocumentCommand{\Star}       {}{\large ⋆}   % U+22C6
+
+\NewDocumentCommand{\planetSymbol}{ m }{{\small #1}}
+
+\NewDocumentCommand{\planetSize}{}{\scriptsize}
+
+\NewDocumentCommand{\planetStack}{ m m m }{%
+    {\planetSize\itshape
+    \begin{tabular}{c}
+        {\upshape #1 #2}\\
+        #3
+    \end{tabular}}%
+}
+\NewDocumentCommand{\sphere}{ m m }{%
+    \planetStack{\scshape}{#1}{#2}%
+}
+\NewDocumentCommand{\planetEarth}{}{%
+    \planetStack{\normalsize}{\Earth}{Earth}%
+}
+
+\NewDocumentCommand{\planetOrbit}{ O{} m m }{%
+    \IfValueTF{#1}{%
+        \draw [#1] circle [radius=#3];
+    }{%
+        \draw circle [radius=#3];
+    }
+    \node [draw, circle, fill=white] 
+    at (-45*#3+180:#3) {\planetSymbol{#2}};
+}
+\NewDocumentCommand{\planetLabel}{ m m }{%
+    \node [
+        anchor=north,
+        draw=none, fill=none,
+        font={\planetSize\itshape},
+    ] at (0, #2) {#1};
+}
+
+\colorlet{lightest} {black!5}
+\colorlet{light}    {black!10}
+\colorlet{medium}   {black!15}
+\colorlet{dark}     {black!20}
+
+\def\wdMoon     {3}
+\def\wdMercury  {4}
+\def\wdVenus    {5}
+\def\wdSun      {6}
+\def\wdMars     {7}
+\def\wdJupiter  {8}
+\def\wdSaturn   {9}
+\def\wdFirmament{11}
+\def\wdEmpyrean {14}
+
+\newlength{\unitLength}
+\setlength{\unitLength}{12pt}
+
+\newlength{\wdDeus}
+\setlength{\wdDeus}{1.25\unitLength}
+
 \begin{document}
-\scriptsize
-\noindent\begin{tikzpicture}[x=5mm,y=5mm]
+\begin{tikzpicture}[x=\unitLength,y=\unitLength]
 
-    \colorlet{dark}{black!25}
-    \colorlet{medium}{black!15}
-    \colorlet{light}{black!10}
-    \colorlet{lightest}{black!5}
+    % Empyrean, wavy circle with symbol for Triune God
+    \draw [fill=lightest, decorate, decoration={coil,aspect=0}]
+        circle [radius=\wdEmpyrean];
+   
+    % Tetragrammaton inside triangle inside circle
+    \draw [thick, fill=white] (\wdEmpyrean, 0) circle[radius=\wdDeus];
+    \node [draw, thick, 
+        regular polygon, regular polygon sides=3, 
+        minimum size=2\wdDeus-1pt] 
+        at (\wdEmpyrean, 0) {};
+    \node at (\wdEmpyrean, 0) {\tetragrammaton}; 
 
-
-    \draw [fill=lightest, decorate, decoration={coil,aspect=0}] 
-        circle [radius=13.25];
-
-    \draw [fill=white] (13.25, 0) circle(6mm);
-    \node [regular polygon, regular polygon sides=3, minimum size=12mm, draw] 
-        at (13.25, 0) {};
-    \node [draw=none,fill=none,font={\upshape\hebrewfont}] at (13.25,0) 
-        {\textdir TLT הוהי};
-
-    \draw [draw=none,fill=light] circle [radius=10.75];
+    % Firmament, circle of stars
+    \draw [draw=none,fill=light] circle [radius=\wdFirmament];
     \draw [decorate, 
-            decoration={text effects along path, text={\Star}, 
+            decoration={text effects along path, 
+            text={\Star},
             text effects/.cd, repeat text=120}]
-        circle [radius=10.75];
-    
-    \tikzset{every node/.style={draw,circle,font=\itshape,fill=white}}
-    \draw [fill=light] circle [radius=9];
-    \node at (9, 0) {\Saturn};
+        circle [radius=\wdFirmament];
+   
+    % Outer planets
+    \planetOrbit{\Saturn}   {\wdSaturn}
+    \planetOrbit{\Jupiter}  {\wdJupiter}
+    \planetOrbit{\Mars}     {\wdMars}
 
-    \draw circle [radius=8];
-    \node at (8, 0) {\Jupiter};
+    % Inner planets
+    \planetOrbit[thick, fill=medium]{\Sun}      {\wdSun}
+    \planetOrbit{\Venus}    {\wdVenus}
+    \planetOrbit{\Mercury}  {\wdMercury}
+    \planetOrbit{\Moon}     {\wdMoon}
 
-    \draw circle [radius=7];
-    \node at (7, 0) {\Mars};
+    % Earth at center
+    \node [draw, circle, fill=dark, ultra thick] 
+        at (0, 0) {\planetEarth};
+  
+    % Labels 
+    \planetLabel{Moon}      {\wdMoon}
+    \planetLabel{Mercury}   {\wdMercury}
+    \planetLabel{Venus}     {\wdVenus}
+    \planetLabel{Sun}       {\wdSun}
+    \planetLabel{Mars}      {\wdMars}
+    \planetLabel{Jupiter}   {\wdJupiter}
+    \planetLabel{Saturn}    {\wdSaturn}
 
-    \draw [fill=medium,very thick] circle [radius=6];
-    \node at (6, 0) {\Sun};
+    \planetLabel{%
+        \sphere{Firmament}{Stars}%
+    }{\wdFirmament} 
 
-    \draw circle[radius=5];
-    \node at (5, 0) {\Venus};
-
-    \draw circle[radius=4];
-    \node at (4, 0) {\Mercury};
-
-    \draw circle[radius=3];
-    \node at (3, 0) {\Moon};
-
-    \node [draw,circle,fill=dark,ultra thick] at (0, 0) 
-    {\sphere{\Earth}{Earth}};
-    
-    \tikzset{every node/.append style={draw=none,rectangle,fill=none}}
-    \node [label=below:{Moon}]      at (0, 3) {};
-    \node [label=below:{Mercury}]   at (0, 4) {};
-    \node [label=below:{Venus}]     at (0, 5) {};
-    \node [label=below:{Sun}]       at (0, 6) {};
-    
-    \node [label=below:Mars]        at (0, 7) {};
-    \node [label=below:Jupiter]     at (0, 8) {};
-    \node [label=below:Saturn]      at (0, 9) {};
-    \node [label=below:{%
-        \begin{tabular}{c}
-            \textsc{\upshape Firmament} \\
-            Stars
-        \end{tabular}%
-    }] at (0, 10.75) {};
-    
-    \node[label=below:{%
-        \begin{tabular}{c}
-            \textsc{\upshape Empyrean} \\
-            Triune God \\
-            Angels (Nine ranks), Saints
-        \end{tabular}%
-        }] at (0, 13.25) {};
+    \planetLabel{%
+        \sphere{Empyrean}{Triune God\\ Angels (Nine ranks), Saints}%
+    }{\wdEmpyrean}
 \end{tikzpicture}
 \end{document}
 
