@@ -56,11 +56,11 @@ floats 		= $(music-pdfs) $(dia-pdfs) $(figures)
 #odt_output 	:= $(odt_input:%.tex=build/odt/%.odt)
 
 # COMMANDS
-dolatex = latexmk -pdfxe -outdir=aux
+dolatex = latexmk -bibtex -pdfxe -outdir=aux
 
 #************************************************************************
 # RULES
-.PHONY : pdf all view count clean clobber # odt
+.PHONY : pdf all view count clean reset # odt
 
 # Default target 
 ## Full document LaTeX->PDF
@@ -69,7 +69,7 @@ pdf : $(pdf_output)
 ## Each chapter LaTeX->ODT
 #odt : $(odt_output)
 
-all : clobber pdf # odt 
+all : reset pdf # odt 
 
 ### Create needed directories
 $(dirs) :
@@ -138,6 +138,6 @@ clean :
 	-rm -rf aux
 	-rm -rf chapters/*.aux
 
-clobber : clean
+reset : clean
 	-rm -rf build
 
