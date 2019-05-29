@@ -1,0 +1,37 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{vcbook-macros}[2019/05/29
+Macros for semantic markup for Cashner villancico monograph]
+
+\RequirePackage{xparse}
+\RequirePackage{semantic-markup}
+\RequirePackage{musicography}
+\RequirePackage{octave}
+
+\NewDocumentCommand{\range}     { m m } {#1.~#2}
+\NewDocumentCommand{\measure}   { m }   {\range{m}{#1}}
+\NewDocumentCommand{\measures}  { m }   {\range{mm}{#1}}
+\NewDocumentCommand{\poemline}  { m }   {\range{l}{#1}}
+\NewDocumentCommand{\poemlines} { m }   {\range{ll}{#1}}
+\NewDocumentCommand{\itemnum}   { m }   {\range{no}{#1}}
+\NewDocumentCommand{\pagenum}   { m }   {\range{p}{#1}}
+\NewDocumentCommand{\pagenums}  { m }   {\range{pp}{#1}}
+
+\NewDocumentCommand{\sv}        { m }   {s.v.~\mentioned{#1}}
+\NewDocumentCommand{\addorig}   { m }   {\add{\foreign{#1}}}
+
+% archival signature
+\NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} 
+
+\NewDocumentCommand{\speaker}   { m }   {\textsc{#1}: }
+\NewDocumentCommand{\et}        {}      {\&}
+\NewDocumentCommand{\scripture} { m m } {#1~#2}
+\NewDocumentCommand{\circa}     { m }   {ca.~#1}
+\NewDocumentCommand{\tabitem}   {}      {\textbullet\enspace}
+\NewDocumentCommand{\tabindent} {}      {\hspace{1em}}
+\NewDocumentCommand{\strophe}   {}      {\tabindent}
+
+% UNICODE MACROS
+\RenewDocumentCommand{\Dots}{}{\add{…}} % U+2026
+\NewDocumentCommand{\charAlpha}{}{α}
+
+\endinput

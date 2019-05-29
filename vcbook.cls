@@ -15,78 +15,14 @@
 
 \RequirePackage{xparse}
 
-% FONT AND TYPOGRAPHY
-\RequirePackage[libertine]{newtxmath}
-\RequirePackage{fontspec}
-\setmainfont{Brill}
-\RequirePackage{mathastext}
-\RequirePackage{microtype}
-
-\RequirePackage{url}
-\urlstyle{same}
-\RequirePackage[defaultlines=2,all]{nowidow}
-\RequirePackage{semantic-markup}
-\RequirePackage{musicography-unicode}
-\RequirePackage{octave}
-\RequirePackage{poemtranslation}
-
-% PAGE LAYOUT
-\frenchspacing
-\raggedbottom
-
-\RequirePackage[textwidth=5.5in]{geometry}
-\ifdraft
-    \RequirePackage[doublespacing]{setspace}
-    \RequirePackage[none]{hyphenat}
-    \RequirePackage[document]{ragged2e}
-    \setlength{\RaggedRightParindent}{0.5in}
-    \sloppy
-    \hbadness=10000
-\fi
+\RequirePackage{vcbook-format}
+\RequirePackage{vcbook-macros}
 
 % TABLES
-\RequirePackage{tabulary}
-\RequirePackage{tabularx}
-\RequirePackage{longtable}
-\RequirePackage{booktabs}
-
-% Custom minipage environment for use inside tables with ruled tabulars
-% Eliminates footnoterule to avoid clash with \bottomrule
-\NewDocumentEnvironment{tableminipage}{}
-{%
-    \let\oldendminipage\endminipage 
-    \def\endminipage{\let\footnoterule\relax\oldendminipage}%
-    \begin{minipage}{\linewidth}%
-}{% 
-    \centering\end{minipage}\par
-}
-\RequirePackage{etoolbox}
-\NewDocumentCommand{\liningfigures}{}{\addfontfeatures{Numbers={Lining}}}
-\AtBeginEnvironment{tabular}{\liningfigures}
-\AtBeginEnvironment{tabulary}{\liningfigures}
-\AtBeginEnvironment{tabularx}{\liningfigures}
-\AtBeginEnvironment{tikzpicture}{\liningfigures}
-
 
 % SECTION & TOC NUMBERING
 \setcounter{secnumdepth}{1}
 \setcounter{tocdepth}{2}
-
-% PAGE HEADERS
-\RequirePackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-%\setlength{\headheight}{16pt}
-
-\ifdraft
-    \fancyhead[LO]{Cashner, \emph{Hearing Faith}, DRAFT}
-    \fancyhead[RO]{\thepage}
-\else
-    \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-    \fancyhead[LE,RO]{\thepage}
-    \fancyhead[RE]{\scshape{Hearing Faith}}
-    \fancyhead[LO]{\emph{\leftmark}}
-\fi
 
 % PAGE NUMBERING
 % No number on part pages (use empty page style, not plain)
@@ -98,23 +34,7 @@
 \RequirePackage[autolang=none]{biblatex-chicago}
 \addbibresource{master.bib}
 
-% ENDNOTES OR FOOTNOTES
-\ifdraft
-    \renewcommand\@makefntext[1]{% 
-        \setlength{\parindent}{0.5in}% 
-        \noindent\makebox[0.5in][r]{\@thefnmark.\,\,}#1%
-    }
-\fi
-% Keep footnotes at bottom of page
-\RequirePackage{fnpos} 
-
 % FLOATS
-\RequirePackage{graphicx}
-\graphicspath{ 
-    {figures/} 
-    {build/music-examples/} 
-}
-
 \RequirePackage{newfloat}
 
 \DeclareFloatingEnvironment[
@@ -147,18 +67,25 @@
 
 % FLOAT FORMATTING AND FILE INCLUSION
 \NewDocumentEnvironment{floatContents}{}
-    {\begin{center}\footnotesize}
+    {\begin{center}}
     {\end{center}}
 
 % All floats are compiled via Makefile from separate LaTeX or Lilypond
 % files, cropped, and placed in subdirectories under build/
 % So we just need to include the PDF
-
+\RequirePackage{graphicx}
+\graphicspath{ 
+    {build/diagrams/}
+    {build/figures/}
+    {build/music-examples/} 
+    {build/poem-examples/}
+    {build/tables/}
+}
 \RequirePackage{adjustbox}
 
 % Adjust float image to no larger than full page with room for caption;
 % do not adjust if it already fits
-\NewDocumentCommand{\includeFloatPDF}{ m }{%
+\NewDocumentCommand{\@includeFloatPDF}{ m }{%
     \ifdraft
         \fbox{Insert float \detokenize{#1}}\centering
     \else
@@ -172,20 +99,7 @@
     \fi
 }
 
-\NewDocumentCommand{\includePoem}{ m }{%
-    \includeFloatPDF{build/poem-examples/#1}%
-}
-\NewDocumentCommand{\includeMusic}{ m }{%
-    \includeFloatPDF{build/music-examples/#1}%
-}
-\NewDocumentCommand{\includeDiagram}{ m }{%
-    \includeFloatPDF{build/diagrams/#1}%
-}
-\NewDocumentCommand{\includeFigure}{ m }{%
-    \includeFloatPDF{figures/#1}%
-}
-
-\NewDocumentCommand{\insertFloat}{ m m m m }{%
+\NewDocumentCommand{\@insertFloat}{ m m m m }{%
     \begingroup
     \def\@id{\detokenize{#3}}
     \begin{#1}[!t]
@@ -194,53 +108,28 @@
         \ifdraft
             \fbox{Insert #1 (\@id)}\centering
         \else
-            \csname @include#1\endcsname{\@id}
+            \@includeFloatPDF{\@id}
         \fi
     \end{#1}
     \endgroup
 }
 
 \NewDocumentCommand{\insertTable}{ m m }{%
-    \insertFloat{table}{tab}{#1}{#2}%
+    \@insertFloat{table}{tab}{#1}{#2}%
 }
 \NewDocumentCommand{\insertPoem}{ m m }{%
-    \insertFloat{poemexample}{poem}{#1}{#2}%
+    \@insertFloat{poemexample}{poem}{#1}{#2}%
 }
 \NewDocumentCommand{\insertMusic}{ m m }{%
-    \insertFloat{musicexample}{mux}{#1}{#2}%
+    \@insertFloat{musicexample}{mux}{#1}{#2}%
 }
 \NewDocumentCommand{\insertFigure}{ m m }{%
-    \insertFloat{figure}{fig}{#1}{#2}%
+    \@insertFloat{figure}{fig}{#1}{#2}%
 }
 \NewDocumentCommand{\insertDiagram}{ m m }{%
-    \insertFloat{diagram}{dia}{#1}{#2}%
+    \@insertFloat{diagram}{dia}{#1}{#2}%
 }
 
-\NewDocumentCommand{\@includetable}{ m }{%
-    \begin{floatContents}
-        \input{tables/#1}
-    \end{floatContents}%
-}
-\NewDocumentCommand{\@includepoemexample}{ m }{%
-    \begin{floatContents}
-        \input{poem-examples/#1}
-    \end{floatContents}%
-}
-
-\NewDocumentCommand{\@includemusicexample}  {}{\includeMusic}
-\NewDocumentCommand{\@includefigure}        {}{\includeFigure}
-\NewDocumentCommand{\@includediagram}       {}{\includeDiagram}
-
-% Use for figures that need to be scaled up
-\NewDocumentCommand{\includeBigFigure} { m }{%
-    \begin{floatContents}
-        \includegraphics[
-            width=\linewidth,
-            height=\dimexpr\textheight-5\baselineskip,
-            keepaspectratio 
-        ]{figures/#1}%
-    \end{floatContents}
-}
 
 \NewDocumentCommand{\includeChapter}{ m }{%
     \include{chapters/#1}%
@@ -266,6 +155,7 @@
 {\end{tabular}
  \end{quotepoemContents}}
 
+\RequirePackage{longtable}
 \NewDocumentEnvironment{quotepoemlong}{}
 {\begin{quotepoemContents}
  \begin{longtable}{ll}}
@@ -291,31 +181,6 @@
     \bigskip
 }
 
-% SEMANTIC MACROS
-\NewDocumentCommand{\range}     { m m } {#1.~#2}
-\NewDocumentCommand{\measure}   { m }   {\range{m}{#1}}
-\NewDocumentCommand{\measures}  { m }   {\range{mm}{#1}}
-\NewDocumentCommand{\poemline}  { m }   {\range{l}{#1}}
-\NewDocumentCommand{\poemlines} { m }   {\range{ll}{#1}}
-\NewDocumentCommand{\itemnum}   { m }   {\range{no}{#1}}
-\NewDocumentCommand{\pagenum}   { m }   {\range{p}{#1}}
-\NewDocumentCommand{\pagenums}  { m }   {\range{pp}{#1}}
-
-\NewDocumentCommand{\sv}        { m }   {s.v.~\mentioned{#1}}
-\NewDocumentCommand{\addorig}   { m }   {\add{\foreign{#1}}}
-\NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} % archival signature
-\NewDocumentCommand{\speaker}   { m }   {\textsc{#1}: }
-\NewDocumentCommand{\et}        {}      {\&}
-\NewDocumentCommand{\scripture} { m m } {#1~#2}
-\NewDocumentCommand{\circa}     { m }   {ca.~#1}
-\NewDocumentCommand{\tabitem}   {}      {\textbullet\enspace}
-\NewDocumentCommand{\tabindent} {}      {\hspace{1em}}
-\NewDocumentCommand{\strophe}   {}      {\tabindent}
-
-% UNICODE MACROS
-\RenewDocumentCommand{\Dots}{}{\add{…}} % U+2026
-\NewDocumentCommand{\charAlpha}{}{α}
-
 % HYPERLINKS
 \RequirePackage[
     hidelinks,
@@ -332,6 +197,7 @@
 }
 \pdfstringdefDisableCommands{%
     \def\quoted#1{"#1"}
+    \def\wtitle#1{\emph{#1}}
 }
 
 \RequirePackage[numbered]{bookmark}
@@ -342,10 +208,10 @@
 \crefname{poemexample}{poem example}{poem examples}
 \crefname{diagram}{diagram}{diagrams}
 
-\let\oldtableofcontents\tableofcontents
-\RenewDocumentCommand{\tableofcontents}{}{%
-    \hypersetup{pageanchor=true}
-    \oldtableofcontents
-}
+% \let\oldtableofcontents\tableofcontents
+% \RenewDocumentCommand{\tableofcontents}{}{%
+%     \hypersetup{pageanchor=true}
+%     \oldtableofcontents
+% }
 
 \endinput

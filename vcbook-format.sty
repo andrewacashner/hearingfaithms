@@ -1,0 +1,62 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{vcbook-format}[2019/05/29 
+Common formatting setup for text and floats for Cashner villancico monograph]
+
+\newif\iffloat
+\floatfalse
+\DeclareOption{float}{\floattrue}
+
+\newif\ifdraft
+\draftfalse
+\DeclareOption{draft}{\drafttrue}
+
+\ProcessOptions\relax
+
+\RequirePackage{xparse}
+
+\RequirePackage[libertine]{newtxmath}
+\RequirePackage{fontspec}
+\setmainfont{Brill}
+\RequirePackage{mathastext}
+\RequirePackage{microtype}
+\RequirePackage{url}
+\urlstyle{same}
+\frenchspacing
+\raggedbottom
+
+\RequirePackage[textwidth=5.5in]{geometry}
+
+\RequirePackage{booktabs}
+\NewDocumentCommand{\liningfigures}{}{%
+    \addfontfeatures{Numbers={Lining}}%
+}
+\RequirePackage{etoolbox}
+\AtBeginEnvironment{tabular}{\liningfigures}
+\AtBeginEnvironment{tabulary}{\liningfigures}
+\AtBeginEnvironment{tabularx}{\liningfigures}
+\AtBeginEnvironment{tikzpicture}{\liningfigures}
+
+\iffloat
+    \setlength{\parindent}{0pt}
+    \pagestyle{empty}
+    \AtBeginDocument{\footnotesize}
+\else
+    \RequirePackage[defaultlines=2,all]{nowidow}
+    \RequirePackage{fnpos} 
+\fi
+
+\ifdraft
+    \RequirePackage[doublespacing]{setspace}
+    \RequirePackage[none]{hyphenat}
+    \RequirePackage[document]{ragged2e}
+    \setlength{\RaggedRightParindent}{0.5in}
+    \sloppy
+    \hbadness=10000
+    \renewcommand\@makefntext[1]{% 
+        \setlength{\parindent}{0.5in}% 
+        \noindent\makebox[0.5in][r]{\@thefnmark.\,\,}#1%
+    }
+\fi
+
+\endinput
+

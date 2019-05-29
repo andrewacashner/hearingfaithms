@@ -1,15 +1,17 @@
-\documentclass{vcbook-dia}
+\documentclass[dia]{vcbook-float}
+\usepackage{xparse}
 \usepackage{tikz}
 \usetikzlibrary{
     decorations.pathmorphing,
     decorations.pathreplacing,
     decorations.shapes,
     decorations.text,
-    shapes.geometric,
+    shapes.geometric
 }
 
 % Hebrew requires SBL Hebrew font
 % Hebrew, YWHW, has to be entered in reverse
+\usepackage{fontspec}
 \newfontfamily{\hebrewfont}{SBL Hebrew}[Script=Hebrew]
 \NewDocumentCommand{\tetragrammaton}{}{\footnotesize\hebrewfont יהוה}
 
@@ -64,15 +66,15 @@
 \colorlet{medium}   {black!15}
 \colorlet{dark}     {black!20}
 
-\def\wdMoon     {3}
-\def\wdMercury  {4}
-\def\wdVenus    {5}
-\def\wdSun      {6}
-\def\wdMars     {7}
-\def\wdJupiter  {8}
-\def\wdSaturn   {9}
-\def\wdFirmament{11}
-\def\wdEmpyrean {14}
+\NewExpandableDocumentCommand{\wdMoon}      {}{3}
+\NewExpandableDocumentCommand{\wdMercury}   {}{4}
+\NewExpandableDocumentCommand{\wdVenus}     {}{5}
+\NewExpandableDocumentCommand{\wdSun}       {}{6}
+\NewExpandableDocumentCommand{\wdMars}      {}{7}
+\NewExpandableDocumentCommand{\wdJupiter}   {}{8}
+\NewExpandableDocumentCommand{\wdSaturn}    {}{9}
+\NewExpandableDocumentCommand{\wdFirmament} {}{11}
+\NewExpandableDocumentCommand{\wdEmpyrean}  {}{14}
 
 \newlength{\unitLength}
 \setlength{\unitLength}{12pt}
