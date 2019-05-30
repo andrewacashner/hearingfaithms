@@ -18,7 +18,7 @@
 \patchcmd{\part} {\thispagestyle{plain}} {\thispagestyle{empty}}{}{}
 
 % BIBLIOGRAPHY
-\RequirePackage[autolang=none]{biblatex-chicago}
+\RequirePackage[autolang=hyphen]{biblatex-chicago}
 \addbibresource{master.bib}
 
 % FLOATS
@@ -29,7 +29,7 @@
     fileext=mux,
     listname={List of Music Examples},
     name={Music example},
-    placement={t},
+    placement={!t},
     within=chapter,
     chapterlistsgaps=off
 ]{musicexample}
@@ -38,7 +38,7 @@
     fileext=pox,
     listname={List of Poem Examples},
     name={Poem example},
-    placement={t},
+    placement={!t},
     within=chapter,
     chapterlistsgaps=off
 ]{poemexample}
@@ -47,7 +47,7 @@
     fileext=dia
     listname={List of Diagrams},
     name={Diagram},
-    placement={t},
+    placement={!t},
     within=chapter,
     chapterlistsgaps=off
 ]{diagram}
@@ -89,7 +89,7 @@
 % #3 file basename = label basename
 % #4 caption text
 \NewDocumentCommand{\@insertFloat}{ m m m m }{%
-    \begin{#1}[!t] % Position at top of page close to place in code
+    \begin{#1}
         \caption{#4}
         \label{#2:#3}
         \@includeFloatPDF{#3}
