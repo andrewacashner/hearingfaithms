@@ -1,40 +1,28 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{vcbook}[2018/05/21 Andrew Cashner's book on villancicos]
-
-\newif\ifdraft
-\draftfalse
-\DeclareOption{draft}{\drafttrue}
-
-\ProcessOptions\relax
-
-\ifdraft
-\LoadClass[12pt,oneside]{book}
-\else
 \LoadClass{book}
-\fi
 
-\RequirePackage{xparse}
+\RequirePackage{xparse} % Improved command programming
 
+% CUSTOM FORMAT AND COMMANDS
 \RequirePackage{vcbook-format}
 \RequirePackage{vcbook-macros}
 
-% TABLES
-
 % SECTION & TOC NUMBERING
-\setcounter{secnumdepth}{1}
-\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{1} % Don't number < subsections
+\setcounter{tocdepth}{2}    % Don't include < subsubsections in table of contents
 
 % PAGE NUMBERING
 % No number on part pages (use empty page style, not plain)
 \RequirePackage{etoolbox}
-\patchcmd{\part}
-{\thispagestyle{plain}}{\thispagestyle{empty}}{}{}
+\patchcmd{\part} {\thispagestyle{plain}} {\thispagestyle{empty}}{}{}
 
 % BIBLIOGRAPHY
 \RequirePackage[autolang=none]{biblatex-chicago}
 \addbibresource{master.bib}
 
 % FLOATS
+% Create new environments for music examples, poem examples, diagrams
 \RequirePackage{newfloat}
 
 \DeclareFloatingEnvironment[
@@ -64,15 +52,10 @@
     chapterlistsgaps=off
 ]{diagram}
 
-
 % FLOAT FORMATTING AND FILE INCLUSION
-\NewDocumentEnvironment{floatContents}{}
-    {\begin{center}}
-    {\end{center}}
-
 % All floats are compiled via Makefile from separate LaTeX or Lilypond
-% files, cropped, and placed in subdirectories under build/
-% So we just need to include the PDF
+% files, cropped, and placed in subdirectories under build/ (found automatically
+% via \graphicspath; so we just need to include the PDF
 \RequirePackage{graphicx}
 \graphicspath{ 
     {build/diagrams/}
@@ -83,37 +66,39 @@
 }
 \RequirePackage{adjustbox}
 
+% Internal commands
+\NewDocumentEnvironment{floatContents}{}
+    {\begin{center}}
+    {\end{center}}
+
 % Adjust float image to no larger than full page with room for caption;
 % do not adjust if it already fits
 \NewDocumentCommand{\@includeFloatPDF}{ m }{%
-    \ifdraft
-        \fbox{Insert float \detokenize{#1}}\centering
-    \else
-        \begin{floatContents}
-            \adjincludegraphics[ 
+    \begin{floatContents}
+        \adjincludegraphics[ 
             max width=\linewidth,
             max height=\dimexpr\textheight-5\baselineskip,
             keepaspectratio
-            ]{#1}%
-        \end{floatContents}
-    \fi
+        ]{#1}%
+    \end{floatContents}%
 }
 
+% Generic command for inserting any float 
+% #1 name of float type (defined above)
+% #2 abbreviation used in label (e.g., tab, mux)
+% #3 file basename = label basename
+% #4 caption text
 \NewDocumentCommand{\@insertFloat}{ m m m m }{%
-    \begingroup
-    \def\@id{\detokenize{#3}}
-    \begin{#1}[!t]
+    \begin{#1}[!t] % Position at top of page close to place in code
         \caption{#4}
-        \label{#2:\@id}
-        \ifdraft
-            \fbox{Insert #1 (\@id)}\centering
-        \else
-            \@includeFloatPDF{\@id}
-        \fi
-    \end{#1}
-    \endgroup
+        \label{#2:#3}
+        \@includeFloatPDF{#3}
+    \end{#1}%
 }
 
+% User commands
+% #1 file basename = label basename
+% #2 caption text
 \NewDocumentCommand{\insertTable}{ m m }{%
     \@insertFloat{table}{tab}{#1}{#2}%
 }
@@ -130,7 +115,7 @@
     \@insertFloat{diagram}{dia}{#1}{#2}%
 }
 
-
+% CHAPTER INCLUSION
 \NewDocumentCommand{\includeChapter}{ m }{%
     \include{chapters/#1}%
 }
@@ -155,6 +140,7 @@
 {\end{tabular}
  \end{quotepoemContents}}
 
+ % Poem that goes over one page
 \RequirePackage{longtable}
 \NewDocumentEnvironment{quotepoemlong}{}
 {\begin{quotepoemContents}
@@ -162,7 +148,7 @@
 {\end{longtable}
  \end{quotepoemContents}}
 
-% Epigraphs
+% EPIGRAPHS
 \NewDocumentCommand{\epigraphTable}{ m }{%
     \begin{tabular}{l}
         #1
@@ -187,6 +173,7 @@
     pdfpagelabels
 ]{hyperref}
 
+% PDF metadata
 \hypersetup{%
     pdfauthor={Andrew A. Cashner},
     pdftitle={Hearing Faith (DRAFT)},
@@ -195,11 +182,12 @@
     Spanish literature: poetry (low Baroque);
     Villancicos (part songs): history and interpretation}
 }
+% PDF bookmarks
+% Use simpler formatting in bookmarks 
 \pdfstringdefDisableCommands{%
     \def\quoted#1{"#1"}
     \def\wtitle#1{\emph{#1}}
 }
-
 \RequirePackage[numbered]{bookmark}
 
 % AUTOMATIC CROSS-REFERENCES (must be loaded after hyperref)
@@ -207,11 +195,5 @@
 \crefname{musicexample}{music example}{music examples}
 \crefname{poemexample}{poem example}{poem examples}
 \crefname{diagram}{diagram}{diagrams}
-
-% \let\oldtableofcontents\tableofcontents
-% \RenewDocumentCommand{\tableofcontents}{}{%
-%     \hypersetup{pageanchor=true}
-%     \oldtableofcontents
-% }
 
 \endinput

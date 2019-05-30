@@ -82,16 +82,16 @@ $(aux-output) : $(main) $(tex-config) $(tex-input) | $(dirs) $(floats)
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
 aux/%.pdf : diagrams/%.tex 
-	$(dolatex) -silent $<
+	$(dolatex) $<
 
 aux/%.pdf : poem-examples/%.tex 
-	$(dolatex) -silent $<
+	$(dolatex) $<
 
 aux/%.pdf : tables/%.tex 
-	$(dolatex) -silent $<
+	$(dolatex) $<
 
 aux/%.pdf : music-examples/%.ly 
-	lilypond -I $(ly-dir) -o aux/$* --silent $< 
+	lilypond -I $(ly-dir) -o aux/$* $< 
 
 ### Crop and move float PDFs to build subdirectories
 $(foreach dir,$(build-pdf-dirs),$(dir)/%.pdf) : aux/%.pdf
