@@ -55,7 +55,7 @@ ly-dir		= $(HOME)/ly
 ly-config	= $(wildcard $(ly-dir)/*.ly) # replace with local files
 
 # COMMANDS
-dolatex = latexmk -pdfxe -outdir=aux
+dolatex = latexmk -pdfxe -outdir=aux -silent
 quiet   = &>/dev/null &
 
 #************************************************************************
@@ -91,7 +91,7 @@ aux/%.pdf : tables/%.tex
 	$(dolatex) $<
 
 aux/%.pdf : music-examples/%.ly 
-	lilypond -I $(ly-dir) -o aux/$* $< 
+	lilypond -I $(ly-dir) --silent -o aux/$* $< 
 
 ### Crop and move float PDFs to build subdirectories
 $(foreach dir,$(build-pdf-dirs),$(dir)/%.pdf) : aux/%.pdf
