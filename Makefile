@@ -77,8 +77,6 @@ $(pdf-output) : $(aux-output)
 $(aux-output) : $(main) $(tex-config) $(tex-input) | $(dirs) $(floats)
 	$(dolatex) $<
 
-.SECONDARY : $(aux-output)
-
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
 aux/%.pdf : diagrams/%.tex 
