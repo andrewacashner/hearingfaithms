@@ -55,7 +55,9 @@ ly-dir		= $(HOME)/ly
 ly-config	= $(wildcard $(ly-dir)/*.ly) # replace with local files
 
 # COMMANDS
-dolatex = latexmk -pdfxe -outdir=aux -silent
+dolatex = latexmk -pdfxe -outdir=aux
+dosublatex = $(dolatex) -silent
+dolilypond = lilypond -I $(ly-dir) --silent
 quiet   = &>/dev/null &
 
 #************************************************************************
@@ -80,16 +82,16 @@ $(aux-output) : $(main) $(tex-config) $(tex-input) | $(dirs) $(floats)
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
 aux/%.pdf : diagrams/%.tex 
-	$(dolatex) $<
+	$(dosublatex) $<
 
 aux/%.pdf : poem-examples/%.tex 
-	$(dolatex) $<
+	$(dosublatex) $<
 
 aux/%.pdf : tables/%.tex 
-	$(dolatex) $<
+	$(dosublatex) $<
 
 aux/%.pdf : music-examples/%.ly 
-	lilypond -I $(ly-dir) --silent -o aux/$* $< 
+	$(dolilypond) -o aux/$* $<
 
 ### Crop and move float PDFs to build subdirectories
 $(foreach dir,$(build-pdf-dirs),$(dir)/%.pdf) : aux/%.pdf
