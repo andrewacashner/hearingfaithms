@@ -3,6 +3,7 @@
 \LoadClass{book}
 
 \RequirePackage{xparse} % Improved command programming
+\NewDocumentCommand{\thebooktitle}{}{Hearing Faith}
 
 % CUSTOM FORMAT AND COMMANDS
 \RequirePackage{vcbook-format}
@@ -16,6 +17,17 @@
 % No number on part pages (use empty page style, not plain)
 \RequirePackage{etoolbox}
 \patchcmd{\part} {\thispagestyle{plain}} {\thispagestyle{empty}}{}{}
+
+% PAGE HEADINGS
+\RequirePackage{titleps}
+\newpagestyle{vcbook}{
+    \sethead
+    [\textsc{\thebooktitle}][][] % book title on left
+    {}{}{\chaptertitle}          % chapter title on right
+    \setfoot{}{\thepage}{}       % page number centered at bottom
+}
+\pagestyle{vcbook}
+
 
 % BIBLIOGRAPHY
 \RequirePackage[autolang=hyphen]{biblatex-chicago}
