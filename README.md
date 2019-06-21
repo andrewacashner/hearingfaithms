@@ -13,7 +13,6 @@
 - GNU Make and command-line utilities 
   (I am using (Fedora 30)[https://getfedora.org/])
 - (Brill font)[https://brill.com/page/1228?lang=en]
-- (Bravura music font)[https://www.smufl.org/fonts/]
 - (My Lilypond repository `ly`)[https://bitbucket.org/andrewacashner/ly.git]
 
 
