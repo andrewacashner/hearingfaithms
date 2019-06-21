@@ -101,7 +101,7 @@
 % #3 file basename = label basename
 % #4 caption text
 \NewDocumentCommand{\@insertFloat}{ m m m m }{%
-    \begin{#1}
+    \begin{#1}[!t]
         \caption{#4}
         \label{#2:#3}
         \@includeFloatPDF{#3}
