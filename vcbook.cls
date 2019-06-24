@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{vcbook}[2018/05/21 Andrew Cashner's book on villancicos]
+\ProvidesClass{vcbook}[2019/06/24 Andrew Cashner's book on villancicos]
 \LoadClass{book}
 
 \RequirePackage{xparse} % Improved command programming
@@ -11,7 +11,7 @@
 
 % SECTION & TOC NUMBERING
 \setcounter{secnumdepth}{1} % Don't number < subsections
-\setcounter{tocdepth}{2}    % Don't include < subsubsections in table of contents
+\setcounter{tocdepth}{2}    % Don't include < subsubsections in TOC
 
 % PAGE NUMBERING
 % No number on part pages (use empty page style, not plain)
@@ -30,8 +30,10 @@
 
 
 % BIBLIOGRAPHY
+% Chicago notes-bibliography style with automatic hyphenation for entries by
+% language
 \RequirePackage[autolang=hyphen]{biblatex-chicago}
-\addbibresource{master.bib}
+\addbibresource{master.bib} % My bibliography
 
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
@@ -41,7 +43,7 @@
     fileext=mux,
     listname={List of Music Examples},
     name={Music example},
-    placement={!t},
+    placement={t},
     within=chapter,
     chapterlistsgaps=off
 ]{musicexample}
@@ -50,7 +52,7 @@
     fileext=pox,
     listname={List of Poem Examples},
     name={Poem example},
-    placement={!t},
+    placement={t},
     within=chapter,
     chapterlistsgaps=off
 ]{poemexample}
@@ -59,7 +61,7 @@
     fileext=dia
     listname={List of Diagrams},
     name={Diagram},
-    placement={!t},
+    placement={t},
     within=chapter,
     chapterlistsgaps=off
 ]{diagram}
@@ -188,24 +190,27 @@
 % PDF metadata
 \hypersetup{%
     pdfauthor={Andrew A. Cashner},
-    pdftitle={Hearing Faith (DRAFT)},
-    pdfsubject={Music: history and interpretation, Spain, Mexico, 17th cent.;
-    Religion: devotion, popular culture, Spain, Mexico, 17th cent.;
-    Spanish literature: poetry (low Baroque);
-    Villancicos (part songs): history and interpretation}
+    pdftitle={Hearing Faith: Music as Theology in the Spanish Empire (DRAFT)},
+    pdfsubject={%
+        Music: history and interpretation, Spain, Mexico, 17th cent.;
+        Religion: devotion, popular culture, Spain, Mexico, 17th cent.;
+        Spanish literature: poetry (low Baroque);
+        Villancicos (part songs): history and interpretation
+    }%
 }
 % PDF bookmarks
 % Use simpler formatting in bookmarks 
 \pdfstringdefDisableCommands{%
     \def\quoted#1{"#1"}
     \def\wtitle#1{\emph{#1}}
+    \def\term#1{\emph{#1}}
 }
 \RequirePackage[numbered]{bookmark}
 
 % AUTOMATIC CROSS-REFERENCES (must be loaded after hyperref)
 \RequirePackage[noabbrev]{cleveref}
-\crefname{musicexample}{music example}{music examples}
-\crefname{poemexample}{poem example}{poem examples}
-\crefname{diagram}{diagram}{diagrams}
+\crefname{musicexample} {music example} {music examples}
+\crefname{poemexample}  {poem example}  {poem examples}
+\crefname{diagram}      {diagram}       {diagrams}
 
 \endinput

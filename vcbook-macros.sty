@@ -7,15 +7,26 @@ Macros for semantic markup for Cashner villancico monograph]
 \RequirePackage{musicography}
 \RequirePackage{octave}
 
-\NewDocumentCommand{\range}     { m m } {#1.~#2}
-\NewDocumentCommand{\measure}   { m }   {\range{m}{#1}}
-\NewDocumentCommand{\measures}  { m }   {\range{mm}{#1}}
-\NewDocumentCommand{\poemline}  { m }   {\range{l}{#1}}
-\NewDocumentCommand{\poemlines} { m }   {\range{ll}{#1}}
-\NewDocumentCommand{\itemnum}   { m }   {\range{no}{#1}}
-\NewDocumentCommand{\pagenum}   { m }   {\range{p}{#1}}
-\NewDocumentCommand{\pagenums}  { m }   {\range{pp}{#1}}
+% RANGES
+% Range and number (e.g., m. 1 or mm. 2 for measures)
+% #1 abbreviation, #2 number
+\NewDocumentCommand{\range}{ m m }{#1.~#2}
 
+% Create configurable ranges, singular and plural
+% #1 text of command name (e.g., `measure')
+% #2 singular abbreviation (e.g., `m')
+% #3 plural abbreviation (e.g., `mm')
+\NewDocumentCommand{\@NewRange}{ m m m }{%
+    \expandafter\def\csname#1\endcsname##1{\range{#2}{##1}}% singular
+    \expandafter\def\csname#1s\endcsname##1{\range{#3}{##1}}% plural
+}
+\@NewRange{measure} {m} {mm}
+\@NewRange{poemline}{l} {ll}
+\@NewRange{pagenum} {p} {pp}
+\@NewRange{folio}   {f} {ff}
+\@NewRange{itemnum} {no}{nos}
+
+% OTHER SHORTHANDS: Symbols, spacing
 \NewDocumentCommand{\sv}        { m }   {s.v.~\mentioned{#1}}
 \NewDocumentCommand{\speaker}   { m }   {\textsc{#1}: }
 \NewDocumentCommand{\et}        {}      {\&}
