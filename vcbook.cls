@@ -1,33 +1,44 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{vcbook}[2019/06/24 Andrew Cashner's book on villancicos]
-\LoadClass{book}
-
-\RequirePackage{xparse} % Improved command programming
-\NewDocumentCommand{\thebooktitle}{}{Hearing Faith}
+\ProvidesClass{vcbook}[2019/06/24 
+Andrew Cashner's book on villancicos, typescript style text with camera-ready
+floats]
+\LoadClass[12pt]{memoir}
 
 % CUSTOM FORMAT AND COMMANDS
-\RequirePackage{vcbook-format}
+\RequirePackage{xparse} % Improved command programming
 \RequirePackage{vcbook-macros}
+\NewDocumentCommand{\thebooktitle}{}{Hearing Faith}
+
+\setlrmarginsandblock{1in}{1in}{*}
+\setulmarginsandblock{1in}{1in}{*}
+\checkandfixthelayout
+
+\newlength{\floatwidth}
+\newlength{\floatheight}
+\setlength{\floatwidth}{12.5cm}
+\setlength{\floatheight}{15cm}
+
+\frenchspacing
+\raggedbottom
+\feetbelowfloat
+\DoubleSpacing
+\pagestyle{plain}
+
+\RequirePackage{fontspec}
+\setmainfont{Brill}
+
+\RequirePackage{url}
+\urlstyle{same}
+
+\RequirePackage{microtype}
+
+\RequirePackage{polyglossia}
+\setdefaultlanguage[variant=american]{english}
+\setotherlanguage{spanish}
 
 % SECTION & TOC NUMBERING
 \setcounter{secnumdepth}{1} % Don't number < subsections
 \setcounter{tocdepth}{2}    % Don't include < subsubsections in TOC
-
-% PAGE NUMBERING
-% No number on part pages (use empty page style, not plain)
-\RequirePackage{etoolbox}
-\patchcmd{\part} {\thispagestyle{plain}} {\thispagestyle{empty}}{}{}
-
-% PAGE HEADINGS
-\RequirePackage{titleps}
-\newpagestyle{vcbook}{
-    \sethead
-    [\textsc{\thebooktitle}][][] % book title on left
-    {}{}{\chaptertitle}          % chapter title on right
-    \setfoot{}{\thepage}{}       % page number centered at bottom
-}
-\pagestyle{vcbook}
-
 
 % BIBLIOGRAPHY
 % Chicago notes-bibliography style with automatic hyphenation for entries by
@@ -35,36 +46,30 @@
 \RequirePackage[autolang=hyphen]{biblatex-chicago}
 \addbibresource{master.bib} % My bibliography
 
+\footmarkstyle{#1.\,}
+
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
 \RequirePackage{newfloat}
+\NewDocumentCommand{\NewFloatAndList}{ m m m m m }{%
+    \def\env{#1} 
+    \def\ext{#2} 
+    \def\labelname{#3}
+    \def\listcmd{#4} 
+    \def\listname{#5}
+    \newfloat[chapter]{\env}{\ext}{\labelname}
+    \newlistof{\listcmd}{\ext}{\listname}
+    \newlistentry{\env}{\ext}{0}
+}
 
-\DeclareFloatingEnvironment[
-    fileext=mux,
-    listname={List of Music Examples},
-    name={Music example},
-    placement={t},
-    within=chapter,
-    chapterlistsgaps=off
-]{musicexample}
+\NewFloatAndList{musicexample}{mux}{Music example}
+{listofmusicexamples}{List of Music Examples}
 
-\DeclareFloatingEnvironment[
-    fileext=pox,
-    listname={List of Poem Examples},
-    name={Poem example},
-    placement={t},
-    within=chapter,
-    chapterlistsgaps=off
-]{poemexample}
+\NewFloatAndList{poemexample}{pox}{Poem example}
+{listofpoemexamples}{List of Poem Examples}
 
-\DeclareFloatingEnvironment[
-    fileext=dia
-    listname={List of Diagrams},
-    name={Diagram},
-    placement={t},
-    within=chapter,
-    chapterlistsgaps=off
-]{diagram}
+\NewFloatAndList{diagram}{dia}{Diagram}
+{listofdiagrams}{List of Diagrams}
 
 % FLOAT FORMATTING AND FILE INCLUSION
 % All floats are compiled via Makefile from separate LaTeX or Lilypond
@@ -90,8 +95,8 @@
 \NewDocumentCommand{\@includeFloatPDF}{ m }{%
     \begin{floatContents}
         \adjincludegraphics[ 
-            max width=\linewidth,
-            max height=\dimexpr\textheight-5\baselineskip,
+            max width=\floatwidth,
+            max height=\floatheight,
             keepaspectratio
         ]{#1}%
     \end{floatContents}%
@@ -161,25 +166,6 @@
  \begin{longtable}{ll}}
 {\end{longtable}
  \end{quotepoemContents}}
-
-% EPIGRAPHS
-\NewDocumentCommand{\epigraphTable}{ m }{%
-    \begin{tabular}{l}
-        #1
-    \end{tabular}%
-}
-\NewDocumentCommand{\epigraphTranslation}{ m m m }{%
-    \begin{flushright}
-        \begin{tabular}{l}
-            {\itshape\epigraphTable{#1}}\tabularnewline
-            \addlinespace
-            \epigraphTable{#2}\tabularnewline
-            \addlinespace 
-            \epigraphTable{---#3}
-        \end{tabular}
-    \end{flushright}
-    \bigskip
-}
 
 % HYPERLINKS
 \RequirePackage[
