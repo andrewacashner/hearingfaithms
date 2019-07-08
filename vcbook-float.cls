@@ -1,7 +1,8 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{vcbook-float}[2019/05/29 
 Class for standalone, camera-ready floats for Cashner villancico monograph]
-\LoadClass{article}
+\LoadClass[letterpaper,12pt]{article}
+\AtBeginDocument{\footnotesize}
 
 % Load different packages and commands depending on what kind of float we are
 % making
@@ -22,26 +23,23 @@ Class for standalone, camera-ready floats for Cashner villancico monograph]
 
 \ProcessOptions\relax
 
-% SIZE OF TYPE BLOCK
-\RequirePackage[
-    textwidth=12.5cm,
-    textheight=15cm
-]{geometry}
+% PAGE LAYOUT
+\RequirePackage[margin=1in]{geometry}
 
 % TYPEFACE
 \RequirePackage{fontspec}  % Use True-Type Unicode font
 \setmainfont{Brill}
-
 \RequirePackage{mathastext} % Use same font for math-mode numbers
 \RequirePackage{url}        % Same font for URLs
 \urlstyle{same} 
-
 \RequirePackage{microtype}  % Enable automatic fine typographic adjustments
+
 \frenchspacing              % Single space between sentences
 \raggedbottom               % Do not add space between paragraphs to fill page
 
-\RequirePackage[defaultlines=2,all]{nowidow} % Avoid widow lines
-\RequirePackage{fnpos}      % Keep footnotes at bottom of page
+% No indent, no page numbers, smaller text
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
 
 \RequirePackage{booktabs}   % Improved table formatting
 
@@ -59,11 +57,6 @@ Class for standalone, camera-ready floats for Cashner villancico monograph]
 \RequirePackage{polyglossia}
 \setdefaultlanguage[variant=american]{english}
 \setotherlanguage{spanish}
-
-
-% No indent, no page numbers, smaller text
-\setlength{\parindent}{0pt}
-\pagestyle{empty}
 
 % Import common custom commands
 \RequirePackage{vcbook-macros}

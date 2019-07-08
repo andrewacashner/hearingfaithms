@@ -1,75 +1,51 @@
-\NeedsTeXFormat{LaTeX2e}
+{\NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{vcbook}[2019/06/24 
 Andrew Cashner's book on villancicos, typescript style text with camera-ready
 floats]
-\LoadClass[12pt]{memoir}
+\LoadClass{manuscript} % Custom class for simple typescript style
 
-% CUSTOM FORMAT AND COMMANDS
-\RequirePackage{xparse} % Improved command programming
-\RequirePackage{vcbook-macros}
-\NewDocumentCommand{\thebooktitle}{}{Hearing Faith}
+% CUSTOM COMMANDS
+\RequirePackage{xparse}         % Improved command programming
+\RequirePackage{vcbook-macros}  % Custom package for semantic markup
 
-\setlrmarginsandblock{1in}{1in}{*}
-\setulmarginsandblock{1in}{1in}{*}
-\checkandfixthelayout
-
-\newlength{\floatwidth}
-\newlength{\floatheight}
-\setlength{\floatwidth}{12.5cm}
-\setlength{\floatheight}{15cm}
-
-\frenchspacing
-\raggedbottom
-\feetbelowfloat
-\DoubleSpacing
-\pagestyle{plain}
-
+% TYPEFACE
 \RequirePackage{fontspec}
 \setmainfont{Brill}
 
 \RequirePackage{url}
-\urlstyle{same}
+\urlstyle{same} % Same face for URLs
 
-\RequirePackage{microtype}
-
+% LANGUAGE, HYPHENATION
 \RequirePackage{polyglossia}
 \setdefaultlanguage[variant=american]{english}
 \setotherlanguage{spanish}
 
-% SECTION & TOC NUMBERING
-\setcounter{secnumdepth}{1} % Don't number < subsections
-\setcounter{tocdepth}{2}    % Don't include < subsubsections in TOC
-
 % BIBLIOGRAPHY
-% Chicago notes-bibliography style with automatic hyphenation for entries by
-% language
+% Chicago notes-bibliography style with automatic hyphenation by language
 \RequirePackage[autolang=hyphen]{biblatex-chicago}
 \addbibresource{master.bib} % My bibliography
 
-\footmarkstyle{#1.\,}
-
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
-\RequirePackage{newfloat}
-\NewDocumentCommand{\NewFloatAndList}{ m m m m m }{%
-    \def\env{#1} 
-    \def\ext{#2} 
-    \def\labelname{#3}
-    \def\listcmd{#4} 
-    \def\listname{#5}
-    \newfloat[chapter]{\env}{\ext}{\labelname}
-    \newlistof{\listcmd}{\ext}{\listname}
-    \newlistentry{\env}{\ext}{0}
+% Using commands from memoir class and cleveref
+\RequirePackage[noabbrev]{cleveref}
+
+% Command to create all needed elements for a new float type
+% #1 environment command name
+% #2 file extension for storing float info
+% #3 name of float to be used in labels
+% #5 string used in title of list of floats
+\NewDocumentCommand{\@NewFloatAndList}{ m m m m }{%
+    \newfloat[chapter]{#1}{#2}{#3}        % New float type
+    \newlistof{listof#1s}{#2}{List of #4} % New TOC list entry type
+    \newlistentry{#1}{#2}{0}              % Initialize TOC list
+    \crefname{#1}{#3}{#3s}                % New auto cross-references
 }
 
-\NewFloatAndList{musicexample}{mux}{Music example}
-{listofmusicexamples}{List of Music Examples}
-
-\NewFloatAndList{poemexample}{pox}{Poem example}
-{listofpoemexamples}{List of Poem Examples}
-
-\NewFloatAndList{diagram}{dia}{Diagram}
-{listofdiagrams}{List of Diagrams}
+% Create the float types
+\@NewFloatAndList{musicexample} {mux} {Music example} {Music Examples}
+\@NewFloatAndList{poemexample}  {pox} {Poem example}  {Poem Examples}
+\@NewFloatAndList{diagram}      {dia} {Diagram}       {Diagrams}
 
 % FLOAT FORMATTING AND FILE INCLUSION
 % All floats are compiled via Makefile from separate LaTeX or Lilypond
@@ -83,56 +59,50 @@ floats]
     {build/poem-examples/}
     {build/tables/}
 }
-\RequirePackage{adjustbox}
 
-% Internal commands
-\NewDocumentEnvironment{floatContents}{}
-    {\begin{center}}
-    {\end{center}}
+% Floats (tables, music examples, diagrams) have smaller textblock size so they
+% can be camera-ready for publication print layout
+\newlength{\floatwidth}
+\newlength{\floatheight}
+\setlength{\floatwidth}{\textwidth} % {12.5cm}
+\setlength{\floatheight}{\dimexpr\textheight-6\baselineskip} % {15cm}
 
 % Adjust float image to no larger than full page with room for caption;
 % do not adjust if it already fits
+\RequirePackage{adjustbox}
 \NewDocumentCommand{\@includeFloatPDF}{ m }{%
-    \begin{floatContents}
-        \adjincludegraphics[ 
-            max width=\floatwidth,
-            max height=\floatheight,
-            keepaspectratio
-        ]{#1}%
-    \end{floatContents}%
+    \centerfloat
+    \adjincludegraphics[ 
+    max width=\floatwidth,
+    max height=\floatheight,
+    keepaspectratio
+    ]{#1}%
 }
 
-% Generic command for inserting any float 
-% #1 name of float type (defined above)
-% #2 abbreviation used in label (e.g., tab, mux)
-% #3 file basename = label basename
-% #4 caption text
-\NewDocumentCommand{\@insertFloat}{ m m m m }{%
-    \begin{#1}[!t]
-        \caption{#4}
-        \label{#2:#3}
-        \@includeFloatPDF{#3}
-    \end{#1}%
+% Command to create commands for inserting float types
+% [!t] command ensures placement at top of page
+% #1 Command to insert float type (e.g., insertTable)
+% #2 name of float type (defined above)
+% #3 abbreviation used in label prefix (e.g., tab)
+\NewDocumentCommand{\@NewFloatCmd}{ m m m }{%
+    \expandafter\NewDocumentCommand\csname#1\endcsname{ m m }{%
+        % ##1 file basename = label basename
+        % ##2 caption text
+        \begin{#2}[!t]
+            \caption{##2}
+            \label{#3:##1}
+            \@includeFloatPDF{##1}
+        \end{#2}%
+    }%
 }
 
-% User commands
-% #1 file basename = label basename
-% #2 caption text
-\NewDocumentCommand{\insertTable}{ m m }{%
-    \@insertFloat{table}{tab}{#1}{#2}%
-}
-\NewDocumentCommand{\insertPoem}{ m m }{%
-    \@insertFloat{poemexample}{poem}{#1}{#2}%
-}
-\NewDocumentCommand{\insertMusic}{ m m }{%
-    \@insertFloat{musicexample}{mux}{#1}{#2}%
-}
-\NewDocumentCommand{\insertFigure}{ m m }{%
-    \@insertFloat{figure}{fig}{#1}{#2}%
-}
-\NewDocumentCommand{\insertDiagram}{ m m }{%
-    \@insertFloat{diagram}{dia}{#1}{#2}%
-}
+% Now create the commands
+\@NewFloatCmd{insertTable}   {table}        {tab}
+\@NewFloatCmd{insertPoem}    {poemexample}  {poem}
+\@NewFloatCmd{insertMusic}   {musicexample} {mux}
+\@NewFloatCmd{insertFigure}  {figure}       {fig}
+\@NewFloatCmd{insertDiagram} {diagram}      {dia}
+
 
 % CHAPTER INCLUSION
 \NewDocumentCommand{\includeChapter}{ m }{%
@@ -166,37 +136,5 @@ floats]
  \begin{longtable}{ll}}
 {\end{longtable}
  \end{quotepoemContents}}
-
-% HYPERLINKS
-\RequirePackage[
-    hidelinks,
-    pdfpagelabels
-]{hyperref}
-
-% PDF metadata
-\hypersetup{%
-    pdfauthor={Andrew A. Cashner},
-    pdftitle={Hearing Faith: Music as Theology in the Spanish Empire (DRAFT)},
-    pdfsubject={%
-        Music: history and interpretation, Spain, Mexico, 17th cent.;
-        Religion: devotion, popular culture, Spain, Mexico, 17th cent.;
-        Spanish literature: poetry (low Baroque);
-        Villancicos (part songs): history and interpretation
-    }%
-}
-% PDF bookmarks
-% Use simpler formatting in bookmarks 
-\pdfstringdefDisableCommands{%
-    \def\quoted#1{"#1"}
-    \def\wtitle#1{\emph{#1}}
-    \def\term#1{\emph{#1}}
-}
-\RequirePackage[numbered]{bookmark}
-
-% AUTOMATIC CROSS-REFERENCES (must be loaded after hyperref)
-\RequirePackage[noabbrev]{cleveref}
-\crefname{musicexample} {music example} {music examples}
-\crefname{poemexample}  {poem example}  {poem examples}
-\crefname{diagram}      {diagram}       {diagrams}
 
 \endinput

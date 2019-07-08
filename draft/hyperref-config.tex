@@ -1,0 +1,25 @@
+% HYPERLINKS
+\RequirePackage[
+    hidelinks,
+    pdfpagelabels
+]{hyperref}
+
+% PDF metadata
+\hypersetup{%
+    pdfauthor={Andrew A. Cashner},
+    pdftitle={Hearing Faith: Music as Theology in the Spanish Empire (DRAFT)},
+    pdfsubject={%
+        Music: history and interpretation, Spain, Mexico, 17th cent.;
+        Religion: devotion, popular culture, Spain, Mexico, 17th cent.;
+        Spanish literature: poetry (low Baroque);
+        Villancicos (part songs): history and interpretation
+    }%
+}
+% PDF bookmarks
+% Use simpler formatting in bookmarks 
+\pdfstringdefDisableCommands{%
+    \def\quoted#1{"#1"}
+    \def\wtitle#1{\emph{#1}}
+    \def\term#1{\emph{#1}}
+}
+
