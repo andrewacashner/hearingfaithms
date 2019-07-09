@@ -13,6 +13,8 @@
 - GNU Make and command-line utilities 
   (I am using (Fedora 30)[https://getfedora.org/])
 - (Brill font)[https://brill.com/page/1228?lang=en]
+- (Bravura font)[https://www.smufl.org/fonts/]
+- (My LaTeX repository `texmf`)[https://bitbucket.org/andrewacashner/texmf.git]
 - (My Lilypond repository `ly`)[https://bitbucket.org/andrewacashner/ly.git]
 
 
