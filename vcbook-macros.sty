@@ -30,11 +30,15 @@ Macros for semantic markup for Cashner villancico monograph]
 \NewDocumentCommand{\sv}        { m }   {s.v.~\mentioned{#1}}
 \NewDocumentCommand{\speaker}   { m }   {\textsc{#1}: }
 \NewDocumentCommand{\et}        {}      {\&}
-\NewDocumentCommand{\scripture} { m m } {#1~#2}
 \NewDocumentCommand{\circa}     { m }   {ca.~#1}
 \NewDocumentCommand{\tabitem}   {}      {\textbullet\enspace}
 \NewDocumentCommand{\tabindent} {}      {\hspace{1em}}
 \NewDocumentCommand{\strophe}   {}      {\tabindent}
+
+\RequirePackage[jerusalem]{bibleref}
+\NewDocumentCommand{\scripture} { m m } {%
+    \ibibleverse{#1}(#2)%
+}
 
 % Archival signature
 \NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} 
@@ -45,5 +49,6 @@ Macros for semantic markup for Cashner villancico monograph]
 % UNICODE MACROS
 \RenewDocumentCommand{\Dots}{}{\add{…}} % U+2026
 \NewDocumentCommand{\charAlpha}{}{α}
+
 
 \endinput
