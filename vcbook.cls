@@ -2,7 +2,17 @@
 \ProvidesClass{vcbook}[2019/06/24 
 Andrew Cashner's book on villancicos, typescript style text with camera-ready
 floats]
-\LoadClass{manuscript} % Custom class for simple typescript style
+
+\newif\ifmanuscript
+\manuscriptfalse
+\DeclareOption{ms}{\manuscripttrue}
+\ProcessOptions\relax
+
+\ifmanuscript
+\LoadClass{vcbook-manuscript} % Custom class for simple typescript style
+\else
+\LoadClass{memoir}
+\fi
 
 % CUSTOM COMMANDS
 \RequirePackage{xparse}         % Improved command programming

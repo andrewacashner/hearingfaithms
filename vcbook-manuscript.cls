@@ -1,8 +1,8 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{manuscript}[2019/07/08
+\ProvidesClass{vcbook-manuscript}[2019/07/08
 Simple typescript style for book manuscript draft]
 
-\LoadClass[letterpaper,12pt]{memoir}
+\LoadClass[letterpaper,12pt,oneside]{memoir}
 
 \newlength{\MSindent}
 \newlength{\MSmargin}
