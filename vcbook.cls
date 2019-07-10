@@ -14,9 +14,12 @@ floats]
 \LoadClass{memoir}
 \fi
 
+
 % CUSTOM COMMANDS
 \RequirePackage{xparse}         % Improved command programming
 \RequirePackage{vcbook-macros}  % Custom package for semantic markup
+
+\RequirePackage{memoir-subtitle} % Add subtitle to memoir class
 
 % TYPEFACE
 \RequirePackage{fontspec}
@@ -24,6 +27,7 @@ floats]
 
 \RequirePackage{url}
 \urlstyle{same} % Same face for URLs
+\RequirePackage{microtype}
 
 % LANGUAGE, HYPHENATION
 \RequirePackage{polyglossia}
