@@ -84,13 +84,13 @@ floats]
 % Adjust float image to no larger than full page with room for caption;
 % do not adjust if it already fits
 \RequirePackage{adjustbox}
-\NewDocumentCommand{\@includeFloatPDF}{ m }{%
+\NewDocumentCommand{\includeFloatPDF}{ O{\floatwidth} O{\floatheight} m }{%
     \centerfloat
     \adjincludegraphics[ 
-    max width=\floatwidth,
-    max height=\floatheight,
+    max width=#1,
+    max height=#2,
     keepaspectratio
-    ]{#1}%
+    ]{#3}%
 }
 
 % Command to create commands for inserting float types
@@ -105,7 +105,7 @@ floats]
         \begin{#2}[!t]
             \caption{##2}
             \label{#3:##1}
-            \@includeFloatPDF{##1}
+            \includeFloatPDF{##1}
         \end{#2}%
     }%
 }
