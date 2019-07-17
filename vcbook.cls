@@ -24,6 +24,7 @@ floats]
 % TYPEFACE
 \RequirePackage{fontspec}
 \setmainfont{Brill}
+\RequirePackage{mathastext}
 
 \RequirePackage{url}
 \urlstyle{same} % Same face for URLs
