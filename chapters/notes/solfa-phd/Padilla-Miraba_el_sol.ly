@@ -13,7 +13,7 @@
 
 \header {
   title		= "Miraba el sol el águila bella"
-  subtitle 	= "De Concepción."
+  subtitle 	= "De Concepción. A dúo."
   composer	= "JUAN GUTIÉRREZ DE PADILLA"
   dates		= "(c. 1590–1664)"
   source	= "“Villançicos dibinos, i umanos de diversos autores,” MEX-Pc:
@@ -39,7 +39,7 @@ MusicT = {
   \CantusMollis
   \MeterTriple
 
-  \Section "[INTRODUCCIÓN] a duo"
+  \Section "[INTRODUCCIÓN]"
   R1.
   r2 a1 
   g2 f1
@@ -55,9 +55,12 @@ MusicT = {
   \break
 
   % signum congruentiae: estribillo next
-  \Section "[ESTRIBILLO]"
-  r2 c'1~
-  c'2\color d'1\endcolor
+  \hide Staff.TimeSignature
+  \DoubleMark { \Segno }
+  { \Section "[ESTRIBILLO]" }
+  \time 3/2
+  r2 c'1~\color
+  c'2 d'1\endcolor
   c'2 bes1 
   a2 g1
   f2 g2. a4 
@@ -107,12 +110,14 @@ MusicT = {
   c'2 b1\endcolor
   c'2 f4( g4 a4 bes4)
   c'1.~
-  c'1.\fermata
-  \MiddleBar % \Fine
+  c'1.\fermata\Fine
+  \MiddleBar 
   \break
  
   % RESPONSION A4 del duo
-  \Section "RESPONSIÓN a 4 del duo"
+  \DoubleMark{}
+  {\Section "RESPONSIÓN a 4 del duo"}
+  \time 3/2
   r2 f'1~\color
   f'2 e'2 e'2~ 
   e'2 d'1\endcolor 
@@ -243,29 +248,29 @@ LyricsT = \lyricmode {
   su lim -- pio cri -- sol, 
 
   % ESTRIBILLO
-  en la sol -- fa mi -- re,
+  en __ la sol -- fa mi -- re,
   pues a -- gra -- cia -- da~en un pun -- to,~en
   un pun -- to se ve 
   con tan -- ta re -- mi -- fa -- sol,
   que so -- la a la luz de mi sol la
-  ad -- mi -- re de mi sol,
+  ad -- mi -- re de mi sol, __
   la ad -- mi -- re.
   A -- ve,  mi -- ra -- sol, A -- ve, 
   y la gra -- cia fue que~el mi -- la -- no __ nun -- ca,
   nun -- ca la mi -- re, nun -- ca la mi -- re,
   y|~e -- lla~al sol mi re, al sol, y la mi -- re, 
-  el sol, __ el sol, el __ sol.
+  el sol, __ el sol, el __ sol. __
 
   % RESPONSION
   A -- ve, mi -- ra -- sol, A -- ve, A -- ve, A -- ve, mi mi -- ra -- 
-  sol, A -- ve, y la gra -- cia fue, gra -- cia fue, y la gra -- cia
+  sol, __ A -- ve, y la gra -- cia fue, gra -- cia fue, y la gra -- cia
   que~el mi -- la -- no __ nun -- ca, nun -- ca, nun -- ca la mi -- re, nun -- ca,
-  nun -- ca la mi -- re __ y|~e -- lla~al sol mi re, y|~e -- lla~al sol mi -- re al
-  sol, y la mi -- re~el sol, y la mi -- re~el sol, el sol. __
+  nun -- ca la mi -- re __ y|~e -- lla~al sol mi -- re, __ y|~e -- lla~al sol mi -- re al
+  sol, __ y la mi -- re~el sol, y la mi -- re~el sol, el sol. __
 
   % COPLA 1
   \StanzaI
-  A~el cie -- lo su can -- to~a -- le -- gra pues que~el sol la  a  -- cri -- 
+  A~el cie -- lo su can -- to~a -- le -- gra pues que~el sol __ la  a  -- cri -- 
   so -- la,~a -- cri -- so -- la, ni~u -- na se mí -- ni -- ma so -- la, tu -- vo de la no -- ta
   ne -- gra, no -- ta ne -- gra, can -- ta -- ba~en dul -- ce be -- mol sin que~A -- 
   dán to -- no le de. Su lim -- pio cri -- sol,
