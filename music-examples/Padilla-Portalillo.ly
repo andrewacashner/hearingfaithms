@@ -224,7 +224,7 @@ LyricsSI = \lyricmode {
   en la glo -- ria, 
   en la glo -- ria de~un por -- ta -- li -- llo
   los za -- ga -- les se vuel -- ven ni -- ños
-  y~en -- to -- nos so -- no -- ros,
+  y|~en -- to -- nos so -- no -- ros,
   re -- pi -- ten a co -- ros, 
   en bai -- les lu -- ci -- dos,
   can -- ten las a -- ves, can -- ten al sol na -- ci -- do,
