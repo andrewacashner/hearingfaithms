@@ -29,6 +29,7 @@ floats]
 \RequirePackage{url}
 \urlstyle{same} % Same face for URLs
 \RequirePackage{microtype}
+\feetbelowfloat
 
 % LANGUAGE, HYPHENATION
 \RequirePackage{polyglossia}
