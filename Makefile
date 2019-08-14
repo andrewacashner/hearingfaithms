@@ -40,17 +40,17 @@ poem-src 	= $(wildcard poem-examples/*.tex)
 table-src 	= $(wildcard tables/*.tex)
 
 tex-input	= $(chapters) master.bib
-tex-floats	= $(dia-src) $(poem-src) $(table-src)
-ly-floats	= $(music-src)
+tex-floats	= $(dia-src) $(poem-src) $(table-src) 
+ly-floats	= $(music-src) 
 
 ## PDF outputs of compiling .tex and .ly files
 pdf-output	= $(addprefix build/,$(main:%.tex=%.pdf))
 aux-output	= $(addprefix aux/,$(main:%.tex=%.pdf))
-tex-float-pdfs	= $(addprefix build/,$(tex-floats:%.tex=%.pdf))
 ly-float-pdfs 	= $(addprefix build/,$(music-src:%.ly=%.pdf))
+tex-float-pdfs	= $(addprefix build/,$(tex-floats:%.tex=%.pdf))
 figures 	= $(addprefix build/,$(figure-src))
 
-floats 		= $(tex-float-pdfs) $(ly-float-pdfs) $(figures)
+floats 		= $(ly-float-pdfs) $(tex-float-pdfs) $(figures)
 
 ## Configuration files
 tex-config	= $(wildcard *.cls *.sty)
