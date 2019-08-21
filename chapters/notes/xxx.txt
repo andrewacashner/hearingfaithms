@@ -1,0 +1,456 @@
+chapters/intro.tex-    {Swadley:VillancicoPhD}
+chapters/intro.tex-    {ChavezBarcenas:PhD}
+chapters/intro.tex:    \citXXX[new Reichenberger]
+--
+chapters/intro.tex-    \Autocites
+chapters/intro.tex-    {Murata:Singing}
+chapters/intro.tex:    [\XXX]{Illari:Polychoral}
+--
+chapters/intro.tex-    {Stanford:Catalog}
+chapters/intro.tex-    {Padilla:1652ChristmasCD}.
+chapters/intro.tex:%    \XXX[Audio recordings of every numbered example of music and poetry in this
+--
+chapters/intro.tex-    [156, 165, 210]{Lorente:Porque}
+chapters/intro.tex-    [537]{Cerone:Melopeo}
+chapters/intro.tex:    [\XXX]{Cashner:WLSCM32}.
+--
+chapters/intro.tex-of Christmas, the poem says, are appropriate because in the Incarnation of
+chapters/intro.tex-Christ, \foreign{Dios se disfraza} (God masks himself).
+chapters/intro.tex:% XXX cite recording
+--
+chapters/intro.tex-historic ears, to the extent we can venture to do so.%
+chapters/intro.tex-    \Autocite{Burstyn:PeriodEar}
+chapters/intro.tex:% Ricouer etc? XXX
+--
+chapters/intro.tex-   {Torrente:VC-chapter}
+chapters/intro.tex-The technique was pioneered by Alonso de Ledesma in his \wtitle{Conceptos
+chapters/intro.tex:espirituales} of \XXX[1610].%
+chapters/intro.tex:    \citXXX[english dude]
+--
+chapters/intro.tex-Festival crowds heard villancicos in the public square in processions and
+chapters/intro.tex-mystery plays, especially on Corpus Christi.
+chapters/intro.tex:% XXX check WLSCM32, articles for repetition
+--
+chapters/intro.tex-Vocal parts could be doubled with reed instruments like dulcians and shawms
+chapters/intro.tex-(\term{chirimías}) and brass instruments like sackbuts (\term{sacabuches}).%
+chapters/intro.tex:    \citXXX[instrumentation, performance practice]
+--
+chapters/intro.tex-usually set this in relatively complex polyphony similar to what they would use
+chapters/intro.tex-for a motet.%
+chapters/intro.tex:    \citXXX[Torrente-estribillo-Reichenberger]
+--
+chapters/intro.tex-The tunes may also have been familiar if they were based on oral traditions for
+chapters/intro.tex-singing poetry to stock melodic formulas, especially in \term{romance} meter.%
+chapters/intro.tex:    \citXXX[romance sources]
+--
+chapters/intro.tex-into the created world by its divine Creator because they sing purely by nature
+chapters/intro.tex-rather than by reason, as humans do.%
+chapters/intro.tex:    \Autocite[\XXX]{LuisdeGranada:Simbolo}
+--
+chapters/intro.tex-{Gutiérrez de Padilla, \wtitle{Alto zagales de todo el ejido}
+chapters/intro.tex-(\sig{MEX-Pc}{Leg. 2/1}, Christmas 1653), estribillo: Imitation of castanets
+chapters/intro.tex:and tabor (or tambourine?)}  % XXX check and signature
+--
+chapters/intro.tex-archival records do not record payments to makers or players of these
+chapters/intro.tex-instruments, the way they do for shawm, dulcian, organ, and harp.%
+chapters/intro.tex:    \citXXX[evidence needed]
+--
+chapters/intro.tex-performance, and its calls could not be imitated out of context any more than
+chapters/intro.tex-someone could yell \quoted{Fire} in a crowded cathedral.%
+chapters/intro.tex:    \citXXX[external evidence]
+--
+chapters/intro.tex-\emph{about} the clarion; having the actual bugle call to would literally alarm
+chapters/intro.tex-people and the opportunity to use the instrument symbolically would be lost.%
+chapters/intro.tex:    \citXXX[real piece]
+--
+chapters/intro.tex-    On the symbolism of this instrument in contemporary Spanish drama, in which
+chapters/intro.tex-    \term{Clarín} was the name of a comic stock character, see
+chapters/intro.tex:    \citXXX{Damjanovic:Clarin}.
+--
+chapters/intro.tex-climaxed in the year this villancico was performed, as the French general
+chapters/intro.tex-Catinat scored a major victory against the allied powers at Marsaglia.%
+chapters/intro.tex:    \citXXX[history]
+--
+chapters/intro.tex-    {Rodriguez:Villancico}
+chapters/intro.tex-    {Sage:Instrumentum}
+chapters/intro.tex:%    \citXXX[Rodriguez, Sage, Rietbergen, Menache, etc]
+--
+chapters/intro.tex-\term{jácara}, \term{guarache}, \term{danza de espadas}, and
+chapters/intro.tex-\term{papalotillo}.%
+chapters/intro.tex:    \citXXX[sources]
+--
+chapters/intro.tex-\foreign{gulumbé, gulumbá} that tells us what African languages like Kikongo
+chapters/intro.tex-sounded like to a Spanish ear.%
+chapters/intro.tex:    \citXXX[al establo, other]
+--
+chapters/intro.tex-with military elements with origins in the Christian Kingdom of Kongo before
+chapters/intro.tex-the start of slavery.%
+chapters/intro.tex:    \citXXX[sources]
+--
+chapters/intro.tex-\scripture{Ps}{97:0}; \quoted{Come, let us worship and bow down},
+chapters/intro.tex-\scripture{Ps}{95:0}).
+chapters/intro.tex:% XXX scripture refs
+--
+chapters/intro.tex-heaven, where each syllable matches the start of a verse of Scripture
+chapters/intro.tex-pertaining to a particular virtue, and as a second ladder descending to
+chapters/intro.tex:hell\XXX[check], with each syllable denoting a particular vice.%
+--
+chapters/intro.tex-Irízar gives the first voice to a boy soprano, who sings down all the steps of
+chapters/intro.tex-the soft hexachord from \pitch{D}{5} (\term{la}) to \pitch{F}{4} (\term{ut}).
+chapters/intro.tex:% XXX check voice parts
+--
+chapters/intro.tex-The shift from the \quoted{altered} soft hexachord, with B flat, to the plain
+chapters/intro.tex-natural hexachord, symbolizes the movement of music from heaven to earth.
+chapters/intro.tex:% XXX other examples of cantus mollis for heaven
+--
+chapters/intro.tex-of various authors}, in which there is copied just the tenor part of a setting
+chapters/intro.tex-by Gutiérrez de Padilla, \wtitle{Miraba el sol el águila bella}.%
+chapters/intro.tex:    \citXXX[signature, check info, esp. attribution]
+--
+chapters/intro.tex-Here is a villancico with a text (for the estribillo and responsión) comprised
+chapters/intro.tex-almost entirely of solmization syllables: \foreign{Cuando mire al sol, el sol
+chapters/intro.tex:la mire} \XXX[etc, check].
+--
+chapters/intro.tex-\term{naturalis} on C; \term{MOL}, \term{mollis} on F; \term{DUR}, \term{durus}
+chapters/intro.tex-on G; \term{FIC}, \term{ficta} alteration}
+chapters/intro.tex:%}}}5 %XXX shorter caption?
+--
+chapters/intro.tex-without harming its eyes, and thus the eagle was a fitting symbol for Mary as
+chapters/intro.tex-Immaculate.%
+chapters/intro.tex:    \citXXX[sources eagle]
+chapters/intro.tex-That Mary was conceived without original sin was enforced as official dogma in
+chapters/intro.tex-Spain long before it received papal approval in the first Vatican Council in
+chapters/intro.tex:\XXX[18XX], and Puebla Cathedral was dedicated to Mary as Immaculate.
+--
+chapters/intro.tex-conceit through musical technique.
+chapters/intro.tex-To represent the eagle turning to the sun (and therefore Mary seeing the face
+chapters/intro.tex:of God\XXX[?]), Gutiérrez de Padilla has the Tenor shift from the soft
+--
+chapters/intro.tex-    {Dolar:Voice}
+chapters/intro.tex-    {Cavarero:Voice}
+chapters/intro.tex:    \citXXX[Feldman ed. vol.]
+--
+chapters/intro.tex-    {Johnston:Rhetorical}
+chapters/intro.tex-    {Yearsley:Buxtehude}
+chapters/intro.tex:    [\XXX]{Yearsley:BachCounterpoint}
+--
+chapters/intro.tex-\begin{Footnote} 
+chapters/intro.tex-    \sig{MEX-Mcen}{CSG.256}; edited in \autocite{Cashner:WLSCM32}.  
+chapters/intro.tex:    \Autocite{Favila:PhD} \citXXX[new favila art]
+--
+chapters/intro.tex-chapelmaster of Mexico City Cathedral from 1679.%
+chapters/intro.tex-    \Autocite{Koegel:Salazar} 
+chapters/intro.tex:    % XXX general reference to composer entries in DMEH
+--
+chapters/intro.tex-according to a printed sermon by Fray Andrés de San Miguel of the same city
+chapters/intro.tex-which he preached to Salazar and his brothers.%
+chapters/intro.tex:    \citXXX[san miguel sermon]
+chapters/intro.tex-Fray Andrés explicitly thanks Salazar for commissioning the sermon, and says
+chapters/intro.tex-they are gathered in the \quoted{church of the Incarnation}, possibly the
+chapters/intro.tex:Augustinian monastry in Puebla.\XXX[check]
+--
+chapters/intro.tex-    An important later source for this concept is the \wtitle{Spiritual
+chapters/intro.tex-    Hierarchy} attributed to Dionysius the Areopagite.
+chapters/intro.tex:    \citXXX[neoplatonism lit]
+--
+chapters/intro.tex-the Dominican friar Luis de Granada (known as Fray Luis in Spanish), one of the
+chapters/intro.tex-most widely read authors in the empire.%
+chapters/intro.tex:    \citXXX[readership]
+--
+chapters/intro.tex-    \autocite[48--50]{Irving:Colonial}.  
+chapters/intro.tex-    The book may be found in historical collections in Madrid, Barcelona, Mexico
+chapters/intro.tex:    City, and Puebla (two copies). % XXX sigla
+--
+chapters/intro.tex-as he would have heard at the Portuguese Royal Chapel as confessor to the
+chapters/intro.tex-queen.%
+chapters/intro.tex:    \citXXX[names of composers]
+--
+chapters/intro.tex-certain number of days of indulgence for each paragraph that anyone
+chapters/intro.tex-\quoted{read or heard read} (that is, had read to them).%
+chapters/intro.tex:    \citXXX[signature]
+--
+chapters/intro.tex-likes of Dieterich Buxtehude, which develops a motivic kernel through various
+chapters/intro.tex-sections and culminates in a fugue for the full organ.%
+chapters/intro.tex:    \citXXX[check dates, cite rhetorical analysis of buxtehude]
+chapters/faith-hearing.tex-    Poetry imprint, \sig{E-E}{Mús. 83-12}; \autocite{Grove:Ruiz}.
+chapters/faith-hearing.tex-\end{Footnote}
+chapters/faith-hearing.tex:% XXX sources on Ruiz, Encarnacion: who was audience at Encarnacion?
+--
+chapters/faith-hearing.tex-    understands or makes allowance for the point of view of the other}
+chapters/faith-hearing.tex-    (\autocite[\sv{dialogue}]{OED}).
+chapters/faith-hearing.tex:    See \autocite{MacGaffey:DialoguesDeaf}. % XXX read
+--
+chapters/faith-hearing.tex-create the capacity to perceive the church's teaching rightly and live
+chapters/faith-hearing.tex-accordingly.
+chapters/faith-hearing.tex:    \citXXX[sound studies]
+chapters/faith-hearing.tex-Devotional music might even be considered as a kind of prosthetic device to
+chapters/faith-hearing.tex-overcome the disability of the spiritually deaf.
+chapters/faith-hearing.tex:    \citXXX[disability studies]
+--
+chapters/faith-hearing.tex-without saying \foreign{Fe} (faith)---a faith that centers on the doctrine of the
+chapters/faith-hearing.tex-Eucharist.%
+chapters/faith-hearing.tex:    \Autocite[\poemline{\XXX}]{Calderon:Retiro}
+--
+chapters/faith-hearing.tex-\quoted{dramas of conversion} with the primary goal of teaching
+chapters/faith-hearing.tex-doctrine.
+chapters/faith-hearing.tex:    \citXXX[Wardropper, Parker, McKendrick]
+--
+chapters/faith-hearing.tex-Moreover, the play was performed in the context of a whole day of liturgical
+chapters/faith-hearing.tex-and processional music, including villancicos.%
+chapters/faith-hearing.tex:    \citXXX[sources for Corpus Christi 1634 music; villancicos from 1630s about
+--
+chapters/faith-hearing.tex-Irízar creates a steadily increasing sense of excitement through shifts of
+chapters/faith-hearing.tex-rhythmic motion and style.
+chapters/faith-hearing.tex:The setting of the opening phrase suggests a tone of \XXX[hushed awe]: the
+--
+chapters/faith-hearing.tex-    Compare, for example, the anonymous \term{Batalha} in \sig{P-BRad}{Ms.963},
+chapters/faith-hearing.tex-    \range{fol}{56}; \autocite{Araujo:Batalla}.  
+chapters/faith-hearing.tex:% XXX  specific points of comparison, with music example, to a batalla that
+--
+chapters/faith-hearing.tex-To recall the Jesuit formula, Irízar's estribillo seems more designed to
+chapters/faith-hearing.tex-delight, while the coplas provide more of an opportunity to teach.
+chapters/faith-hearing.tex:% XXX RLK audiences in Segovia?
+--
+chapters/faith-hearing.tex-devotion.%
+chapters/faith-hearing.tex-    \Autocite[See, for example][]{Robledo:MadridTonos}
+chapters/faith-hearing.tex:% XXX  article in Knighton/Torrente on chamber vs. tutti villancicos?  
+--
+chapters/faith-hearing.tex-harmonic language, a running bass part in the accompaniment, and a single
+chapters/faith-hearing.tex-affective manner throughout.
+chapters/faith-hearing.tex:% XXX  on \quoted{Italianization}?
+--
+chapters/faith-hearing.tex-recognized the dark--light symbolism in the notation.%
+chapters/faith-hearing.tex-    \Autocite[36]{Kendrick:Jeremiah}
+chapters/faith-hearing.tex:% XXX RLK more here
+--
+chapters/faith-hearing.tex-as interpreted by Thomas Aquinas; the same ideas are found in Fray Luis de
+chapters/faith-hearing.tex-Granada's \wtitle{Introduction to the Creed}.
+chapters/faith-hearing.tex:% XXX RLK anything specific to Segovia?
+--
+chapters/faith-hearing.tex-repulsion, this \quoted{concupiscible} part of the soul experienced three
+chapters/faith-hearing.tex-primary pairs of passions: love and hate, desire and fear, joy and sadness.
+chapters/faith-hearing.tex:% XXX   secondary on physiology of sensation
+--
+chapters/faith-hearing.tex-Council of Trent and first published in 1566.%
+chapters/faith-hearing.tex-    \Autocites
+chapters/faith-hearing.tex:    {Catholic:Catechismus1614} %XXX original ed?
+--
+chapters/faith-hearing.tex-In Spain, the Inquisition targeted people who claimed authority on the basis of
+chapters/faith-hearing.tex-sensory experience, especially women who advocated mystical prayer like Teresa
+chapters/faith-hearing.tex:of Ávila or Francisca de los Ángeles (burned at the stake in \XXX{15XX}).
+--
+chapters/faith-hearing.tex-    {Ahlgren:TeresaPolitics}
+chapters/faith-hearing.tex-    {Francisca:Inquisition}
+chapters/faith-hearing.tex:    [\range{ch}{6}, \XXX]{Schreiner:Certainty}
+--
+chapters/faith-hearing.tex-diabolical influence.
+chapters/faith-hearing.tex-But Juan's criticism did not reach the broader church (in fact it was censored
+chapters/faith-hearing.tex:in \XXX[some places]), and did little to stem the tide of Catholic arts in the
+--
+chapters/faith-hearing.tex-    {Bailey:Art}
+chapters/faith-hearing.tex-    {Fromont:DancingKingCongo}
+chapters/faith-hearing.tex:% XXX plus others
+--
+chapters/faith-hearing.tex-ritual.%
+chapters/faith-hearing.tex-    \Autocite[637]{Candelaria:Psalmodia}
+chapters/faith-hearing.tex:    \citXXX[spiritual conquest of Spain etc.; scolieri dancing]
+--
+chapters/faith-hearing.tex-enough linguists with sufficient knowledge of Náhuatl to verify that these
+chapters/faith-hearing.tex-songs were not in fact still invoking demonic powers.%
+chapters/faith-hearing.tex:    \citXXX[details]
+--
+chapters/faith-hearing.tex-\subsection{Laughing at the Deaf (Gutiérrez de Padilla, Puebla Cathedral)}
+chapters/faith-hearing.tex-
+chapters/faith-hearing.tex:% XXX  Add measure numbers for both after making editions and musical examples
+--
+chapters/faith-hearing.tex-simpleton---Gutiérrez de Padilla's villancico stages a parody of the
+chapters/faith-hearing.tex-question--answer practice of catechetical instruction.
+chapters/faith-hearing.tex:% XXX   examples from catalog of this type, or from Leon Marchante  
+--
+chapters/faith-hearing.tex-a harmonic form of descent when the Tiple I adds E flat---shifting further away
+chapters/faith-hearing.tex-from the \quoted{natural} into the \quoted{weak} realm of flats.
+chapters/faith-hearing.tex:% XXX  [@chafe?]  
+--
+chapters/faith-hearing.tex-    ablar a los mudos} (Madrid, 1620), cited and discussed in
+chapters/faith-hearing.tex-    \autocite{Plann:DeafEducationSpain}.  
+chapters/faith-hearing.tex:% XXX  more 
+chapters/padilla-voces.tex-\begin{Footnote}
+chapters/padilla-voces.tex-    \Autocites
+chapters/padilla-voces.tex:    [\XXX]{Navarro:Metrica}
+--
+chapters/padilla-voces.tex-    exactly with the music of the Altus I (G--B\fl{}--A--G--F):
+chapters/padilla-voces.tex-    \autocite[160]{Catholic:LiberUsualis1956}.
+chapters/padilla-voces.tex:% XXX confirm chant dialect in Puebla 
+--
+chapters/padilla-voces.tex-    {Augustine:Opera1555} 
+chapters/padilla-voces.tex-    [on Rv 1]{Lapide:Apocalypse1627}
+chapters/padilla-voces.tex:    %XXX don't cite Palafoxiana ex libris here; check Patrologia Latina instead
+--
+chapters/padilla-voces.tex-structure, a holdover from the form of the courtly villancicos of the sixteenth
+chapters/padilla-voces.tex-century.%
+chapters/padilla-voces.tex:    \Autocite{Navarro:Metrica} % XXX page no 
+--
+chapters/padilla-voces.tex-musicians who were priests (like Gutiérrez de Padilla) or men of religious orders
+chapters/padilla-voces.tex-(like Santiago), whose vow of celibacy precluded lineages of blood. 
+chapters/padilla-voces.tex:%XXX Jalón = clergy?
+--
+chapters/padilla-voces.tex-\begin{Footnote}
+chapters/padilla-voces.tex-    \Autocite{Koegel:Padilla}.    
+chapters/padilla-voces.tex:    % XXX confirm 
+--
+chapters/padilla-voces.tex-playing instruments and dancing in the round, in the light of the Holy Trinity
+chapters/padilla-voces.tex-(\cref{fig:Puebla-Ferrer-BMV}).
+chapters/padilla-voces.tex:% XXX ref al establo article if needed
+--
+chapters/padilla-voces.tex-just hear the good news announced by angels; they believed it and then
+chapters/padilla-voces.tex-\quoted{went and told everyone what they had seen and heard}
+chapters/padilla-voces.tex:(\scripture{Lk}{2:} \XXX).
+chapters/cererols-suspended.tex-There are no sources of Cererols's music original to Montserrat, because the
+chapters/cererols-suspended.tex-monastery library was burned by Napoleon's troops in 1811.%
+chapters/cererols-suspended.tex:    \citXXX[Montserrat history]
+--
+chapters/cererols-suspended.tex-    \Autocite{Cererols:MEM-VC}
+chapters/cererols-suspended.tex-The thirty-five extant villancicos outnumber the surviving output of many of
+chapters/cererols-suspended.tex:Cererols's contemporaries who may be better known today.\XXX[who?]
+--
+chapters/cererols-suspended.tex-music of a new creation will be based, forming the polyphonic \quoted{cadence}
+chapters/cererols-suspended.tex-of a new heavens and a new earth.%
+chapters/cererols-suspended.tex:    \citXXX[lit on new song]
+--
+chapters/cererols-suspended.tex-fact physically inscribed in every created thing as a natural law---is the
+chapters/cererols-suspended.tex-\quoted{wolf tone} of the Pythagorean comma.%
+chapters/cererols-suspended.tex:    \citXXX[temperament symbolism]
+--
+chapters/cererols-suspended.tex-patterns of consonance and dissonance that are best understood through the
+chapters/cererols-suspended.tex-technical details of species counterpoint.%
+chapters/cererols-suspended.tex:    \citXXX[on teaching of species cpt in Kircher and his time]
+--
+chapters/cererols-suspended.tex-Kepler, a Lutheran minister, had rejected his own theory after all because he
+chapters/cererols-suspended.tex-could not believe that God had made the world so unharmonious.%
+chapters/cererols-suspended.tex:    \citXXX[Hawking?]
+chapters/cererols-suspended.tex-Kircher actually cites Kepler's table of planetary distances in order to
+chapters/cererols-suspended.tex-reject it for the same reason.%
+chapters/cererols-suspended.tex:    \Autocite[\XXX]{Kircher:Musurgia}
+--
+chapters/cererols-suspended.tex-In terms of species counterpoint, the Alto (Sun) and Bass (Earth) move in
+chapters/cererols-suspended.tex-perfect first-species (note-for-note, all consonant) counterpoint.%
+chapters/cererols-suspended.tex:    \citXXX[Zarlino? for species cpt]
+--
+chapters/cererols-suspended.tex-or his fellow Roman Frescobaldi) on this organ is to contemplate what Olivier
+chapters/cererols-suspended.tex-Messiaen would later call \quoted{the charm of impossibilities}.%
+chapters/cererols-suspended.tex:    \citXXX[Messiaen technique 21]
+--
+chapters/cererols-suspended.tex-rhetorical structure to that of contemporary organ praeludia, and this makes
+chapters/cererols-suspended.tex-sense since the poem is an exhortation of the heavens.%
+chapters/cererols-suspended.tex:    \citXXX[rhetorical analysis]
+--
+chapters/cererols-suspended.tex-Family B descends from a recension by Manuel de León Marchante, who somewhat
+chapters/cererols-suspended.tex-simplified the earlier version.%
+chapters/cererols-suspended.tex:    \Autocite{LeonMarchante:Obras1733} %XXX on León Marchante
+--
+chapters/cererols-suspended.tex-using introductory romance sections and toward beginning directly with
+chapters/cererols-suspended.tex-the estribillo.%
+chapters/cererols-suspended.tex:    \citXXX[Torrente:estribillo in new Reichenberger book]
+--
+chapters/cererols-suspended.tex-S6 was sung twelve days later for Epiphany 1683 in Zaragoza in a setting by
+chapters/cererols-suspended.tex-Cáseda.
+chapters/cererols-suspended.tex:% XXX dates for the composers?
+chapters/cererols-suspended.tex-
+chapters/cererols-suspended.tex-Dallo y Lana later emigrated to Puebla and served as chapelmaster of Puebla
+chapters/cererols-suspended.tex:Cathedral in \XXX[years].%
+chapters/cererols-suspended.tex:    \citXXX[Puebla DRAE]
+--
+chapters/cererols-suspended.tex-the collection demonstrates that this was a global network of affiliated
+chapters/cererols-suspended.tex-composers.%
+chapters/cererols-suspended.tex:    \citXXX[SanchezGarza catalog]
+--
+chapters/cererols-suspended.tex-leader at that time, interim directory Juan de Navas, likely had access to the
+chapters/cererols-suspended.tex-original parts and imprint in the archive.%
+chapters/cererols-suspended.tex:    \citXXX[DRAE Royal chapel, Navas]
+--
+chapters/cererols-suspended.tex-    \footnote{Grateful acknowledgments to Cesar Favila for allowing me to view a
+chapters/cererols-suspended.tex-    scan of this source.}
+chapters/cererols-suspended.tex:%    XXX source, info, names
+--
+chapters/cererols-suspended.tex-and \quoted{Sra. S. Seçilia} respectively.
+chapters/cererols-suspended.tex-There is a second copy of the Alto part, copied in a different hand, with the
+chapters/cererols-suspended.tex:indication for the instrument \term{dulzaína}. %XXX what is?
+--
+chapters/cererols-suspended.tex-it could be used for almost any occasion (\cref{poem:Suspended-Ecuador}).
+chapters/cererols-suspended.tex-Additional lyrics have been added in a different hand above the first line of
+chapters/cererols-suspended.tex:lyric text. %XXX details
+chapters/zaragoza.tex-villancico composed by Pablo Bruna for four voices (SSAT) with accompaniment,
+chapters/zaragoza.tex-preserved in the archive of Girona Cathedral.%
+chapters/zaragoza.tex:    \citXXX[signature]
+--
+chapters/zaragoza.tex-each other in fugal imitation, in an evenly paced rhythmic pattern.
+chapters/zaragoza.tex-
+chapters/zaragoza.tex:% XXX check or remove measure nos
+--
+chapters/zaragoza.tex-Cerone calls rests \foreign{sospiros}, literally \quoted{sighs}, and their use
+chapters/zaragoza.tex-here creates a breathless intensity that fittingly portrays the soul in ardor.%
+chapters/zaragoza.tex:    \Autocite[\XXX]{Cerone:Melopeo}
+--
+chapters/zaragoza.tex-    The edition in Calahorra's article misplaces one of the fugal entries by
+chapters/zaragoza.tex-    two measures. 
+chapters/zaragoza.tex:    %XXX details, or save it for WLSCM
+--
+chapters/zaragoza.tex-observadas del metodo de alguns mestres en Gerona}.
+chapters/zaragoza.tex-\end{Footnote}
+chapters/zaragoza.tex:% XXX convert to bib entry
+--
+chapters/zaragoza.tex-(\cref{mux:Ambiela-Suban_las_voces-mudando}): compare Bruna \measure{6}
+chapters/zaragoza.tex-(B\fl--A--G--F\sh--G--F\sh) with Ambiela \measure{10} (F--E--D--C\sh--D--C\sh).
+chapters/zaragoza.tex:%XXX fix bar nos.
+--
+chapters/zaragoza.tex-Both amplify the opening phrase through the rhetorical technique of
+chapters/zaragoza.tex-\term{anaphora} by repeating this first phrase transposed up a third. 
+chapters/zaragoza.tex:%XXX check interval for Ambiela
+--
+chapters/zaragoza.tex-{Ambiela, \wtitle{Suban las voces}, estribillo: Compare Bruna,
+chapters/zaragoza.tex-\cref{mux:Bruna-Suban_las_voces-estribillo}}
+chapters/zaragoza.tex:% XXX bar numbers (and in example)
+--
+chapters/zaragoza.tex-pull-out-all-the-stops celebration for one of the highest feasts of the Spanish
+chapters/zaragoza.tex-church year.
+chapters/zaragoza.tex:% XXX are there examples of parodies where the mode is changed?
+--
+chapters/zaragoza.tex-Each copla is sung by a soloist and then leads into a repeat, not of the whole
+chapters/zaragoza.tex-estribillo, but only of a portion.
+chapters/zaragoza.tex:% XXX does Calahorra identify this?
+--
+chapters/zaragoza.tex-Álvaro Torrente argues that in some cases the estribillo may not have been
+chapters/zaragoza.tex-repeated at all.% etc
+chapters/zaragoza.tex:    \citXXX[Torrente:estribillo new]
+--
+chapters/zaragoza.tex-media---on the front of each, an engraved image including a brief motto,
+chapters/zaragoza.tex-usually in Latin and a Castilian poem; on the back, a prose explanation.
+chapters/zaragoza.tex:% XXX emblem 2ry literature
+--
+chapters/zaragoza.tex-al cielo} from the opening line, and it depends on the way early
+chapters/zaragoza.tex-modern Europeans understood the physics of fire.
+chapters/zaragoza.tex:% XXX 2ry lit
+--
+chapters/zaragoza.tex-performed frequently in the Puebla convent---a testament to the women's high
+chapters/zaragoza.tex-level of musical ability.%
+chapters/zaragoza.tex:    \citXXX[cesar]
+--
+chapters/zaragoza.tex-    Compare the similar openings of Miguel de Irízar's \wtitle{Qué música
+chapters/zaragoza.tex-    celestial}, and Jerónimo de Carrión's \wtitle{Qué destemplada armonía},
+chapters/zaragoza.tex:    both from Segovia Cathedral: \autocite[\XXX]{Cashner:PhD}.
+--
+chapters/zaragoza.tex-Vihuelas were almost certainly part of José de Cáseda's ensemble in Zaragoza,
+chapters/zaragoza.tex-since the instrument is mentioned frequently in the cathedral chapter acts.%
+chapters/zaragoza.tex:    \Autocite{Calahorra:Zaragoza2} % XXX details
+--
+chapters/zaragoza.tex-the cathedral and suggesting their use as well in the closely related musical
+chapters/zaragoza.tex-ensemble of the Convento de la Santísima Trinidad.%
+chapters/zaragoza.tex:    \Autocite[44]{PerezRuiz:Aportes} % XXX check, unreliable source
+--
+chapters/zaragoza.tex-%}}}4
+chapters/zaragoza.tex-
+chapters/zaragoza.tex:% XXX fix bar numbers
+--
+chapters/zaragoza.tex-blood are in this sacrament, cannot be grasped by sensation \add{neque sensu}
+chapters/zaragoza.tex-nor by intellect, but by faith alone, which rests on divine authority}.% 
+chapters/zaragoza.tex:    \citXXX[\wtitle{Summa theologica} III, question 75, article 1; 1859 ed.,
