@@ -34,6 +34,7 @@ floats]
 \RequirePackage{polyglossia}
 \setdefaultlanguage[variant=american]{english}
 \setotherlanguage{spanish}
+% \RequirePackage[spanish,american]{babel}
 
 % BIBLIOGRAPHY
 % Chicago notes-bibliography style with automatic hyphenation by language

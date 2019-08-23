@@ -59,7 +59,7 @@ ly-config	= $(wildcard $(ly-dir)/vcbook-*.ly)
 # TODO replace with local files
 
 # COMMANDS
-dolatex 	= latexmk -pdfxe -outdir=aux
+dolatex		= latexmk -pdfxe -outdir=aux
 dosublatex 	= $(dolatex) -silent
 dolilypond 	= lilypond -I $(ly-dir) --silent
 quiet   	= &>/dev/null &
