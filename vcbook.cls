@@ -5,8 +5,7 @@ floats]
 
 \newif\ifmanuscript
 \manuscriptfalse
-\DeclareOption{ms}{\manuscripttrue}
-\ProcessOptions\relax
+\DeclareOption{ms}{\manuscripttrue} \ProcessOptions\relax
 
 \ifmanuscript
 \LoadClass{vcbook-manuscript} % Custom class for simple typescript style
@@ -24,7 +23,7 @@ floats]
 % TYPEFACE
 \RequirePackage{fontspec}
 \setmainfont{Brill}
-\RequirePackage{mathastext}
+\RequirePackage{mathastext} % Use same font for math-mode numbers
 
 \RequirePackage{url}
 \urlstyle{same} % Same face for URLs
@@ -44,6 +43,17 @@ floats]
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
 % Using commands from memoir class and cleveref
+\RequirePackage{graphicx}
+\RequirePackage{adjustbox}
+\RequirePackage{quoting}
+\RequirePackage{longtable}
+
+\RequirePackage[hyperfootnotes=false]{hyperref}
+\pdfstringdefDisableCommands{%
+    \def\quoted#1{"#1"}%
+    \def\wtitle#1{"#1"}%
+    \def\term#1{#1}%
+}
 \RequirePackage[noabbrev]{cleveref}
 
 % Command to create all needed elements for a new float type
@@ -67,7 +77,6 @@ floats]
 % All floats are compiled via Makefile from separate LaTeX or Lilypond
 % files, cropped, and placed in subdirectories under build/ (found automatically
 % via \graphicspath; so we just need to include the PDF
-\RequirePackage{graphicx}
 \graphicspath{ 
     {build/diagrams/}
     {build/figures/}
@@ -85,7 +94,6 @@ floats]
 
 % Adjust float image to no larger than full page with room for caption;
 % do not adjust if it already fits
-\RequirePackage{adjustbox}
 \NewDocumentCommand{\includeFloatPDF}{ O{\floatwidth} O{\floatheight} m }{%
     \centerfloat
     \adjincludegraphics[ 
@@ -130,7 +138,6 @@ floats]
 
 % INLINE ENVIRONMENTS
 % Inline poems and translation in parallel columns
-\RequirePackage{quoting}
 \NewDocumentCommand{\quotepoemfont}{}{\small}
 
 \NewDocumentEnvironment{quotepoemContents}{}
@@ -146,11 +153,12 @@ floats]
  \end{quotepoemContents}}
 
  % Poem that goes over one page
-\RequirePackage{longtable}
 \NewDocumentEnvironment{quotepoemlong}{}
 {\begin{quotepoemContents}
  \begin{longtable}{ll}}
 {\end{longtable}
  \end{quotepoemContents}}
+
+\RequirePackage{hyperref}
 
 \endinput
