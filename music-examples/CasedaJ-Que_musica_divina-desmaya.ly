@@ -46,7 +46,7 @@ MusicSii = {
   | r2 c''2 c''2 
   | r2 bes'1\colorOne
   | r2 a'2. a'4 
-  | \ficta b'!2\CN \ficta b'!2 \ficta b'!2
+  | \ficta b'!2 \ficta b'!2 \ficta b'!2
 
   % m. 70
   | \ficta b'!1. 

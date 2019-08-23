@@ -24,7 +24,7 @@
 # DIRECTORIES
 #   Process in aux; Put results in build 
 #   Subdirectories in build match directory of source file
-build-pdf-dirs  := $(addprefix build/,diagrams music-examples poem-examples tables)
+build-pdf-dirs  := $(addprefix build/,diagrams poem-examples music-examples tables)
 dirs 		:= aux aux/chapters build $(build-pdf-dirs) build/figures
 
 # FILES
@@ -61,7 +61,7 @@ ly-config	= $(wildcard $(ly-dir)/vcbook-*.ly)
 # COMMANDS
 dolatex		= latexmk -pdfxe -outdir=aux
 dosublatex 	= $(dolatex) -silent
-dolilypond 	= lilypond -I $(ly-dir) --silent
+dolilypond 	= lilypond -O TeX-GS -I $(ly-dir) --silent
 quiet   	= &>/dev/null &
 
 #************************************************************************
@@ -78,14 +78,14 @@ $(dirs) :
 
 ### Build dirs and floats first; use pattern rule above for LaTeX compilation
 $(pdf-output) : $(aux-output)
-	mv $< $@
+	gs -o $@ -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress $<
 
 $(aux-output) : $(main) $(tex-config) $(tex-input) | $(dirs) $(floats)
 	$(dolatex) $<
 
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
-aux/%.pdf : diagrams/%.tex 
+aux/%.pdf : diagrams/%.tex | $(ly-float-pdfs)
 	$(dosublatex) $<
 
 aux/%.pdf : poem-examples/%.tex 

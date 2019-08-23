@@ -34,7 +34,6 @@ floats]
 \RequirePackage{polyglossia}
 \setdefaultlanguage[variant=american]{english}
 \setotherlanguage{spanish}
-% \RequirePackage[spanish,american]{babel}
 
 % BIBLIOGRAPHY
 % Chicago notes-bibliography style with automatic hyphenation by language
@@ -49,12 +48,6 @@ floats]
 \RequirePackage{quoting}
 \RequirePackage{longtable}
 
-\RequirePackage[hyperfootnotes=false]{hyperref}
-\pdfstringdefDisableCommands{%
-    \def\quoted#1{"#1"}%
-    \def\wtitle#1{"#1"}%
-    \def\term#1{#1}%
-}
 \RequirePackage[noabbrev]{cleveref}
 
 % Command to create all needed elements for a new float type
@@ -160,6 +153,5 @@ floats]
 {\end{longtable}
  \end{quotepoemContents}}
 
-\RequirePackage{hyperref}
 
 \endinput
