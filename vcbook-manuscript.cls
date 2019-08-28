@@ -11,17 +11,19 @@ Simple typescript style for book manuscript draft]
 
 \setlrmarginsandblock{\MSmargin}{\MSmargin}{*}
 \setulmarginsandblock{\MSmargin}{\MSmargin}{*}
-\checkandfixthelayout
+\setlength{\topskip}{1.6\topskip}
+\sloppybottom
 
-\pagestyle{plain}
 \frenchspacing
 \DoubleSpacing*
 \setlength{\ragrparindent}{\MSindent}
+\sloppy
 \raggedyright
 \raggedbottom
 \feetbelowfloat
-\sloppy
-\sloppybottom
+\checkandfixthelayout
+
+\pagestyle{plain}
 
 % Indent footnotes same as text, double space text and between notes
 \setlength{\footmarkwidth}{\MSindent}
