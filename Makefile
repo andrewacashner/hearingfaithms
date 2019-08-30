@@ -30,6 +30,7 @@ dirs 		:= aux aux/chapters build $(build-pdf-dirs) build/figures
 # FILES
 ## Main source and subfiles
 main		= main.tex
+final		= build/Cashner-Hearing_Faith.pdf
 chapters 	= $(wildcard chapters/*.tex)
 
 ## Sources and targets for included float files
@@ -66,25 +67,29 @@ quiet   	= &>/dev/null &
 
 #************************************************************************
 # RULES
-.PHONY : all proof view count clean reset
+.PHONY : all proof view view-proof count clean reset
 
 # Default target 
 ## Full document LaTeX->PDF
 all : $(pdf-output)
 
+proof : $(final)
+
 ### Create needed directories
 $(dirs) :
 	mkdir -p $(dirs)
 
-### Build dirs and floats first; use pattern rule above for LaTeX compilation
+### Clean up PDF fonts by postprocessing with Ghostscript
+$(final) : $(aux-output)
+	gs -o $@ -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress $<
+
 $(pdf-output) : $(aux-output)
 	cp $< $@
 
+### Build dirs and floats first; use pattern rule above for LaTeX compilation
 $(aux-output) : $(main) $(tex-config) $(tex-input) | $(dirs) $(floats)
 	$(dolatex) $<
 
-proof : $(aux-output)
-	gs -o $@ -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress $<
 
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories
@@ -113,6 +118,9 @@ build/figures/%.jpg : figures/%.jpg
 # VIEW
 view : all
 	xpdf $(pdf-output) &
+
+view-proof : proof
+	xpdf $(final) &
 
 # COUNT
 count : all
