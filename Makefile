@@ -66,7 +66,7 @@ quiet   	= &>/dev/null &
 
 #************************************************************************
 # RULES
-.PHONY : all view count clean reset
+.PHONY : all proof view count clean reset
 
 # Default target 
 ## Full document LaTeX->PDF
@@ -78,10 +78,13 @@ $(dirs) :
 
 ### Build dirs and floats first; use pattern rule above for LaTeX compilation
 $(pdf-output) : $(aux-output)
-	gs -o $@ -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress $<
+	cp $< $@
 
 $(aux-output) : $(main) $(tex-config) $(tex-input) | $(dirs) $(floats)
 	$(dolatex) $<
+
+proof : $(aux-output)
+	gs -o $@ -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress $<
 
 #************************************************************************
 ## Floats for inclusion as separate PDFs in subdirectories

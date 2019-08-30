@@ -23,7 +23,6 @@ floats]
 % TYPEFACE
 \RequirePackage{fontspec}
 \setmainfont{Brill}
-\RequirePackage{mathastext} % Use same font for math-mode numbers
 
 \RequirePackage{url}
 \urlstyle{same} % Same face for URLs
