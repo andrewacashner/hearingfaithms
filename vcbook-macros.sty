@@ -35,11 +35,8 @@ Macros for semantic markup for Cashner villancico monograph]
 \NewDocumentCommand{\tabindent} {}      {\hspace{1em}}
 \NewDocumentCommand{\strophe}   {}      {\tabindent}
 
-\RequirePackage[jerusalem]{bibleref}
-\setbooktitle{Ecclesiastes}{Eccl}
-\NewDocumentCommand{\scripture} { m m } {%
-    \ibibleverse{#1}(#2)%
-}
+\RequirePackage{bibleref-parse}
+\NewDocumentCommand{\scripture} { m } {\pbibleverse{#1}}
 
 % Archival signature
 \NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} 
