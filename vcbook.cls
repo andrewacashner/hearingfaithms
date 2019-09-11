@@ -39,6 +39,9 @@ floats]
 \RequirePackage[autolang=hyphen]{biblatex-chicago}
 \addbibresource{master.bib} % My bibliography
 
+% EPIGRAPH
+\setlength{\epigraphwidth}{0.4\textwidth}
+
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
 % Using commands from memoir class and cleveref
