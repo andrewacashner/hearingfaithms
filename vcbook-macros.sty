@@ -7,6 +7,11 @@ Macros for semantic markup for Cashner villancico monograph]
 \RequirePackage{musicography-unicode}
 \RequirePackage{octave}
 
+\RenewDocumentCommand{\musFigFont}{}{%
+    \smaller
+    \addfontfeatures{Numbers={Lining}}%
+}
+
 % RANGES
 % Range and number (e.g., m. 1 or mm. 2 for measures)
 % #1 abbreviation, #2 number

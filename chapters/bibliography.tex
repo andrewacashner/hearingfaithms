@@ -1,17 +1,16 @@
-\printbibliography[heading=bibintoc]
-\label{biblio}
+\chapter{Bibliography}
+\label{ch:biblio}
+
+\defbibfilter{primary}{keyword=primary or keyword=catalog}
+\defbibfilter{secondary}{not keyword=primary and not keyword=catalog} 
+
+\section{Primary Sources, Music Scores, and Catalogs}
+\printbibliography[heading=none,filter=primary]
+
+\section{Secondary Scholarship}
+\printbibliography[heading=none,filter=secondary]
+
 \endinput
 
-% CATALOGS
-%    \Autocites
-%    {BNE:VCs17C}
-%    {BNE:VCs18C}
-%    {UK:VCs}
-%    {US:VCs}
-%    {Codina:MontserratVCs}
-%    {Pedrell:BNC}
-%    {Stanford:Catalog}
-%    {LopezCalo:Segovia}
-%    {Bonastre:CanetCatalog}
- 
+
 

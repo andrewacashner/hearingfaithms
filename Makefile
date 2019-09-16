@@ -67,13 +67,13 @@ quiet   	= &>/dev/null &
 
 #************************************************************************
 # RULES
-.PHONY : all proof view view-proof count clean reset
+.PHONY : all draft view view-draft count clean reset
 
 # Default target 
 ## Full document LaTeX->PDF
-all : $(pdf-output)
+all : $(final)
 
-proof : $(final)
+draft: $(pdf-output)
 
 ### Create needed directories
 $(dirs) :
@@ -117,14 +117,14 @@ build/figures/%.jpg : figures/%.jpg
 #************************************************************************
 # VIEW
 view : all
-	xpdf $(pdf-output) &
-
-view-proof : proof
 	xpdf $(final) &
+
+view-draft : draft
+	xpdf $(pdf-output) &
 
 # COUNT
 count : all
-	pdftotext $(pdf-output) - | wc -w
+	pdftotext $(final) - | wc -w
 
 #************************************************************************
 # CLEANUP
