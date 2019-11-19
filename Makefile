@@ -55,7 +55,7 @@ floats 		= $(ly-float-pdfs) $(tex-float-pdfs) $(figures)
 
 ## Configuration files
 tex-config	= $(wildcard *.cls *.sty)
-ly-dir		= $(HOME)/ly
+ly-dir		= $(HOME)/lib/ly
 ly-config	= $(wildcard $(ly-dir)/vcbook-*.ly) 
 # TODO replace with local files
 
