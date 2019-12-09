@@ -117,10 +117,10 @@ build/figures/%.jpg : figures/%.jpg
 #************************************************************************
 # VIEW
 view : all
-	xpdf $(final) &
+	evince $(final) &
 
 view-draft : draft
-	xpdf $(pdf-output) &
+	evince $(pdf-output) &
 
 # COUNT
 count : all

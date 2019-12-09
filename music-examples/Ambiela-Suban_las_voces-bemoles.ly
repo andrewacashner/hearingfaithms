@@ -177,7 +177,7 @@ LyricsSIi = \lyricmode {
   -van 
   con be -- mo -- les blan -- dos,
   blan -- dos, 
-  con be -- mo -- les blan -- does que sus -- pen -- dan,
+  con be -- mo -- les blan -- dos que sus -- pen -- dan,
   tri -- na -- dos que sus -- pen -- dan:
 }
 
