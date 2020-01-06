@@ -33,10 +33,11 @@ bib		= tex/master.bib
 aux 		= aux
 aux_chapters	= $(aux)/chapters
 build 		= build
+aux_music	= $(aux)/music-examples
 music_out_dir	= $(build)/music-examples
 figures_dir	= $(build)/figures
-dirs		= $(aux) $(aux_chapters) $(build) \
-		  $(music_out_dir) $(figures_dir)
+dirs		= $(aux) $(aux_music) $(aux_chapters) \
+		  $(build) $(music_out_dir) $(figures_dir)
 
 # Main output
 main_out	= $(build)/Cashner-2020-Hearing_Faith.pdf
@@ -49,10 +50,11 @@ figures_out	= $(addprefix $(build)/,$(figures_in))
 
 # Temporary files
 main_aux	= $(addprefix $(aux)/,$(main_in:%.tex=%.pdf))
+music_exx_crop	= $(addprefix $(aux)/,$(ly_in:%.ly=%.cropped.pdf))
 
 
 # TARGETS and RULES
-.PHONY : all ly clean reset 
+.PHONY : all ly view clean reset 
 
 all : $(main_out)
 
@@ -65,25 +67,35 @@ $(main_aux) : $(main_in) $(tex_subfiles) $(tex_lib) $(bib) \
 
 # Copy and rename result to build dir
 $(main_out) : $(main_aux)
-	cp -u $< $@
+	cp $< $@
 
 # Compile Lilypond PDFs to music_exx dir
-$(music_exx_pdfs) : $(ly_in) $(ly_lib) | $(dirs)
+# - Lilypond can crop its own PDFs but to do so it generates intermediate
+#   *.cropped.png and *.cropped.pdf.
+# - It can route output to a directory but only if the extension is left off and
+#   only if relative includes are enabled.
+$(music_exx_pdfs) : $(music_exx_crop)
+	cp $< $@
 
-$(music_out_dir)/%.pdf : %.pdf
-	cp -u $< $@
+$(music_exx_crop) : $(ly_in) $(ly_lib) | $(dirs)
 
-%.pdf : $(ly_in_dir)/%.ly 
-	lilypond -I ly $<
+$(aux_music)/%.cropped.pdf : $(ly_in_dir)/%.ly 
+	lilypond -I $(PWD)/ly -dcrop -drelative-includes \
+	    -o $(aux_music)/$* $<
 
 # Just copy the figures
 $(figures_out) : $(figures_in)
-	cp -u $< $@
+
+build/figures/%.jpg : figures/%.jpg
+	cp $< $@
 
 # Make needed directories first
 $(dirs) :
 	mkdir -p $(dirs)
 
+# View output (and suppress console junk messages)
+view : all
+	evince $(main_out) &> /dev/null &
 
 # Clean up: clean removes aux, reset removes aux and build
 clean : 

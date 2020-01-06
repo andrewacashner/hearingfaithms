@@ -3,6 +3,8 @@
 Andrew Cashner's book on villancicos for Brill]
 % Compile with XeLaTeX
 
+% Pass on any options to the class
+\DeclareOption*{\PassOptionsToClass{\CurrentOption}{memoir}}
 \ProcessOptions\relax
 \LoadClass{memoir}
 
