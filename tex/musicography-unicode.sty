@@ -1,0 +1,90 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{tex/musicography-unicode}[2020/02/10
+    Symbols for Unicode music writing using xelatex and lualatex]
+
+\@ifpackageloaded{musicography}{%
+    \PackageError{musicography}
+    {`Musicography' and `musicography-unicode' cannot be used
+    together}
+    {You must choose one or the other.}
+}
+\RequirePackage{xparse}
+\RequirePackage{fontspec}
+\RequirePackage{relsize}
+
+\newfontfamily{\musFont}{Bravura}
+\let\musNumFont\musFont
+\NewDocumentCommand{\musSymbol}{ O{0.4ex} m }{%
+    \kern0.5pt\raisebox{#1}{\musFont #2}%
+}
+\NewDocumentCommand{\musSymbolMeter}{ m }{%
+    \musSymbol[0.8ex]{\larger[1.5]#1}%
+}
+
+\NewDocumentCommand{\musFlat}       {}{\musSymbol{}} % U+E260
+\NewDocumentCommand{\musNatural}    {}{\musSymbol{}} % U+E261
+\NewDocumentCommand{\musSharp}      {}{\musSymbol[0.7ex]{}} % U+E262
+\NewDocumentCommand{\musDoubleSharp}{}{\musSymbol[0.7ex]{}} % U+E263
+\NewDocumentCommand{\musDoubleFlat} {}{\musSymbol{}} % U+E264
+
+\@ifpackageloaded{tex/semantic-markup}{%
+    \RenewDocumentCommand{\fl}{}{\musFlat}
+    \RenewDocumentCommand{\sh}{}{\musSharp}
+    \RenewDocumentCommand{\na}{}{\musNatural}
+}{%
+    \NewDocumentCommand{\fl}{}{\musFlat}
+    \NewDocumentCommand{\sh}{}{\musSharp}
+    \NewDocumentCommand{\na}{}{\musNatural}
+}
+
+% Command to stack numerals for metrical symbols or figured bass
+% Takes any number of space-separated arguments and stacks them vertically
+\RequirePackage{stackengine}
+\NewDocumentCommand{\musStack}{ O{\musNumFont} m }{%
+    {#1\Shortstack[l]{#2}}%
+}
+
+% Meter symbols
+% Numeric meter signatures (e.g., 3/4)
+%  #1 number on top
+%  #2 number on bottom
+\NewDocumentCommand{\musMeter}{ m m }{%
+    \musStack{#1 #2}\kern0.05em
+}
+
+% Same command used for figured bass
+\NewDocumentCommand{\musFigFont}{}{%
+    \smaller
+}
+\NewDocumentCommand{\musFig}{ m }{%
+    \musStack[\musFigFont]{#1}%
+}
+\NewDocumentCommand{\noFig}{ O{5} }{%
+    \hphantom{#1}%
+}
+
+\NewDocumentCommand{\meterC}{}{%
+    \musSymbolMeter{}% U+E08C
+}
+\NewDocumentCommand{\meterCutC}{}{%
+    \musSymbolMeter{}% U+E08B
+}
+% Ternary meters used in 16th--18th c. music
+\NewDocumentCommand{\meterCThree}{}{%
+    \musSymbolMeter{}% U+E08C U+E083
+}
+\NewDocumentCommand{\meterCThreeTwo}{}{%
+    \musSymbolMeter{}{\musFont\smaller\musStack{ {\smash }}}
+    % TODO ligature available: uniE09E_uniE083_uniE09F_uniE082
+}
+% Ternary meter used in 17th-century Spanish music
+\NewDocumentCommand{\meterCZ}{}{%
+    \musSymbolMeter{}{\larger[2]\textbf{\textit z}}% U+E08C Z
+}
+% Perfect meter in medieval music
+\NewDocumentCommand{\meterO}{}{%
+    \musSymbolMeter{}% U+E911
+}
+
+
+\endinput

@@ -1,7 +1,5 @@
-\documentclass[dia]{vcbook-float}
-\usepackage{tikz-qtree}
-\begin{document}
-\begin{tikzpicture}
+\begin{textwidthbox}
+    \begin{tikzpicture}
     \tikzset{every tree node/.style={draw,rectangle,align=center,anchor=north},
     level distance=6em, sibling distance=1em}
     \Tree [ .{Q1 (1650?)\\Madrid}
@@ -17,6 +15,7 @@
                 {S8 (1660?)\\Canet}
                 {S9 (1680?)\\Barcelona} ] ] 
     \draw (S3) -- (S7);
-\end{tikzpicture}
-\end{document}
+    \end{tikzpicture}
+\end{textwidthbox}
+\endinput
 

@@ -1,85 +1,40 @@
 % Gutiérrez de Padilla Miraba el sol, second example for chapter 1
 % 2017/07/17, revised 2019/07
-
-\documentclass{article}
-
-\usepackage{xparse}
-
-\usepackage{fontspec}
-\setmainfont{Brill}
-\usepackage[margin=1in]{geometry}
-\parindent=0pt
-\pagestyle{empty}
-
-\usepackage{graphicx}
-
-\usepackage[normalem]{ulem}
-
-\newlength{\solfalevel}
-\setlength{\solfalevel}{6ex}
-\newlength{\minim}
-\setlength{\minim}{2em}
-
-% #1 optional star for when syllable matches lyric text,
-% #2 length in minims, 
-% #3 solmization syllables
-\NewDocumentCommand{\solfa}{ s m m }{%
-    \makebox[#2\minim][l]{%
-        \IfBooleanTF{#1}{\emph{#3}}{#3}%
-    }\ignorespaces
-}
-
-% #1 hexachord name, typeset below rule and \BODY (solfa syllables)
-\usepackage{environ}
-\NewEnviron{hexachord}[1]{%
-    \leavevmode\rlap{\textsc{#1}}%
-    {\raisebox{\baselineskip}{\uline{\BODY}}}%
-}
-
-% Overlap next hexachord and previous by specified number of minims
-\NewDocumentCommand{\mutate}{ O{1} }{%
-    \kern-#1\minim\ignorespaces
-}
-
-% Shift argument up specified number of \solfalevel
-\NewEnviron{levelup}[1]{%
-    \raisebox{#1\solfalevel}{\BODY}\ignorespaces
-}
-
-\begin{document}
-\hspace{2\minim}
-\begin{hexachord}{mollis}
-    \solfa{1}{la}
-    \solfa{2}{re}
-    \solfa*{1}{sol}
-    \solfa*{2}{mi}
-    \solfa*{3.3}{re}
-    \solfa{1}{re}
-\end{hexachord}
-\mutate
-\begin{levelup}{1}
-    \begin{hexachord}{ficta}
-        \solfa{1}{fa}
-        \solfa{2}{mi}
-        \solfa{1}{fa}
-    \end{hexachord}
-\end{levelup}
-\mutate
-\begin{levelup}{2}
-    \begin{hexachord}{naturalis}
+% requires local solfa package
+\begin{textwidthbox}
+    \hspace{2\minim}
+    \noindent\begin{hexachord}{mollis}
+        \solfa{1}{la}
+        \solfa{2}{re}
         \solfa*{1}{sol}
-        \solfa*{1.5}{mi}
-        \solfa*{1}{re}
+        \solfa*{2}{mi}
+        \solfa*{3.3}{re}
+        \solfa{1}{re}
     \end{hexachord}
-\end{levelup}
-\mutate
-\begin{hexachord}{mollis}
-    \solfa{1}{sol}
-    \solfa{2}{re}
-    \solfa*{3}{sol}
-\end{hexachord}
+    \mutate
+    \begin{levelup}{1}
+        \begin{hexachord}{ficta}
+            \solfa{1}{fa}
+            \solfa{2}{mi}
+            \solfa{1}{fa}
+        \end{hexachord}
+    \end{levelup}
+    \mutate
+    \begin{levelup}{2}
+        \begin{hexachord}{naturalis}
+            \solfa*{1}{sol}
+            \solfa*{1.5}{mi}
+            \solfa*{1}{re}
+        \end{hexachord}
+    \end{levelup}
+    \mutate
+    \begin{hexachord}{mollis}
+        \solfa{1}{sol}
+        \solfa{2}{re}
+        \solfa*{3}{sol}
+    \end{hexachord}%
+\end{textwidthbox}
 
 \includegraphics[width=\linewidth]
 {build/music-examples/Padilla-Miraba_el_sol-hexachords-music}
-\end{document}
-
+\endinput

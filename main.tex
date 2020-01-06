@@ -1,13 +1,37 @@
-\documentclass[ms]{vcbook}
+\documentclass{tex/vcbook}
 
-% \includeonlyChapter{intro}
-% \includeonlyChapter{faith-hearing}
-% 
-% \includeonlyChapter{padilla-voces}
-% \includeonlyChapter{cererols-suspended}
-% \includeonlyChapter{zaragoza}
+\title{Hearing Faith\\
+Music as Theology in the Spanish Empire}
 
-\input{chapters/title}
+\author{Andrew A. Cashner}
+
+\date{2020}
+
 \begin{document}
-\input{chapters/contents}
+
+\maketitle
+
+\frontmatter
+\tableofcontents* \clearpage
+\listoffigures
+\listofdiagrams
+\listoftables
+\listofpoemexamples
+\listofmusicexamples
+
+\mainmatter
+% Part I
+\include{chapters/1-intro}
+\include{chapters/2-faith_hearing}
+
+% Part II
+\include{chapters/3-gdp_voces}
+\include{chapters/4-cererols_suspended}
+\include{chapters/5-zaragoza}
+
+\backmatter
+\include{chapters/6-bibliography}
+
+% TODO index
+
 \end{document}

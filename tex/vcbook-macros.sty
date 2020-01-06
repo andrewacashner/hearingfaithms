@@ -1,0 +1,57 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{tex/vcbook-macros}[2019/05/29
+Macros for semantic markup for Cashner villancico monograph]
+
+\RequirePackage{xparse}
+\RequirePackage{tex/semantic-markup}
+\RequirePackage{tex/musicography-unicode}
+\RequirePackage{tex/octave}
+
+\RenewDocumentCommand{\musFigFont}{}{%
+    \smaller
+    \addfontfeatures{Numbers={Lining}}%
+}
+
+% RANGES
+% Range and number (e.g., m. 1 or mm. 2 for measures)
+% #1 abbreviation, #2 number
+\NewDocumentCommand{\range}{ m m }{#1.~#2}
+
+% Create configurable ranges, singular and plural
+% #1 text of command name (e.g., `measure')
+% #2 singular abbreviation (e.g., `m')
+% #3 plural abbreviation (e.g., `mm')
+\NewDocumentCommand{\@NewRange}{ m m m }{%
+    \expandafter\def\csname#1\endcsname##1{\range{#2}{##1}}% singular
+    \expandafter\def\csname#1s\endcsname##1{\range{#3}{##1}}% plural
+}
+\@NewRange{measure} {m} {mm}
+\@NewRange{poemline}{l} {ll}
+\@NewRange{pagenum} {p} {pp}
+\@NewRange{folio}   {f} {ff}
+\@NewRange{itemnum} {no}{nos}
+
+% OTHER SHORTHANDS: Symbols, spacing
+\NewDocumentCommand{\sv}        { m }   {s.v.~\mentioned{#1}}
+\NewDocumentCommand{\speaker}   { m }   {\textsc{#1}: }
+\NewDocumentCommand{\et}        {}      {\&}
+\NewDocumentCommand{\circa}     { m }   {ca.~#1}
+\NewDocumentCommand{\tabitem}   {}      {\textbullet\enspace}
+\NewDocumentCommand{\tabindent} {}      {\hspace{1em}}
+\NewDocumentCommand{\strophe}   {}      {\tabindent}
+
+\RequirePackage{bibleref-parse}
+\NewDocumentCommand{\scripture} { m } {\pbibleverse{#1}}
+
+% Archival signature
+\NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} 
+
+% Original text in brackets (in quotation)
+\NewDocumentCommand{\addorig}   { m }   {\add{\foreign{#1}}}
+
+% UNICODE MACROS
+\RenewDocumentCommand{\Dots}{}{\add{…}} % U+2026
+\NewDocumentCommand{\charAlpha}{}{α}
+
+
+\endinput

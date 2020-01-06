@@ -1,0 +1,190 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{tex/poemtranslation}[2020/02/10
+Simpler and more semantic macros for typesetting poems with translation in
+parallel columns using reledmac, reledpar]
+
+\RequirePackage
+  [series={A},
+   noend,
+   nofamiliar,
+   noeledsec,
+   noledgroup]
+  {reledmac}
+\RequirePackage{reledpar}
+
+% NB - I am assuming you will compile with 'latexmk -outdir=aux', for example.
+% If not you can add the option 'auxdir=aux' (or whatever your output directory
+% is) in the call to 'reledmac' above.
+
+% Default: do not number lines
+\numberlinefalse
+\DeclareOption{numbers}{\numberlinetrue}
+
+\ProcessOptions\relax
+
+%*************
+
+\RequirePackage{xparse}
+
+% Title block at beginning of poem
+% With title and source
+\NewDocumentEnvironment{poemtitleblock}{}
+  {\setlength{\parindent}{0pt}}
+  {\vspace{2em}}
+
+\NewDocumentCommand{\poemtitle}{ m }{%
+    \section*{#1}%
+}
+
+\NewDocumentCommand{\poemsource}{ m }{%
+  #1\par
+}
+
+
+% Set size of verse indent
+\setlength{\stanzaindentbase}{1em}
+
+% Wrap every dual-column poem in 'poemtranslation' environment
+% This environment must include 'original' and 'translation' environments
+% These set up numbering 
+\NewDocumentCommand{\PoemtranslationFont}{}{}
+
+% These could be modified to set the relevant Babel language for each side
+\NewDocumentCommand{\PoemOriginalLanguage}{}{}
+\NewDocumentCommand{\PoemTranslationLanguage}{}{}
+
+% First, a one-column format for just the original poem
+\NewDocumentEnvironment{poemoriginal}{}
+  {\PoemtranslationFont
+  \PoemOriginalLanguage
+  \raggedright
+  \beginnumbering}
+  {\endnumbering}
+
+% Now a two-column format for original + translation in parallel
+\NewDocumentEnvironment{poemtranslation}{}
+  {\PoemtranslationFont
+  \PoemTranslationLanguage
+   \begin{pairs}}
+  {\end{pairs}\Columns}
+
+\NewDocumentEnvironment{original}{}
+  {%
+    \begin{Leftside}
+      \raggedright
+      \beginnumbering
+  }
+  {%
+      \endnumbering
+    \end{Leftside}
+  }
+
+\NewDocumentEnvironment{translation}{}
+  {%
+    \begin{Rightside}
+      \raggedright
+      \beginnumbering
+  }
+  {%
+      \endnumbering
+     \end{Rightside}
+   }
+
+% Before each call of \stanza we must \setstanzaindents.
+% This code allows this to be done automatically based on the 
+% number of lines in the stanza.
+% \indentvalues is defined for a hanging indent, and the 
+% optional argument specifies the indent for the first line of the stanza.
+% The others are all given 0 indent through a loop.
+\newcounter{stanzalines}
+\NewDocumentCommand{\writestanzaindents}{ o m }{%
+  \setcounter{stanzalines}{#2}%
+  \addtocounter{stanzalines}{-1}%
+  \def\indentvalues{1,#1}
+  \loop
+    \edef\indentvalues{\indentvalues,0}%
+    \addtocounter{stanzalines}{-1}%
+    \ifnum\value{stanzalines} > 0
+  \repeat
+}
+    
+% Our replacement for \stanza sets up automatic indenting of the 
+% first line, and no others. 
+% This is based on the mandatory argument, which specifies the 
+% number of lines in the stanza.
+\NewDocumentCommand{\Stanza}{ m }{%
+  \writestanzaindents[1]{#1}%
+  \expandafter\setstanzaindents\expandafter{\indentvalues}
+  \stanza
+}
+% If the stanza begins a section with a header, we use \StanzaSection.
+% This sets up the indents so that the first line is *not* indented.
+% If a header text (the optional third argument) is provided, 
+% it is printed in the specified font.
+% Normal usage will be like this:
+%   In the original text:       \StanzaSection{4}[Estribillo]
+%   In the translation of same: \StanzaSection{4}
+%
+% If you use a \StanzaSection with the optional argument on *both* sides, 
+% original and translation, then for an unknown reason the indentation is
+% cancelled. So in this case, use the starred variant of the command on both 
+% sides and this will add back in the indent: \StanzaSection*{4}[Estribillo]
+\NewDocumentCommand{\StanzaHeaderFont}{}{\textsc}
+\NewDocumentCommand{\StanzaSection}{ s m o }{%
+  \writestanzaindents[0]{#2}%
+  \expandafter\setstanzaindents\expandafter{\indentvalues}%
+  \IfNoValueTF{#3}
+    {\stanza}
+    {\stanza[%
+        \IfBooleanT{#1}{\stanzaindent{5}}%
+        {\StanzaHeaderFont{#3}}%
+        ]}%
+}
+
+% To provide extra vertical space before section headings, 
+% we use \SectionBreak at the end of the preceding stanza instead of \&.
+% The optional argument allows for a text to be inserted after the 
+% stanza, before the added space.
+% The text is printed in the specified font.
+% For example: last line of poem \SectionBreak[Repeat first section] 
+\newlength{\PreSectionSkip}
+\setlength{\PreSectionSkip}{1.25ex plus -0.5ex minus -0.2ex}
+\NewDocumentCommand{\SectionBreak}{o}{%
+  \IfNoValueTF{#1}
+    {\&[\vspace{\PreSectionSkip}]}
+    {\&[{\PostStanzaFont #1}\vspace{1.5\PreSectionSkip}]}%
+}
+
+% If we only want to add a note after a stanza (as in, between stanzas 
+% rather than StanzaSections), we use \AfterStanza, which sets the text 
+% in the specified font and adds a specified amount of space.
+\NewDocumentCommand{\PostStanzaFont}{}{\itshape}
+\newlength{\AfterStanzaSkip}
+\setlength{\AfterStanzaSkip}{0.5\PreSectionSkip}
+\NewDocumentCommand{\AfterStanza}{m}{%
+  \&[{\PostStanzaFont #1}\vspace{\AfterStanzaSkip}]
+}
+
+
+%*****************************
+% Semantic markup commands
+%*****************************
+
+% Indent footnotes
+\Xparindent
+
+% This is a shorthand for reledmac's \edtext macro, using just one 
+% series of footnotes automatically.
+\NewDocumentCommand{\critnote}{ m o m }{%
+  \edtext{#1}{\IfNoValueTF{#2}{}{\lemma{#2}}\Afootnote{#3}}%
+}
+
+\NewDocumentCommand{\variant}{ s m m o }{%
+  #2: #3%
+  \IfNoValueTF{#4}{}{ (#4)}%
+  \IfBooleanTF{#1}{}{.}%
+}
+\NewDocumentCommand{\sameas}{}{$=$}
+
+
+\endinput
