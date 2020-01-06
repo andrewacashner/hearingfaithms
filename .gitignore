@@ -1,4 +1,4 @@
 aux/
 build/
 !figures
-!archive/*.pdf
+!workshop/archive/*.pdf
