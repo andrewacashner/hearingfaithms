@@ -39,6 +39,10 @@ Andrew Cashner's book on villancicos for Brill]
 % FOOTNOTE FORMAT
 \footmarkstyle{#1.\,} % No superscript footnote number marks (= Chicago style)
 
+% LIST FORMAT
+\RequirePackage{enumitem}
+\setlist{noitemsep} % No extra space between list items
+
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
 % Using commands from memoir class 
@@ -217,4 +221,28 @@ Andrew Cashner's book on villancicos for Brill]
 \RequirePackage{tex/solfa} 
 \RequirePackage{tex/cosmos}
 \RequirePackage{tikz-qtree}
+
+% CROSS REFERENCES and LINKS
+% Set PDF metadata
+\RequirePackage{hyperref}
+\hypersetup{
+    pdfauthor={Andrew A. Cashner},
+    pdftitle={Hearing Faith},
+    pdfsubject={Music: History and theory: 17th cent.: Mexico and Spain;
+    Christianity: Theology: Roman Catholic: 17th cent.: Mexico and Spain;
+    Villancicos: 17th cent.},
+    pdfencoding=auto,
+    unicode=true,
+    hidelinks
+}
+% Substitute simpler format for bookmark text
+\pdfstringdefDisableCommands{%
+    \def\quoted#1{"#1"}
+    \let\wtitle\emph
+    \let\term\emph
+}
+
+% Numbered PDF outline
+\RequirePackage[numbered]{bookmark} 
+
 \endinput

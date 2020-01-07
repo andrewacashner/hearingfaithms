@@ -54,11 +54,10 @@ music_exx_crop	= $(addprefix $(aux)/,$(ly_in:%.ly=%.cropped.pdf))
 
 
 # TARGETS and RULES
-.PHONY : all ly view clean reset 
+.PHONY : all ly count view clean reset 
 
+# MAIN LATEX DOCUMENT
 all : $(main_out)
-
-ly : $(music_exx_pdfs)
 
 # Compile main tex file to aux dir
 $(main_aux) : $(main_in) $(tex_subfiles) $(tex_lib) $(bib) \
@@ -66,14 +65,20 @@ $(main_aux) : $(main_in) $(tex_subfiles) $(tex_lib) $(bib) \
 	latexmk -outdir=aux -pdfxe $<
 
 # Copy and rename result to build dir
+# Clean up PDF fonts by postprocessing with Ghostscript
 $(main_out) : $(main_aux)
-	cp $< $@
+	gs -o $@ -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress $<
 
+
+# LILYPOND MUSIC EXAMPLES
 # Compile Lilypond PDFs to music_exx dir
 # - Lilypond can crop its own PDFs but to do so it generates intermediate
 #   *.cropped.png and *.cropped.pdf.
 # - It can route output to a directory but only if the extension is left off and
 #   only if relative includes are enabled.
+
+ly : $(music_exx_pdfs)
+
 $(music_exx_pdfs) : $(music_exx_crop)
 	cp $< $@
 
@@ -83,20 +88,33 @@ $(aux_music)/%.cropped.pdf : $(ly_in_dir)/%.ly
 	lilypond -I $(PWD)/ly -dcrop -drelative-includes \
 	    -o $(aux_music)/$* $<
 
+# To reduce duplication of font subsetting and thereby the overall size of the
+# main output PDF, add flag `-O TeX-GS` to Lilypond invocation. 
+# But this renders the individual Lilypond PDFs unusable by themselves. 
+
+# FIGURES
 # Just copy the figures
 $(figures_out) : $(figures_in)
 
 build/figures/%.jpg : figures/%.jpg
 	cp $< $@
 
+# DIRECTORIES
 # Make needed directories first
 $(dirs) :
 	mkdir -p $(dirs)
 
+# WORD COUNT
+# Count words from output PDF
+count : all	
+	pdftotext $(main_out) - | wc -w
+
+# VIEW
 # View output (and suppress console junk messages)
 view : all
 	evince $(main_out) &> /dev/null &
 
+# CLEAN
 # Clean up: clean removes aux, reset removes aux and build
 clean : 
 	rm -rf $(aux)
