@@ -120,7 +120,7 @@ Andrew Cashner's book on villancicos for Brill]
         \begin{#2}[!t]
             \caption{##2}
             \label{#3:##1}
-            \includegraphics{#4/##1}
+            \includegraphics{#4/##1}%
         \end{#2}%
     }%
 }
