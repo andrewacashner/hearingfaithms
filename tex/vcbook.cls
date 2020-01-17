@@ -33,6 +33,9 @@ Andrew Cashner's book on villancicos for Brill]
 \RequirePackage[autolang=hyphen]{biblatex-chicago}
 \addbibresource{tex/master.bib} % My bibliography
 
+% INDEX
+\RequirePackage{makeidx}
+
 % CAPTION FORMAT 
 \captiondelim{.\enspace} % separate label and text with period and space
 
