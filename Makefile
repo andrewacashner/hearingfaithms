@@ -24,7 +24,8 @@ figures_in	= $(wildcard figures/*.jpg) # TODO preferred file format?
 
 # Library files
 ly_lib		= $(wildcard ly/*.ly)
-tex_lib		= $(wildcard tex/*.cls) $(wildcard tex/*.sty)
+tex_lib		= $(wildcard tex/*.cls) $(wildcard tex/*.sty) \
+		  $(wildcard tex/*.tex)
 bib		= tex/master.bib
 
 
@@ -80,7 +81,7 @@ $(main_out) : $(main_aux)
 ly : $(music_exx_pdfs)
 
 $(music_exx_pdfs) : $(music_exx_crop)
-	cp $< $@
+	cp -u $< $@
 
 $(music_exx_crop) : $(ly_in) $(ly_lib) | $(dirs)
 
@@ -97,7 +98,7 @@ $(aux_music)/%.cropped.pdf : $(ly_in_dir)/%.ly
 $(figures_out) : $(figures_in)
 
 build/figures/%.jpg : figures/%.jpg
-	cp $< $@
+	cp -u $< $@
 
 # DIRECTORIES
 # Make needed directories first

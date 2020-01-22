@@ -12,11 +12,11 @@
     shapes.geometric
 }
 
-% Hebrew requires SBL Hebrew font
-% Hebrew, YWHW, has to be entered in reverse
-\RequirePackage{fontspec}
-\newfontfamily{\hebrewfont}{SBL Hebrew}[Script=Hebrew]
-\NewDocumentCommand{\tetragrammaton}{}{\footnotesize\hebrewfont יהוה}
+% Hebrew name of God
+\RequirePackage{cjhebrew}
+\NewDocumentCommand{\tetragrammaton}{}{%
+    {\footnotesize\cjRL{yhwh}}%
+}
 
 % These Unicode symbols all in Brill font
 \NewDocumentCommand{\Earth}      {}{♁}   % U+2641
@@ -27,7 +27,7 @@
 \NewDocumentCommand{\Mars}       {}{♂}   % U+2642
 \NewDocumentCommand{\Jupiter}    {}{♃}   % U+2643
 \NewDocumentCommand{\Saturn}     {}{♄}   % U+2644
-\NewDocumentCommand{\Star}       {}{\large ⋆}   % U+22C6
+\NewDocumentCommand{\Star}       {}{{\large ⋆}}   % U+22C6
 
 \NewDocumentCommand{\planetSymbol}{ m }{{\small #1}}
 

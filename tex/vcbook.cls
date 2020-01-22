@@ -4,23 +4,25 @@ Andrew Cashner's book on villancicos for Brill]
 % Compile with XeLaTeX
 
 % Pass on any options to the class
-\DeclareOption*{\PassOptionsToClass{\CurrentOption}{memoir}}
+\DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
 \ProcessOptions\relax
-\LoadClass{memoir}
+\LoadClass{book}
 
 % CUSTOM COMMANDS
-\RequirePackage{xparse}         % Improved command programming
+\RequirePackage[force]{filehook}    % Fix compatibility bug with xparse
+\RequirePackage{xparse}             % Improved command programming
+
 \RequirePackage{tex/vcbook-macros}  % Custom package for semantic markup
 
 % TYPEFACE
-\RequirePackage{fontspec}  % Use True-Type Unicode font
+\RequirePackage{fontspec}           % Use True-Type Unicode font
 \setmainfont{Brill}
-\RequirePackage{mathastext} % Use same font for math-mode numbers
+\RequirePackage{mathastext}         % Use same font for math-mode numbers
 
 \RequirePackage{url}
-\urlstyle{same} % Same face for URLs
+\urlstyle{same}                     % Same face for URLs
 \RequirePackage{microtype}
-\feetbelowfloat
+\RequirePackage{fnpos}              % Keep footnotes at bottom of page
 \raggedbottom
 
 % LANGUAGE, HYPHENATION
@@ -35,38 +37,46 @@ Andrew Cashner's book on villancicos for Brill]
 
 % INDEX
 \RequirePackage{makeidx}
+% Custom shorthands for unwieldy terms with accented characters
+\input{tex/index} 
 
 % CAPTION FORMAT 
-\captiondelim{.\enspace} % separate label and text with period and space
-
-% FOOTNOTE FORMAT
-\footmarkstyle{#1.\,} % No superscript footnote number marks (= Chicago style)
+\RequirePackage{caption}
+% separate label and text with period and space
+\captionsetup{labelsep=period}
 
 % LIST FORMAT
 \RequirePackage{enumitem}
 \setlist{noitemsep} % No extra space between list items
 
+% EPIGRAPHS
+\RequirePackage{epigraph}
+
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
-% Using commands from memoir class 
 \RequirePackage{graphicx}
 \RequirePackage{adjustbox}
 \RequirePackage{quoting}
 \RequirePackage{longtable}
 
+\RequirePackage{newfloat}
 % Command to create all needed elements for a new float type
 % #1 environment command name
 % #2 file extension for storing float info
 % #3 name of float to be used in labels
-% #5 string used in title of list of floats
+% #4 string used in title of list of floats
 \NewDocumentCommand{\@NewFloatAndList}{ m m m m }{%
-    \newfloat[chapter]{#1}{#2}{#3}        % New float type
-    \newlistof{listof#1s}{#2}{List of #4} % New TOC list entry type
-    \newlistentry{#1}{#2}{0}              % Initialize TOC list
+    \DeclareFloatingEnvironment[
+        fileext=#2,
+        name=#3,
+        listname={List of #4},
+        placement=t!,
+        within=chapter,
+        chapterlistsgaps=on
+    ]{#1}%
 }
 
 % Create the float types
-\let\poemtitle\relax % Memoir already defined this command
 \@NewFloatAndList{musicexample} {mus}  {Music example} {Music Examples}
 \@NewFloatAndList{poemexample}  {poem} {Poem example}  {Poem Examples}
 \@NewFloatAndList{diagram}      {dia}  {Diagram}       {Diagrams}
@@ -213,9 +223,10 @@ Andrew Cashner's book on villancicos for Brill]
 
 % FLOAT STYLE
 % Reduced size for floats
-\setfloatadjustment{figure}         {\centering}
-\setfloatadjustment{table}          {\footnotesize\centering}
-\setfloatadjustment{poemexample}    {\footnotesize}
+\RequirePackage{etoolbox}
+\AtBeginEnvironment{figure}     {\centering}
+\AtBeginEnvironment{table}      {\footnotesize\centering}
+\AtBeginEnvironment{poemexample}{\footnotesize}
 
 % OTHER PACKAGES NEEDED FOR FLOATS
 % For all poem examples

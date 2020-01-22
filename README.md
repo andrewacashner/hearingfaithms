@@ -2,7 +2,7 @@
 
 | Monograph by Andrew A. Cashner
 | Brill Series in the History of Christian Traditions
-| Copyright © 2019 Andrew A. Cashner
+| Copyright © 2020 Andrew A. Cashner
 
 | Assistant professor of music
 | College Department of Music
@@ -15,8 +15,6 @@
 - [LaTeX, Full TeXLive 2019 distribution](http://www.tug.org)
 - [Lilypond, Version 2.19+](http://www.lilypond.org)
 - [Brill font](https://brill.com/page/1228?lang=en)
-- [Bravura font](https://www.smufl.org/fonts/)
-- [SBL Hebrew font](https://www.sbl-site.org/educational/BiblicalFonts_SBLHebrew.aspx)
 - Linux utilities: BASH shell, GNU Make:
   I am using [Fedora 31](https://getfedora.org/)
 

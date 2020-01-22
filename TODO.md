@@ -1,0 +1,4 @@
+- add chapterlistsgap for new floats
+- abbreviated headings for sections (for page headers)
+- UTF8 sorting for index (consider `esindex` package)
+- bib, index in toc
