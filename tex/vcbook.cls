@@ -225,6 +225,13 @@ Andrew Cashner's book on villancicos for Brill]
 \RequirePackage{tex/cosmos}
 \RequirePackage{tikz-qtree}
 
+% INDEX
+% Use a delimited list to add multiple index entries in one command
+% Split first argument at semicolons, then apply command `\index` to each one
+\NewDocumentCommand{\addtoindex}{ > { \SplitList {;} } m }{%
+    \ProcessList{#1}{\index}%
+}
+
 % CROSS REFERENCES and LINKS
 % Set PDF metadata
 \RequirePackage{hyperref}
