@@ -9,21 +9,26 @@ Andrew Cashner's book on villancicos for Brill]
 \LoadClass{book}
 
 % CUSTOM COMMANDS
-\RequirePackage[force]{filehook}    % Fix compatibility bug with xparse
-\RequirePackage{xparse}             % Improved command programming
+\RequirePackage{xparse}             
+\RequirePackage{etoolbox}
 
-\RequirePackage{tex/vcbook-macros}  % Custom package for semantic markup
+% Custom package for semantic markup
+\RequirePackage{tex/vcbook-macros}  
 
 % TYPEFACE
-\RequirePackage{fontspec}           % Use True-Type Unicode font
+% Use True-Type Unicode font (Brill)
+\RequirePackage{fontspec}           
 \setmainfont{Brill}
-\RequirePackage{mathastext}         % Use same font for math-mode numbers
-
-\RequirePackage{url}
-\urlstyle{same}                     % Same face for URLs
 \RequirePackage{microtype}
-\RequirePackage{fnpos}              % Keep footnotes at bottom of page
-\raggedbottom
+\frenchspacing % Single space between sentences
+
+% Use same font for urls
+\RequirePackage{url}
+\urlstyle{same}
+
+% PAGE LAYOUT
+\sloppy         % Allow horizontal word spacing to be less than perfect
+\raggedbottom   % Don't stretch things vertically to fill page
 
 % LANGUAGE, HYPHENATION
 \RequirePackage{polyglossia}
@@ -37,12 +42,24 @@ Andrew Cashner's book on villancicos for Brill]
 
 % INDEX
 \RequirePackage{makeidx}
+\RequirePackage[totoc]{idxlayout} % Add index to table of contents
+
 % Custom shorthands for unwieldy terms with accented characters
 \input{tex/index} 
 
+% Use a delimited list to add multiple index entries in one command
+% Split first argument at semicolons, then apply command `\index` to each one
+\NewDocumentCommand{\addtoindex}{ > { \SplitList {;} } m }{%
+    \ProcessList{#1}{\index}%
+}
+
+% FOOTNOTES
+% Keep footnotes at bottom of page
+\RequirePackage{fnpos}              
+
 % CAPTION FORMAT 
+% Separate label and text with period and space
 \RequirePackage{caption}
-% separate label and text with period and space
 \captionsetup{labelsep=period}
 
 % LIST FORMAT
@@ -60,6 +77,8 @@ Andrew Cashner's book on villancicos for Brill]
 \RequirePackage{longtable}
 
 \RequirePackage{newfloat}
+\RequirePackage{tocloft}
+
 % Command to create all needed elements for a new float type
 % #1 environment command name
 % #2 file extension for storing float info
@@ -70,9 +89,7 @@ Andrew Cashner's book on villancicos for Brill]
         fileext=#2,
         name=#3,
         listname={List of #4},
-        placement=t!,
-        within=chapter,
-        chapterlistsgaps=on
+        within=chapter
     ]{#1}%
 }
 
@@ -93,15 +110,15 @@ Andrew Cashner's book on villancicos for Brill]
 }
 
 % Create the labels
-\@NewRefCommand{part}{part}         {Part}{Part}
-\@NewRefCommand{chap}{chapter}      {Chap}{Chapter}
-\@NewRefCommand{sec}{section}       {Sec}{Section}
-\@NewRefCommand{note}{note}         {Note}{Note}
-\@NewRefCommand{fig}{figure}        {Fig}{Figure}
-\@NewRefCommand{tab}{table}         {Tab}{Table}
-\@NewRefCommand{mus}{music example} {Mus}{Music example}
-\@NewRefCommand{poem}{poem example} {Poem}{Poem example}
-\@NewRefCommand{dia}{diagram}       {Dia}{Diagram}
+\@NewRefCommand{part}   {part}          {Part}  {Part}
+\@NewRefCommand{chap}   {chapter}       {Chap}  {Chapter}
+\@NewRefCommand{sec}    {section}       {Sec}   {Section}
+\@NewRefCommand{note}   {note}          {Note}  {Note}
+\@NewRefCommand{fig}    {figure}        {Fig}   {Figure}
+\@NewRefCommand{tab}    {table}         {Tab}   {Table}
+\@NewRefCommand{mus}    {music example} {Mus}   {Music example}
+\@NewRefCommand{poem}   {poem example}  {Poem}  {Poem example}
+\@NewRefCommand{dia}    {diagram}       {Dia}   {Diagram}
 
 % FLOAT FORMATTING AND FILE INCLUSION
 % Command to create commands for inserting TeX-generated floats 
@@ -198,7 +215,7 @@ Andrew Cashner's book on villancicos for Brill]
 % TABLES
 \RequirePackage{tabulary,tabularx}
 \RequirePackage{booktabs}
-\RequirePackage[normalem]{ulem}
+\RequirePackage[normalem]{ulem} % Underlining
 
 % Set up and use lining figures for all tables and diagrams
 \NewDocumentCommand{\liningfigures}{}{%
@@ -222,11 +239,12 @@ Andrew Cashner's book on villancicos for Brill]
 }
 
 % FLOAT STYLE
+% Put all float captions above floats and center them
+\RequirePackage[capposition=top]{floatrow} 
+
 % Reduced size for floats
-\RequirePackage{etoolbox}
-\AtBeginEnvironment{figure}     {\centering}
-\AtBeginEnvironment{table}      {\footnotesize\centering}
-\AtBeginEnvironment{poemexample}{\footnotesize}
+\floatsetup[table]       {font=footnotesize}
+\floatsetup[poemexample] {font=footnotesize}
 
 % OTHER PACKAGES NEEDED FOR FLOATS
 % For all poem examples
@@ -235,13 +253,6 @@ Andrew Cashner's book on villancicos for Brill]
 \RequirePackage{tex/solfa} 
 \RequirePackage{tex/cosmos}
 \RequirePackage{tikz-qtree}
-
-% INDEX
-% Use a delimited list to add multiple index entries in one command
-% Split first argument at semicolons, then apply command `\index` to each one
-\NewDocumentCommand{\addtoindex}{ > { \SplitList {;} } m }{%
-    \ProcessList{#1}{\index}%
-}
 
 % CROSS REFERENCES and LINKS
 % Set PDF metadata
@@ -265,5 +276,9 @@ Andrew Cashner's book on villancicos for Brill]
 
 % Numbered PDF outline
 \RequirePackage[numbered]{bookmark} 
+
+% Reset PDF bookmark level for backmatter to base
+% (i.e., don't put bibliography as a subheading under Part II)
+\appto{\backmatter}{\bookmarksetup{startatroot}}
 
 \endinput

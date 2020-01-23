@@ -53,6 +53,7 @@ figures_out	= $(addprefix $(build)/,$(figures_in))
 main_aux	= $(addprefix $(aux)/,$(main_in:%.tex=%.pdf))
 music_exx_crop	= $(addprefix $(aux)/,$(ly_in:%.ly=%.cropped.pdf))
 
+latexmkrc	= tex/latexmkrc
 
 # TARGETS and RULES
 .PHONY : all ly count view clean reset 
@@ -62,8 +63,13 @@ all : $(main_out)
 
 # Compile main tex file to aux dir
 $(main_aux) : $(main_in) $(tex_subfiles) $(tex_lib) $(bib) \
-    $(music_exx_pdfs) $(figures_out) | $(dirs)
-	latexmk -outdir=aux -pdfxe $<
+    $(music_exx_pdfs) $(figures_out) $(latexmkrc) | $(dirs)
+	latexmk -r $(latexmkrc) $<
+
+# LaTeX compilation options set in latexmkrc:
+# - use xelatex to make PDF
+# - send output to aux/
+# - use texindy with UTF8 to make index
 
 # Copy and rename result to build dir
 # Clean up PDF fonts by postprocessing with Ghostscript
@@ -81,9 +87,11 @@ $(main_out) : $(main_aux)
 ly : $(music_exx_pdfs)
 
 $(music_exx_pdfs) : $(music_exx_crop)
-	cp -u $< $@
 
 $(music_exx_crop) : $(ly_in) $(ly_lib) | $(dirs)
+
+$(music_out_dir)/%.pdf : $(aux_music)/%.cropped.pdf
+	cp -u $< $@
 
 $(aux_music)/%.cropped.pdf : $(ly_in_dir)/%.ly 
 	lilypond -I $(PWD)/ly -dcrop -drelative-includes \
