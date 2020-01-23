@@ -72,7 +72,7 @@ $(main_aux) : $(main_in) $(tex_subfiles) $(tex_lib) $(bib) \
 # - use texindy with UTF8 to make index
 
 # Copy and rename result to build dir
-# Clean up PDF fonts by postprocessing with Ghostscript
+# Clean up PDF fonts and reduce file size by postprocessing with Ghostscript
 $(main_out) : $(main_aux)
 	gs -o $@ -sDEVICE=pdfwrite -dPDFSETTINGS=/prepress $<
 
@@ -96,10 +96,6 @@ $(music_out_dir)/%.pdf : $(aux_music)/%.cropped.pdf
 $(aux_music)/%.cropped.pdf : $(ly_in_dir)/%.ly 
 	lilypond -I $(PWD)/ly -dcrop -drelative-includes \
 	    -o $(aux_music)/$* $<
-
-# To reduce duplication of font subsetting and thereby the overall size of the
-# main output PDF, add flag `-O TeX-GS` to Lilypond invocation. 
-# But this renders the individual Lilypond PDFs unusable by themselves. 
 
 # FIGURES
 # Just copy the figures

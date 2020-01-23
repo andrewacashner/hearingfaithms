@@ -1,3 +1,5 @@
+- pdffonts: why isn't gs fixing fonts in final build PDF?
+
 - send map specifications or make them
 - finish index
 - revise index
