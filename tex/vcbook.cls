@@ -42,7 +42,8 @@ Andrew Cashner's book on villancicos for Brill]
 
 % INDEX
 \RequirePackage{makeidx}
-\RequirePackage[totoc]{idxlayout} % Add index to table of contents
+%\RequirePackage[totoc]{idxlayout} % Add index to table of contents
+\RequirePackage{tocbibind}
 
 % Custom shorthands for unwieldy terms with accented characters
 \input{tex/index} 
@@ -255,30 +256,21 @@ Andrew Cashner's book on villancicos for Brill]
 \RequirePackage{tikz-qtree}
 
 % CROSS REFERENCES and LINKS
-% Set PDF metadata
-\RequirePackage{hyperref}
-\hypersetup{
-    pdfauthor={Andrew A. Cashner},
-    pdftitle={Hearing Faith},
-    pdfsubject={Music: History and theory: 17th cent.: Mexico and Spain;
-    Christianity: Theology: Roman Catholic: 17th cent.: Mexico and Spain;
-    Villancicos: 17th cent.},
+\RequirePackage[
+    xetex,
     pdfencoding=auto,
     unicode=true,
-    hidelinks
-}
+    hidelinks,
+    hyperfootnotes=false,
+    hyperindex=false
+]{hyperref}
+% Set PDF metadata in document with \hypersetup
+
 % Substitute simpler format for bookmark text
 \pdfstringdefDisableCommands{%
     \def\quoted#1{"#1"}
     \let\wtitle\emph
     \let\term\emph
 }
-
-% Numbered PDF outline
-\RequirePackage[numbered]{bookmark} 
-
-% Reset PDF bookmark level for backmatter to base
-% (i.e., don't put bibliography as a subheading under Part II)
-\appto{\backmatter}{\bookmarksetup{startatroot}}
 
 \endinput
