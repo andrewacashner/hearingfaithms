@@ -1,13 +1,15 @@
-\documentclass{article}
+\documentclass[12pt]{article}
 \usepackage{mapa}
 
 \def\mapUnit{5}
 
-\def\startx{-5.75}
-\def\endx{-3.23}
+\def\startx{-5.6}
+\def\endx{-3.2}
 
 \def\starty{-1.1}
-\def\endy{1.6}
+\def\endy{1.75}
+
+\def\cityLabelSep{3pt}
 
 \begin{document}
 \begin{map}
@@ -23,12 +25,12 @@
             longitude0=14.63491
         }
 
-        \WorldMapII[
+        \WorldMap[
             path=\mapPath,
             maillage=false,
             level=5,
             borders=false,
-            rivers=false,
+            rivers=true,
             Europe=false,
             Africa=false,
             Asia=false,
@@ -36,10 +38,29 @@
             Southamerica=true
         ]
 
-        \city[90]{-99.10134}{19.24646}
-        {México}[\bigcityfont\textsc{Mexico}]
 
-        \city[270]{-98.20627}{19.04143}
+        \city{-106.48502}{31.76187}
+        {El Paso del Norte}
+
+        \city{-102.58325}{22.77092}
+        {Zacatecas}
+
+        \city[90]{-104.65317}{24.02772}
+        {Durango}
+
+        \city[80]{-103.3496}{20.65969}
+        {Guadalajara}
+
+        \city[120]{-100.31611}{25.68661}
+        {Monterrey}
+
+        \city[-90]{-106.0691}{28.63299}
+        {Chihuahua}
+
+        \city[80]{-99.10134}{19.24646}
+        {Mexico}[\bigcityfont\textsc{México}]
+
+        \city[-70]{-98.20627}{19.04143}
         {Puebla}[\bigcityfont Puebla]
 
         \city{-96.72658}{17.07318}
@@ -51,14 +72,29 @@
         \city[190]{-99.82365}{16.8531}
         {Acapulco}
 
+        \city[135]{-89.59258}{20.96737}
+        {Mérida}
+
         \city{-90.50688}{14.63491}
         {Guatemala}[\bigcityfont Guatemala]
+
+        \city[130]{-79.51986}{8.98237}
+        {Panamá}
+
+        \city[160]{-75.45777}{10.48365}
+        {Cartagena}
+
+        \city[-135]{-66.9036}{10.48059}
+        {Caracas}
 
         \city{-77.04275}{-12.04637}
         {Lima}[\bigcityfont Lima]
 
         \city[75]{-71.96746}{-13.53195}
         {Cuzco}[\bigcityfont Cuzco]
+        
+        \city{-74.07209}{4.71098}
+        {Bogotá}[\Shortstack{{Santa Fe} {de Bogotá}}]
 
         \city[340]{-78.46783}{-0.18065}
         {Quito}[\bigcityfont Quito]
@@ -66,11 +102,11 @@
         \city[25]{-78.183236}{0.34714}
         {Ibarra}
 
-        \city[160]{-75.45777}{10.48365}
-        {Cartagena}
+        \city{-68.11929}{-16.48968}
+        {La Paz}
 
-        \city[100]{-65.25921}{-19.03534}
-        {Sucre}[\Shortstack{{La Paz} (Sucre)}]
+        \city[180]{-65.25921}{-19.03534}
+        {Sucre}[\Shortstack{{La Plata} (Sucre)}]
 
         \city{-81.31243}{29.90124}
         {San Agustín}
@@ -81,44 +117,54 @@
         \city[290]{-68.83121}{18.48605}
         {Santo Domingo}[\Shortstack{Santo Domingo}]
 
-        \city[90]{-104.65317}{24.02772}
-        {Durango}
-
-        \city[75]{-103.3496}{20.65969}
-        {Guadalajara}
-
         \city[250]{-75.83015}{20.01692}
         {Santiago de Cuba}
 
-        \city{-89.59258}{20.96737}
-        {Mérida}
+        \mapLabel{-75.5}{22}
+        {Cuba}{\regionfont Cuba}
 
-        \city{-74.07209}{4.71098}
-        {Bogotá}
+        \mapLabel{-69.5}{20.5}
+        {Hispaniola}{\regionfont Hispaniola}
 
-        \mapLabel{-102}{23}
+        \mapLabel{-65.5}{19.5}
+        {Puerto Rico}{\regionfont\Shortstack{Puerto Rico}}
+
+        \mapLabel{-76.75}{17.25}
+        {Jamaica}{\regionfont Jamaica}
+        
+        \mapLabel[290]{-81.75}{28.9}
+        {Florida}{\regionfont F l o r i d a}
+        
+        \mapLabel[25]{-100.9}{20.6}
         {New Spain}{\regionfont N e w\quad S p a i n}
 
-        \mapLabel{-73}{6.5}
+        \mapLabel{-72}{7}
         {New Granada}{\regionfont N e w\quad G r a n a d a}
 
-        \mapLabel{-75}{-9}
-        {Peru}{\regionfont P e r u}
+        \mapLabel[345]{-70}{-11}
+        {Peru}{\regionfont P\quad e\quad r\quad u}
 
-        \mapLabel[290]{-83.5}{27.5}
-        {Florida}{\regionfont F l o r i d a}
-
-        \mapLabel{-78}{15}
-        {Caribbean}{\small\itshape Carribean Sea}
-
-        \mapLabel{-90}{24.5}
+        \mapLabel{-90}{25.5}
         {Gulf}{\footnotesize\itshape Gulf of Mexico}
         
-        \mapLabel{-100}{-3}
-        {Pacific}{\itshape Pacific Ocean}
+        \mapLabel{-77}{14.5}
+        {Caribbean}{\small\itshape Caribbean Sea}
         
         \mapLabel{-71}{28}
         {Atlantic}{\itshape Atlantic Ocean}
+        
+        \mapLabel{-100}{-3}
+        {Pacific}{\itshape Pacific Ocean}
+
+        \pnodeMap(-104,-13){compassN}
+        \rput(compassN){%
+            \psline[linewidth=1pt, arrows=->]
+            (.04,-.25)(.04,-.02)
+            {\itshape N}%
+        }
+        \rput(compassN){%
+            \psline[linewidth=0.5pt](-.04,-.125)(0.05,-.125)%
+            }
     \end{pspicture}
 \end{map}
 \end{document}
