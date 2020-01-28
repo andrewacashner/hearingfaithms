@@ -11,6 +11,7 @@ Andrew Cashner's book on villancicos for Brill]
 % CUSTOM COMMANDS
 \RequirePackage{xparse}             
 \RequirePackage{etoolbox}
+\RequirePackage{morewrites}
 
 % Custom package for semantic markup
 \RequirePackage{tex/vcbook-macros}  
@@ -98,6 +99,7 @@ Andrew Cashner's book on villancicos for Brill]
 \@NewFloatAndList{musicexample} {mus}  {Music example} {Music Examples}
 \@NewFloatAndList{poemexample}  {poem} {Poem example}  {Poem Examples}
 \@NewFloatAndList{diagram}      {dia}  {Diagram}       {Diagrams}
+\@NewFloatAndList{map}          {map}  {Map}           {Maps}
 
 % Command to create reference labels, uppercase and lowercase
 % = substitute for cleveref
@@ -120,6 +122,7 @@ Andrew Cashner's book on villancicos for Brill]
 \@NewRefCommand{mus}    {music example} {Mus}   {Music example}
 \@NewRefCommand{poem}   {poem example}  {Poem}  {Poem example}
 \@NewRefCommand{dia}    {diagram}       {Dia}   {Diagram}
+\@NewRefCommand{map}    {map}           {Map}   {Map}
 
 % FLOAT FORMATTING AND FILE INCLUSION
 % Command to create commands for inserting TeX-generated floats 
@@ -177,6 +180,7 @@ Andrew Cashner's book on villancicos for Brill]
 % Image floats
 \@NewIMGfloatCmd{insertFigure}  {figure}       {fig}  {build/figures}
 \@NewIMGfloatCmd{insertMusic}   {musicexample} {mus}  {build/music-examples}
+\@NewIMGfloatCmd{insertMap}     {map}          {map}  {build/maps}
 
 % Keep Tikz graphics under maximum width by putting them in this environment
 \RequirePackage{environ}
