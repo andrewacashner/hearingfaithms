@@ -1,95 +1,22 @@
 \documentclass{article}
+\usepackage{mapa}
 
-\usepackage[T1]{fontenc}
-\usepackage{fbb}
+\def\mapUnit{15}
 
-\usepackage{pst-geo}
+\def\startx{-0.52} 
+\def\endx{0.25}
 
-\usepackage{xparse}
-\usepackage{environ}
-\usepackage{graphicx}
-
-\usepackage{stackengine}
-\setstackgap{S}{2pt}
-
-\NewEnviron{map}{%
-    \noindent\resizebox{\textwidth}{!}{\BODY}%
-}
-
-% Data path
-\NewExpandableDocumentCommand{\path}{}{%
-    /usr/local/texlive/2019/texmf-dist/tex/generic/pst-geo/data%
-}
-
-% Base unit
-\NewExpandableDocumentCommand{\unit}{}{15}
-
-% Width of PS lines
-\NewExpandableDocumentCommand{\psLineWd}{}{0.25\pslinewidth}
-
-% Coordinates for map frame (portion of world map, offset from equator at 0
-% longitude
-\NewExpandableDocumentCommand{\startx}{}{-0.52} 
-\NewExpandableDocumentCommand{\endx}{}  {0.25}
-
-\NewExpandableDocumentCommand{\starty}{}{1.85}
-\NewExpandableDocumentCommand{\endy}{}  {2.5}
-
-\NewDocumentCommand{\cityfont}{}    {\tiny}
-\NewDocumentCommand{\bigcityfont}{} {\scriptsize}
-\NewDocumentCommand{\regionfont}{}  {\tiny\itshape}
-
-\NewExpandableDocumentCommand{\cityMarkerStyle}{}{solid}
-\NewExpandableDocumentCommand{\cityMarkerColor}{}{blue}
-
-\newlength{\cityLabelWd}
-\setlength{\cityLabelWd}{1pt}
-
-\newlength{\cityLabelSep}
-\setlength{\cityLabelSep}{2.5pt}
-
-% Put a city on the map
-% #1 optional: angle of rotation
-% #2 longitude
-% #3 latitude
-% #4 name (used for node name)
-% #5 name (if present, #4 used for node name, #5 for text;
-%    (if absent, #4 is used for both with default \cityfont for text)
-\NewDocumentCommand{\city}{ O{0} m m m o }{%
-    \pnodeMap(#2,#3){#4}%
-    %
-    \pscircle[
-        fillstyle=\cityMarkerStyle,
-        fillcolor=\cityMarkerColor
-    ](#4){\cityLabelWd}%
-    %
-    \uput{\cityLabelSep}[#1](#4){%
-        \cityfont
-        \IfValueTF{#5}{#5}{\cityfont#4}%
-    }%
-}
-
-% Any kind of label on the map
-% #1 optional: rotation angle (default 0)
-% #2 latitude
-% #3 longitude
-% #4 label for node
-% #5 text
-\NewDocumentCommand{\mapLabel}{ O{0} m m m m }{%
-    \pnodeMap(#2,#3){#4}%
-    \rput{#1}(#4){#5}%
-}
+\def\starty{1.85}
+\def\endy{2.5}
 
 \begin{document}
 \begin{map}
     \psset{
-        linewidth=\psLineWd,
-        unit=\unit
+        linewidth=\mapLineWd,
+        unit=\mapUnit
     }
     \begin{pspicture}*(\startx,\starty)(\endx,\endy)
        
-        \psframe(\startx,\starty)(\endx,\endy)
-        
         \psset{
             type=1, % Mercator projection
             latitude0=40.4168, % center on Madrid
@@ -97,7 +24,7 @@
         }
 
         \WorldMapII[
-            path=\path,
+            path=\mapPath,
             maillage=false,
             level=5,
             borders=true,

@@ -1,0 +1,125 @@
+\documentclass{article}
+\usepackage{mapa}
+
+\def\mapUnit{5}
+
+\def\startx{-5.75}
+\def\endx{-3.23}
+
+\def\starty{-1.1}
+\def\endy{1.6}
+
+\begin{document}
+\begin{map}
+    \psset{
+        linewidth=\mapLineWd,
+        unit=\mapUnit
+    }
+    \begin{pspicture}*(\startx,\starty)(\endx,\endy)
+
+        \psset{
+            type=1, % Mercator
+            latitude0=-90.50688, % center on Guatemala city
+            longitude0=14.63491
+        }
+
+        \WorldMapII[
+            path=\mapPath,
+            maillage=false,
+            level=5,
+            borders=false,
+            rivers=false,
+            Europe=false,
+            Africa=false,
+            Asia=false,
+            Northamerica=true,
+            Southamerica=true
+        ]
+
+        \city[90]{-99.10134}{19.24646}
+        {México}[\bigcityfont\textsc{Mexico}]
+
+        \city[270]{-98.20627}{19.04143}
+        {Puebla}[\bigcityfont Puebla]
+
+        \city{-96.72658}{17.07318}
+        {Oaxaca}
+
+        \city[35]{-96.57833}{19.26016}
+        {Veracruz}
+
+        \city[190]{-99.82365}{16.8531}
+        {Acapulco}
+
+        \city{-90.50688}{14.63491}
+        {Guatemala}[\bigcityfont Guatemala]
+
+        \city{-77.04275}{-12.04637}
+        {Lima}[\bigcityfont Lima]
+
+        \city[75]{-71.96746}{-13.53195}
+        {Cuzco}[\bigcityfont Cuzco]
+
+        \city[340]{-78.46783}{-0.18065}
+        {Quito}[\bigcityfont Quito]
+        
+        \city[25]{-78.183236}{0.34714}
+        {Ibarra}
+
+        \city[160]{-75.45777}{10.48365}
+        {Cartagena}
+
+        \city[100]{-65.25921}{-19.03534}
+        {Sucre}[\Shortstack{{La Paz} (Sucre)}]
+
+        \city{-81.31243}{29.90124}
+        {San Agustín}
+
+        \city[135]{-82.36659}{23.11359}
+        {Havana}
+
+        \city[290]{-68.83121}{18.48605}
+        {Santo Domingo}[\Shortstack{Santo Domingo}]
+
+        \city[90]{-104.65317}{24.02772}
+        {Durango}
+
+        \city[75]{-103.3496}{20.65969}
+        {Guadalajara}
+
+        \city[250]{-75.83015}{20.01692}
+        {Santiago de Cuba}
+
+        \city{-89.59258}{20.96737}
+        {Mérida}
+
+        \city{-74.07209}{4.71098}
+        {Bogotá}
+
+        \mapLabel{-102}{23}
+        {New Spain}{\regionfont N e w\quad S p a i n}
+
+        \mapLabel{-73}{6.5}
+        {New Granada}{\regionfont N e w\quad G r a n a d a}
+
+        \mapLabel{-75}{-9}
+        {Peru}{\regionfont P e r u}
+
+        \mapLabel[290]{-83.5}{27.5}
+        {Florida}{\regionfont F l o r i d a}
+
+        \mapLabel{-78}{15}
+        {Caribbean}{\small\itshape Carribean Sea}
+
+        \mapLabel{-90}{24.5}
+        {Gulf}{\footnotesize\itshape Gulf of Mexico}
+        
+        \mapLabel{-100}{-3}
+        {Pacific}{\itshape Pacific Ocean}
+        
+        \mapLabel{-71}{28}
+        {Atlantic}{\itshape Atlantic Ocean}
+    \end{pspicture}
+\end{map}
+\end{document}
+

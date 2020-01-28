@@ -1,0 +1,81 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{mapa}[2020/01/28 Simpler maps with pst-geo]
+
+\RequirePackage[T1]{fontenc}
+\RequirePackage{fbb}
+\pagestyle{empty}
+
+\RequirePackage{pst-geo}
+
+\RequirePackage{xparse}
+\RequirePackage{environ}
+\RequirePackage{graphicx}
+
+\RequirePackage{stackengine}
+\setstackgap{S}{2pt}
+
+% Data path
+\def\mapPath{/usr/local/texlive/2019/texmf-dist/tex/generic/pst-geo/data}
+
+% Base unit
+\def\mapUnit{1}
+
+% Width of PS lines
+\def\mapLineWd{0.25\pslinewidth}
+
+% Coordinates for map frame (portion of world map, offset from equator at 0
+% longitude
+\def\startx{0} 
+\def\endx{1}
+
+\def\starty{0}
+\def\endy{1}
+
+\def\cityfont{\tiny}
+\def\bigcityfont{\scriptsize}
+\def\regionfont{\tiny\itshape}
+
+\def\cityMarkerStyle{solid}
+\def\cityMarkerColor{blue}
+
+\def\cityLabelWd{1pt}
+\def\cityLabelSep{2.5pt}
+
+% Put a city on the map
+% #1 optional: angle of rotation
+% #2 longitude
+% #3 latitude
+% #4 name (used for node name)
+% #5 name (if present, #4 used for node name, #5 for text;
+%    (if absent, #4 is used for both with default \cityfont for text)
+\NewDocumentCommand{\city}{ O{0} m m m o }{%
+    \pnodeMap(#2,#3){#4}%
+    %
+    \pscircle[
+        fillstyle=\cityMarkerStyle,
+        fillcolor=\cityMarkerColor
+    ](#4){\cityLabelWd}%
+    %
+    \uput{\cityLabelSep}[#1](#4){%
+        \cityfont
+        \IfValueTF{#5}{#5}{\cityfont#4}%
+    }%
+}
+
+% Any kind of label on the map
+% #1 optional: rotation angle (default 0)
+% #2 latitude
+% #3 longitude
+% #4 label for node
+% #5 text
+\NewDocumentCommand{\mapLabel}{ O{0} m m m m }{%
+    \pnodeMap(#2,#3){#4}%
+    \rput{#1}(#4){#5}%
+}
+
+% Full textwidth map
+\NewEnviron{map}{%
+    \noindent\resizebox{\textwidth}{!}{\framebox{\BODY}}%
+}
+
+\endinput
