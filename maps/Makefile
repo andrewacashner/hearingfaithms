@@ -1,6 +1,8 @@
 dirs = aux build
 
-.PHONY : spain mexico view clean reset
+.PHONY : all spain mexico view clean reset
+
+all : spain mexico 
 
 spain : build/spain.pdf 
 
