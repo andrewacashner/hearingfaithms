@@ -43,8 +43,7 @@ Andrew Cashner's book on villancicos for Brill]
 
 % INDEX
 \RequirePackage{makeidx}
-%\RequirePackage[totoc]{idxlayout} % Add index to table of contents
-\RequirePackage{tocbibind}
+\RequirePackage[totoc]{idxlayout} % Add index to table of contents
 
 % Custom shorthands for unwieldy terms with accented characters
 \input{tex/index} 
