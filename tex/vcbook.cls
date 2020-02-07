@@ -31,10 +31,14 @@ Andrew Cashner's book on villancicos for Brill]
 \sloppy         % Allow horizontal word spacing to be less than perfect
 \raggedbottom   % Don't stretch things vertically to fill page
 
+% Hide page numbers on \part pages
+\patchcmd{\part}{\thispagestyle{plain}}{\thispagestyle{empty}}{}{}
+
 % LANGUAGE, HYPHENATION
-\RequirePackage{polyglossia}
-\setdefaultlanguage[variant=american]{english}
-\setotherlanguage{spanish}
+\RequirePackage[spanish, es-noquoting, american]{babel}
+% Avoid conflict between `babel' and `quoting' package
+\let\quoting\relax
+\let\endquoting\relax
 
 % BIBLIOGRAPHY
 % Chicago notes-bibliography style with automatic hyphenation by language
@@ -47,6 +51,12 @@ Andrew Cashner's book on villancicos for Brill]
 
 % Custom shorthands for unwieldy terms with accented characters
 \input{tex/index} 
+
+% Keep biblio, index at top level in hierarchy
+\NewDocumentCommand{\mybackmatter}{}{%
+    \backmatter
+    \bookmarksetup{startatroot}%
+}
 
 % Use a delimited list to add multiple index entries in one command
 % Split first argument at semicolons, then apply command `\index` to each one
@@ -123,6 +133,8 @@ Andrew Cashner's book on villancicos for Brill]
 \@NewRefCommand{dia}    {diagram}       {Dia}   {Diagram}
 \@NewRefCommand{map}    {map}           {Map}   {Map}
 
+\NewDocumentCommand{\floatfontsize}{}{\footnotesize}
+
 % FLOAT FORMATTING AND FILE INCLUSION
 % Command to create commands for inserting TeX-generated floats 
 % #1 Command to insert float type
@@ -136,6 +148,7 @@ Andrew Cashner's book on villancicos for Brill]
         \begin{#2}[!t]
             \caption{##2}
             \label{#3:##1}
+            \floatfontsize
             \input{#4/##1}
         \end{#2}%
     }%
@@ -163,7 +176,7 @@ Andrew Cashner's book on villancicos for Brill]
 % \textheight minus enough room for the caption and some text at the bottom of
 % the page
 \newlength{\figureheight}
-\setlength{\figureheight}{\dimexpr\textheight-10\baselineskip}
+\setlength{\figureheight}{\dimexpr\textheight-8\baselineskip}
 \setkeys{Gin}{%
     width=\textwidth,
     height=\figureheight,
@@ -225,13 +238,14 @@ Andrew Cashner's book on villancicos for Brill]
 \NewDocumentCommand{\liningfigures}{}{%
     \addfontfeatures{Numbers={Lining}}%
 }
-\RequirePackage{etoolbox}
+
 \AtBeginEnvironment{tabular}    {\liningfigures}
 \AtBeginEnvironment{tabulary}   {\liningfigures}
 \AtBeginEnvironment{tabularx}   {\liningfigures}
 \AtBeginEnvironment{tikzpicture}{\liningfigures}
 
- % Custom minipage environment for use inside tables with ruled tabulars
+
+% Custom minipage environment for use inside tables with ruled tabulars
 % Eliminates footnoterule to avoid clash with \bottomrule
 \NewDocumentEnvironment{tableminipage}{}
 {%
@@ -245,10 +259,8 @@ Andrew Cashner's book on villancicos for Brill]
 % FLOAT STYLE
 % Put all float captions above floats and center them
 \RequirePackage[capposition=top]{floatrow} 
-
-% Reduced size for floats
-\floatsetup[table]       {font=footnotesize}
-\floatsetup[poemexample] {font=footnotesize}
+\DeclareFloatFont{Small}{\floatfontsize}
+\floatsetup{font=Small}
 
 % OTHER PACKAGES NEEDED FOR FLOATS
 % For all poem examples
@@ -275,5 +287,7 @@ Andrew Cashner's book on villancicos for Brill]
     \let\wtitle\emph
     \let\term\emph
 }
+
+\RequirePackage[numbered]{bookmark}
 
 \endinput

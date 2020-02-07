@@ -7,6 +7,12 @@ Macros for semantic markup for Cashner villancico monograph]
 \RequirePackage{musicography}[2020/01/29]
 \RequirePackage{octave}
 
+% Style for musicography meters
+\RenewDocumentCommand{\musNumFont}{}{\addfontfeatures{Numbers={Lining}}}
+\RenewDocumentCommand{\meterCZ}{}{%
+    \meterCplus{{\bfseries\itshape\large z}}%
+}
+
 % RANGES
 % Range and number (e.g., m. 1 or mm. 2 for measures)
 % #1 abbreviation, #2 number
@@ -37,6 +43,11 @@ Macros for semantic markup for Cashner villancico monograph]
 
 \RequirePackage{bibleref-parse}
 \NewDocumentCommand{\scripture} { m } {\pbibleverse{#1}}
+\newbiblerefstyle{chicago2}{%
+    \biblerefstyle{chicago}%
+    \renewcommand{\BRchapterstyle}[1]{##1}%
+}
+\biblerefstyle{chicago2}
 
 % Archival signature
 \NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} 

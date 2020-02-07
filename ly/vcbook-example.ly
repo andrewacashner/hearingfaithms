@@ -7,14 +7,14 @@
 \version "2.19"
 
 #(set-default-paper-size "letter")
-#(set-global-staff-size 13)
+#(set-global-staff-size 10)
 
 \include "vcbook-font.ly"
 
 \layout {
   indent = 0.5\in
   short-indent= 0\in
-  line-width = 6.5\in
+  line-width = 5\in
   top-margin=1\in
   bottom-margin=1\in
 }
@@ -27,9 +27,9 @@
   oddHeaderMarkup=##f
   bookTitleMarkup = ##f
   scoreTitleMarkup = ##f
-  system-system-spacing.basic-distance = #12 % these are defaults
-  system-system-spacing.minimum-distance = #8
-  system-system-spacing.padding = #5 % default = #1
+  system-system-spacing.basic-distance = #12 % default
+  system-system-spacing.minimum-distance = #8 % default
+  system-system-spacing.padding = #3 % default = #1
   system-system-spacing.stretchability = #60
 }
 

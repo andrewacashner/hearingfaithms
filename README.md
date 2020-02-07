@@ -18,6 +18,9 @@
 - Linux utilities: BASH shell, GNU Make:
   I am using [Fedora 31](https://getfedora.org/)
 
+Note: The indexing program `xindy` requires `libncurses.so.5`. On current
+Fedora this requires installing the package `ncurses-compat-libs`.
+
 ## Installation
 
 Clone the Git repository to a local directory:

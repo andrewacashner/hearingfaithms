@@ -68,6 +68,10 @@ main_aux	= $(addprefix $(aux)/,$(main_in:%.tex=%.pdf))
 
 latexmkrc	= tex/latexmkrc
 
+# Commands
+# High resolution is needed to avoid bounding box errors with Lilypond files
+pdfcrop = pdfcrop --hires --resolution 1000x1000
+
 # TARGETS and RULES
 .PHONY : all ly maps count view clean reset 
 
@@ -93,8 +97,8 @@ $(main_out) : $(main_aux)
 
 # LILYPOND MUSIC EXAMPLES
 # Compile Lilypond PDFs to music_exx dir
-# - Lilypond can crop its own PDFs but to do so it generates intermediate
-#   *.cropped.png and *.cropped.pdf.
+# Crop using pdfcrop with high resolution
+# - Lilypond's own cropping mechanism destroys vertical spacing
 # - It can route output to a directory but only if the extension is left off and
 #   only if relative includes are enabled.
 
@@ -102,11 +106,11 @@ ly : $(music_out)
 
 $(music_out) : $(ly_in) $(ly_lib) | $(dirs)
 
-$(music_out_dir)/%.pdf : $(music_aux_dir)/%.cropped.pdf
-	cp -u $< $@
+$(music_out_dir)/%.pdf : $(music_aux_dir)/%.pdf
+	$(pdfcrop) $< $@
 
-$(music_aux_dir)/%.cropped.pdf : $(ly_in_dir)/%.ly 
-	lilypond -I $(PWD)/ly -dcrop -drelative-includes \
+$(music_aux_dir)/%.pdf : $(ly_in_dir)/%.ly 
+	lilypond -I $(PWD)/ly -drelative-includes \
 	    -o $(music_aux_dir)/$* $<
 
 # FIGURES
@@ -116,23 +120,24 @@ $(figures_out) : $(figures_in)
 build/figures/%.jpg : figures/%.jpg
 	cp -u $< $@
 
+
 # MAPS
 # Compile to cropped PDFs using pstricks
 maps : $(maps_out)
 
 $(maps_out) : $(maps_in) $(tex_lib) | $(dirs)
 
-$(maps_out_dir)/%.pdf : $(music_aux_dir)/%.pdf
-	pdfcrop $< $@
+$(maps_out_dir)/%.pdf : $(maps_aux_dir)/%.pdf
+	$(pdfcrop) $< $@
 
-$(music_aux_dir)/%.pdf : $(music_aux_dir)/%.ps
+$(maps_aux_dir)/%.pdf : $(maps_aux_dir)/%.ps
 	ps2pdf -dNOSAFER $< $@
 
-$(music_aux_dir)/%.ps : $(music_aux_dir)/%.dvi
+$(maps_aux_dir)/%.ps : $(maps_aux_dir)/%.dvi
 	dvips $< -o $@
 
-$(music_aux_dir)/%.dvi : $(maps_in_dir)/%.tex
-	latex -output-directory=$(music_aux_dir) $<
+$(maps_aux_dir)/%.dvi : $(maps_in_dir)/%.tex
+	latex -output-directory=$(maps_aux_dir) $<
 
 
 # DIRECTORIES
