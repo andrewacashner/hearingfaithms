@@ -192,19 +192,19 @@ MusicAc = {
 LyricsSIii = \lyricmode {
   que sor -- dos son, que \EdLyrics{ sor -- dos son }
   los que no~es -- cu -- chan ni~en -- tien -- den el son,
-  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. __ }
+  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den __ el son. __ }
 }
 
 LyricsBI = \lyricmode {
   que sor -- dos son, que \EdLyrics{ sor -- dos son }
   los que no~es -- cu -- chan ni~en -- tien -- den el son,
-  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. __ }
+  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den __ el son. __ }
 }
 
 LyricsAII = \lyricmode {
   son,
   los que no~es -- cu -- chan ni~en -- tien -- den el son,
-  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den el son. __ }
+  los que \EdLyrics{ no~es -- cu -- chan ni~en -- tien -- den __ el son. __ }
 
 }
 
