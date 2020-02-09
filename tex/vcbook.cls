@@ -34,6 +34,11 @@ Andrew Cashner's book on villancicos for Brill]
 % Hide page numbers on \part pages
 \patchcmd{\part}{\thispagestyle{plain}}{\thispagestyle{empty}}{}{}
 
+% Try harder to avoid widow and orphan lines
+% Default is 150 for each
+\widowpenalty=5000
+\clubpenalty=5000
+
 % LANGUAGE, HYPHENATION
 \RequirePackage[spanish, es-noquoting, american]{babel}
 % Avoid conflict between `babel' and `quoting' package
@@ -176,7 +181,7 @@ Andrew Cashner's book on villancicos for Brill]
 % \textheight minus enough room for the caption and some text at the bottom of
 % the page
 \newlength{\figureheight}
-\setlength{\figureheight}{\dimexpr\textheight-8\baselineskip}
+\setlength{\figureheight}{\dimexpr\textheight-10\baselineskip}
 \setkeys{Gin}{%
     width=\textwidth,
     height=\figureheight,
