@@ -172,6 +172,7 @@ Andrew Cashner's book on villancicos for Brill]
             \caption{##2}
             \label{#3:##1}
             \includegraphics{#4/##1}%
+            \centering
         \end{#2}%
     }%
 }
@@ -248,18 +249,6 @@ Andrew Cashner's book on villancicos for Brill]
 \AtBeginEnvironment{tabulary}   {\liningfigures}
 \AtBeginEnvironment{tabularx}   {\liningfigures}
 \AtBeginEnvironment{tikzpicture}{\liningfigures}
-
-
-% Custom minipage environment for use inside tables with ruled tabulars
-% Eliminates footnoterule to avoid clash with \bottomrule
-\NewDocumentEnvironment{tableminipage}{}
-{%
-    \let\oldendminipage\endminipage 
-    \def\endminipage{\let\footnoterule\relax\oldendminipage}%
-    \begin{minipage}{\linewidth}%
-}{% 
-    \centering\end{minipage}\par
-}
 
 % FLOAT STYLE
 % Put all float captions above floats and center them

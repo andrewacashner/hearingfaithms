@@ -53,7 +53,7 @@
     }{%
         \draw circle [radius=#3];
     }
-    \node [draw, circle, fill=white] 
+    \node [draw, circle, fill=yellow!25] 
     at (-45*#3+180:#3) {\planetSymbol{#2}};
 }
 \NewDocumentCommand{\planetLabel}{ m m }{%
@@ -64,10 +64,10 @@
     ] at (0, #2) {#1};
 }
 
-\colorlet{lightest} {black!5}
-\colorlet{light}    {black!10}
-\colorlet{medium}   {black!15}
-\colorlet{dark}     {black!20}
+\colorlet{lightest} {blue!5}
+\colorlet{light}    {blue!10}
+\colorlet{medium}   {blue!15}
+\colorlet{dark}     {blue!25}
 
 \NewExpandableDocumentCommand{\wdMoon}      {}{3}
 \NewExpandableDocumentCommand{\wdMercury}   {}{4}

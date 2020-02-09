@@ -45,7 +45,8 @@ MusicB = {
     >>
   >>
   \layout {
-    ragged-right = ##t
+%    ragged-right = ##t
+    line-width=3\in
     indent = 1\in
     \context {
       \Score
