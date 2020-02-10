@@ -33,11 +33,12 @@ git clone git@bitbucket.org:andrewacashner/vcbook.git
 
 The Makefile compiles each music example as a separate cropped PDF using
 Lilypond and stores these in `build/music-examples`.
+It compiles the other kinds of floats using LaTeX and puts them in their build
+subdirectories.
 It copies the figures into `build/figures`.
 
 Then it compiles the whole document using LaTeX including all chapters and
-included floats (tables, poem examples, diagrams) and stores the result in
-`build`.
+included floats and stores the result in `build`.
 
 All necessary configuration files for LaTeX and Lilypond are included in the
 `tex/` and `ly/` directories, respectively.

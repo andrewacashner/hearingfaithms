@@ -11,36 +11,21 @@ Andrew Cashner's book on villancicos for Brill]
 % CUSTOM COMMANDS
 \RequirePackage{xparse}             
 \RequirePackage{etoolbox}
-\RequirePackage{morewrites}
 
 % Custom package for semantic markup
 \RequirePackage{tex/vcbook-macros}  
 
-% TYPEFACE
-% Use True-Type Unicode font (Brill)
-\RequirePackage{fontspec}           
-\setmainfont{Brill}
-\RequirePackage{microtype}
-\frenchspacing % Single space between sentences
-
-% Use same font for urls
-\RequirePackage{url}
-\urlstyle{same}
+% Custom formatting
+\RequirePackage{tex/vcbook-format}
 
 % PAGE LAYOUT
-\sloppy         % Allow horizontal word spacing to be less than perfect
-\raggedbottom   % Don't stretch things vertically to fill page
-
 % Hide page numbers on \part pages
 \patchcmd{\part}{\thispagestyle{plain}}{\thispagestyle{empty}}{}{}
 
-% Try harder to avoid widow and orphan lines
-% Default is 150 for each
-\widowpenalty=5000
-\clubpenalty=5000
+% Avoid widow and orphan lines
+\RequirePackage[defaultlines=4, all]{nowidow}
 
 % LANGUAGE, HYPHENATION
-\RequirePackage[spanish, es-noquoting, american]{babel}
 % Avoid conflict between `babel' and `quoting' package
 \let\quoting\relax
 \let\endquoting\relax
@@ -88,7 +73,6 @@ Andrew Cashner's book on villancicos for Brill]
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
 \RequirePackage{graphicx}
-\RequirePackage{adjustbox}
 \RequirePackage{quoting}
 \RequirePackage{longtable}
 
@@ -138,28 +122,25 @@ Andrew Cashner's book on villancicos for Brill]
 \@NewRefCommand{dia}    {diagram}       {Dia}   {Diagram}
 \@NewRefCommand{map}    {map}           {Map}   {Map}
 
-\NewDocumentCommand{\floatfontsize}{}{\footnotesize}
+% Set defaults for graphics commands used in above command
+% Graphics size: Width and height can be as large as \textwidth and the
+% \textheight minus enough room for the caption and some text at the bottom of
+% the page
+\newlength{\figureheight}
+\setlength{\figureheight}{\dimexpr\textheight-10\baselineskip}
+\graphicspath{
+    {build/figures/}
+    {build/music-examples/}
+    {build/tables/}
+    {build/diagrams/}
+    {build/poem-examples/}
+    {build/maps/}
+}
+
+\RequirePackage{adjustbox}
 
 % FLOAT FORMATTING AND FILE INCLUSION
 % Command to create commands for inserting TeX-generated floats 
-% #1 Command to insert float type
-% #2 name of float type
-% #3 abbreviation used in label prefix
-% #4 directory to input from
-\NewDocumentCommand{\@NewTeXfloatCmd}{ m m m m }{%
-    \expandafter\NewDocumentCommand\csname#1\endcsname{ m m }{%
-        % ##1 file basename = label basename
-        % ##2 caption text
-        \begin{#2}[!t]
-            \caption{##2}
-            \label{#3:##1}
-            \floatfontsize
-            \input{#4/##1}
-        \end{#2}%
-    }%
-}
-
-% Same idea, now for externally-generated image files
 % #1 Command to insert float type
 % #2 name of float type
 % #3 abbreviation used in label prefix
@@ -171,40 +152,26 @@ Andrew Cashner's book on villancicos for Brill]
         \begin{#2}[!t]
             \caption{##2}
             \label{#3:##1}
-            \includegraphics{#4/##1}%
+            \adjincludegraphics[
+                max width=\textwidth,
+                max height=\figureheight,
+                keepaspectratio
+            ]{##1}%
             \centering
         \end{#2}%
     }%
 }
 
-% Set defaults for graphics commands used in above command
-% Graphics size: Width and height can be as large as \textwidth and the
-% \textheight minus enough room for the caption and some text at the bottom of
-% the page
-\newlength{\figureheight}
-\setlength{\figureheight}{\dimexpr\textheight-10\baselineskip}
-\setkeys{Gin}{%
-    width=\textwidth,
-    height=\figureheight,
-    keepaspectratio
-}
-
 % Now create the float-insertion commands
 % TeX floats
-\@NewTeXfloatCmd{insertTable}   {table}        {tab}  {tables}
-\@NewTeXfloatCmd{insertPoem}    {poemexample}  {poem} {poem-examples}
-\@NewTeXfloatCmd{insertDiagram} {diagram}      {dia}  {diagrams}
+\@NewIMGfloatCmd{insertTable}   {table}        {tab}  {tables}
+\@NewIMGfloatCmd{insertPoem}    {poemexample}  {poem} {poem-examples}
+\@NewIMGfloatCmd{insertDiagram} {diagram}      {dia}  {diagrams}
 
 % Image floats
 \@NewIMGfloatCmd{insertFigure}  {figure}       {fig}  {build/figures}
 \@NewIMGfloatCmd{insertMusic}   {musicexample} {mus}  {build/music-examples}
 \@NewIMGfloatCmd{insertMap}     {map}          {map}  {build/maps}
-
-% Keep Tikz graphics under maximum width by putting them in this environment
-\RequirePackage{environ}
-\NewEnviron{textwidthbox}{%
-    \resizebox{\textwidth}{!}{\BODY}%
-}
 
 % INLINE ENVIRONMENTS
 % Inline poems and translation in parallel columns
@@ -235,34 +202,9 @@ Andrew Cashner's book on villancicos for Brill]
     \end{quotepoemContents}%
 }
 
-% TABLES
-\RequirePackage{tabulary,tabularx}
-\RequirePackage{booktabs}
-\RequirePackage[normalem]{ulem} % Underlining
-
-% Set up and use lining figures for all tables and diagrams
-\NewDocumentCommand{\liningfigures}{}{%
-    \addfontfeatures{Numbers={Lining}}%
-}
-
-\AtBeginEnvironment{tabular}    {\liningfigures}
-\AtBeginEnvironment{tabulary}   {\liningfigures}
-\AtBeginEnvironment{tabularx}   {\liningfigures}
-\AtBeginEnvironment{tikzpicture}{\liningfigures}
-
 % FLOAT STYLE
 % Put all float captions above floats and center them
 \RequirePackage[capposition=top]{floatrow} 
-\DeclareFloatFont{Small}{\floatfontsize}
-\floatsetup{font=Small}
-
-% OTHER PACKAGES NEEDED FOR FLOATS
-% For all poem examples
-\RequirePackage{tex/poemtranslation} 
-% For diagrams
-\RequirePackage{tex/solfa} 
-\RequirePackage{tex/cosmos}
-\RequirePackage{tikz-qtree}
 
 % CROSS REFERENCES and LINKS
 \RequirePackage[

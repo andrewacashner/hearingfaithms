@@ -1,0 +1,41 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{tex/vcbook-format}[2020/02/10
+Format common to vcbook and vcbook-float classes]
+
+% TYPEFACE
+% Use True-Type Unicode font (Brill)
+\RequirePackage{fontspec}           
+\setmainfont{Brill}
+\RequirePackage{microtype}
+\frenchspacing % Single space between sentences
+
+% Use same font for urls
+\RequirePackage{url}
+\urlstyle{same}
+
+% PAGE LAYOUT
+\sloppy         % Allow horizontal word spacing to be less than perfect
+\raggedbottom   % Don't stretch things vertically to fill page
+
+% LANGUAGE, HYPHENATION
+\RequirePackage[spanish, es-noquoting, american]{babel}
+
+% TABLES
+\RequirePackage{tabulary,tabularx}
+\RequirePackage{booktabs}
+\RequirePackage[normalem]{ulem} % Underlining
+
+% Set up and use lining figures for all tables and diagrams
+\NewDocumentCommand{\liningfigures}{}{%
+    \addfontfeatures{Numbers={Lining}}%
+}
+
+\AtBeginEnvironment{tabular}    {\liningfigures}
+\AtBeginEnvironment{tabulary}   {\liningfigures}
+\AtBeginEnvironment{tabularx}   {\liningfigures}
+\AtBeginEnvironment{tikzpicture}{\liningfigures}
+
+
+\endinput
+
+
