@@ -25,7 +25,7 @@ MusicA = {
   a'2 r2
   R1
   r2 r4 a'4
-  b'2 r4 c''8 b'8 
+  b'2 r4 c''8 \ficta bes'8 
   a'2 r2
 }
 

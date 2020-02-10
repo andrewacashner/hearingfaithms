@@ -31,10 +31,10 @@ MusicSi = {
   f'1.
   r1.	
 
-  r2 bes'4( c''4) d''4( e''4)
-  f''2 d''4( e''4) f''4( g''4) 
-  d''2 bes'4( c''4) d''4( e''4)
-  f''2 d''4( e''4) f''4( g''4) 
+  r2 bes'4( c''4) d''4( \ficta es''4)
+  f''2 d''4( \ficta es''4) f''4( g''4) 
+  d''2 bes'4( c''4) d''4( \ficta es''4)
+  f''2 d''4( \ficta es''4) f''4( g''4) 
   d''2\color bes'1
   r2 g'2 bes'2~
   bes'2 bes'2. a'4\endcolor
@@ -58,13 +58,13 @@ MusicSii = {
   c''2 a'4( bes'4) c''4( d''4)
   a'2\color f'1 
   r2 d''2 f''2~
-  f''2\endcolor f''2. g''4 
+  f''2\endcolor f''2. e''4 
   f''1.
-  r2 bes'4( c''4) d''4( e''4) 
 
-  f''2 d''4( e''4) f''4( g''4)
-  d''2 bes'4( c''4) d''4( e''4) 
-  f''2 d''4( e''4) f''4( g''4)
+  r2 bes'4( c''4) d''4( \ficta es''4) 
+  f''2 d''4( \ficta es''4) f''4( g''4)
+  d''2 bes'4( c''4) d''4( \ficta es''4) 
+  f''2 d''4( \ficta es''4) f''4( g''4)
   d''2\color bes'1\endcolor 
   r2 r2 d''2
   es''1\color d''1 c''1\endcolor

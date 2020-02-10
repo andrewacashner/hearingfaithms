@@ -10,9 +10,9 @@
 %****************************************
 
 MusicSIi = \relative c'' {
-    \set Score.currentBarNumber = #25
-    \ShowFirstBarNumber
-    \MeterDuple
+    \set Score.currentBarNumber = #29
+        \ShowFirstBarNumber
+        \MeterDuple
         e2 d8 d d d |
         d4 d4. d8 d4 |
         e4 e r4 a,8 a| 
@@ -32,7 +32,7 @@ MusicSIi = \relative c'' {
 
 MusicSIii = \relative c'' {
     \MeterDuple
-    g4 g g8 g g g |
+        g4 g g8 g g g |
         g4 g4. g8 f4 |
         a4 a r4 f8 f |
 
@@ -51,7 +51,7 @@ MusicSIii = \relative c'' {
 
 MusicAI = \relative c' {
     \MeterDuple
-    c4 g b8 b b b |
+        c4 g b8 b b b |
         b4 b4. b8 d4 |
         cis4 cis r4 d8 d |
 
@@ -70,7 +70,7 @@ MusicAI = \relative c' {
 
 MusicTI = \relative c {
     \MeterDuple
-    d2 g8 g g g |
+        c2 g'8 g g g |
         g4 g4. g8 d4 |
         a'4 a r4 d,8 d |
 
@@ -89,7 +89,7 @@ MusicTI = \relative c {
 
 MusicSII = \relative c'' {
     \MeterDuple
-    c2 b8 b b b |
+        c2 b8 b b b |
         b4 b4. b8 a4 |
         cis4 cis r2 |
 
@@ -108,7 +108,7 @@ MusicSII = \relative c'' {
 
 MusicAII = \relative c' {
     \MeterDuple
-    e4 c d8 d d d |
+        e4 c d8 d d d |
         d4 d4. e8 f4 |
         e4 e r2
 
@@ -127,7 +127,7 @@ MusicAII = \relative c' {
 
 MusicTII = \relative c' {
     \MeterDuple
-    g2 g8 g g g |
+        g2 g8 g g g |
         g4 g4. g8 a4 |
         a4 a r2
 
@@ -146,7 +146,7 @@ MusicTII = \relative c' {
 
 MusicBII = \relative c {
     \MeterDuple
-    c2 g8 g g g |
+        c2 g8 g g g |
         g4 g4. g8 d'4 |
         a4 a r2 |
 
@@ -165,7 +165,7 @@ MusicBII = \relative c {
 
 MusicAc = \relative c' {
     \MeterDuple
-    c,2 g'2 |
+        c,2 g'2 |
         g4 g2 d4 |
         a2 d2 |
 
@@ -265,10 +265,6 @@ LyricsAII = \lyricmode {
         >>
         \layout { 
             short-indent = 0\in
-                \context { 
-                    \Score 
-                        \omit BarNumber
-                }
         }
 }
 

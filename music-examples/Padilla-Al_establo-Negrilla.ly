@@ -76,7 +76,7 @@ LyricsSI = \lyricmode {
   Di -- ga pli -- mo, don -- de sa?
   la ni --  ño, de na -- ci -- men -- ta
   plu -- que sa -- mo su __ pa -- len -- ta
-  y la ve -- ni -- mo~a bus -- ca.
+  y la ve -- ni -- mo~a __ bus -- ca.
 }
 
 LyricsTI = \lyricmode {

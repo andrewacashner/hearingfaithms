@@ -22,6 +22,7 @@ MusicSIi = {
 }
 
 MusicSIii = {
+  \MeterDuple
   a'2 r2 
   r2 r4 d''8 d''8
   e''4 e''4 f''4. g''8
@@ -32,6 +33,7 @@ MusicSIii = {
 
 
 MusicAI = {
+  \MeterDuple
   \clef "treble"
   e'4 r4 r2
   R1
@@ -42,6 +44,7 @@ MusicAI = {
 }
 
 MusicTI = {
+  \MeterDuple
   a4 a'8 g'8 f'8 e'8 d'4~
   d'4 cis'4 d'4 b8 b8
   a1
@@ -52,6 +55,7 @@ MusicTI = {
 
 
 MusicSII = {
+  \MeterDuple
   \clef "treble"
   R1*3
   r4 a''8 g''8 f''8 e''8 d''8 c''8
@@ -60,6 +64,7 @@ MusicSII = {
 }
 
 MusicAII = {
+  \MeterDuple
   \override MultiMeasureRest.staff-position = #6
   R1*2
   r2 a'8 g'8 f'8 e'8
@@ -69,6 +74,7 @@ MusicAII = {
 }
 
 MusicTII = {
+  \MeterDuple
   \clef "treble"
   R1
   r4 a'8 g'8 f'8 e'8 d'4~
@@ -79,6 +85,7 @@ MusicTII = {
 }
 
 MusicBII = {
+  \MeterDuple
   \override MultiMeasureRest.staff-position = #9
   R1*2
   r4 a8 g8 f8 e8 d4~
@@ -88,6 +95,7 @@ MusicBII = {
 }
 
 MusicAc = {
+  \MeterDuple
   \clef "bass"
   a2 d'4 d'4~
   d'4 cis'4 d'4 b4

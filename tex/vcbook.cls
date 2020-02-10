@@ -23,7 +23,7 @@ Andrew Cashner's book on villancicos for Brill]
 \patchcmd{\part}{\thispagestyle{plain}}{\thispagestyle{empty}}{}{}
 
 % Avoid widow and orphan lines
-\RequirePackage[defaultlines=4, all]{nowidow}
+\RequirePackage[defaultlines=3, all]{nowidow}
 
 % LANGUAGE, HYPHENATION
 % BIBLIOGRAPHY
@@ -146,6 +146,7 @@ Andrew Cashner's book on villancicos for Brill]
                 max height=\figureheight,
                 keepaspectratio
             ]{#1}%
+        \centering
 }
 
 % INLINE ENVIRONMENTS
