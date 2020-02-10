@@ -137,7 +137,7 @@ Andrew Cashner's book on villancicos for Brill]
 
 \RequirePackage{adjustbox}
 \newlength{\figureheight}
-\setlength{\figureheight}{\dimexpr\textheight-10\baselineskip}
+\setlength{\figureheight}{\dimexpr\textheight-5\baselineskip}
 
 \NewDocumentCommand{\includefloat}{ m }{%
         \adjincludegraphics[
