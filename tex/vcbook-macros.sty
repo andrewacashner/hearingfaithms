@@ -46,6 +46,21 @@ Macros for semantic markup for Cashner villancico monograph]
 \NewDocumentCommand{\tabindent} {}      {\hspace{1em}}
 \NewDocumentCommand{\strophe}   {}      {\tabindent}
 
+% Archival signature
+\NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} 
+
+\NewDocumentCommand{\@foliotype}{ m }{\textsuperscript{#1}}
+\NewDocumentCommand{\recto}{}{\@foliotype{R}}
+\NewDocumentCommand{\verso}{}{\@foliotype{V}}
+
+% Original text in brackets (in quotation)
+\NewDocumentCommand{\addorig}   { m }   {\add{\foreign{#1}}}
+
+% UNICODE MACROS
+\RenewDocumentCommand{\Dots}{}{\add{…}} % U+2026
+\NewDocumentCommand{\charAlpha}{}{α}
+
+% SCRIPTURE REFERENCES
 \RequirePackage{bibleref-parse}
 \NewDocumentCommand{\scripture} { m } {\pbibleverse{#1}}
 \newbiblerefstyle{chicago2}{%
@@ -54,15 +69,6 @@ Macros for semantic markup for Cashner villancico monograph]
 }
 \biblerefstyle{chicago2}
 
-% Archival signature
-\NewDocumentCommand{\sig}       { m m } {\mbox{#1}: \mbox{#2}} 
-
-% Original text in brackets (in quotation)
-\NewDocumentCommand{\addorig}   { m }   {\add{\foreign{#1}}}
-
-% UNICODE MACROS
-\RenewDocumentCommand{\Dots}{}{\add{…}} % U+2026
-\NewDocumentCommand{\charAlpha}{}{α}
 
 
 \endinput

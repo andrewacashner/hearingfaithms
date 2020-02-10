@@ -34,7 +34,6 @@ Andrew Cashner's book on villancicos for Brill]
 % INDEX
 \RequirePackage{makeidx}
 \RequirePackage[totoc]{idxlayout} % Add index to table of contents
-\input{tex/index} % Custom shorthands for unwieldy terms 
 
 % Keep biblio, index at top level in hierarchy
 \NewDocumentCommand{\mybackmatter}{}{%
