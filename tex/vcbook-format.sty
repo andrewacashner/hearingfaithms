@@ -25,11 +25,7 @@ Format common to vcbook and vcbook-float classes]
 \RequirePackage{booktabs}
 \RequirePackage[normalem]{ulem} % Underlining
 
-% Set up and use lining figures for all tables and diagrams
-\NewDocumentCommand{\liningfigures}{}{%
-    \addfontfeatures{Numbers={Lining}}%
-}
-
+% Use lining figures for all tables and diagrams
 \AtBeginEnvironment{tabular}    {\liningfigures}
 \AtBeginEnvironment{tabulary}   {\liningfigures}
 \AtBeginEnvironment{tabularx}   {\liningfigures}

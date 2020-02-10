@@ -8,7 +8,11 @@ Macros for semantic markup for Cashner villancico monograph]
 \RequirePackage{octave}
 
 % Style for musicography meters
-\RenewDocumentCommand{\musNumFont}{}{\addfontfeatures{Numbers={Lining}}}
+\NewDocumentCommand{\liningfigures}{}{%
+    \addfontfeatures{Numbers={Lining}}%
+}
+\RenewDocumentCommand{\musNumFont}{}{\liningfigures}
+
 \RenewDocumentCommand{\meterCZ}{}{%
     \meterCplus{{\bfseries\itshape\large z}}%
 }
@@ -18,19 +22,20 @@ Macros for semantic markup for Cashner villancico monograph]
 % #1 abbreviation, #2 number
 \NewDocumentCommand{\range}{ m m }{#1.~#2}
 
-% Create configurable ranges, singular and plural
-% #1 text of command name (e.g., `measure')
-% #2 singular abbreviation (e.g., `m')
-% #3 plural abbreviation (e.g., `mm')
-\NewDocumentCommand{\@NewRange}{ m m m }{%
-    \expandafter\def\csname#1\endcsname##1{\range{#2}{##1}}% singular
-    \expandafter\def\csname#1s\endcsname##1{\range{#3}{##1}}% plural
-}
-\@NewRange{measure} {m} {mm}
-\@NewRange{poemline}{l} {ll}
-\@NewRange{pagenum} {p} {pp}
-\@NewRange{folio}   {f} {ff}
-\@NewRange{itemnum} {no}{nos}
+\NewDocumentCommand{\measure} { m } {\range{m}{#1}}
+\NewDocumentCommand{\measures}{ m } {\range{mm}{#1}}
+
+\NewDocumentCommand{\poemline} { m }{\range{l}{#1}}
+\NewDocumentCommand{\poemlines}{ m }{\range{ll}{#1}}
+
+\NewDocumentCommand{\pagenum} { m } {\range{p}{#1}}
+\NewDocumentCommand{\pagenums}{ m } {\range{pp}{#1}}
+
+\NewDocumentCommand{\folio} { m }   {\range{f}{#1}}
+\NewDocumentCommand{\folios}{ m }   {\range{ff}{#1}}
+
+\NewDocumentCommand{\itemnum} { m } {\range{no}{#1}}
+\NewDocumentCommand{\itemnums}{ m } {\range{nos}{#1}}
 
 % OTHER SHORTHANDS: Symbols, spacing
 \NewDocumentCommand{\sv}        { m }   {s.v.~\mentioned{#1}}

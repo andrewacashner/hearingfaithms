@@ -26,10 +26,6 @@ Andrew Cashner's book on villancicos for Brill]
 \RequirePackage[defaultlines=4, all]{nowidow}
 
 % LANGUAGE, HYPHENATION
-% Avoid conflict between `babel' and `quoting' package
-\let\quoting\relax
-\let\endquoting\relax
-
 % BIBLIOGRAPHY
 % Chicago notes-bibliography style with automatic hyphenation by language
 \RequirePackage[autolang=hyphen]{biblatex-chicago}
@@ -38,20 +34,12 @@ Andrew Cashner's book on villancicos for Brill]
 % INDEX
 \RequirePackage{makeidx}
 \RequirePackage[totoc]{idxlayout} % Add index to table of contents
-
-% Custom shorthands for unwieldy terms with accented characters
-\input{tex/index} 
+\input{tex/index} % Custom shorthands for unwieldy terms 
 
 % Keep biblio, index at top level in hierarchy
 \NewDocumentCommand{\mybackmatter}{}{%
     \backmatter
     \bookmarksetup{startatroot}%
-}
-
-% Use a delimited list to add multiple index entries in one command
-% Split first argument at semicolons, then apply command `\index` to each one
-\NewDocumentCommand{\addtoindex}{ > { \SplitList {;} } m }{%
-    \ProcessList{#1}{\index}%
 }
 
 % FOOTNOTES
@@ -72,62 +60,73 @@ Andrew Cashner's book on villancicos for Brill]
 
 % FLOATS
 % Create new environments for music examples, poem examples, diagrams
-\RequirePackage{graphicx}
-\RequirePackage{quoting}
-\RequirePackage{longtable}
-
 \RequirePackage{newfloat}
 \RequirePackage{tocloft}
 
-% Command to create all needed elements for a new float type
-% #1 environment command name
-% #2 file extension for storing float info
-% #3 name of float to be used in labels
-% #4 string used in title of list of floats
-\NewDocumentCommand{\@NewFloatAndList}{ m m m m }{%
-    \DeclareFloatingEnvironment[
-        fileext=#2,
-        name=#3,
-        listname={List of #4},
-        within=chapter
-    ]{#1}%
-}
+\DeclareFloatingEnvironment[
+    fileext=mus,
+    name={Music example},
+    listname={List of Music Examples},
+    within=chapter
+]{musicexample}
 
-% Create the float types
-\@NewFloatAndList{musicexample} {mus}  {Music example} {Music Examples}
-\@NewFloatAndList{poemexample}  {poem} {Poem example}  {Poem Examples}
-\@NewFloatAndList{diagram}      {dia}  {Diagram}       {Diagrams}
-\@NewFloatAndList{map}          {map}  {Map}           {Maps}
+\DeclareFloatingEnvironment[
+    fileext=poem,
+    name={Poem example},
+    listname={List of Poem Examples},
+    within=chapter
+]{poemexample}
 
-% Command to create reference labels, uppercase and lowercase
-% = substitute for cleveref
-% #1 lowercase abbreviation, used in command: `fig` -> `\figref`
-% #2 lowercase label
-% #3 uppercase abbreviation 
-% #4 uppercase label
-\NewDocumentCommand{\@NewRefCommand}{ m m m m }{%
-    \expandafter\NewDocumentCommand\csname#1ref\endcsname{ m }{#2~\ref{##1}}
-    \expandafter\NewDocumentCommand\csname#3ref\endcsname{ m }{#4~\ref{##1}}
-}
+\DeclareFloatingEnvironment[
+    fileext=dia,
+    name=Diagram,
+    listname={List of Diagrams},
+    within=chapter
+]{diagram}
 
-% Create the labels
-\@NewRefCommand{part}   {part}          {Part}  {Part}
-\@NewRefCommand{chap}   {chapter}       {Chap}  {Chapter}
-\@NewRefCommand{sec}    {section}       {Sec}   {Section}
-\@NewRefCommand{note}   {note}          {Note}  {Note}
-\@NewRefCommand{fig}    {figure}        {Fig}   {Figure}
-\@NewRefCommand{tab}    {table}         {Tab}   {Table}
-\@NewRefCommand{mus}    {music example} {Mus}   {Music example}
-\@NewRefCommand{poem}   {poem example}  {Poem}  {Poem example}
-\@NewRefCommand{dia}    {diagram}       {Dia}   {Diagram}
-\@NewRefCommand{map}    {map}           {Map}   {Map}
+\DeclareFloatingEnvironment[
+    fileext=map,
+    name=Map,
+    listname={List of Maps},
+    within=chapter
+]{map}
+
+% Cross-reference labels
+\NewDocumentCommand{\partref}{ m }{part~\ref{#1}}
+\NewDocumentCommand{\Partref}{ m }{Part~\ref{#1}}
+
+\NewDocumentCommand{\chapref}{ m }{chapter~\ref{#1}}
+\NewDocumentCommand{\Chapref}{ m }{Chapter~\ref{#1}}
+
+\NewDocumentCommand{\secref}{ m }{section~\ref{#1}}
+\NewDocumentCommand{\Secref}{ m }{Section~\ref{#1}}
+
+\NewDocumentCommand{\noteref}{ m }{note~\ref{#1}}
+\NewDocumentCommand{\Noteref}{ m }{Note~\ref{#1}}
+
+\NewDocumentCommand{\figref}{ m }{figure~\ref{#1}}
+\NewDocumentCommand{\Figref}{ m }{Figure~\ref{#1}}
+
+\NewDocumentCommand{\tabref}{ m }{table~\ref{#1}}
+\NewDocumentCommand{\Tabref}{ m }{Table~\ref{#1}}
+
+\NewDocumentCommand{\musref}{ m }{music example~\ref{#1}}
+\NewDocumentCommand{\Musref}{ m }{Music example~\ref{#1}}
+
+\NewDocumentCommand{\poemref}{ m }{poem example~\ref{#1}}
+\NewDocumentCommand{\Poemref}{ m }{Poem example~\ref{#1}}
+
+\NewDocumentCommand{\diaref}{ m }{diagram~\ref{#1}}
+\NewDocumentCommand{\Diaref}{ m }{Diagram~\ref{#1}}
+
+\NewDocumentCommand{\mapref}{ m }{map~\ref{#1}}
+\NewDocumentCommand{\Mapref}{ m }{Map~\ref{#1}}
 
 % Set defaults for graphics commands used in above command
 % Graphics size: Width and height can be as large as \textwidth and the
 % \textheight minus enough room for the caption and some text at the bottom of
 % the page
-\newlength{\figureheight}
-\setlength{\figureheight}{\dimexpr\textheight-10\baselineskip}
+\RequirePackage{graphicx}
 \graphicspath{
     {build/figures/}
     {build/music-examples/}
@@ -138,43 +137,25 @@ Andrew Cashner's book on villancicos for Brill]
 }
 
 \RequirePackage{adjustbox}
+\newlength{\figureheight}
+\setlength{\figureheight}{\dimexpr\textheight-10\baselineskip}
 
-% FLOAT FORMATTING AND FILE INCLUSION
-% Command to create commands for inserting TeX-generated floats 
-% #1 Command to insert float type
-% #2 name of float type
-% #3 abbreviation used in label prefix
-% #4 directory to input from
-\NewDocumentCommand{\@NewIMGfloatCmd}{ m m m m }{%
-    \expandafter\NewDocumentCommand\csname#1\endcsname{ m m }{%
-        % ##1 file basename = label basename
-        % ##2 caption text
-        \begin{#2}[!t]
-            \caption{##2}
-            \label{#3:##1}
-            \adjincludegraphics[
+\NewDocumentCommand{\includefloat}{ m }{%
+        \adjincludegraphics[
                 max width=\textwidth,
                 max height=\figureheight,
                 keepaspectratio
-            ]{##1}%
-            \centering
-        \end{#2}%
-    }%
+            ]{#1}%
 }
-
-% Now create the float-insertion commands
-% TeX floats
-\@NewIMGfloatCmd{insertTable}   {table}        {tab}  {tables}
-\@NewIMGfloatCmd{insertPoem}    {poemexample}  {poem} {poem-examples}
-\@NewIMGfloatCmd{insertDiagram} {diagram}      {dia}  {diagrams}
-
-% Image floats
-\@NewIMGfloatCmd{insertFigure}  {figure}       {fig}  {build/figures}
-\@NewIMGfloatCmd{insertMusic}   {musicexample} {mus}  {build/music-examples}
-\@NewIMGfloatCmd{insertMap}     {map}          {map}  {build/maps}
 
 % INLINE ENVIRONMENTS
 % Inline poems and translation in parallel columns
+
+% Avoid conflict between `babel' and `quoting' package
+\let\quoting\relax
+\let\endquoting\relax
+\RequirePackage{quoting}
+
 \NewDocumentCommand{\quotepoemfont}{}{\small}
 
 \NewDocumentEnvironment{quotepoemContents}{}{%
@@ -194,6 +175,7 @@ Andrew Cashner's book on villancicos for Brill]
 }
 
  % Poem that goes over one page
+\RequirePackage{longtable}
 \NewDocumentEnvironment{quotepoemlong}{}{%
     \begin{quotepoemContents}
         \begin{longtable}{ll}%
