@@ -1,9 +1,0 @@
-- send map specifications or make them
-- index
-    - lowercase non-proper noun entries
-    - finish 
-    - revise 
-- add reviewer's bibliography where possible
-- double check permissions, copyright (e.g., Codina)
-- proofread
-- write other publisher-requested materials
