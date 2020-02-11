@@ -1,5 +1,0 @@
-% Use a delimited list to add multiple index entries in one command
-% Split first argument at semicolons, then apply command `\index` to each one
-\NewDocumentCommand{\addtoindex}{ > { \SplitList {;} } m }{%
-    \ProcessList{#1}{\index}%
-}
