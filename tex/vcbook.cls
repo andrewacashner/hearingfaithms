@@ -23,7 +23,7 @@ Andrew Cashner's book on villancicos for Brill]
 \patchcmd{\part}{\thispagestyle{plain}}{\thispagestyle{empty}}{}{}
 
 % Avoid widow and orphan lines
-\RequirePackage[defaultlines=3, all]{nowidow}
+\RequirePackage[defaultlines=2, all]{nowidow}
 
 % LANGUAGE, HYPHENATION
 % BIBLIOGRAPHY
