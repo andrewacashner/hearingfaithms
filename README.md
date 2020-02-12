@@ -5,7 +5,7 @@ Copyright © 2020 Andrew A. Cashner
 Assistant professor of music, College Department of Music,
 University of Rochester
 
-`acashner@ur.rochester.edu` 
+`andrew.cashner@rochester.edu` 
 
 
 ## Requirements
