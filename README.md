@@ -1,13 +1,13 @@
 # Hearing Faith: Music as Theology in the Spanish Empire
 
-| Monograph by Andrew A. Cashner
-| Brill Series in the History of Christian Traditions
-| Copyright © 2020 Andrew A. Cashner
+- Monograph by Andrew A. Cashner
+- Brill Series in the History of Christian Traditions
+- Copyright © 2020 Andrew A. Cashner
 
-| Assistant professor of music
-| College Department of Music
-| University of Rochester
-| `acashner@ur.rochester.edu`
+- Assistant professor of music
+- College Department of Music
+- University of Rochester
+- `acashner@ur.rochester.edu`
 
 
 ## Requirements
