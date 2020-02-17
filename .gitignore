@@ -2,4 +2,4 @@ aux/
 build/
 .*.swp
 !figures
-!workshop/archive/*.pdf
+!archive/*.pdf
