@@ -67,7 +67,8 @@ MusicSii = {
   f''2 d''4( \ficta es''4) f''4( g''4)
   d''2\color bes'1\endcolor 
   r2 r2 d''2
-  es''1\color d''1 c''1\endcolor
+  es''1\color d''2~
+  d''2 c''1\endcolor
   d''1.~
   d''1.\fermata
 }
