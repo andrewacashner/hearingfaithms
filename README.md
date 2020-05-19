@@ -108,6 +108,7 @@ The float files use `tex/vcbook-float.cls`, which requires fewer packages
 | 2019-09-16      | Complete draft sent to Brill for peer review             |
 | 2019-12-27      | Manuscript accepted by Brill without required revisions  |
 | 2020-02-10      | Submitted to Brill for publication                       |
+| 2020-05-18      | First round of proofs corrected                          |
 
 
 
