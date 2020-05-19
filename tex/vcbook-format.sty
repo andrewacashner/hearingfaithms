@@ -24,12 +24,14 @@ Format common to vcbook and vcbook-float classes]
 \RequirePackage{tabulary,tabularx}
 \RequirePackage{booktabs}
 \RequirePackage[normalem]{ulem} % Underlining
+% though Brill is using boldface
 
 % Use lining figures for all tables and diagrams
-\AtBeginEnvironment{tabular}    {\liningfigures}
-\AtBeginEnvironment{tabulary}   {\liningfigures}
-\AtBeginEnvironment{tabularx}   {\liningfigures}
-%\AtBeginEnvironment{tikzpicture}{\liningfigures} % for Brill
+% \AtBeginEnvironment{tabular}    {\liningfigures}
+% \AtBeginEnvironment{tabulary}   {\liningfigures}
+% \AtBeginEnvironment{tabularx}   {\liningfigures}
+% \AtBeginEnvironment{tikzpicture}{\liningfigures} 
+% for Brill house style, all old-style figures
 
 
 \endinput
