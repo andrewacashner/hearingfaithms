@@ -34,6 +34,7 @@ MusicSIi = {
 }
 
 MusicSIii = {
+  \MeterTriple	
   | r2 a'2 c''2~\color
   | c''2 b'1\endcolor
   | c''2 g'2 d''2~\color
@@ -53,7 +54,7 @@ MusicSIii = {
 }
 
 MusicAI = {
-  
+  \MeterTriple	
   | \MoveBarRestUp R1. 
   | \MoveBarRestUp R1. 
   | r2 c''2 b'2~\color
@@ -73,6 +74,7 @@ MusicAI = {
 }
 
 MusicBI = {
+  \MeterTriple	
   | r2 f'2 e'2~\color
   | e'2 d'1\endcolor
   | c'2 c'2 g2~\color 
@@ -94,6 +96,7 @@ MusicBI = {
 %***
 
 MusicSII = {
+  \MeterTriple	
   | c''2 r2 r2 
   | R1.
   | R1. | R1.
@@ -112,6 +115,7 @@ MusicSII = {
 }
 
 MusicAII = {
+  \MeterTriple	
   | a'2 r2 r2 
   | R1. | R1.
   | R1. | R1.
@@ -129,6 +133,7 @@ MusicAII = {
 }
 
 MusicTII = {
+  \MeterTriple	
   | f'2 r2 r2 
   | r1. 
   | R1. | R1. 
@@ -147,6 +152,7 @@ MusicTII = {
 }
 
 MusicBII = {
+  \MeterTriple	
   | f2 r2 r2 
   | R1. | R1.
   | R1. | R1.
@@ -166,6 +172,7 @@ MusicBII = {
 %***
 
 MusicAc = {
+  \MeterTriple	
   | f2\color f'2 e'2~
   | e'2 d'1
   | c'2 c'2 g2~

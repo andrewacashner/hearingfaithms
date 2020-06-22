@@ -60,6 +60,7 @@ MusicEstribilloAI = \relative c' {
 
 MusicEstribilloBII = \relative c {
 \CantusMollis
+\MeterTriple
 R1. | R1.
 | R1._\markup "[T. I Lyrics]" 
 | r2 f2 f2

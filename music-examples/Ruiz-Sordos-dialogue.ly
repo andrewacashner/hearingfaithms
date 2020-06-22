@@ -44,6 +44,7 @@ MusicSIii = {
 
 MusicBI = {
   \clef "treble_8"
+  \MeterTriple
   f'2\Solo e'2 d'2 
   | c'2 b2 a2
   | g1. 
@@ -73,6 +74,7 @@ MusicBI = {
 
 MusicAc = {
   \clef "bass"
+  \MeterTriple
   f2 f2 g2 
   | c1 d2
   | g1\color g2~

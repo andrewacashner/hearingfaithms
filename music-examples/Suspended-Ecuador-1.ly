@@ -19,6 +19,7 @@ MusicS = {
 }
 
 MusicA = {
+  \MeterDuple
   r4 a'4 r4 a'4
   a'2 r4 b'4~
   b'4 a'4 a'2
@@ -30,6 +31,7 @@ MusicA = {
 }
 
 MusicT = {
+  \MeterDuple
   r4 e'4 r4 f'4
   e'2 r4 g'4~
   g'4 f'4 e'2
@@ -41,6 +43,7 @@ MusicT = {
 }
 
 MusicB = {
+  \MeterDuple
   \clef "bass"
   r4 a4 r4 d4
   a2 r4 g4~

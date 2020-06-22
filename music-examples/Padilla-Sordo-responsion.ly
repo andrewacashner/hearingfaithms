@@ -66,6 +66,7 @@ MusicEstribilloSI = \relative c'' {
 MusicEstribilloAI = \relative c'' {
 \clef "treble"
 \CantusMollis
+\MeterTriple
 | r2 a2. a4 
 | bes2 g2. g4 
 | a2 g2. g4 
@@ -113,6 +114,7 @@ MusicEstribilloAI = \relative c'' {
 MusicEstribilloBII = \relative c {
 \clef "bass"
 \CantusMollis
+\MeterTriple
 % m. 37 RESPONSION A 5, METER 6/2
 | R1.
 | R1.

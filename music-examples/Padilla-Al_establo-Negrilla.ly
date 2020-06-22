@@ -27,6 +27,7 @@ MusicSI = {
 
 MusicTI = {
   \clef "treble_8"
+  \MeterTriple
   R1.*15
   r2 g'1
   e'2 a'1
@@ -41,6 +42,7 @@ MusicTI = {
 
 MusicBI = {
   \clef "bass"
+  \MeterTriple
   r2 c'2 g2 
   c'2. a4 d'2~\color
   d'2 c'1\endcolor
@@ -60,6 +62,7 @@ MusicBI = {
 
 MusicBII = {
   \clef "bass"
+  \MeterTriple
   R1.*15
   r2 g1
   c'2 a1
