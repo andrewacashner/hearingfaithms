@@ -8,7 +8,8 @@
 %% Turn off point-and-click
 \pointAndClickOff
 
-#(define mainfont "Brill")
+%%#(define mainfont "Brill")
+#(define mainfont "EB Garamond")
 
 %% GLOBAL FONT
 \paper { 
